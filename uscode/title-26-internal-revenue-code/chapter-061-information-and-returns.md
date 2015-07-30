@@ -2690,7 +2690,7 @@ shall file such additional return. Such additional return shall be filed at such
 Another section 6039D, added Pub. L. 98–612, § 1(b)(1), Oct. 31, 1984, 98 Stat. 3180, also related to returns and records with respect to certain fringe benefits, prior to repeal by Pub. L. 99–514, title XVIII, § 1879(d)(2), Oct. 22, 1986, 100 Stat. 2906, effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such repeal relates, see section 1881 of Pub. L. 99–514, set out as a note under [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48).
 
 #### Amendments
-2014—Subsec. (a). Pub. L. 113–295, § 221(a)(108), struck out “beginning after December 31, 1984,” after “during any year”.
+2014—Subsec. (a). Pub. L. 113–295, § 221(a)(108), struck out “beginning after December 31, 1984,” after “during any year” in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 113–295, § 221(a)(19)(B)(vii), struck out “120,” after “106,”.
 
@@ -5461,7 +5461,7 @@ shall make the return described in subsection (b) with respect to the individual
 
 (1) the name, address, and phone number of the information contact of the person required to make such return, and
 
-(2) the amounts described in subparagraph (B) of subsection (b)(2).
+(2) the information required by subsection (b)(2).
 The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
 **(e) Definitions** For purposes of this section, the terms “eligible educational institution” and “qualified tuition and related expenses” have the meanings given such terms by section 25A (without regard to subsection (g)(2) thereof), and except as provided in regulations, the term “qualified education loan” has the meaning given such term by section 221(d)(1).
@@ -5473,6 +5473,8 @@ The written statement required under the preceding sentence shall be furnished o
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (d)(2). Pub. L. 114–27 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amounts described in subparagraph (B) of subsection (b)(2).”
+
 2002—Subsec. (a)(1). Pub. L. 107–131, § 1(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “which is an eligible educational institution—
 
 “(A) which receives payments for qualified tuition and related expenses with respect to any individual for any calendar year; or
@@ -5533,6 +5535,9 @@ Subsec. (b)(2)(C)(iii). Pub. L. 105–34, § 202(c)(2)(B), added cl. (iii).
 
 Subsec. (e). Pub. L. 105–34, § 202(c)(3), inserted at end “, and except as provided in regulations, the term ‘qualified education loan’ has the meaning given such term by section 221(e)(1)”.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–27 applicable to taxable years beginning after June 29, 2015, see section 804(d) of Pub. L. 114–27, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
+
 #### Effective Date of 2002 Amendment
 Pub. L. 107–131, § 2, Jan. 16, 2002, 115 Stat. 2411, provided that: “The amendments made by section 1 [amending this section] shall apply to expenses paid or assessed after December 31, 2002 (in taxable years ending after such date), for education furnished in academic periods beginning after such date.”
 
@@ -5582,7 +5587,7 @@ The written statement required under the preceding sentence shall be furnished o
 Pub. L. 107–210, div. A, title II, § 202(e), Aug. 6, 2002, 116 Stat. 963, provided that: “The amendments made by this section [enacting this section and [section 7527 of this title](./chapter-077-miscellaneous-provisions.md#section-7527) and amending sections 6103, 6724, and 7213A of this title] shall take effect on the date of the enactment of this Act [Aug. 6, 2002].”
 
 #### Construction
-Nothing in title II of Pub. L. 107–210 or the amendments by that title, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor.
+Nothing in title II of Pub. L. 107–210 or the amendments by that title, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
 
 
 <a id="section-6050u"></a>
@@ -6431,7 +6436,7 @@ Pub. L. 109–280, title XI, § 1103, Aug. 17, 2006, 120 Stat. 1057, provided th
 
   (A) that to the best of his knowledge the report is complete and accurate, and
 
-  (B) the requirements for reasonable actuarial assumptions under section 430(h)(1), 431(c)(3), or 433(c)(3), whichever are applicable, have been complied with.11 So in original. The period probably should be a comma.
+  (B) the 11 So in original. Probably should be preceded by “that”. requirements for reasonable actuarial assumptions under section 430(h)(1), 431(c)(3), or 433(c)(3), whichever are applicable, have been complied with.22 So in original. The period probably should be a comma.
 
 (4) such other information as may be necessary to fully and fairly disclose the actuarial position of the plan, and
 
@@ -8966,7 +8971,7 @@ Pub. L. 105–33, title XI, § 11024(c), Aug. 5, 1997, 111 Stat. 722, provided t
 Pub. L. 103–182, title V, § 522(c)(2), Dec. 8, 1993, 107 Stat. 2161, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 8, 1993], the Secretary of the Treasury or his delegate shall issue temporary regulations to carry out section 6103(l)(14) of the Internal Revenue Code of 1986, as added by this section.”
 
 #### Construction of 2002 Amendment
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor.
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
 
 #### Transfer of Functions
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

@@ -392,7 +392,7 @@ Subsec. (d). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3157(3)], added sub
 ### Statutory Notes
 
 #### Amendments
-Subsec. (h)(1) to (3). Pub. L. 113–291, § 3117, added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+Subsec. (h)(1) to (3). Pub. L. 113–291 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 
 <a id="section-2421"></a>

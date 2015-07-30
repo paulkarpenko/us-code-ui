@@ -1983,6 +1983,11 @@ Subsec. (c). Pub. L. 101–509, § 529 [title II, § 210(1)], added subsec. (c).
 
 1967—Subsec. (b)(2)(B). Pub. L. 90–206 designated existing provisions as cls. (i) and (iii) and added cls. (ii) and (iv).
 
+#### Effective Date of 2014 Amendment
+Pub. L. 113–277, § 2(i), as added by Pub. L. 114–13, § 1(a), May 19, 2015, 129 Stat. 197, provided that: “Subsections (b), (c), (d), and (g) [enacting [section 5550 of this title](./chapter-055-pay-administration.md#section-5550), amending this section and sections 5547 and 8331 of this title and [section 213 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213&num=0&edition=prelim), Labor, and enacting provisions set out as a note under [section 5550 of this title](./chapter-055-pay-administration.md#section-5550)], and the amendments made by such subsections, shall take effect on the first day of the first pay period beginning on or after January 1, 2016, except that— “(1) any provision in [section 5550(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5550/b&num=0&edition=prelim), United States Code, as added by subsection (b), relating to administering elections and making advance assignments to a regular tour of duty shall be applicable before such effective date to the extent determined necessary by the Director of the Office of Personnel Management; and “(2) the Director may issue regulations as necessary prior to such effective date.”
+
+[Pub. L. 114–13, § 1(b), May 19, 2015, 129 Stat. 197, provided that: “The amendment made by subsection (a) [enacting section 2(i) of Pub. L. 113–277, set out above] shall be deemed to have been enacted on the date of enactment of the Border Patrol Agent Pay Reform Act of 2014 (Public Law 113–277) [approved Dec. 18, 2014].” ]
+
 #### Effective Date of 2000 Amendment
 Pub. L. 106–558, § 2(b), Dec. 21, 2000, 114 Stat. 2777, as amended by Pub. L. 107–20, title II, § 2605, July 24, 2001, 115 Stat. 178, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Dec. 21, 2000].”
 
@@ -2705,6 +2710,9 @@ Subsec. (c). Pub. L. 101–509, § 529 [title IV, § 410(b)], added subsec. (c).
 
 1982—Pub. L. 97–276 inserted provision directing that first sentence of this section not apply to any employee of Federal Aviation Administration who is paid premium pay under [section 5546a of this title](./chapter-055-pay-administration.md#section-5546a).
 
+#### Effective Date of of 2014 Amendment
+Amendment by Pub. L. 113–277 effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see section 2(i) of Pub. L. 113–277, set out as a note under [section 5542 of this title](./chapter-055-pay-administration.md#section-5542).
+
 #### Effective Date of 2001 Amendment
 Pub. L. 107–107, div. A, title XI, § 1114(c), Dec. 28, 2001, 115 Stat. 1240, provided that: “The amendments made by subsections (a) and (b) [amending this section and provisions set out as a note under this section] shall take effect on the first day of the first pay period beginning on or after the date that is 120 days following the date of enactment of this Act [Dec. 28, 2001].”
 
@@ -3036,17 +3044,22 @@ Section 10703 of the Farm Security and Rural Investment Act of 2002, referred to
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of this section, referred to in subsecs. (b)(1)(A) and (C), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
+The date of enactment of this section, referred to in subsec. (b)(1)(A), (C), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
 
-Section 2(e) of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsecs. (b)(1)(D)(iv) and (b)(1)(E)(ii), is section 2(e) of Pub. L. 113–277, Dec. 18, 2014, 128 Stat. 3003, which related to comprehensive staffing analysis and is not classified to the Code.
+Section 2(e) of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec. (b)(1)(D)(iv), (E)(ii), is section 2(e) of Pub. L. 113–277, Dec. 18, 2014, 128 Stat. 3003, which related to comprehensive staffing analysis and is not classified to the Code.
 
 The date of enactment of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec. (b)(1)(G)(i), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
 
 #### Prior Provisions
 A prior section 5550, added Pub. L. 92–392, § 10(a), Aug. 19, 1972, 86 Stat. 574, related to pay for Sunday and overtime work for employees of nonappropriated fund instrumentalities, prior to repeal by Pub. L. 102–378, § 2(44)(A), Oct. 2, 1992, 106 Stat. 1352.
 
+#### Effective Date
+Section effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see section 2(i) of Pub. L. 113–277, set out as an Effective Date of 2014 Amendment note under [section 5542 of this title](./chapter-055-pay-administration.md#section-5542).
+
 #### Minimization of Overtime
 Pub. L. 113–277, § 2(c)(2), Dec. 18, 2014, 128 Stat. 3003, provided that: “U.S. Customs and Border Protection shall, to the maximum extent practicable, avoid the use of scheduled overtime work by border patrol agents.”
+
+[Section 2(c)(2) of Pub. L. 113–277, set out above, effective on the first day of the first pay period beginning on or after Jan. 1, 2016, with exception, see section 2(i) of Pub. L. 113–277, set out as an Effective Date of 2014 Amendment note under [section 5542 of this title](./chapter-055-pay-administration.md#section-5542).]
 
 
 <a id="section-5550a"></a>
@@ -4383,7 +4396,7 @@ Subsec. (b). Pub. L. 101–474, § 5(k)(2), inserted at end “However, the Dire
 #### Change of Name
 “Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(1)(C), (2)(B)(ix) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
-“Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (b), on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+“Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (b) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1999 Amendment
 Amendment by section 3243 of Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under [section 2401 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401&num=0&edition=prelim), War and National Defense.

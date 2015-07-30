@@ -753,7 +753,7 @@ Each chief pretrial services officer in districts in which pretrial services are
 
   (B) any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense; or
 
-  (C) any felony under chapter 109A, 110, or 117; and
+  (C) any felony under chapter 77, 109A, 110, or 117; and
 
 (5) the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
@@ -766,6 +766,8 @@ Each chief pretrial services officer in districts in which pretrial services are
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(4)(C). Pub. L. 114–22 inserted “77,” after “chapter”.
+
 1998—Subsec. (a)(4)(C). Pub. L. 105–314 added subpar. (C) and struck out former subpar. (C) which read as follows: “any felony under chapter 109A or chapter 110; and”.
 
 1996—Subsec. (a)(5). Pub. L. 104–294 added par. (5).

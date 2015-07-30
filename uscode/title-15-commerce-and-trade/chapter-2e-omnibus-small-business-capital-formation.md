@@ -27,7 +27,7 @@ Pub. L. 96–477, title V, § 501, Oct. 21, 1980, 94 Stat. 2291, provided that: 
 
 **(b) Participation in forum planning** The Commission shall invite other Federal agencies, such as the Department of the Treasury, the Board of Governors of the Federal Reserve System, the Small Business Administration, organizations representing State securities commissioners, and leading small business and professional organizations concerned with capital formation, to participate in the planning for such forums.
 
-**(c) Preparation of statements and reports** The Commission may request any of the Federal departments, agencies, or organizations such as those specified in subsection (b) of this section, or other groups or individuals, to prepare statements and reports to be delivered at such forums. Such departments and agencies shall cooperate in this effort.
+**(c) Preparation of statements and reports** The Commission may request any of the Federal departments, agencies, or organizations such as those specified in subsection (b), or other groups or individuals, to prepare statements and reports to be delivered at such forums. Such departments and agencies shall cooperate in this effort.
 
 **(d) Transmittal of proceedings and findings** A summary of the proceedings of such forums and any findings or recommendations thereof shall be prepared and transmitted to the participants, appropriate committees of the Congress, and others who may be interested in the subject matter.
 

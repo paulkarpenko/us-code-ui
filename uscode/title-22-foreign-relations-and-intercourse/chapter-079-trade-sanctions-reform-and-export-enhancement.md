@@ -59,7 +59,7 @@ Section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 20
 Section 906 of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(B), is section 1(a) [title IX, § 906] of Pub. L. 106–387, which is classified to [section 7205 of this title](./chapter-079-trade-sanctions-reform-and-export-enhancement.md#section-7205). Provisions relating to report of the President and enactment into law of a joint resolution are contained in section 905 of the Act, which is classified to [section 7204 of this title](./chapter-079-trade-sanctions-reform-and-export-enhancement.md#section-7204).
 
 #### Amendments
-2014—Par. (2)(D)–(F). Pub. L. 113–79 redesignated subpars. (E) and (F) as (D) and (E), respectively,, and struck out former subpar. (D) which read as follows: “the dairy export incentive program administered under [section 713a–14 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section713a–14&num=0&edition=prelim);”.
+2014—Par. (2)(D)–(F). Pub. L. 113–79 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “the dairy export incentive program administered under [section 713a–14 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section713a–14&num=0&edition=prelim);”.
 
 2008—Par. (2)(A). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 

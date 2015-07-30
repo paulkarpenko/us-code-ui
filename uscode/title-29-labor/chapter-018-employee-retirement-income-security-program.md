@@ -29,7 +29,6 @@ Pub. L. 98–397, title III, §§ 302, 303, Aug. 23, 1984, 98 Stat. 1451, 1452, 
 #### Short Title of 2014 Amendment
 Pub. L. 113–235, div. O, § 1, Dec. 16, 2014, 128 Stat. 2773, provided that: “This division [see Tables for classification] may be cited as the ‘Multiemployer Pension Reform Act of 2014’ ”.
 
-#### Short Title of 2014 Amendment
 Pub. L. 113–97, § 1(a), Apr. 7, 2014, 128 Stat. 1101, provided that: “This Act [see Tables for classification] may be cited as the ‘Cooperative and Small Employer Charity Pension Flexibility Act’.”
 
 #### Short Title of 2010 Amendment
@@ -1130,7 +1129,7 @@ The notice required to be provided under this subsection shall be in writing, ex
     (i) include any individually identifiable information regarding any plan participant, beneficiary, employee, fiduciary, or contributing employer, or
 
     (ii) reveal any proprietary information regarding the plan, any contributing employer, or entity providing services to the plan.
-  Subparagraph (C)(i) shall not apply to individually identifiable information with respect to any plan investment manager or adviser, or with respect to any other person (other than an employee of the plan) preparing a financial report required to be included under paragraph (1)(B). 1
+  Subparagraph (C)(i) shall not apply to individually identifiable information with respect to any plan investment manager or adviser, or with respect to any other person (other than an employee of the plan) preparing a financial report required to be included under paragraph (1)(B).1
 
 (3) **Limitations** — In no case shall a participant, beneficiary, employee representative, or employer be entitled under this subsection to receive more than one copy of any document described in paragraph (1) during any one 12-month period, or, in the case of any document described in subparagraph (E), (F), (G), (H) or (I) of paragraph (1), a copy of any such document that as of the date on which the request is received by the administrator, has been in the administrator’s possession for 6 years or more. If the administrator provides a copy of a document described in paragraph (1) to any person upon request, the administrator shall be considered as having met any obligation the administrator may have under any other provision of this subchapter to furnish a copy of the same document to such person upon request. The administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to paragraph (1). The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
 
@@ -1177,7 +1176,7 @@ The Highway and Transportation Funding Act of 2014, referred to in subsec. (f)(2
 
 The Cooperative and Small Employer Charity Pension Flexibility Act, referred to in subsec. (f)(2)(E)(ii), is Pub. L. 113–97, Apr. 7, 2014, 128 Stat. 1101. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
-The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by Pub. L. 113–235, § 111(a). See 2014 Amendment note below.
+The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to in subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by Pub. L. 113–235, § 111(a). See 2014 Amendment note below.
 
 #### Amendments
 2014—Subsec. (d)(2). Pub. L. 113–97, § 104(b)(1), substituted “section 1083 or 1085a of this title” for “[section 1083 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1083)”.
@@ -2377,9 +2376,9 @@ For provisions directing that if any amendments made by Pub. L. 99–509 require
 
 (1) In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under subsection (a)(2) of this section, all of an employee’s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
 
-  (A) years of service before age 18,11 So in original. The comma probably should be a semicolon.
+  (A) years of service before age 18,22 So in original. The comma probably should be a semicolon.
 
-  (B) years of service during a period for which the employee declined to contribute to a plan requiring employee contributions,1
+  (B) years of service during a period for which the employee declined to contribute to a plan requiring employee contributions,2
 
   (C) years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan, defined by the Secretary of the Treasury;
 
@@ -3095,15 +3094,15 @@ The plan provision required under this subsection may provide that such repaymen
     (i) an age otherwise permitted under [section 1002(24) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/24&num=0&edition=prelim), or
 
     (ii) the age at which a participant completes the number of years (not less than 30 years) of benefit accrual service specified by the plan.
-A plan shall not fail to be treated as an applicable plan solely because the normal retirement age described in the preceding sentence only applied to certain participants or only applied to employees of certain employers in the case of a plan maintained by more than 1 employer.
+    A plan shall not fail to be treated as an applicable plan solely because the normal retirement age described in the preceding sentence only applied to certain participants or only applied to employees of certain employers in the case of a plan maintained by more than 1 employer.
 
-(B) **Expanded application** — Subject to subparagraph (C), if, after December 8, 2014, an applicable plan is amended to expand the application of the normal retirement age described in subparagraph (A) to additional participants or to employees of additional employers maintaining the plan, such plan shall also be treated as an applicable plan with respect to such participants or employees.
+  (B) *Expanded application* — Subject to subparagraph (C), if, after December 8, 2014, an applicable plan is amended to expand the application of the normal retirement age described in subparagraph (A) to additional participants or to employees of additional employers maintaining the plan, such plan shall also be treated as an applicable plan with respect to such participants or employees.
 
-(C) **Limitation on expanded application** — A defined benefit plan shall be an applicable plan only with respect to an individual who—
+  (C) *Limitation on expanded application* — A defined benefit plan shall be an applicable plan only with respect to an individual who—
 
-  (i) is a participant in the plan on or before January 1, 2017, or
+    (i) is a participant in the plan on or before January 1, 2017, or
 
-  (ii) is an employee at any time on or before January 1, 2017, of any employer maintaining the plan, and who becomes a participant in such plan after such date.
+    (ii) is an employee at any time on or before January 1, 2017, of any employer maintaining the plan, and who becomes a participant in such plan after such date.
 
 **(l) Cross reference** For special rules relating to plan provisions adopted to preclude discrimination, see [section 1053(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1053/c/2&num=0&edition=prelim).
 
@@ -4422,7 +4421,7 @@ This chapter, referred to in subsec. (e)(1), (2)(A)(iii), was in the original �
 
 Section 104 of the Pension Protection Act of 2006, referred to in subsec. (f)(1)(A), (3)(B), is section 104 of Pub. L. 109–280, which is set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
 
-The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (f)(1)(A)(ii), (3)(B), is Pub. L. 111–192, June 25, 2010, 124 Stat. 1280. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
+The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (f)(3)(B), is Pub. L. 111–192, June 25, 2010, 124 Stat. 1280. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
 #### Amendments
 2014—Subsec. (f). Pub. L. 113–97, § 101, added subsec. (f).
@@ -4516,7 +4515,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 ### Statutory Notes
 
 #### References in Text
-[Section 1086(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1086/c&num=0&edition=prelim), referred to in subsec. (c)(1), was in the original “section 307(c)”, meaning section 307(c) of Pub. L. 93–406, the Employee Retirement Income Security Act of 1974. Section 307(c) was renumbered section 308(c) by Pub. L. 100–203, title IX, § 9341(b)(1), Dec. 22, 1987, 101 Stat. 1330–370.
+[Section 1086(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1086/c&num=0&edition=prelim), referred to in subsec. (c)(1), was in the original “section 307(c)”, meaning section 307(c) of Pub. L. 93–406, the Employee Retirement Income Security Act of 1974. Section 307(c) was renumbered section 308(c) by Pub. L. 100–203, title IX, § 9341(b)(1), Dec. 22, 1987, 101 Stat. 1330–370 and subsequently was repealed by Pub. L. 109–280, title I, § 101(a), Aug. 17, 2006, 120 Stat. 784.
 
 This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
@@ -5248,7 +5247,7 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
 
       (I) *In general* — If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary of the Treasury shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
 
-      (II) *Applicable minimum percentage; applicable maximum percentage* — For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is:Theapplicable minimum percentage is:Theapplicable maximum percentage is: 2012, 2013, 2014, 2015, 2016, or 201790%110% 201885%115% 201980%120% 202075%125% After 202070%130%.
+      (II) *Applicable minimum percentage; applicable maximum percentage* — For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is:Theapplicable minimum percentage is:Theapplicable maximum percentage is: 2012, 2013, 2014, 2015, 2016, or 201790%110% 201885%115% 201980%120% 202075%125% After 202070%130%
 
   (D) *Corporate bond yield curve* — For purposes of this paragraph—
 
@@ -6770,7 +6769,7 @@ Subsec. (e)(9). Pub. L. 113–235, § 201(a)(6), added par. (9).
 
 Pub. L. 113–235, § 109(a)(1), struck out par. (9) which related to adjustments disregarded in withdrawal liability determination.
 
-Subsec. (f)(3), (4). Pub. L. 113–235, § 109(a)(2), redesignated par. (4) as (3), substituted “During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—” for “During the rehabilitation plan adoption period—”, and struck out heading and text of former par. (3). Text read as follows “Any benefit reductions under this subsection shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under [section 1381 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1381).”
+Subsec. (f)(3), (4). Pub. L. 113–235, § 109(a)(2), redesignated par. (4) as (3), substituted “During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—” for “During the rehabilitation plan adoption period—” in introductory provisions, and struck out former par. (3). Text read as follows “Any benefit reductions under this subsection shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under [section 1381 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1381).”
 
 Subsec. (g). Pub. L. 113–235, § 109(a)(4), added subsec. (g). Former subsec. (g) redesignated (h).
 
@@ -6874,7 +6873,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
   (D) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 5 plan years any amount credited to the funding standard account under paragraph (3)(D), and
 
-  (E) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 20 years the contributions which would be required to be made under the plan but for the provisions of [section 1082(c)(7)(A)(i)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1082/c/7/A/i/I&num=0&edition=prelim) (as in effect on the day before the enactment of the Pension Protection Act of 2006).
+  (E) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 20 years the contributions which would be required to be made under the plan but for the provisions of [section 1082(c)(7)(A)(i)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1082/c/7/A/i/I&num=0&edition=prelim) (as in effect on the day before August 17, 2006).
 
 (3) **Credits to account** — For a plan year, the funding standard account shall be credited with the sum of—
 
@@ -6918,7 +6917,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
   (A) *In general* — For purposes of this section, the value of the plan’s assets shall be determined on the basis of any reasonable actuarial method of valuation which takes into account fair market value and which is permitted under regulations prescribed by the Secretary of the Treasury.
 
-  (B) *Dedicated bond portfolio* — The Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of a plan shall be determined by using the interest rate under [section 1082(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1082/b/5&num=0&edition=prelim) (as in effect on the day before the enactment of the Pension Protection Act of 2006).
+  (B) *Dedicated bond portfolio* — The Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of a plan shall be determined by using the interest rate under [section 1082(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1082/b/5&num=0&edition=prelim) (as in effect on the day before August 17, 2006).
 
 (3) **Actuarial assumptions must be reasonable** — For purposes of this section, all costs, liabilities, rates of interest, and other factors under the plan shall be determined on the basis of actuarial assumptions and methods—
 
@@ -6935,7 +6934,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
 (5) **Funding method and plan year**
 
-  (A) *Funding methods available* — All funding methods available to CSEC plans under [section 1082 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1082) (as in effect on the day before the enactment of the Pension Protection Act of 2006) shall continue to be available under this section.
+  (A) *Funding methods available* — All funding methods available to CSEC plans under [section 1082 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1082) (as in effect on the day before August 17, 2006) shall continue to be available under this section.
 
   (B) *Changes* — If the funding method for a plan is changed, the new funding method shall become the funding method used to determine costs and liabilities under the plan only if the change is approved by the Secretary of the Treasury. If the plan year for a plan is changed, the new plan year shall become the plan year for the plan only if the change is approved by the Secretary of the Treasury.
 
@@ -7065,7 +7064,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
   (A) *In general* — A plan to which this paragraph applies shall be treated as failing to pay the full amount of any required installment to the extent that the value of the liquid assets paid in such installment is less than the liquidity shortfall (whether or not such liquidity shortfall exceeds the amount of such installment required to be paid but for this paragraph).
 
-  (B) *Plans to which paragraph applies* — This paragraph shall apply to a CSEC plan other than a plan described in [section 1082(d)(6)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1082/d/6/A&num=0&edition=prelim) (as in effect on the day before the enactment of the Pension Protection Act of 2006) which—
+  (B) *Plans to which paragraph applies* — This paragraph shall apply to a CSEC plan other than a plan described in [section 1082(d)(6)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1082/d/6/A&num=0&edition=prelim) (as in effect on the day before August 17, 2006) which—
 
     (i) is required to pay installments under this subsection for a plan year, and
 
@@ -7230,8 +7229,6 @@ For applicability of this section to a multiemployer plan that is a party to an 
 ### Statutory Notes
 
 #### References in Text
-[Section 1082 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1082) (as in effect on the day before the enactment of the Pension Protection Act of 2006), referred to in subsecs. (b)(2)(E), (c)(2)(B), (5)(A), and (f)(5)(B), means [section 1082 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1082) as in effect on the day before the enactment of Pub. L. 109–280. Section 101(a) of Pub. L. 109–280 repealed former [section 1082 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1082).
-
 Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6), is section 104 of Pub. L. 109–280, which is set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
 
 The Social Security Act, referred to in subsecs. (c)(4)(A) and (h)(3)(C)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
@@ -10128,7 +10125,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under [section 162 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section162&num=0&edition=prelim), Internal Revenue Code.
 
 #### Construction of 2002 Amendment
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under [section 2918 of this title](./chapter-030-workforce-investment-systems.md#section-2918).
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under [section 35 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section35&num=0&edition=prelim), Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -11489,7 +11486,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 #### References in Text
 This chapter, referred to in subsecs. (a), (c), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
-Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in subsec. (e), commences with [section 418 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section418&num=0&edition=prelim), Internal Revenue Code.
+Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in subsec. (e), commences with former [section 418 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section418&num=0&edition=prelim), Internal Revenue Code. Section 418 was repealed by Pub. L. 113–235, div. O, title I, § 108(b)(1), Dec. 16, 2014, 128 Stat. 2787.
 
 Sections 1421 through 1425 of this title, referred to in subsec. (e), were repealed by Pub. L. 113–235, div. O, title I, § 108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
 
@@ -15234,7 +15231,7 @@ Subsec. (f). Pub. L. 99–272, § 11011(a)(1), (b), redesignated former subsec. 
 1978—Subsec. (c)(2). Pub. L. 95–598 substituted “title 11” and “a debtor in a case under chapter 7 of such title” for “the Bankruptcy Act” and “the subject of a proceeding under that Act”, respectively.
 
 #### Effective Date of 2014 Amendment
-Pub. L. 113–235, div. P, § 1(b), Dec. 16, 2014, 128 Stat. 2826, provided that: “(1) In general.—The amendment made by this section [amending this section] shall apply to a cessation of operations or other event at a facility occurring on or after the date of enactment of this Act [Dec. 16, 2014]. “(2) Transition rule.—An employer that had a cessation of operations before the date of enactment of this Act [Dec. 16, 2014] (as determined under subsection 4062(e) of the Employee Retirement Income Security Act of 1974 [subsec. (e) of this section] as in effect before the amendment made by this section), but did not enter into an arrangement with the Pension Benefit Guaranty Corporation to satisfy the requirements of such subsection (as so in effect) before such date of enactment, shall be permitted to make the election under section 4062(e)(4) of such Act [subsec. (e)(4) of this section] (as in effect after the amendment made by this section) as if such cessation had occurred on such date of enactment. Such election shall be made not later than 30 days after such Corporation issues, on or after such date of the enactment, a final ad ministrative determination that a substantial cessation of operations has occurred.”
+Pub. L. 113–235, div. P, § 1(b), Dec. 16, 2014, 128 Stat. 2826, provided that: “(1) In general.—The amendment made by this section [amending this section] shall apply to a cessation of operations or other event at a facility occurring on or after the date of enactment of this Act [Dec. 16, 2014]. “(2) Transition rule.—An employer that had a cessation of operations before the date of enactment of this Act [Dec. 16, 2014] (as determined under subsection 4062(e) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1362(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1362/e&num=0&edition=prelim)] as in effect before the amendment made by this section), but did not enter into an arrangement with the Pension Benefit Guaranty Corporation to satisfy the requirements of such subsection (as so in effect) before such date of enactment, shall be permitted to make the election under section 4062(e)(4) of such Act (as in effect after the amendment made by this section) as if such cessation had occurred on such date of enactment. Such election shall be made not later than 30 days after such Corporation issues, on or after such date of the enactment, a final administrative determination that a substantial cessation of operations has occurred.”
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under [section 1021 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1021).
@@ -15257,7 +15254,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding [section 101 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim), Bankruptcy.
 
 #### Direction to the Pension Benefit Guaranty Corporation
-Pub. L. 113–235, div. P, § 1(c), Dec. 16, 2014, 128 Stat. 2827, provided that: “The Pension Benefit Guaranty Corporation shall not take any enforcement, administrative, or other action pursuant to section 4062(e) of the Employee Retirement Income Security Act of 1974 [subsec. (e) of this section], or in connection with an agreement settling liability arising under such section, that is inconsistent with the amendment made by this section [amending this section], without regard to whether the action relates to a cessation or other event that occurs before, on, or after the date of the enactment of this Act [Dec. 16, 2014], unless such action is in connection with a settlement agreement that is in place before June 1, 2014. The Pension Benefit Guaranty Corporation shall not initiate a new enforcement action with respect to section 4062(e) of such Act that is inconsistent with its enforcement policy in effect on June 1, 2014.”
+Pub. L. 113–235, div. P, § 1(c), Dec. 16, 2014, 128 Stat. 2827, provided that: “The Pension Benefit Guaranty Corporation shall not take any enforcement, administrative, or other action pursuant to section 4062(e) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1362(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1362/e&num=0&edition=prelim)], or in connection with an agreement settling liability arising under such section, that is inconsistent with the amendment made by this section [amending this section], without regard to whether the action relates to a cessation or other event that occurs before, on, or after the date of the enactment of this Act [Dec. 16, 2014], unless such action is in connection with a settlement agreement that is in place before June 1, 2014. The Pension Benefit Guaranty Corporation shall not initiate a new enforcement action with respect to section 4062(e) of such Act that is inconsistent with its enforcement policy in effect on June 1, 2014.”
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 For special rules on applicability of amendments by subtitles A (§§ 101–108) and B (§§ 111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -16910,7 +16907,7 @@ Pub. L. 109–280, title II, § 204(a)(3), Aug. 17, 2006, 120 Stat. 887, provide
 
 **(d) Nature of plan to which liabilities are transferred** A plan to which liabilities are transferred under this section is a successor plan for purposes of [section 1322a(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1322a/b/2/B&num=0&edition=prelim).
 
-**(e) Facilitated mergers.**
+**(e) Facilitated mergers**
 
 (1) **In general** — When requested to do so by the plan sponsors, the corporation may take such actions as it deems appropriate to promote and facilitate the merger of two or more multiemployer plans if it determines, after consultation with the Participant and Plan Sponsor Advocate selected under [section 1304 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1304), that the transaction is in the interests of the participants and beneficiaries of at least one of the plans and is not reasonably expected to be adverse to the overall interests of the participants and beneficiaries of any of the plans. Such facilitation may include training, technical assistance, mediation, communication with stakeholders, and support with related requests to other government agencies.
 
@@ -16922,8 +16919,12 @@ Pub. L. 109–280, title II, § 204(a)(3), Aug. 17, 2006, 120 Stat. 887, provide
 
     (i) such financial assistance will reduce the corporation’s expected long-term loss with respect to the plans involved; and
 
-    (ii) such financial assistance is necessary for the merged plan to become or remain solvent; (C) the corporation certifies that its ability to meet existing financial assistance obligations to other plans will not be impaired by such financial assistance; and (D) such financial assistance is paid exclusively from the fund for basic benefits guaranteed for multiemployer plans.
-    Not later than 14 days after the provision of such financial assistance, the corporation shall provide notice of such financial assistance to the Committee on Education and the Workforce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
+    (ii) such financial assistance is necessary for the merged plan to become or remain solvent;
+
+  (C) the corporation certifies that its ability to meet existing financial assistance obligations to other plans will not be impaired by such financial assistance; and
+
+  (D) such financial assistance is paid exclusively from the fund for basic benefits guaranteed for multiemployer plans.
+  Not later than 14 days after the provision of such financial assistance, the corporation shall provide notice of such financial assistance to the Committee on Education and the Workforce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 ### Statutory Notes
 
@@ -17167,7 +17168,7 @@ Section 1423, Pub. L. 93–406, title IV, § 4243, as added Pub. L. 96–364, ti
 
 Section 1424, Pub. L. 93–406, title IV, § 4244, as added Pub. L. 96–364, title I, § 104(2), Sept. 26, 1980, 94 Stat. 1255, related to overburden credit against minimum contribution requirement.
 
-Section 1425, Pub. L. 93–406, title IV, § 4244A, as added Pub. L. 96–364, title I, § 104(2), Sept. 26, 1980, 94 Stat. 1257; amended Pub. L. 101–239, title VII, § 7891(a)(1), Dec. 19, 1989, 103 Stat. 2445, realted to adjustments in accrued benefits.
+Section 1425, Pub. L. 93–406, title IV, § 4244A, as added Pub. L. 96–364, title I, § 104(2), Sept. 26, 1980, 94 Stat. 1257; amended Pub. L. 101–239, title VII, § 7891(a)(1), Dec. 19, 1989, 103 Stat. 2445, related to adjustments in accrued benefits.
 
 #### Effective Date of Repeal
 Repeal applicable with respect to plan years beginning after Dec. 31, 2014, see section 108(c) of div. O of Pub. L. 113–235, set out as a note under [section 418 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section418&num=0&edition=prelim), Internal Revenue Code.
@@ -17359,7 +17360,7 @@ Part effective Sept. 26, 1980, except as specifically provided, see [section 146
 ### Statutory Notes
 
 #### References in Text
-[Section 1425 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1425&num=0&edition=prelim), referred to in subsec. (c)(1)(C), was repealed by Pub. L. 113–235, div. O, title I, § 108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
+[Section 1425 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1425&num=0&edition=prelim), referred to in subsec. (c)(2)(C), was repealed by Pub. L. 113–235, div. O, title I, § 108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
 
 #### Effective Date
 Part effective Sept. 26, 1980, except as specifically provided, see [section 1461(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1461/e&num=0&edition=prelim).

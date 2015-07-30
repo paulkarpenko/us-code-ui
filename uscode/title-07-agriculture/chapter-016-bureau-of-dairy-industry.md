@@ -47,7 +47,7 @@ For the purpose of enabling the Secretary of Agriculture and the Chief of the Bu
 Change of name of Bureau and temporary wartime consolidation into Agricultural Research Administration, see notes set out under [section 401 of this title](./chapter-016-bureau-of-dairy-industry.md#section-401).
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 Functions of Bureau of Dairy Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, § 301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under [section 391 of this title](./chapter-015-bureau-of-animal-industry.md#section-391).
 

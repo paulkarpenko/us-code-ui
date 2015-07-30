@@ -408,7 +408,7 @@ Pub. L. 113–66, div. A, title X, § 1062(a), Dec. 26, 2013, 127 Stat. 866, pro
 ### Statutory Notes
 
 #### Amendments
-2014—Subsec. (a)(1). Pub. L. 113–291 substituted “([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim))” for “([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim))”.
+2014—Subsec. (a)(1). Pub. L. 113–291 substituted “([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim))” for “([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim))” in introductory provisions.
 
 
 <a id="section-497"></a>

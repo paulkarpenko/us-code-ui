@@ -22,10 +22,13 @@ This chapter superseded act Aug. 24, 1921, ch. 86, 42 Stat. 187, known as “The
 #### Effective Date of 1936 Amendment
 Act June 15, 1936, ch. 545, § 13, 49 Stat. 1501, provided that: “All provisions of this Act [see Tables for classification] authorizing the registration of futures commission merchants and floor brokers, the fixing of fees and charges therefor, the promulgation of rules, regulations and orders, and the holding of hearings precedent to the promulgation of rules, regulations, and orders shall be effective immediately. All other provisions of this Act shall take effect ninety days after the enactment of this Act [June 15, 1936].”
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–1, title III, § 301, Jan. 12, 2015, 129 Stat. 28, provided that: “This title [amending [section 6s of this title](./chapter-001-commodity-exchanges.md#section-6s) and section 78o–10 of Title 15, Commerce and Trade, and enacting provisions set out as a note under [section 6s of this title](./chapter-001-commodity-exchanges.md#section-6s)] may be cited as the ‘Business Risk Mitigation and Price Stabilization Act of 2015’.”
+
 #### Short Title of 2008 Amendment
 Pub. L. 110–234, title XIII, § 13001, May 22, 2008, 122 Stat. 1427, and Pub. L. 110–246, § 4(a), title XIII, § 13001, June 18, 2008, 122 Stat. 1664, 2189, provided that: “This title [amending sections 1a, 2, 6a, 6b, 6f, 6g, 6i, 6k, 6o–1, 6q, 7a, 7a–2, 7b, 8, 9, 12, 13, 13a, 13a–1, 16, 18, 21, and 25 of this title and enacting provisions set out as notes under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2)] may be cited as the ‘CFTC Reauthorization Act of 2008’.”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
 #### Short Title of 2000 Amendment
 Pub. L. 106–554, § 1(a)(5) [§ 1(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–365, provided that: “This Act [H.R. 5660, as enacted by section 1(a)(5) of Pub. L. 106–554, enacting sections 5, 6o–1, 7 to 7a–3, 7b–1, 7b–2, 9c, and 27 to 27f of this title, sections 781 to 784 of Title 11, Bankruptcy, sections 339a, 4421, and 4422 of Title 12, Banks and Banking, and sections 77b–1 and 78c–1 of Title 15, Commerce and Trade, amending sections 1a, 2, 2a, 4, 4a, 6 to 6m, 6p, 7a–2, 7b, 8 to 9a, 10a, 11, 12, 12a to 12c, 13, 13a to 13b, 16, 18 to 21, and 25 of this title, sections 101, 103, 109, and 761 of Title 11, sections 624 and 4402 of Title 12, and sections 77b, 77c, 77l, 77q, 78c, 78f, 78g, 78i, 78j, 78k–1, 78l, 78o, 78o–3, 78p, 78q, 78q–1, 78s, 78t, 78u, 78u–1, 78bb, 78ee, 78ccc, 78lll, 80a–2, 80b–2, and 80b–3 of Title 15, repealing sections 5, 7, 7a, and 12e of this title, and enacting provisions set out as notes under this section, [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2), and [section 78c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim)] may be cited as the ‘Commodity Futures Modernization Act of 2000’.”
@@ -39,7 +42,7 @@ Pub. L. 104–9, § 1, Apr. 21, 1995, 109 Stat. 154, provided that: “This Act 
 Pub. L. 102–546, § 1(a), Oct. 28, 1992, 106 Stat. 3590, provided that: “This Act [enacting sections 1a and 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing [section 26 of this title](./chapter-001-commodity-exchanges.md#section-26), enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under [section 4a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4a&num=0&edition=prelim)] may be cited as the ‘Futures Trading Practices Act of 1992’.”
 
 #### Short Title of 1986 Amendment
-Pub. L. 99–641, § 1, Nov. 10, 1986, 100 Stat. 3556, provided that: “This Act [enacting [section 2271a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2271a&num=0&edition=prelim), amending sections 2a, 6b, 6c, 7a, 13, 13a–1, 15, 16, 21, 23, 74, 87b, 1444, 1445b–3, and 1445c–2 of this title, sections 590h and 3831 of Title 16, Conservation, sections 606, 609, 621, 671, and 676 of Title 21, Food and Drugs, repealing [section 14 of this title](./chapter-001-commodity-exchanges.md#section-14), and enacting provisions set out as notes under sections 20, 71, 76, 87b, and 2271a of this title and sections 601, 606, 609, 621, 671, and 676 of Title 21] may be cited as the ‘Futures Trading Act of 1986’.”
+Pub. L. 99–641, § 1, Nov. 10, 1986, 100 Stat. 3556, provided that: “This Act [enacting [section 2271a of this title](./chapter-055-department-of-agriculture.md#section-2271a), amending sections 2a, 6b, 6c, 7a, 13, 13a–1, 15, 16, 21, 23, 74, 87b, 1444, 1445b–3, and 1445c–2 of this title, sections 590h and 3831 of Title 16, Conservation, sections 606, 609, 621, 671, and 676 of Title 21, Food and Drugs, repealing [section 14 of this title](./chapter-001-commodity-exchanges.md#section-14), and enacting provisions set out as notes under sections 20, 71, 76, 87b, and 2271a of this title and sections 601, 606, 609, 621, 671, and 676 of Title 21] may be cited as the ‘Futures Trading Act of 1986’.”
 
 #### Short Title of 1983 Amendment
 Pub. L. 97–444, § 1, Jan. 11, 1983, 96 Stat. 2294, provided: “That this Act [enacting sections 2a, 12d, 25, and 26 of this title, amending sections 2, 4, 4a, 5, 6, 6a, 6c, 6d, 6f, 6g, 6h, 6i, 6k, 6m, 6n, 6o, 6p, 7a, 8, 9, 12, 12a, 13, 13a–1, 13a–2, 13c, 16, 16a, 18, 20, 21, 23, and 612c–3 of this title, and enacting provisions set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2)] may be cited as the ‘Futures Trading Act of 1982’.”
@@ -959,7 +962,7 @@ Pub. L. 111–203, title VII, § 721(f), July 21, 2010, 124 Stat. 1672, provided
 Pub. L. 111–203, title VII, § 754, July 21, 2010, 124 Stat. 1754, provided that: “Unless otherwise provided in this title [see Tables for classification], the provisions of this subtitle [subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, see Tables for classification] shall take effect on the later of 360 days after the date of the enactment of this subtitle [July 21, 2010] or, to the extent a provision of this subtitle requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of this subtitle.”
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Amendment by sections 13201(a) and 13203(a), (b) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
 
@@ -2010,15 +2013,15 @@ Subsec. (b). Act June 15, 1936, § 2, substituted “commodity” and “commodi
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Pub. L. 110–234, title XIII, § 13101(b), May 22, 2008, 122 Stat. 1432, and Pub. L. 110–246, § 4(a), title XIII, § 13101(b), June 18, 2008, 122 Stat. 1664, 2194, provided that: “The following provisions of the Commodity Exchange Act [[7 U.S.C. 1](./chapter-001-commodity-exchanges.md#section-1) et seq.], as amended by subsection (a) of this section [amending this section], shall be effective 120 days after the date of the enactment of this Act [June 18, 2008] or at such other time as the Commodity Futures Trading Commission shall determine: “(1) Subparagraphs (B)(i)(II)(gg), (B)(iv), and (C)(iii) of section 2(c)(2) [[7 U.S.C. 2(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/c/2&num=0&edition=prelim)]. “(2) The provisions of section 2(c)(2)(B)(i)(II)(cc) [[7 U.S.C. 2(c)(2)(B)(i)(II)(cc)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/c/2/B/i/II/cc&num=0&edition=prelim)] that set forth adjusted net capital requirements, and the provisions of such section that require a futures commission merchant to be primarily or substantially engaged in certain business activities.”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
 Pub. L. 110–234, title XIII, § 13204, May 22, 2008, 122 Stat. 1441, and Pub. L. 110–246, § 4(a), title XIII, § 13204, June 18, 2008, 122 Stat. 1664, 2203, provided that: “(a) In General.—Except as provided in this section, this subtitle [subtitle B (§§ 13201–13204) of title XIII of Pub. L. 110–246, amending this section and sections 1a, 6a, 6g, 6i, 7a, 7a–2, 7b, 8, and 25 of this title] shall become effective on the date of enactment of this Act [June 18, 2008]. “(b) Significant Price Discovery Standards Rulemaking.—“(1) The Commodity Futures Trading Commission shall—“(A) not later than 180 days after the date of the enactment of this Act [June 18, 2008], issue a proposed rule regarding the implementation of section 2(h)(7) of the Commodity Exchange Act [[7 U.S.C. 2(h)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/h/7&num=0&edition=prelim)]; and “(B) not later than 270 days after the date of enactment of this Act [June 18, 2008], issue a final rule regarding the implementation. “(2) In its rulemaking pursuant to paragraph (1) of this subsection, the Commission shall include the standards, terms, and conditions under which an electronic trading facility will have the responsibility to notify the Commission that an agreement, contract, or transaction conducted in reliance on the exemption provided in section 2(h)(3) of the Commodity Exchange Act [[7 U.S.C. 2(h)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/h/3&num=0&edition=prelim)] may perform a price discovery function. “(c) Significant Price Discovery Determinations.—With respect to any electronic trading facility operating on the effective date of the final rule issued pursuant to subsection (b)(1), the Commission shall complete a review of the agreements, contracts, and transactions of the facility not later than 180 days after that effective date to determine whether any such agreement, contract, or transaction performs a significant price discovery function.”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
 #### Effective Date of 1983 Amendment
 Pub. L. 97–444, title II, § 239, Jan. 11, 1983, 96 Stat. 2327, provided that: “This Act [see Short Title of 1983 Amendment note set out under [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1)] shall be effective upon the date of enactment of this Act [Jan. 11, 1983], except that sections 207, 212, and 231 of this Act [amending sections 6d, 6k, and 18 of this title] shall be effective one hundred and twenty days after the date of enactment of this Act, or such earlier date as the Commodity Futures Trading Commission shall prescribe by regulation.”
@@ -2055,7 +2058,7 @@ Pub. L. 111–203, title VII, § 723(c), July 21, 2010, 124 Stat. 1682, provided
 #### Portfolio Margining and Security Index Issues
 Pub. L. 110–234, title XIII, § 13106, May 22, 2008, 122 Stat. 1435, and Pub. L. 110–246, § 4(a), title XIII, § 13106, June 18, 2008, 122 Stat. 1664, 2197, provided that: “(a) The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Securities and Exchange Commission, and the Chairman of the Commodity Futures Trading Commission shall work to ensure that the Securities and Exchange Commission (SEC), the Commodity Futures Trading Commission (CFTC), or both, as appropriate, have taken the actions required under subsection (b). “(b) The SEC, the CFTC, or both, as appropriate, shall take action under their existing authorities to permit—“(1) by September 30, 2009, risk-based portfolio margining for security options and security futures products (as defined in section 1a(32) [now 1a(45)] of the Commodity Exchange Act [[7 U.S.C. 1a(32)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1a/32&num=0&edition=prelim), now 1a(45)]); and “(2) by June 30, 2009, the trading of futures on certain security indexes by resolving issues related to foreign security indexes.”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
 #### Study Regarding Retail Swaps
 Pub. L. 106–554, § 1(a)(5) [title I, § 105(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–379, provided that: “(1) In general.—The Board of Governors of the Federal Reserve System, the Secretary of the Treasury, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall conduct a study of issues involving the offering of swap agreements to persons other than eligible contract participants (as defined in section 1a of the Commodity Exchange Act [[7 U.S.C. 1a](./chapter-001-commodity-exchanges.md#section-1a)]). “(2) Matters to be addressed.—The study shall address—“(A) the potential uses of swap agreements by persons other than eligible contract participants; “(B) the extent to which financial institutions are willing to offer swap agreements to persons other than eligible contract participants; “(C) the appropriate regulatory structure to address customer protection issues that may arise in connection with the offer of swap agreements to persons other than eligible contract participants; and “(D) such other relevant matters deemed necessary or appropriate to address. “(3) Report.—Before the end of the 1-year period beginning on the date of the enactment of this Act [Dec. 21, 2000], a report on the findings and conclusions of the study required by paragraph (1) shall be submitted to Congress, together with such recommendations for legislative action as are deemed necessary and appropriate.”
@@ -2486,7 +2489,7 @@ Par. (3). Pub. L. 90–258, § 4, included references to positions, made hedging
 Pub. L. 111–203, title VII, § 737(d), July 21, 2010, 124 Stat. 1725, provided that: “This section [amending this section] and the amendments made by this section shall become effective on the date of the enactment of this section [July 21, 2010].”
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Amendment by section 13203(g) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
 
@@ -2573,7 +2576,7 @@ Subsec. (e). Pub. L. 111–203, § 741(b)(1)(C), added subsec. (e).
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1974 Amendment
 For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 93–463, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
@@ -3105,7 +3108,7 @@ Par. (2). Pub. L. 97–444, § 208(2), made financial requirements applicable to
 Par. (2). Pub. L. 90–258, § 7(b), substituted provisions that prescribed financial requirements for registration as futures commission merchant be met and continued at all times and that such requirements will be considered met by membership in a contract market and compliance with its minimum financial standards and related reporting requirements for former provisions for display of futures commission merchants’ registration certificates.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1992 Amendment
 Amendment by section 207(b)(1) of Pub. L. 102–546 effective 180 days after Oct. 28, 1992, with Commodity Futures Trading Commission to issue any regulations necessary to implement such amendment no later than 180 days after Oct. 28, 1992, see section 207(c) of Pub. L. 102–546, set out as a note under [section 6e of this title](./chapter-001-commodity-exchanges.md#section-6e).
@@ -3173,7 +3176,7 @@ Pars. (2) to (6). Pub. L. 93–463, § 415, added pars. (2) to (6).
 1968—Pub. L. 90–258 rephrased existing provisions to express reporting and recordkeeping requirements as a positive obligation of futures commission merchants and floor brokers, rather than as a ground for revoking or suspending registration and struck out provisions for revocation or suspension of registration. See [section 9 of this title](./chapter-001-commodity-exchanges.md#section-9).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Amendment by section 13202(a) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
 
@@ -3242,7 +3245,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 1968—Pub. L. 90–258 required recordkeeping of positions and of cash or spot transactions in commodities entered into, and inventories and purchase and sale commitments of commodities held, in any month in which reports are required to be kept, including details concerning positions, inventories, and commitments, and included controlled transactions and positions in the futures and cash or spot transactions and positions of any person.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Amendment by section 13202(b) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
 
@@ -3370,7 +3373,7 @@ Par. (5). Pub. L. 97–444 added par. (5).
 Par. (3). Pub. L. 95–405, § 7(2), added par. (3).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1983 Amendment
 Amendment by Pub. L. 97–444 effective 120 days after Jan. 11, 1983, or such earlier date as the Commission shall prescribe by regulation, see section 239 of Pub. L. 97–444, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
@@ -3750,6 +3753,8 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
       (II) major swap participants.
 
+(4) **Applicability with respect to counterparties** — The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii), including the initial and variation margin requirements imposed by rules adopted pursuant to paragraphs (2)(A)(ii) and (2)(B)(ii), shall not apply to a swap in which a counterparty qualifies for an exception under [section 2(h)(7)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/h/7/A&num=0&edition=prelim), or an exemption issued under [section 6(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6/c/1&num=0&edition=prelim) from the requirements of [section 2(h)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/h/1/A&num=0&edition=prelim) for cooperative entities as defined in such exemption, or satisfies the criteria in [section 2(h)(7)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/h/7/D&num=0&edition=prelim).
+
 **(f) Reporting and recordkeeping**
 
 (1) **In general** — Each registered swap dealer and major swap participant—
@@ -4012,10 +4017,15 @@ The Securities Exchange Act of 1934, referred to in subsec. (e)(3)(B)(ii), is ac
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(5)(A)(i)(VII), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (e)(4). Pub. L. 114–1 added par. (4).
+
 2010—Subsec. (l). Pub. L. 111–203, § 724(c), added subsec. (l).
 
 #### Effective Date
 Section and amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
+
+#### Implementation
+Pub. L. 114–1, title III, § 303, Jan. 12, 2015, 129 Stat. 28, provided that: “The amendments made by this title to the Commodity Exchange Act [amending this section] shall be implemented— “(1) without regard to—“(A) chapter 35 of title 44, United States Code; and “(B) the notice and comment provisions of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code; “(2) through the promulgation of an interim final rule, pursuant to which public comment will be sought before a final rule is issued; and “(3) such that paragraph (1) shall apply solely to changes to rules and regulations, or proposed rules and regulations, that are limited to and directly a consequence of such amendments.”
 
 
 <a id="section-6t"></a>
@@ -4754,7 +4764,7 @@ Subsec. (f)(1). Pub. L. 110–246, § 13105(f), substituted “6d(c)” for “6
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Amendment by section 13203(i)–(k) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
 
@@ -4797,7 +4807,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Amendment by section 13203(l) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
 
@@ -5141,7 +5151,7 @@ Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appea
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Amendment by section 13203(m) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
 
@@ -5311,7 +5321,7 @@ Amendment by section 741(b)(3) of Pub. L. 111–203 effective on the later of 36
 Pub. L. 111–203, title VII, § 753(d), July 21, 2010, 124 Stat. 1754, provided that: “(1) The amendments made by this section [amending this section and sections 13b and 25 of this title] shall take effect on the date on which the final rule promulgated by the Commodity Futures Trading Commission [see 76 F.R. 41398, effective Aug. 15, 2011] pursuant to this Act [see Tables for classification] takes effect. “(2) Paragraph (1) shall not preclude the Commission from undertaking prior to the effective date any rulemaking necessary to implement the amendments contained in this section.”
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1983 Amendment
 Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
@@ -5528,7 +5538,7 @@ Subsecs. (h), (i). Pub. L. 97–444, § 222(4), redesignated former subsecs. (f)
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1983 Amendment
 Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
@@ -5980,7 +5990,7 @@ Subsec. (c). Pub. L. 90–258 incorporated existing offenses in provisions desig
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1983 Amendment
 Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
@@ -6028,7 +6038,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 1968—Pub. L. 90–258 amended section to clarify application only to boards of trade designated as contract markets, to include as grounds for cease and desist orders failure to enforce the market’s rules of government made a condition of its designation and violation of rules or regulations of the commission or orders of the Secretary, and to authorize such orders in conjunction with a suspension or revocation of designation as a contract market rather than in lieu of suspension or revocation.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
@@ -6101,7 +6111,7 @@ Subsec. (h). Pub. L. 106–554, § 1(a)(5) [title II, § 253(c)], added subsec. 
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1983 Amendment
 Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
@@ -6274,7 +6284,11 @@ Repeal effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as an
 
 **(c) Definitions** For purposes of this section—
 
-(1) **Cotton futures contract** — The term “cotton futures contract” means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contract market” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act [[7 U.S.C. 1](./chapter-001-commodity-exchanges.md#section-1) et seq.] and the term “contract of sale” as so used shall be held to include sales, agreements of sale, and agreements to sell, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section.
+(1) **Cotton futures contract** — The term “cotton futures contract” means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contract market” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act [[7 U.S.C. 1](./chapter-001-commodity-exchanges.md#section-1) et seq.] and the term “contract of sale” as so used shall be held to include sales, agreements of sale, and agreements to sell, except that—
+
+  (A) any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section; and
+
+  (B) any cotton futures contract that permits tender of cotton grown outside of the United States is excluded from the coverage of this paragraph and section to the extent that the cotton grown outside of the United States is tendered for delivery under the cotton futures contract.
 
 (2) **Future delivery** — The term “future delivery” shall not include any cash sale of cotton for deferred shipment or delivery.
 
@@ -6371,11 +6385,16 @@ This section, referred to in subsec. (c)(1), was in the original a reference to 
 In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2015—Subsec. (c)(1). Pub. L. 114–36 inserted a dash after “except that”, designated “any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section.” as subpar. (A), and added subpar. (B).
+
 2000—Subsec. (d)(2). Pub. L. 106–472 inserted at end “A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.”
 
 1991—Subsec. (c)(1). Pub. L. 102–237 inserted before period at end “, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section”.
 
 1981—Subsec. (f)(1)(G). Pub. L. 97–35 inserted provisions relating to crediting to account referred to in [section 55 of this title](./chapter-002-cotton-standards.md#section-55) and provisions respecting cotton samples submitted or used becoming the property of the United States.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–36, § 1(b), July 20, 2015, 129 Stat. 435, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to cotton futures contracts entered into on or after the date of the enactment of this Act [July 20, 2015].”
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 156(e) of Pub. L. 97–35, set out as an Effective Date note under [section 61a of this title](./chapter-002-cotton-standards.md#section-61a).
@@ -6495,7 +6514,7 @@ Subsec. (e). Pub. L. 97–444, § 229, added subsec. (e).
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1983 Amendment
 Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
@@ -6664,7 +6683,7 @@ Subsecs. (b), (c). Pub. L. 95–405, § 21(2), (3), substituted “$5,000” for
 1975—Subsec. (i). Pub. L. 94–16 substituted “fifteen months” for “one year” in two places, and “one year” for “nine months”.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1983 Amendment
 Amendment by Pub. L. 97–444 effective 120 days after Jan. 11, 1983, or such earlier date as the Commission shall prescribe by regulation, see section 239 of Pub. L. 97–444, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
@@ -7019,7 +7038,7 @@ Subsecs. (m), (n). Pub. L. 95–405, § 22(4), added subsec. (m) and redesignate
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1983 Amendment
 Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
@@ -7438,7 +7457,7 @@ Amendment by sections 738(c), 739, and 749(h) of Pub. L. 111–203 effective on 
 Amendment by section 753(c) of Pub. L. 111–203 effective on the date on which the final rule promulgated by the Commodity Futures Trading Commission pursuant to Pub. L. 111–203 takes effect [see 76 F.R. 41398, effective Aug. 15, 2011], see section 753(d) of Pub. L. 111–203, set out as a note under [section 9 of this title](./chapter-001-commodity-exchanges.md#section-9).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Amendment by section 13203(n) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2).
 

@@ -151,21 +151,21 @@ Pub. L. 105–216, § 1(a), July 29, 1998, 112 Stat. 897, provided that: “This
 
 (2) if the mortgagor is not current on the termination date, on the first day of the first month beginning after the date that the mortgagor becomes current on the payments required by the terms of the residential mortgage transaction.
 
-**(c) Final termination** If a requirement for private mortgage insurance is not otherwise canceled or terminated in accordance with subsection (a) or (b) of this section, in no case may such a requirement be imposed on residential mortgage transactions beyond the first day of the month immediately following the date that is the midpoint of the amortization period of the loan if the mortgagor is current on the payments required by the terms of the mortgage.
+**(c) Final termination** If a requirement for private mortgage insurance is not otherwise canceled or terminated in accordance with subsection (a) or (b), in no case may such a requirement be imposed on residential mortgage transactions beyond the first day of the month immediately following the date that is the midpoint of the amortization period of the loan if the mortgagor is current on the payments required by the terms of the mortgage.
 
 **(d) Treatment of loan modifications** If a mortgagor and mortgagee (or holder of the mortgage) agree to a modification of the terms or conditions of a loan pursuant to a residential mortgage transaction, the cancellation date, termination date, or final termination shall be recalculated to reflect the modified terms and conditions of such loan.
 
 **(e) No further payments** No payments or premiums may be required from the mortgagor in connection with a private mortgage insurance requirement terminated or canceled under this section—
 
-(1) in the case of cancellation under subsection (a) of this section, more than 30 days after the later of—
+(1) in the case of cancellation under subsection (a), more than 30 days after the later of—
 
-  (A) the date on which a request under subsection (a)(1) of this section is received; or
+  (A) the date on which a request under subsection (a)(1) is received; or
 
-  (B) the date on which the mortgagor satisfies any evidence and certification requirements under subsection (a)(4) of this section;
+  (B) the date on which the mortgagor satisfies any evidence and certification requirements under subsection (a)(4);
 
-(2) in the case of termination under subsection (b) of this section, more than 30 days after the termination date or the date referred to in subsection (b)(2) of this section, as applicable; and
+(2) in the case of termination under subsection (b), more than 30 days after the termination date or the date referred to in subsection (b)(2), as applicable; and
 
-(3) in the case of termination under subsection (c) of this section, more than 30 days after the final termination date established under that subsection.
+(3) in the case of termination under subsection (c), more than 30 days after the final termination date established under that subsection.
 
 **(f) Return of unearned premiums**
 
@@ -175,7 +175,7 @@ Pub. L. 105–216, § 1(a), July 29, 1998, 112 Stat. 897, provided that: “This
 
 **(g) Exceptions for high risk loans**
 
-(1) **In general** — The termination and cancellation provisions in subsections (a) and (b) of this section do not apply to any residential mortgage transaction that, at the time at which the residential mortgage transaction is consummated, has high risks associated with the extension of the loan—
+(1) **In general** — The termination and cancellation provisions in subsections (a) and (b) do not apply to any residential mortgage transaction that, at the time at which the residential mortgage transaction is consummated, has high risks associated with the extension of the loan—
 
   (A) as determined in accordance with guidelines published by the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, in the case of a mortgage loan with an original principal balance that does not exceed the applicable annual conforming loan limit for the secondary market established pursuant to [section 1454(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1454/a/2&num=0&edition=prelim), so as to require the imposition or continuation of a private mortgage insurance requirement beyond the terms specified in subsection (a) or (b) of this section; or
 
@@ -185,11 +185,11 @@ Pub. L. 105–216, § 1(a), July 29, 1998, 112 Stat. 897, provided that: “This
 
     (ii) with respect to an adjustable rate mortgage, on the date on which the principal balance of the mortgage, based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan.
 
-(2) **Termination at midpoint** — A private mortgage insurance requirement in connection with a residential mortgage transaction described in paragraph (1) shall terminate in accordance with subsection (c) of this section.
+(2) **Termination at midpoint** — A private mortgage insurance requirement in connection with a residential mortgage transaction described in paragraph (1) shall terminate in accordance with subsection (c).
 
 (3) **Rule of construction** — Nothing in this subsection may be construed to require a residential mortgage or residential mortgage transaction described in paragraph (1)(A) to be purchased by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.
 
-(4) **GAO report** — Not later than 2 years after July 29, 1998, the Comptroller General of the United States shall submit to the Congress a report describing the volume and characteristics of residential mortgages and residential mortgage transactions that, pursuant to paragraph (1) of this subsection, are exempt from the application of subsections (a) and (b) of this section. The report shall—
+(4) **GAO report** — Not later than 2 years after July 29, 1998, the Comptroller General of the United States shall submit to the Congress a report describing the volume and characteristics of residential mortgages and residential mortgage transactions that, pursuant to paragraph (1) of this subsection, are exempt from the application of subsections (a) and (b). The report shall—
 
   (A) determine the number or volume of such mortgages and transactions compared to residential mortgages and residential mortgage transactions that are not classified as high-risk for purposes of paragraph (1); and
 
@@ -222,7 +222,7 @@ Subsec. (d). Pub. L. 106–569, § 402(c)(1)(B), added subsec. (d). Former subse
 
 Subsec. (e). Pub. L. 106–569, § 402(c)(1)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1)(B). Pub. L. 106–569, § 404(2), substituted “subsection (a)(4) of this section” for “subsection (a)(3) of this section”.
+Subsec. (e)(1)(B). Pub. L. 106–569, § 404(2), substituted “subsection (a)(4)” for “subsection (a)(3)”.
 
 Subsec. (f). Pub. L. 106–569, § 402(c)(1)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
@@ -283,7 +283,7 @@ Subsec. (h). Pub. L. 106–569, § 405(c), added subsec. (h).
 
 (2) an address and telephone number that the mortgagor may use to contact the servicer to determine whether the mortgagor may cancel the private mortgage insurance.
 
-**(c) Inclusion in other annual notices** The information and disclosures required under subsection (b) of this section and subsection (a)(3) of this section may be provided on the annual disclosure relating to the escrow account made as required under the Real Estate Settlement Procedures Act of 1974 [[12 U.S.C. 2601](./chapter-027-real-estate-settlement-procedures.md#section-2601) et seq.], or as part of the annual disclosure of interest payments made pursuant to Internal Revenue Service regulations, and on a form promulgated by the Internal Revenue Service for that purpose.
+**(c) Inclusion in other annual notices** The information and disclosures required under subsection (b) and subsection (a)(3) may be provided on the annual disclosure relating to the escrow account made as required under the Real Estate Settlement Procedures Act of 1974 [[12 U.S.C. 2601](./chapter-027-real-estate-settlement-procedures.md#section-2601) et seq.], or as part of the annual disclosure of interest payments made pursuant to Internal Revenue Service regulations, and on a form promulgated by the Internal Revenue Service for that purpose.
 
 **(d) Standardized forms** The mortgagee or servicer may use standardized forms for the provision of disclosures required under this section, which disclosures shall relate to the mortgagor’s rights under this chapter.
 
@@ -301,7 +301,7 @@ Subsec. (a)(1)(A)(ii)(IV), (B)(iii). Pub. L. 106–569, § 402(c)(2)(A)(ii), (ii
 
 Subsec. (a)(2). Pub. L. 106–569, §§ 402(c)(2)(B), 403(b)(1)(B), substituted “residential mortgage transaction” for “mortgage or mortgage transaction” and “[section 4902(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4902/g/1&num=0&edition=prelim)” for “[section 4902(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4902/f/1&num=0&edition=prelim)”.
 
-Subsec. (c). Pub. L. 106–569, § 403(b)(2), substituted “subsection (a)(3) of this section” for “paragraphs (1)(B) and (3) of subsection (a) of this section”.
+Subsec. (c). Pub. L. 106–569, § 403(b)(2), substituted “subsection (a)(3)” for “paragraphs (1)(B) and (3) of subsection (a)”.
 
 Subsec. (d). Pub. L. 106–569, § 403(b)(3), inserted before period at end “, which disclosures shall relate to the mortgagor’s rights under this chapter”.
 
@@ -364,7 +364,7 @@ Subsec. (d). Pub. L. 106–569, § 403(b)(3), inserted before period at end “,
 
 (2) not later than 30 days after the termination date that would apply in the case of borrower paid mortgage insurance, the servicer shall provide to the mortgagor a written notice indicating that the mortgagor may wish to review financing options that could eliminate the requirement for private mortgage insurance in connection with the residential mortgage transaction.
 
-**(d) Standard forms** The servicer of a residential mortgage transaction may develop and use a standardized form or forms for the provision of notices to the mortgagor, as required under subsection (c) of this section.
+**(d) Standard forms** The servicer of a residential mortgage transaction may develop and use a standardized form or forms for the provision of notices to the mortgagor, as required under subsection (c).
 
 ### Statutory Notes
 
@@ -407,7 +407,7 @@ No fee or other cost may be imposed on any mortgagor with respect to the provisi
 
 (4) reasonable attorney fees, as determined by the court.
 
-**(b) Timing of actions** No action may be brought by a mortgagor under subsection (a) of this section later than 2 years after the date of the discovery of the violation that is the subject of the action.
+**(b) Timing of actions** No action may be brought by a mortgagor under subsection (a) later than 2 years after the date of the discovery of the violation that is the subject of the action.
 
 **(c) Limitations on liability**
 
@@ -476,11 +476,11 @@ The effective date of this chapter, referred to in subsec. (a)(1), is 1 year aft
 
 **(b) Additional enforcement powers**
 
-(1) **Violation of this chapter treated as violation of other Acts** — For purposes of the exercise by any agency referred to in subsection (a) of this section of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
+(1) **Violation of this chapter treated as violation of other Acts** — For purposes of the exercise by any agency referred to in subsection (a) of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
 
-(2) **Enforcement authority under other Acts** — In addition to the powers of any agency referred to in subsection (a) of this section under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law, subject to subtitle B of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5511](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511) et seq.].
+(2) **Enforcement authority under other Acts** — In addition to the powers of any agency referred to in subsection (a) under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law, subject to subtitle B of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5511](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511) et seq.].
 
-**(c) Enforcement and reimbursement** In carrying out its enforcement activities under this section, each agency referred to in subsection (a) of this section shall—
+**(c) Enforcement and reimbursement** In carrying out its enforcement activities under this section, each agency referred to in subsection (a) shall—
 
 (1) notify the mortgagee or servicer of any failure of the mortgagee or servicer to comply with 1 or more provisions of this chapter;
 

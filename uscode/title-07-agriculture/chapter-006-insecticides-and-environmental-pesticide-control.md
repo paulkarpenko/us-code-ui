@@ -2486,9 +2486,9 @@ A copy of that statement shall be transmitted to an appropriate official of the 
 
 (4) **Applicability** — Nothing in this subsection precludes or limits the authority of the Secretary of Agriculture with respect to the importation or movement of plants, plant products, or seeds under—
 
-  (A) the Plant Protection Act ([7 U.S.C. 7701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7701&num=0&edition=prelim) et seq.); and
+  (A) the Plant Protection Act ([7 U.S.C. 7701](./chapter-104-plant-protection.md#section-7701) et seq.); and
 
-  (B) the Federal Seed Act ([7 U.S.C. 1551](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1551&num=0&edition=prelim) et seq.).
+  (B) the Federal Seed Act ([7 U.S.C. 1551](./chapter-037-seeds.md#section-1551) et seq.).
 
 **(d) Cooperation in international efforts**
 
@@ -2501,9 +2501,9 @@ A copy of that statement shall be transmitted to an appropriate official of the 
 ### Statutory Notes
 
 #### References in Text
-The Plant Protection Act, referred to in subsec. (c)(4)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7701&num=0&edition=prelim) and Tables.
+The Plant Protection Act, referred to in subsec. (c)(4)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-104-plant-protection.md#section-7701) and Tables.
 
-The Federal Seed Act, referred to in subsec. (c)(4)(B), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, which is classified generally to chapter 37 (§ 1551 et seq.) of this title. For complete classification of this Act to the Code, see [section 1551 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1551&num=0&edition=prelim) and Tables.
+The Federal Seed Act, referred to in subsec. (c)(4)(B), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, which is classified generally to chapter 37 (§ 1551 et seq.) of this title. For complete classification of this Act to the Code, see [section 1551 of this title](./chapter-037-seeds.md#section-1551) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -2524,7 +2524,7 @@ Subsec. (c). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator�
 Subsec. (b). Pub. L. 95–396, § 18(a)(2), inserted sentence at end relating to information to be included in notification.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25, 1988, see section 901 of Pub. L. 100–532, set out as a note under [section 136 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136).
@@ -2733,7 +2733,7 @@ Subsecs. (g), (h). Pub. L. 100–532, § 403, added subsecs. (g) and (h).
 1978—Subsec. (c). Pub. L. 95–396 added subsec. (c).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25, 1988, see section 901 of Pub. L. 100–532, set out as a note under [section 136 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136).

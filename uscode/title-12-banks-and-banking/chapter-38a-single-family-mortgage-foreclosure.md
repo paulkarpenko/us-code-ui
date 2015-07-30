@@ -303,7 +303,7 @@ Section is based on section 809 of title VIII of S. 2281, One Hundred Third Cong
 
 (2) **Discretionary noncancellation** — The Secretary may refuse to cancel a foreclosure sale pursuant to paragraph (1)(C) if the current mortgagor or owner of record has, on one or more previous occasions, caused a foreclosure of the mortgage, commenced pursuant to this chapter or otherwise, to be canceled by curing a default.
 
-**(b) Opportunity of Secretary to dispute withdrawal** Before withdrawing the security property from foreclosure under subparagraph (B) or (C) of subsection (a)(1) of this section, the foreclosure commissioner shall afford the Secretary a reasonable opportunity to demonstrate why the security property should not be so withdrawn.
+**(b) Opportunity of Secretary to dispute withdrawal** Before withdrawing the security property from foreclosure under subparagraph (B) or (C) of subsection (a)(1), the foreclosure commissioner shall afford the Secretary a reasonable opportunity to demonstrate why the security property should not be so withdrawn.
 
 **(c) Effect of cancellation**
 
@@ -406,7 +406,7 @@ Section is based on section 812 of title VIII of S. 2281, One Hundred Third Cong
 
 **(b) Other payments**
 
-(1) **Other lienholders and the mortgagor** — Any surplus of proceeds from a foreclosure sale, after payment of the items described in subsection (a) of this section shall be paid in the following order:
+(1) **Other lienholders and the mortgagor** — Any surplus of proceeds from a foreclosure sale, after payment of the items described in subsection (a) shall be paid in the following order:
 
   (A) First, to holders of liens recorded after the mortgage in the order of priority under Federal law or the law of the State in which the security property is located.
 
@@ -424,7 +424,7 @@ Section is based on section 813 of title VIII of S. 2281, One Hundred Third Cong
 ## § 3763. Transfer of title and possession
 **(a) Delivery of deeds** The foreclosure commissioner shall, upon delivery of a deed or deeds to the purchaser or purchasers (which shall be without warranty or covenants to the purchaser or purchasers) obtain the balance of the purchase price in accordance with the terms of sale provided in the notice of default and foreclosure sale. Notwithstanding any State law to the contrary, delivery of a deed by the foreclosure commissioner shall be a conveyance of the property, and constitute passage of title to the mortgaged property, and no judicial proceedings shall be required ancillary or supplementary to the procedures provided in this chapter to assure the validity of the conveyance or confirmation of such conveyance.
 
-**(b) Right of possession** A purchaser at a foreclosure sale held pursuant to this chapter shall be entitled to possession upon passage of title under subsection (a) of this section to the mortgaged property, subject to any interest or interests not barred under [section 3765 of this title](./chapter-38a-single-family-mortgage-foreclosure.md#section-3765). Any person remaining in possession of the mortgaged property after the passage of title shall be deemed a tenant at sufferance subject to eviction under local law.
+**(b) Right of possession** A purchaser at a foreclosure sale held pursuant to this chapter shall be entitled to possession upon passage of title under subsection (a) to the mortgaged property, subject to any interest or interests not barred under [section 3765 of this title](./chapter-38a-single-family-mortgage-foreclosure.md#section-3765). Any person remaining in possession of the mortgaged property after the passage of title shall be deemed a tenant at sufferance subject to eviction under local law.
 
 **(c) Death of purchaser** If a purchaser dies before execution and delivery of the deed conveying the property to the purchaser, the foreclosure commissioner shall execute and deliver the deed to a representative of the decedent purchaser’s estate upon payment of the purchase price in accordance with the terms of sale. Such delivery to the representative of the purchaser’s estate shall have the same effect as if accomplished during the lifetime of the purchaser.
 
@@ -460,7 +460,7 @@ Section is based on section 814 of title VIII of S. 2281, One Hundred Third Cong
 
 (6) the sale amount.
 
-**(b) Effect of statements** The items set forth in subsection (a) of this section shall—
+**(b) Effect of statements** The items set forth in subsection (a) shall—
 
 (1) be prima facie evidence of the truth of such facts in any Federal or State court; and
 

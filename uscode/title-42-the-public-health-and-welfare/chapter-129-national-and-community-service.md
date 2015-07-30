@@ -806,7 +806,7 @@ Another prior section 12522, Pub. L. 101–610, title I, § 112, Nov. 16, 1990, 
 
   (A) the salaries and benefits of service-learning coordinators; or
 
-  (B) the recruitment, training and professional development, supervision, and placement of service-learning coordinators who may be participants in a program under division C or receive a national service educational award under division D, who may be participants in a project under [section 5001 of this title](./chapter-066-domestic-volunteer-services.md#section-5001), or who may participate in a Youthbuild program under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim),
+  (B) the recruitment, training and professional development, supervision, and placement of service-learning coordinators who may be participants in a program under division C or receive a national service educational award under division D, who may be participants in a project under [section 5001 of this title](./chapter-066-domestic-volunteer-services.md#section-5001), or who may participate in a Youthbuild program under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim),
   who will identify the community partners described in paragraph (2)(B) and assist in the design and implementation of a program described in paragraph (2);
 
 (4) implementing, operating, or expanding school-based service-learning programs to utilize adult volunteers in service-learning to improve the education of students, through distribution by State educational agencies, territories, and Indian tribes of Federal funds made available under this part to—
@@ -853,9 +853,6 @@ Another prior section 12522, Pub. L. 101–610, title I, § 112, Nov. 16, 1990, 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(3)(B)
-Pub. L. 113–128, title V, §§ 506, 512(u)(1), July 22, 2014, 128 Stat. 1703, 1712, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(3)(B) of this section is amended by striking “or who may participate in a Youthbuild program under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim)” and inserting “or who may participate in a Youthbuild program under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim)”. See 2014 Amendment note below.
-
 #### Prior Provisions
 A prior section 12523, Pub. L. 101–610, title I, § 111B, as added Pub. L. 103–82, title I, § 103(a)(2), Sept. 21, 1993, 107 Stat. 827, granted the Corporation authority to assist public or private nonprofit organizations, prior to the general amendment of this part by Pub. L. 111–13.
 
@@ -869,7 +866,7 @@ Another prior section 112 of Pub. L. 101–610 was classified to [section 12522 
 2014—Subsec. (a)(3)(B). Pub. L. 113–128 substituted “or who may participate in a Youthbuild program under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim)” for “or who may participate in a Youthbuild program under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim)”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-12525"></a>
@@ -8102,7 +8099,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 <a id="section-12655n"></a>
 ## § 12655n. Joint programs
-**(a) Development** The Corporation may develop, in cooperation with the heads of other Federal agencies, regulations designed to permit, where appropriate, joint programs in which activities supported with assistance made available under this division are coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.]).
+**(a) Development** The Corporation may develop, in cooperation with the heads of other Federal agencies, regulations designed to permit, where appropriate, joint programs in which activities supported with assistance made available under this division are coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.]).
 
 **(b) Standards** Regulations promulgated under subsection (a) of this section shall establish standards for the approval of joint programs that meet both the purposes of this subchapter and the purposes of such statutes under which assistance is made available to support such projects.
 
@@ -8112,11 +8109,8 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)
-Pub. L. 113–128, title V, §§ 506, 512(u)(2), July 22, 2014, 128 Stat. 1703, 1712, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a) of this section is amended by striking “coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including title I of the Workforce Investment Act of 1998)” and inserting “coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including title I of the Workforce Innovation and Opportunity Act)”. See 2014 Amendment note below.
-
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsec. (a), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 12554 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12554&num=0&edition=prelim) prior to renumbering by Pub. L. 103–82, § 101(a).
@@ -8134,7 +8128,7 @@ Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(42)(C)], substituted “the 
 1993—Subsecs. (a), (d). Pub. L. 103–82, § 101(e)(1), substituted “Corporation” for “Commission”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(42)(C)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(33)(B)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.

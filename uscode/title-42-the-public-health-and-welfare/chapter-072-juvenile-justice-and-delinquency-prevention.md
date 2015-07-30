@@ -110,6 +110,9 @@ Pub. L. 93–415, title II, § 263(c), as added by Pub. L. 95–115, § 6(d)(2),
 #### Effective Date
 Pub. L. 93–415, title II, § 263(a), (b), Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 94–273, § 32(a), Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–115, § 6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending [section 5108 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim), Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(l) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–22, title I, § 116(a), May 29, 2015, 129 Stat. 244, provided that: “This section [amending [section 5780 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5780)] may be cited as the ‘Bringing Missing Children Home Act’.”
+
 #### Short Title of 2013 Amendment
 Pub. L. 113–38, § 1, Sept. 30, 2013, 127 Stat. 527, provided that: “This Act [enacting [section 5776a of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5776a) and amending sections 5771, 5773, 5775, and 5777 of this title] may be cited as the ‘E. Clay Shaw, Jr. Missing Children’s Assistance Reauthorization Act of 2013’.”
 
@@ -513,6 +516,9 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under [section 5601 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5601).
+
+#### Education and Outreach to Trafficking Survivors
+Pub. L. 114–22, title I, § 119, May 29, 2015, 129 Stat. 247, provided that: “The Attorney General shall make available, on the website of the Office of Juvenile Justice and Delinquency Prevention, a database for trafficking victim advocates, crisis hotline personnel, foster parents, law enforcement personnel, and crime survivors that contains information on— “(1) counseling and hotline resources; “(2) housing resources; “(3) legal assistance; and “(4) other services for trafficking survivors.”
 
 #### Mentoring Matches for Youth
 Pub. L. 109–248, title VI, subtitle A, July 27, 2006, 120 Stat. 631, 632, provided that: “SEC. 601. SHORT TITLE.“This subtitle may be cited as the ‘Mentoring Matches for Youth Act of 2006’. “SEC. 602. FINDINGS.“Congress finds the following:“(1) Big Brothers Big Sisters of America, which was founded in 1904 and chartered by Congress in 1958, is the oldest and largest mentoring organization in the United States. “(2) There are over 450 Big Brothers Big Sisters of America local agencies providing mentoring programs for at-risk children in over 5,000 communities throughout every State, Guam, and Puerto Rico. “(3) Over the last decade, Big Brothers Big Sisters of America has raised a minimum of 75 percent of its annual operating budget from private sources and is continually working to grow private sources of funding to maintain this ratio of private to Federal funds. “(4) In 2005, Big Brothers Big Sisters of America provided mentors for over 235,000 children. “(5) Big Brothers Big Sisters of America has a goal to provide mentors for 1,000,000 children per year. “SEC. 603. GRANT PROGRAM FOR EXPANDING BIG BROTHERS BIG SISTERS MENTORING PROGRAM.“In each of fiscal years 2007 through 2012, the Administrator of the Office of Juvenile Justice and Delinquency Prevention (hereafter in this Act [probably should be “subtitle”] referred to as the ‘Administrator’) may make grants to Big Brothers Big Sisters of America to use for expanding the capacity of and carrying out the Big Brothers Big Sisters mentoring programs for at-risk youth. “SEC. 604. BIANNUAL REPORT.“(a) In General.—Big Brothers Big Sisters of America shall submit 2 reports to the Administrator in each of fiscal years 2007 through 2013. Big Brothers Big Sisters of America shall submit the first report in a fiscal year not later than April 1 of that fiscal year and the second report in a fiscal year not later than September 30 of that fiscal year. “(b) Required Content.—Each such report shall include the following:“(1) A detailed statement of the progress made by Big Brothers Big Sisters of America in expanding the capacity of and carrying out mentoring programs for at-risk youth. “(2) A detailed statement of how the amounts received under this Act have been used. “(3) A detailed assessment of the effectiveness of the mentoring programs. “(4) Recommendations for continued grants and the appropriate amounts for such grants. “SEC. 605. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated to carry out this Act [probably should be “subtitle”]—“(1) $9,000,000 for fiscal year 2007; “(2) $10,000,000 for fiscal year 2008; “(3) $11,500,000 for fiscal year 2009; “(4) $13,000,000 for fiscal year 2010; and “(5) $15,000,000 for fiscal year 2011.”
@@ -3137,13 +3143,15 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 <a id="section-5714b"></a>
 ## § 5714b. Authority to make grants
-**(a) In general** The Secretary may make grants to nonprofit private agencies for the purpose of providing street-based services to runaway and homeless, and street youth, who have been subjected to, or are at risk of being subjected to, sexual abuse, prostitution, or sexual exploitation.
+**(a) In general** The Secretary may make grants to nonprofit private agencies for the purpose of providing street-based services to runaway and homeless, and street youth, who have been subjected to, or are at risk of being subjected to, sexual abuse, prostitution, sexual exploitation, severe forms of trafficking in persons (as defined in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)), or sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim)).
 
 **(b) Priority** In selecting applicants to receive grants under subsection (a) of this section, the Secretary shall give priority to public and nonprofit private agencies that have experience in providing services to runaway and homeless, and street youth.
 
 ### Statutory Notes
 
 #### Amendments
+Subsec. (a). Pub. L. 114–22 substituted “sexual exploitation, severe forms of trafficking in persons (as defined in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)), or sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim))” for “or sexual exploitation”.
+
 2008—Subsec. (b). Pub. L. 110–378 inserted “public and” after “priority to”.
 
 
@@ -3249,7 +3257,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 (6) to provide a written transitional living plan to each youth based on an assessment of such youth’s needs, designed to help the transition from supervised participation in such project to independent living or another appropriate living arrangement;
 
-(7) to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational (including post-secondary education), vocational, training (including services and programs for youth available under the Workforce Investment Act of 1998), welfare (including programs under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996), legal service, and health care programs and to help integrate and coordinate such services for youths;
+(7) to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational (including post-secondary education), vocational, training (including services and programs for youth available under the Workforce Innovation and Opportunity Act), welfare (including programs under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996), legal service, and health care programs and to help integrate and coordinate such services for youths;
 
 (8) to provide for the establishment of outreach programs designed to attract individuals who are eligible to participate in the project;
 
@@ -3279,11 +3287,8 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(7)
-Pub. L. 113–128, title V, §§ 506, 512(aa), July 22, 2014, 128 Stat. 1703, 1717, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(7) of this section is amended by striking “(including services and programs for youth available under the Workforce Investment Act of 1998)” and inserting “(including services and programs for youth available under the Workforce Innovation and Opportunity Act)”. See 2014 Amendment note below.
-
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsec. (a)(7), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(7), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
@@ -3317,7 +3322,7 @@ Subsec. (c). Pub. L. 108–96, § 107(b), added subsec. (c).
 Subsec. (a)(13). Pub. L. 102–586, § 3(f)(2), substituted “informed consent of the individual youth” for “consent of the individual youth and parent or legal guardian” and struck out “or a government agency involved in the disposition of criminal charges against youth” after “statistical records”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date
 Section effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under [section 5601 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5601).
@@ -3383,11 +3388,11 @@ A prior section 342 of Pub. L. 93–415 was renumbered section 381 and is classi
 
 (5) staff training in—
 
-  (A) the behavioral and emotional effects of sexual abuse and assault;
+  (A) the behavioral and emotional effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)), and sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim));
 
-  (B) responding to youth who are showing effects of sexual abuse and assault; and
+  (B) responding to youth who are showing effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)), or sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim)); and
 
-  (C) agency-wide strategies for working with runaway and homeless youth who have been sexually victimized;
+  (C) agency-wide strategies for working with runaway and homeless youth who have been sexually victimized, including such youth who are victims of trafficking (as defined in [section 7102(15) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/15&num=0&edition=prelim));
 
 (6) innovative methods of developing resources that enhance the establishment or operation of runaway and homeless youth centers;
 
@@ -3412,6 +3417,12 @@ A prior section 342 of Pub. L. 93–415 was renumbered section 381 and is classi
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (b)(5)(A). Pub. L. 114–22, § 201(1)(A), inserted “, severe forms of trafficking in persons (as defined in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)), and sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim))” before semicolon at end.
+
+Subsec. (b)(5)(B). Pub. L. 114–22, § 201(1)(B), inserted “, severe forms of trafficking in persons (as defined in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)), or sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim))” before “; and” at end.
+
+Subsec. (b)(5)(C). Pub. L. 114–22, § 201(1)(C), inserted “, including such youth who are victims of trafficking (as defined in [section 7102(15) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/15&num=0&edition=prelim))” before semicolon at end.
+
 2008—Subsec. (b). Pub. L. 110–378, § 5(1)(A), substituted “priority” for “special consideration” in introductory provisions.
 
 Subsec. (b)(8). Pub. L. 110–378, § 5(1)(B), substituted “to quality health” for “to health” and “behavioral health care” for “mental health care” and struck out “and” at end.
@@ -4008,7 +4019,7 @@ Pub. L. 109–248, which directed amendment of “Section 403(1) of the Comprehe
 
     (ii) online enticement of children for sexual acts;
 
-    (iii) child prostitution;
+    (iii) child sex trafficking, including child prostitution;
 
     (iv) sex tourism involving children;
 
@@ -4064,6 +4075,8 @@ The Family Educational Rights and Privacy Act of 1974, referred to in subsec. (c
 A prior section 404 of Pub. L. 93–415 amended [section 3882 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3882&num=0&edition=prelim), and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+2015—Subsec. (b)(1)(P)(iii). Pub. L. 114–22 substituted “child sex trafficking, including child prostitution” for “child prostitution”.
+
 2013—Subsec. (a)(4). Pub. L. 113–38, § 2(b)(1)(C), added par. (4). Former par. (4) redesignated (5).
 
 Subsec. (a)(5). Pub. L. 113–38, § 2(b)(1)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
@@ -4354,24 +4367,30 @@ Each State reporting under the provisions of this section and [section 5779 of t
 
 (1) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the observance of any waiting period before accepting a missing child or unidentified person report;
 
-(2) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the removal of a missing person entry from its State law enforcement system or the National Crime Information Center computer database based solely on the age of the person; and 11 So in original. The word “and” probably should not appear.
+(2) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the removal of a missing person entry from its State law enforcement system or the National Crime Information Center computer database based solely on the age of the person;
 
 (3) provide that each such report and all necessary and available information, which, with respect to each missing child report, shall include—
 
   (A) the name, date of birth, sex, race, height, weight, and eye and hair color of the child;
 
-  (B) the date and location of the last known contact with the child; and
+  (B) a recent photograph of the child, if available;
 
-  (C) the category under which the child is reported missing;
+  (C) the date and location of the last known contact with the child; and
+
+  (D) the category under which the child is reported missing;
   is entered within 2 hours of receipt into the State law enforcement system and the National Crime Information Center computer networks and made available to the Missing Children Information Clearinghouse within the State or other agency designated within the State to receive such reports; and
 
-(4) provide that after receiving reports as provided in paragraph (2), the law enforcement agency that entered the report into the National Crime Information Center shall—
+(4) provide that after receiving reports as provided in paragraph (3), the law enforcement agency that entered the report into the National Crime Information Center shall—
 
-  (A) no later than 60 days after the original entry of the record into the State law enforcement system and National Crime Information Center computer networks, verify and update such record with any additional information, including, where available, medical and dental records;
+  (A) no later than 30 days after the original entry of the record into the State law enforcement system and National Crime Information Center computer networks, verify and update such record with any additional information, including, where available, medical and dental records and a photograph taken during the previous 180 days;
 
-  (B) institute or assist with appropriate search and investigative procedures; and
+  (B) institute or assist with appropriate search and investigative procedures;
 
-  (C) maintain close liaison with the National Center for Missing and Exploited Children for the exchange of information and technical assistance in the missing children cases.
+  (C) notify the National Center for Missing and Exploited Children of each report received relating to a child reported missing from a foster care family home or childcare institution;
+
+  (D) maintain close liaison with State and local child welfare systems and the National Center for Missing and Exploited Children for the exchange of information and technical assistance in the missing children cases; and
+
+  (E) grant permission to the National Crime Information Center Terminal Contractor for the State to update the missing person record in the National Crime Information Center computer networks with additional information learned during the investigation relating to the missing person.
 
 ### Statutory Notes
 
@@ -4379,6 +4398,22 @@ Each State reporting under the provisions of this section and [section 5779 of t
 Section was enacted as part of the Crime Control Act of 1990, and not as part of the Missing Children’s Assistance Act which comprises this subchapter, nor as part of the Juvenile Justice and Delinquency Prevention Act of 1974 which comprises this chapter.
 
 #### Amendments
+2015—Par. (2). Pub. L. 114–22, § 116(b)(1), struck out “and” at end.
+
+Par. (3)(B) to (D). Pub. L. 114–22, § 116(b)(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+
+Par. (4). Pub. L. 114–22, § 116(b)(3)(A), substituted “paragraph (3)” for “paragraph (2)” in introductory provisions.
+
+Par. (4)(A). Pub. L. 114–22, § 116(b)(3)(B), substituted “30 days” for “60 days” and inserted “and a photograph taken during the previous 180 days” after “dental records”.
+
+Par. (4)(B), (C). Pub. L. 114–22, § 116(b)(3)(C), (E), struck out “and” at end of subpar. (B) and added subpar. (C). Former subpar. (C) redesignated (D).
+
+Par. (4)(D). Pub. L. 114–22, § 116(b)(3)(F), inserted “State and local child welfare systems and” before “the National Center for Missing and Exploited Children” and substituted “; and” for period at end.
+
+Pub. L. 114–22, § 116(b)(3)(D), redesignated subpar. (C) as (D).
+
+Par. (4)(E). Pub. L. 114–22, § 116(b)(3)(G), added subpar. (E).
+
 2006—Pub. L. 109–248 added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “within 2 hours of receipt” for “immediately” in concluding provisions of par. (3).
 
 

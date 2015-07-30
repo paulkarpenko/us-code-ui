@@ -200,13 +200,13 @@ Amendment by Pub. L. 111–203 effective on the date on which final regulations 
 ## § 3311. Required review of regulations
 **(a) In general** Not less frequently than once every 10 years, the Council and each appropriate Federal banking agency represented on the Council shall conduct a review of all regulations prescribed by the Council or by any such appropriate Federal banking agency, respectively, in order to identify outdated or otherwise unnecessary regulatory requirements imposed on insured depository institutions.
 
-**(b) Process** In conducting the review under subsection (a) of this section, the Council or the appropriate Federal banking agency shall—
+**(b) Process** In conducting the review under subsection (a), the Council or the appropriate Federal banking agency shall—
 
-(1) categorize the regulations described in subsection (a) of this section by type (such as consumer regulations, safety and soundness regulations, or such other designations as determined by the Council, or the appropriate Federal banking agency); and
+(1) categorize the regulations described in subsection (a) by type (such as consumer regulations, safety and soundness regulations, or such other designations as determined by the Council, or the appropriate Federal banking agency); and
 
 (2) at regular intervals, provide notice and solicit public comment on a particular category or categories of regulations, requesting commentators to identify areas of the regulations that are outdated, unnecessary, or unduly burdensome.
 
-**(c) Complete review** The Council or the appropriate Federal banking agency shall ensure that the notice and comment period described in subsection (b)(2) of this section is conducted with respect to all regulations described in subsection (a) of this section not less frequently than once every 10 years.
+**(c) Complete review** The Council or the appropriate Federal banking agency shall ensure that the notice and comment period described in subsection (b)(2) is conducted with respect to all regulations described in subsection (a) not less frequently than once every 10 years.
 
 **(d) Regulatory response** The Council or the appropriate Federal banking agency shall—
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 111–203 effective on the date on which final regulations 
 
 (2) eliminate unnecessary regulations to the extent that such action is appropriate.
 
-**(e) Report to Congress** Not later than 30 days after carrying out subsection (d)(1) of this section, the Council shall submit to the Congress a report, which shall include—
+**(e) Report to Congress** Not later than 30 days after carrying out subsection (d)(1), the Council shall submit to the Congress a report, which shall include—
 
 (1) a summary of any significant issues raised by public comments received by the Council and the appropriate Federal banking agencies under this section and the relative merits of such issues; and
 

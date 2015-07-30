@@ -498,7 +498,7 @@ For purposes of this subsection, section 1563(e) shall apply in determining the 
 
 Subsec. (b)(1). Pub. L. 113–295, § 221(a)(94)(B)(i), struck out “or (2)” after “(a)(1)”.
 
-Subsec. (b)(2). Pub. L. 113–295, § 221(a)(94)(B)(ii), substituted “(a)(2)” for “(a)(3)”.
+Subsec. (b)(2). Pub. L. 113–295, § 221(a)(94)(B)(ii), substituted “(a)(2)” for “(a)(3)” in introductory provisions.
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “section 269(c)” for “section 269(b)”.
 
@@ -578,8 +578,6 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 (2) one $250,000 ($150,000 if any component member is a corporation described in section 535(c)(2)(B)) amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3), and
 
 (3) one $40,000 exemption amount for purposes of computing the amount of the minimum tax.
-
-(4) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(12)(H)(i), Dec. 19, 2014, 128 Stat. 4038]
 The amounts specified in paragraph (1) and the amount specified in paragraph (3) shall be divided equally among the component members of such group on such December 31 unless all of such component members consent (at such time and in such manner as the Secretary shall by regulations prescribe) to an apportionment plan providing for an unequal allocation of such amounts. The amounts specified in paragraph (2) shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amounts. Notwithstanding paragraph (1), in applying the last 2 sentences of section 11(b)(1) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under such last 2 sentences shall be divided among such component members in the same manner as amounts under paragraph (1). In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).
 
 **(b) Certain short taxable years** If a corporation has a short taxable year which does not include a December 31 and is a component member of a controlled group of corporations with respect to such taxable year, then for purposes of this subtitle—

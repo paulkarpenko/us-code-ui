@@ -517,6 +517,8 @@ Ex. Ord. No. 13396, Feb. 7, 2006, 71 F.R. 7389.
 
 Continuations of national emergency declared by Ex. Ord. No. 13396 were contained in the following:
 
+Notice of President of the United States, dated Feb. 4, 2015, 80 F.R. 6647.
+
 Notice of President of the United States, dated Feb. 4, 2014, 79 F.R. 7047.
 
 Notice of President of the United States, dated Feb. 4, 2013, 78 F.R. 8955.
@@ -537,6 +539,8 @@ Notice of President of the United States, dated Feb. 5, 2007, 72 F.R. 5593.
 Ex. Ord. No. 12947, Jan. 23, 1995, 60 F.R. 5079, as amended by Ex. Ord. No. 13099, §§ 1, 2, Aug. 20, 1998, 63 F.R. 45167; Ex. Ord. No. 13372, § 2, Feb. 16, 2005, 70 F.R. 8499.
 
 Continuations of national emergency declared by Ex. Ord. No. 12947 were contained in the following:
+
+Notice of President of the United States, dated Jan. 21, 2015, 80 F.R. 3461.
 
 Notice of President of the United States, dated Jan. 21, 2014, 79 F.R. 3721.
 
@@ -626,6 +630,8 @@ Ex. Ord. No. 12930, Sept. 29, 1994, 59 F.R. 50475, revoked by Ex. Ord. No. 12938
 Ex. Ord. No. 12938, Nov. 14, 1994, 59 F.R. 59099, as amended by Ex. Ord. No. 13094, § 1, July 28, 1998, 63 F.R. 40803; Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34704; Ex. Ord. No. 13382, § 4, June 28, 2005, 70 F.R. 38568.
 
 Continuations of national emergency declared by Ex. Ord. No. 12938 were contained in the following:
+
+Notice of President of the United States, dated Nov. 7, 2014, 79 F.R. 67035.
 
 Notice of President of the United States, dated Nov. 7, 2013, 78 F.R. 67289.
 
@@ -793,6 +799,8 @@ Ex. Ord. No. 12170, Nov. 14, 1979, 44 F.R. 65729.
 
 Continuations of national emergency declared by Ex. Ord. No. 12170 were contained in the following:
 
+Notice of President of the United States, dated Nov. 12, 2014, 79 F.R. 68091.
+
 Notice of President of the United States, dated Nov. 12, 2013, 78 F.R. 68323.
 
 Notice of President of the United States, dated Nov. 9, 2012, 77 F.R. 67741.
@@ -886,6 +894,8 @@ Ex. Ord. No. 12613, Oct. 29, 1987, 52 F.R. 41940, revoked by Ex. Ord. No. 13059,
 Ex. Ord. No. 12957, Mar. 15, 1995, 60 F.R. 14615, sections 1 and 2 of which were revoked by Ex. Ord. No. 12959, § 5, May 6, 1995, 60 F.R. 24758, to the extent inconsistent with Ex. Ord. No. 12959.
 
 Continuations of national emergency declared by Ex. Ord. No. 12957 were contained in the following:
+
+Notice of President of the United States, dated Mar. 11, 2015, 80 F.R. 13471.
 
 Notice of President of the United States, dated Mar. 12, 2014, 79 F.R. 14607.
 
@@ -1124,6 +1134,8 @@ Ex. Ord. No. 13566, Feb. 25, 2011, 76 F.R. 11315.
 
 Continuations of national emergency declared by Ex. Ord. No. 13566 were contained in the following:
 
+Notice of President of the United States, dated Feb. 23, 2015, 80 F.R. 9983.
+
 Notice of President of the United States, dated Feb. 20, 2014, 79 F.R. 10329.
 
 Notice of President of the United States, dated Feb. 13, 2013, 78 F.R. 11549.
@@ -1166,6 +1178,8 @@ Ex. Ord. No. 13551, Aug. 30, 2010, 75 F.R. 53837.
 
 Ex. Ord. No. 13570, Apr. 18, 2011, 76 F.R. 22291.
 
+Ex. Ord. No. 13687, Jan. 2, 2015, 80 F.R. 819.
+
 #### Panama
 Ex. Ord. No. 12635, Apr. 8, 1988, 53 F.R. 12134, revoked by Ex. Ord. No. 12710, Apr. 5, 1990, 55 F.R. 13099.
 
@@ -1174,6 +1188,9 @@ Continuation of national emergency declared by Ex. Ord. No. 12635 was contained 
 Notice of President of the United States, dated Apr. 6, 1989, 54 F.R. 14197.
 
 Ex. Ord. No. 12710, Apr. 5, 1990, 55 F.R. 13099.
+
+#### Persons Engaging in Significant Malicious Cyber-Enabled Activities
+Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077.
 
 #### Russia
 Ex. Ord. No. 13159, June 21, 2000, 65 F.R. 39279.
@@ -1230,6 +1247,8 @@ Ex. Ord. No. 13536, Apr. 12, 2010, 75 F.R. 19869, as amended by Ex. Ord. No. 136
 
 Continuations of national emergency declared by Ex. Ord. No. 13536 were contained in the following:
 
+Notice of President of the United States, dated Apr. 8, 2015, 80 F.R. 19193.
+
 Notice of President of the United States, dated Apr. 7, 2014, 79 F.R. 19803.
 
 Notice of President of the United States, dated Apr. 4, 2013, 78 F.R. 21013.
@@ -1249,6 +1268,10 @@ Ex. Ord. No. 12535, Oct. 1, 1985, 50 F.R. 40325, revoked by Ex. Ord. No. 12769, 
 
 #### South Sudan
 Ex. Ord. No. 13664, Apr. 3, 2014, 79 F.R. 19283.
+
+Continuation of national emergency declared by Ex. Ord. No. 13664 was contained in the following:
+
+Notice of President of the United States, dated Mar. 31, 2015, 80 F.R. 18081.
 
 #### Sudan
 Ex. Ord. No. 13067, Nov. 3, 1997, 62 F.R. 59989.
@@ -1346,9 +1369,18 @@ Notice of President of the United States, dated July 18, 2012, 77 F.R. 42619.
 #### Ukraine
 Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493.
 
+Continuation of national emergency declared by Ex. Ord. No. 13660 was contained in the following:
+
+Notice of President of the United States, dated Mar. 3, 2015, 80 F.R. 12067.
+
 Ex. Ord. No. 13661, Mar. 16, 2014, 79 F.R. 15535.
 
 Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169.
+
+Ex. Ord. No. 13685, Dec. 19, 2014, 79 F.R. 77357.
+
+#### Venezuela
+Ex. Ord. No. 13692, Mar. 8, 2015, 80 F.R. 12747.
 
 #### Western Balkans
 Ex. Ord. No. 12808, May 30, 1992, 57 F.R. 23299, revoked by Ex. Ord. No. 13304, May 28, 2003, 68 F.R. 32315.
@@ -1442,6 +1474,8 @@ Notice of President of the United States, dated May 13, 2013, 78 F.R. 28465.
 Ex. Ord. No. 13288, Mar. 6, 2003, 68 F.R. 11457, as amended by Ex. Ord. No. 13391, Nov. 22, 2005, 70 F.R. 71201.
 
 Continuations of national emergency declared by Ex. Ord. No. 13288 were contained in the following:
+
+Notice of President of the United States, dated Mar. 3, 2015, 80 F.R. 12069.
 
 Notice of President of the United States, dated Feb. 28, 2014, 79 F.R. 12031.
 

@@ -2,7 +2,7 @@
 title: 50
 heading: WAR AND NATIONAL DEFENSE
 positive_law: false
-sections: 1003
+sections: 1006
 chapters: 52
 ---
 # Title 50. WAR AND NATIONAL DEFENSE

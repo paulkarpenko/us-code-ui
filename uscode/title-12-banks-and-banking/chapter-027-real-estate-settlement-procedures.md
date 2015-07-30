@@ -202,7 +202,7 @@ The booklet prepared pursuant to this section shall take into consideration diff
 
 **(c) Estimate of charges** Each lender shall include with the booklet a good faith estimate of the amount or range of charges for specific settlement services the borrower is likely to incur in connection with the settlement as prescribed by the Bureau. Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to [section 1701x(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701x/e&num=0&edition=prelim) and located in the area of the lender.
 
-**(d) Distribution by lenders to loan applicants at time of receipt or preparation of applications** Each lender referred to in subsection (a) of this section shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. The lender shall provide the booklet in the version that is most appropriate for the person receiving it. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
+**(d) Distribution by lenders to loan applicants at time of receipt or preparation of applications** Each lender referred to in subsection (a) shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. The lender shall provide the booklet in the version that is most appropriate for the person receiving it. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
 
 **(e) Printing and distribution by lenders of booklets approved by Bureau** Booklets may be printed and distributed by lenders if their form and content are approved by the Bureau as meeting the requirements of subsection (b) of this section.
 
@@ -216,7 +216,7 @@ The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 9
 #### Amendments
 2014—Subsec. (b)(14). Pub. L. 113–89 inserted before period at end “, and the following statement: ‘Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.’ ” and transferred par. (14) to appear after par. (13).
 
-2012—Subsec. (b)(14). Pub. L. 112–141 added par. (14).
+2012—Subsec. (b)(14). Pub. L. 112–141 added par. (14) at end of subsec. (b).
 
 2010—Pub. L. 111–203, § 1450(1), substituted “Home buying” for “Special” in section catchline.
 
@@ -301,7 +301,7 @@ Amendment by Pub. L. 94–205 effective Jan. 2, 1976, with the Secretary authori
 
   (C) *Exception for notice provided at closing* — The provisions of subparagraphs (A) and (B) shall not apply to any assignment, sale, or transfer of the servicing of any mortgage loan if the person who makes the loan provides to the borrower, at settlement (with respect to the property for which the mortgage loan is made), written notice under paragraph (3) of such transfer.
 
-(3) **Contents of notice** — Any notice required under paragraph (1) shall include the information described in subsection (b)(3) of this section.
+(3) **Contents of notice** — Any notice required under paragraph (1) shall include the information described in subsection (b)(3).
 
 **(d) Treatment of loan payments during transfer period** During the 60-day period beginning on the effective date of transfer of the servicing of any federally related mortgage loan, a late fee may not be imposed on the borrower with respect to any payment on such loan and no such payment may be treated as late for any other purposes, if the payment is received by the transferor servicer (rather than the transferee servicer who should properly receive payment) before the due date applicable to such payment.
 
@@ -383,11 +383,11 @@ Amendment by Pub. L. 94–205 effective Jan. 2, 1976, with the Secretary authori
 
 **(j) Transition**
 
-(1) **Originator liability** — A person who makes a federally related mortgage loan shall not be liable to a borrower because of a failure of such person to comply with subsection (a) of this section with respect to an application for a loan made by the borrower before the regulations referred to in paragraph (3) take effect.
+(1) **Originator liability** — A person who makes a federally related mortgage loan shall not be liable to a borrower because of a failure of such person to comply with subsection (a) with respect to an application for a loan made by the borrower before the regulations referred to in paragraph (3) take effect.
 
-(2) **Servicer liability** — A servicer of a federally related mortgage loan shall not be liable to a borrower because of a failure of the servicer to perform any duty under subsection (b), (c), (d), or (e) of this section that arises before the regulations referred to in paragraph (3) take effect.
+(2) **Servicer liability** — A servicer of a federally related mortgage loan shall not be liable to a borrower because of a failure of the servicer to perform any duty under subsection (b), (c), (d), or (e) that arises before the regulations referred to in paragraph (3) take effect.
 
-(3) **Regulations and effective date** — The Bureau shall establish any requirements necessary to carry out this section. Such regulations shall include the model disclosure statement required under subsection (a)(2) of this section.
+(3) **Regulations and effective date** — The Bureau shall establish any requirements necessary to carry out this section. Such regulations shall include the model disclosure statement required under subsection (a)(2).
 
 **(k) Servicer prohibitions**
 
@@ -514,7 +514,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 (2) Any person or persons who violate the prohibitions or limitations of this section shall be jointly and severally liable to the person or persons charged for the settlement service involved in the violation in an amount equal to three times the amount of any charge paid for such settlement service.
 
-(3) No person or persons shall be liable for a violation of the provisions of subsection (c)(4)(A) of this section if such person or persons proves by a preponderance of the evidence that such violation was not intentional and resulted from a bona fide error notwithstanding maintenance of procedures that are reasonably adapted to avoid such error.
+(3) No person or persons shall be liable for a violation of the provisions of subsection (c)(4)(A) if such person or persons proves by a preponderance of the evidence that such violation was not intentional and resulted from a bona fide error notwithstanding maintenance of procedures that are reasonably adapted to avoid such error.
 
 (4) The Bureau, the Secretary, or the attorney general or the insurance commissioner of any State may bring an action to enjoin violations of this section. Except, to the extent that a person is subject to the jurisdiction of the Bureau, the Secretary, or the attorney general or the insurance commissioner of any State, the Bureau shall have primary authority to enforce or administer this section, subject to subtitle B of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5511](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511) et seq.].
 
@@ -569,7 +569,7 @@ Federal Home Loan Bank Board abolished and functions transferred, see sections 4
 ## § 2608. Title companies; liability of seller
 **(a)** No seller of property that will be purchased with the assistance of a federally related mortgage loan shall require directly or indirectly, as a condition to selling the property, that title insurance covering the property be purchased by the buyer from any particular title company.
 
-**(b)** Any seller who violates the provisions of subsection (a) of this section shall be liable to the buyer in an amount equal to three times all charges made for such title insurance.
+**(b)** Any seller who violates the provisions of subsection (a) shall be liable to the buyer in an amount equal to three times all charges made for such title insurance.
 
 
 <a id="section-2609"></a>
@@ -600,7 +600,7 @@ Federal Home Loan Bank Board abolished and functions transferred, see sections 4
 
 **(d) Penalties**
 
-(1) **In general** — In the case of each failure to submit a statement to a borrower as required under subsection (c) of this section, the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on such lender or escrow servicer for all such failures during any 12-month period referred to in subsection (b) 11 So in original. Probably should be subsection “(c)”. of this section may not exceed $100,000.
+(1) **In general** — In the case of each failure to submit a statement to a borrower as required under subsection (c), the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on such lender or escrow servicer for all such failures during any 12-month period referred to in subsection (b) 11 So in original. Probably should be subsection “(c)”. may not exceed $100,000.
 
 (2) **Intentional violations** — If any failure to which paragraph (1) applies is due to intentional disregard of the requirement to submit the statement, then, with respect to such failure—
 

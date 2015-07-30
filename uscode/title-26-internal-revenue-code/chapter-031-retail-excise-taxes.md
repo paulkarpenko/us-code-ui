@@ -921,7 +921,7 @@ Section 206 of the Inland Waterways Revenue Act of 1978, referred to in subsec. 
 A prior section 4042, act Aug. 16, 1954, ch. 736, 68A Stat. 478, provided a cross reference to [section 4222 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4222) for exemption from tax where special motor fuels are sold for use for certain vessels, prior to repeal by Pub. L. 94–455, title XIX, § 1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
-2014—Subsec. (b)(2)(A). Pub. L. 113–295 amended subpar. (A) generally, substituting “The Inland Waterways Trust Fund financing rate is 29 cents per gallon.” for “The Inland Waterways Trust Fund financing rate is the rate determined in accordance with the following table:” and table of rates”.
+2014—Subsec. (b)(2)(A). Pub. L. 113–295 amended subpar. (A) generally, substituting “The Inland Waterways Trust Fund financing rate is 29 cents per gallon.” for “The Inland Waterways Trust Fund financing rate is the rate determined in accordance with the following table:” and accompanying table of rates.
 
 2007—Subsec. (b)(3). Pub. L. 110–172 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use.”
 

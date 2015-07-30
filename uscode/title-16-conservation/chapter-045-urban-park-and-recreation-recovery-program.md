@@ -12,7 +12,7 @@ source: >-
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 95–625, title X, § 1002, Nov. 10, 1978, 92 Stat. 3538, which related to Congressional findings, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 95–625, title X, § 1002, Nov. 10, 1978, 92 Stat. 3538, which related to congressional findings, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by Pub. L. 113–287.
 
 
 <a id="section-2502"></a>
@@ -20,7 +20,7 @@ Section, Pub. L. 95–625, title X, § 1002, Nov. 10, 1978, 92 Stat. 3538, which
 
 ### Statutory Notes
 
-Section, Pub. L. 95–625, title X, § 1003, Nov. 10, 1978, 92 Stat. 3539; Pub. L. 103–322, title III, §§ 31501, 31505(b), Sept. 13, 1994, 108 Stat. 1888, 1890, which related to Congressional statement of purpose; complementary program authorization; terms and conditions, was transferred and is set out as a note under [section 200501 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200501&num=0&edition=prelim), National Park Service and Related Programs.
+Section, Pub. L. 95–625, title X, § 1003, Nov. 10, 1978, 92 Stat. 3539; Pub. L. 103–322, title III, §§ 31501, 31505(b), Sept. 13, 1994, 108 Stat. 1888, 1890, which related to congressional statement of purpose regarding establishment of urban park and recreation recovery program, was transferred and is set out as a note under [section 200501 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200501&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-2503"></a>
@@ -28,7 +28,7 @@ Section, Pub. L. 95–625, title X, § 1003, Nov. 10, 1978, 92 Stat. 3539; Pub. 
 
 ### Statutory Notes
 
-Section, Pub. L. 95–625, title X, § 1004, Nov. 10, 1978, 92 Stat. 3539; Pub. L. 103–322, title III, § 31502, Sept. 13, 1994, 108 Stat. 1888, related to definitions. See [section 200501 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200501&num=0&edition=prelim), National Park Service and Related Programs.
+Section, Pub. L. 95–625, title X, § 1004, Nov. 10, 1978, 92 Stat. 3539; Pub. L. 103–322, title III, § 31502, Sept. 13, 1994, 108 Stat. 1888, provided definitions for this chapter. See [section 200501 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200501&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-2504"></a>
@@ -92,7 +92,7 @@ Section, Pub. L. 95–625, title X, § 1011, Nov. 10, 1978, 92 Stat. 3543, relat
 
 ### Statutory Notes
 
-Section, Pub. L. 95–625, title X, § 1012, Nov. 10, 1978, 92 Stat. 3543, related to recordkeeping; audit and examination; access to books and records. See [section 200509 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200509&num=0&edition=prelim), National Park Service and Related Programs.
+Section, Pub. L. 95–625, title X, § 1012, Nov. 10, 1978, 92 Stat. 3543, related to recordkeeping, audit and examination, and access to books and records. See [section 200509 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200509&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-2512"></a>
@@ -100,7 +100,7 @@ Section, Pub. L. 95–625, title X, § 1012, Nov. 10, 1978, 92 Stat. 3543, relat
 
 ### Statutory Notes
 
-Section, Pub. L. 95–625, title X, § 1013, Nov. 10, 1978, 92 Stat. 3544; Pub. L. 98–454, title VI, § 601(a), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 103–322, title III, § 31505(a), Sept. 13, 1994, 108 Stat. 1889, related to authorization of appropriations. See sections 200510 and 200511 of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 95–625, title X, § 1013, Nov. 10, 1978, 92 Stat. 3544; Pub. L. 98–454, title VI, § 601(a), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 103–322, title III, § 31505(a), Sept. 13, 1994, 108 Stat. 1889, related to authorization of appropriations. See sections 200510 and 200511(a) to (d) of Title 54, National Park Service and Related Programs.
 
 
 <a id="section-2513"></a>
@@ -108,7 +108,7 @@ Section, Pub. L. 95–625, title X, § 1013, Nov. 10, 1978, 92 Stat. 3544; Pub. 
 
 ### Statutory Notes
 
-Section, Pub. L. 95–625, title X, § 1014, Nov. 10, 1978, 92 Stat. 3544, related to limitation of use of funds. See [section 200511 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200511&num=0&edition=prelim), National Park Service and Related Programs.
+Section, Pub. L. 95–625, title X, § 1014, Nov. 10, 1978, 92 Stat. 3544, related to limitation of use of funds. See [section 200511(e) of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200511/e&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-2514"></a>
@@ -116,4 +116,4 @@ Section, Pub. L. 95–625, title X, § 1014, Nov. 10, 1978, 92 Stat. 3544, relat
 
 ### Statutory Notes
 
-Section, Pub. L. 95–625, title X, § 1015, Nov. 10, 1978, 92 Stat. 3544; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(M), Nov. 12, 1996, 110 Stat. 4196, related to sunset and reporting provisions.
+Section, Pub. L. 95–625, title X, § 1015, Nov. 10, 1978, 92 Stat. 3544; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(M), Nov. 12, 1996, 110 Stat. 4196, related to sunset and reporting provisions. Subsec. (b), which required annual reports on the innovation grant program, had been previously repealed by Pub. L. 104–333.

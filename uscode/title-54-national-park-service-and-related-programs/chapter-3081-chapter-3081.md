@@ -59,15 +59,15 @@ Pub. L. 111–11, title VII, § 7301(a), Mar. 30, 2009, 123 Stat. 1213, provided
 ### Statutory Notes
 
 #### Amendment Not Shown in Text
-This section was derived from section 469k–1(c)(1)(A) to (C), (2) to (6) of Title 16, Conservation. Pursuant to section 6(b) of Pub. L. 113–287, set out as a Transitional and Savings Provisions note preceding [section 100101 of this title](./chapter-1001-chapter-1001.md#section-100101), this section replaces the former provisions as they existed on Jan. 15, 2013, and any amendment to the former provisions enacted after Jan. 15, 2013, is deemed to amend this section. The former provisions were amended after Jan. 15, 2013, by Pub. L. 113–76, div. G, title IV, § 429, Jan. 17, 2014, 128 Stat. 345; Pub. L. 113–235, div. F, title IV, § 421, Dec. 16, 2014, 128 Stat. 2449; and Pub. L. 113–291, div. B, title XXX, § 3050, Dec. 19, 2014, 128 Stat. 3799.
+This section was derived from section 469k–1(c)(1)(A) to (C), (2) to (6) of Title 16, Conservation, which was amended by Pub. L. 113–76, div. G, title IV, § 429, Jan. 17, 2014, 128 Stat. 345; Pub. L. 113–235, div. F, title IV, § 421, Dec. 16, 2014, 128 Stat. 2449; and Pub. L. 113–291, div. B, title XXX, § 3050, Dec. 19, 2014, 128 Stat. 3799. For applicability of those amendments to this section, see section 6(b) of Pub. L. 113–287, set out as a Transitional and Savings Provisions note preceding [section 100101 of this title](./chapter-1001-chapter-1001.md#section-100101).
 
-Subsec. (c)(6) of former [section 469k–1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1&num=0&edition=prelim) (corresponding to subsec. (f) of this section) was amended by Pub. L. 113–76 by striking “2013” and inserting “2014” and by Pub. L. 113–235 by striking “2014” and inserting “2021”.
+Subsec. (c)(6) of former [section 469k–1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1&num=0&edition=prelim) [restated in subsec. (f) of this section] was amended by Pub. L. 113–76 by striking “2013” and inserting “2014” and by Pub. L. 113–235 by striking “2014” and inserting “2021”.
 
-The amendments made by Pub. L. 113–291 to subsec. (c) of former [section 469k–1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1&num=0&edition=prelim), along with the corresponding provisions of this section, when present, are as follows:
+Subsec. (c) of former [section 469k–1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1&num=0&edition=prelim) was amended by Pub. L. 113–291 as follows:
 
 (1) In paragraph (1)—
 
-(A) by striking subparagraph (A) [see subsec. (a)(2) of this section] and inserting the following:
+(A) by striking subparagraph (A) [restated in subsec. (a)(2) of this section] and inserting the following:
 
 “(A) Battlefield report.—The term ‘battlefield report’ means, collectively—
 
@@ -75,19 +75,19 @@ The amendments made by Pub. L. 113–291 to subsec. (c) of former [section 469k�
 
 “(ii) the report entitled ‘Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States’, prepared by the National Park Service, and dated September 2007.”; and
 
-(B) in subparagraph (C)(ii) [incorporated into subsec. (a)(2) of this section with no direct correspondence], by striking “Battlefield Report” and inserting “battlefield report”;
+(B) in subparagraph (C)(ii) [restated in subsec. (a)(2) of this section], by striking “Battlefield Report” and inserting “battlefield report”;
 
-(2) In paragraph (2) [subsec. (b) of this section], by inserting “eligible sites or” after “acquiring”;
+(2) In paragraph (2) [restated in subsec. (b) of this section], by inserting “eligible sites or” after “acquiring”;
 
-(3) In paragraph (3) [subsec. (c) of this section], by inserting “an eligible site or” after “acquire”;
+(3) In paragraph (3) [restated in subsec. (c) of this section], by inserting “an eligible site or” after “acquire”;
 
-(4) In paragraph (4) [subsec. (d) of this section], by inserting “an eligible site or” after “acquiring”;
+(4) In paragraph (4) [restated as subsec. (d) of this section], by inserting “an eligible site or” after “acquiring”;
 
-(5) In paragraph (5) [subsec. (e) of this section], by striking “An” and inserting “An eligible site or an”;
+(5) In paragraph (5) [restated as subsec. (e) of this section], by striking “An” and inserting “An eligible site or an”;
 
-(6) By redesignating paragraph (6) [subsec. (f) of this section] as paragraph (9);
+(6) By redesignating paragraph (6) [restated as subsec. (f) of this section] as paragraph (9);
 
-(7) By inserting after paragraph (5) [subsec. (e) of this section] the following new paragraphs:
+(7) By inserting after paragraph (5) [restated as subsec. (e) of this section] the following new paragraphs:
 
 “(6) Willing sellers.—Acquisition of land or interests in land under this subsection shall be from willing sellers only.
 
@@ -101,7 +101,7 @@ The amendments made by Pub. L. 113–291 to subsec. (c) of former [section 469k�
 
 “(8) Prohibition on lobbying.—None of the funds provided pursuant to this section shall be used in any way, directly or indirectly, to influence congressional action on any legislation or appropriation matters pending before Congress.”; and
 
-(8) In paragraph (9) [subsec. (f) of this section] (as redesignated), by striking “2014” and inserting “2021”. [This amendment is identical to amendment made by Pub. L. 113–235.]
+(8) In paragraph (9) [restated as subsec. (f) of this section] (as redesignated), by striking “2014” and inserting “2021”.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |

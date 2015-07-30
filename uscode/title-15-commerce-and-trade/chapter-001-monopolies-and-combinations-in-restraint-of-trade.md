@@ -333,7 +333,7 @@ It shall be unlawful for any person engaged in commerce, in the course of such c
 
 <a id="section-15"></a>
 ## § 15. Suits by persons injured
-**(a) Amount of recovery; prejudgment interest** Except as provided in subsection (b) of this section, any person who shall be injured in his business or property by reason of anything forbidden in the antitrust laws may sue therefor in any district court of the United States in the district in which the defendant resides or is found or has an agent, without respect to the amount in controversy, and shall recover threefold the damages by him sustained, and the cost of suit, including a reasonable attorney’s fee. The court may award under this section, pursuant to a motion by such person promptly made, simple interest on actual damages for the period beginning on the date of service of such person’s pleading setting forth a claim under the antitrust laws and ending on the date of judgment, or for any shorter period therein, if the court finds that the award of such interest for such period is just in the circumstances. In determining whether an award of interest under this section for any period is just in the circumstances, the court shall consider only—
+**(a) Amount of recovery; prejudgment interest** Except as provided in subsection (b), any person who shall be injured in his business or property by reason of anything forbidden in the antitrust laws may sue therefor in any district court of the United States in the district in which the defendant resides or is found or has an agent, without respect to the amount in controversy, and shall recover threefold the damages by him sustained, and the cost of suit, including a reasonable attorney’s fee. The court may award under this section, pursuant to a motion by such person promptly made, simple interest on actual damages for the period beginning on the date of service of such person’s pleading setting forth a claim under the antitrust laws and ending on the date of judgment, or for any shorter period therein, if the court finds that the award of such interest for such period is just in the circumstances. In determining whether an award of interest under this section for any period is just in the circumstances, the court shall consider only—
 
 (1) whether such person or the opposing party, or either party’s representative, made motions or asserted claims or defenses so lacking in merit as to show that such party or representative acted intentionally for delay, or otherwise acted in bad faith;
 
@@ -343,7 +343,7 @@ It shall be unlawful for any person engaged in commerce, in the course of such c
 
 **(b) Amount of damages payable to foreign states and instrumentalities of foreign states**
 
-(1) Except as provided in paragraph (2), any person who is a foreign state may not recover under subsection (a) of this section an amount in excess of the actual damages sustained by it and the cost of suit, including a reasonable attorney’s fee.
+(1) Except as provided in paragraph (2), any person who is a foreign state may not recover under subsection (a) an amount in excess of the actual damages sustained by it and the cost of suit, including a reasonable attorney’s fee.
 
 (2) Paragraph (1) shall not apply to a foreign state if—
 
@@ -370,7 +370,7 @@ The antitrust laws, referred to in subsec. (a), are defined in [section 12 of th
 Section supersedes two former similar sections enacted by act July 2, 1890, ch. 647, § 7, 26 Stat. 210, and act Aug. 27, 1894, ch. 349, § 77, 28 Stat. 570, each of which were restricted in operation to the particular act cited. Section 7 of act July 2, 1890, was repealed by act July 7, 1955, ch. 283, § 3, 69 Stat. 283, effective six months after July 7, 1955. Section 77 of act Aug. 27, 1894, was repealed by Pub. L. 107–273, div. C, title IV, §§ 14102(c)(1)(A), 14103, Nov. 2, 2002, 116 Stat. 1921, 1922, effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002.
 
 #### Amendments
-1982—Pub. L. 97–393 designated existing provisions as subsec. (a), inserted “Except as provided in subsection (b) of this section,”, and added subsecs. (b) and (c).
+1982—Pub. L. 97–393 designated existing provisions as subsec. (a), inserted “Except as provided in subsection (b),”, and added subsecs. (b) and (c).
 
 1980—Pub. L. 96–349 inserted provisions respecting award of prejudgment interest including considerations for the court in determining whether an award is just under the circumstances.
 
@@ -445,13 +445,13 @@ Act July 7, 1955, ch. 283, § 4, 69 Stat. 283, provided: “This Act [enacting t
 
 (1) In any action brought under subsection (a)(1) of this section, the State attorney general shall, at such times, in such manner, and with such content as the court may direct, cause notice thereof to be given by publication. If the court finds that notice given solely by publication would deny due process of law to any person or persons, the court may direct further notice to such person or persons according to the circumstances of the case.
 
-(2) Any person on whose behalf an action is brought under subsection (a)(1) of this section may elect to exclude from adjudication the portion of the State claim for monetary relief attributable to him by filing notice of such election with the court within such time as specified in the notice given pursuant to paragraph (1) of this subsection.
+(2) Any person on whose behalf an action is brought under subsection (a)(1) may elect to exclude from adjudication the portion of the State claim for monetary relief attributable to him by filing notice of such election with the court within such time as specified in the notice given pursuant to paragraph (1) of this subsection.
 
-(3) The final judgment in an action under subsection (a)(1) of this section shall be res judicata as to any claim under [section 15 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-15) by any person on behalf of whom such action was brought and who fails to give such notice within the period specified in the notice given pursuant to paragraph (1) of this subsection.
+(3) The final judgment in an action under subsection (a)(1) shall be res judicata as to any claim under [section 15 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-15) by any person on behalf of whom such action was brought and who fails to give such notice within the period specified in the notice given pursuant to paragraph (1) of this subsection.
 
-**(c) Dismissal or compromise of action** An action under subsection (a)(1) of this section shall not be dismissed or compromised without the approval of the court, and notice of any proposed dismissal or compromise shall be given in such manner as the court directs.
+**(c) Dismissal or compromise of action** An action under subsection (a)(1) shall not be dismissed or compromised without the approval of the court, and notice of any proposed dismissal or compromise shall be given in such manner as the court directs.
 
-**(d) Attorneys’ fees** In any action under subsection (a) of this section—
+**(d) Attorneys’ fees** In any action under subsection (a)—
 
 (1) the amount of the plaintiffs’ attorney’s fee, if any, shall be determined by the court; and
 
@@ -570,11 +570,11 @@ Injuries sustained prior to Sept. 30, 1976, not covered by this section, see sec
 
 (i) a summary of the terms of the proposal for consent judgment,
 
-(ii) a summary of the competitive impact statement filed under subsection (b) of this section,
+(ii) a summary of the competitive impact statement filed under subsection (b),
 
-(iii) and a list of the materials and documents under subsection (b) of this section which the United States shall make available for purposes of meaningful public comment, and the place where such materials and documents are available for public inspection.
+(iii) and a list of the materials and documents under subsection (b) which the United States shall make available for purposes of meaningful public comment, and the place where such materials and documents are available for public inspection.
 
-**(d) Consideration of public comments by Attorney General and publication of response** During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments. Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.
+**(d) Consideration of public comments by Attorney General and publication of response** During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b). The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments. Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.
 
 **(e) Public interest determination**
 
@@ -586,7 +586,7 @@ Injuries sustained prior to Sept. 30, 1976, not covered by this section, see sec
 
 (2) Nothing in this section shall be construed to require the court to conduct an evidentiary hearing or to require the court to permit anyone to intervene.
 
-**(f) Procedure for public interest determination** In making its determination under subsection (e) of this section, the court may—
+**(f) Procedure for public interest determination** In making its determination under subsection (e), the court may—
 
 (1) take testimony of Government officials or experts or such other expert witnesses, upon motion of any party or participant or upon its own motion, as the court may deem appropriate;
 
@@ -594,11 +594,11 @@ Injuries sustained prior to Sept. 30, 1976, not covered by this section, see sec
 
 (3) authorize full or limited participation in proceedings before the court by interested persons or agencies, including appearance amicus curiae, intervention as a party pursuant to the Federal Rules of Civil Procedure, examination of witnesses or documentary materials, or participation in any other manner and extent which serves the public interest as the court may deem appropriate;
 
-(4) review any comments including any objections filed with the United States under subsection (d) of this section concerning the proposed judgment and the responses of the United States to such comments and objections; and
+(4) review any comments including any objections filed with the United States under subsection (d) concerning the proposed judgment and the responses of the United States to such comments and objections; and
 
 (5) take such other action in the public interest as the court may deem appropriate.
 
-**(g) Filing of written or oral communications with the district court** Not later than 10 days following the date of the filing of any proposal for a consent judgment under subsection (b) of this section, each defendant shall file with the district court a description of any and all written or oral communications by or on behalf of such defendant, including any and all written or oral communications on behalf of such defendant by any officer, director, employee, or agent of such defendant, or other person, with any officer or employee of the United States concerning or relevant to such proposal, except that any such communications made by counsel of record alone with the Attorney General or the employees of the Department of Justice alone shall be excluded from the requirements of this subsection. Prior to the entry of any consent judgment pursuant to the antitrust laws, each defendant shall certify to the district court that the requirements of this subsection have been complied with and that such filing is a true and complete description of such communications known to the defendant or which the defendant reasonably should have known.
+**(g) Filing of written or oral communications with the district court** Not later than 10 days following the date of the filing of any proposal for a consent judgment under subsection (b), each defendant shall file with the district court a description of any and all written or oral communications by or on behalf of such defendant, including any and all written or oral communications on behalf of such defendant by any officer, director, employee, or agent of such defendant, or other person, with any officer or employee of the United States concerning or relevant to such proposal, except that any such communications made by counsel of record alone with the Attorney General or the employees of the Department of Justice alone shall be excluded from the requirements of this subsection. Prior to the entry of any consent judgment pursuant to the antitrust laws, each defendant shall certify to the district court that the requirements of this subsection have been complied with and that such filing is a true and complete description of such communications known to the defendant or which the defendant reasonably should have known.
 
 **(h) Inadmissibility as evidence of proceedings before the district court and the competitive impact statement** Proceedings before the district court under subsections (e) and (f) of this section, and the competitive impact statement filed under subsection (b) of this section, shall not be admissible against any defendant in any action or proceeding brought by any other party against such defendant under the antitrust laws or by the United States under [section 15a of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-15a) nor constitute a basis for the introduction of the consent judgment as prima facie evidence against such defendant in any such action or proceeding.
 
@@ -693,7 +693,7 @@ Maritime Administration of Department of Commerce transferred to Department of T
 
 <a id="section-18a"></a>
 ## § 18a. Premerger notification and waiting period
-**(a) Filing** Except as exempted pursuant to subsection (c) of this section, no person shall acquire, directly or indirectly, any voting securities or assets of any other person, unless both persons (or in the case of a tender offer, the acquiring person) file notification pursuant to rules under subsection (d)(1) of this section and the waiting period described in subsection (b)(1) of this section has expired, if—
+**(a) Filing** Except as exempted pursuant to subsection (c), no person shall acquire, directly or indirectly, any voting securities or assets of any other person, unless both persons (or in the case of a tender offer, the acquiring person) file notification pursuant to rules under subsection (d)(1) and the waiting period described in subsection (b)(1) has expired, if—
 
 (1) the acquiring person, or the person whose voting securities or assets are being acquired, is engaged in commerce or in any activity affecting commerce; and
 
@@ -712,20 +712,20 @@ Maritime Administration of Department of Commerce transferred to Department of T
       (II) any voting securities or assets of a person not engaged in manufacturing which has total assets of $10,000,000 (as so adjusted and published) or more are being acquired by any person which has total assets or annual net sales of $100,000,000 (as so adjusted and published) or more; or
 
       (III) any voting securities or assets of a person with annual net sales or total assets of $100,000,000 (as so adjusted and published) or more are being acquired by any person with total assets or annual net sales of $10,000,000 (as so adjusted and published) or more.
-In the case of a tender offer, the person whose voting securities are sought to be acquired by a person required to file notification under this subsection shall file notification pursuant to rules under subsection (d) of this section.
+In the case of a tender offer, the person whose voting securities are sought to be acquired by a person required to file notification under this subsection shall file notification pursuant to rules under subsection (d).
 
 **(b) Waiting period; publication; voting securities**
 
-(1) The waiting period required under subsection (a) of this section shall—
+(1) The waiting period required under subsection (a) shall—
 
   (A) begin on the date of the receipt by the Federal Trade Commission and the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice (hereinafter referred to in this section as the “Assistant Attorney General”) of—
 
-    (i) the completed notification required under subsection (a) of this section, or
+    (i) the completed notification required under subsection (a), or
 
     (ii) if such notification is not completed, the notification to the extent completed and a statement of the reasons for such noncompliance,
     from both persons, or, in the case of a tender offer, the acquiring person; and
 
-  (B) end on the thirtieth day after the date of such receipt (or in the case of a cash tender offer, the fifteenth day), or on such later date as may be set under subsection (e)(2) or (g)(2) of this section.
+  (B) end on the thirtieth day after the date of such receipt (or in the case of a cash tender offer, the fifteenth day), or on such later date as may be set under subsection (e)(2) or (g)(2).
 
 (2) The Federal Trade Commission and the Assistant Attorney General may, in individual cases, terminate the waiting period specified in paragraph (1) and allow any person to proceed with any acquisition subject to this section, and promptly shall cause to be published in the Federal Register a notice that neither intends to take any action within such period with respect to such acquisition.
 
@@ -759,11 +759,11 @@ In the case of a tender offer, the person whose voting securities are sought to 
 
 (11) acquisitions, solely for the purpose of investment, by any bank, banking association, trust company, investment company, or insurance company, of (A) voting securities pursuant to a plan of reorganization or dissolution; or (B) assets in the ordinary course of its business; and
 
-(12) such other acquisitions, transfers, or transactions, as may be exempted under subsection (d)(2)(B) of this section.
+(12) such other acquisitions, transfers, or transactions, as may be exempted under subsection (d)(2)(B).
 
 **(d) Commission rules** The Federal Trade Commission, with the concurrence of the Assistant Attorney General and by rule in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), consistent with the purposes of this section—
 
-(1) shall require that the notification required under subsection (a) of this section be in such form and contain such documentary material and information relevant to a proposed acquisition as is necessary and appropriate to enable the Federal Trade Commission and the Assistant Attorney General to determine whether such acquisition may, if consummated, violate the antitrust laws; and
+(1) shall require that the notification required under subsection (a) be in such form and contain such documentary material and information relevant to a proposed acquisition as is necessary and appropriate to enable the Federal Trade Commission and the Assistant Attorney General to determine whether such acquisition may, if consummated, violate the antitrust laws; and
 
 (2) may—
 
@@ -801,7 +801,7 @@ In the case of a tender offer, the person whose voting securities are sought to 
 
       (III) the effects of such reforms.
 
-(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2) of this section.
+(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2).
 
 **(f) Preliminary injunctions; hearings** If a proceeding is instituted or an action is filed by the Federal Trade Commission, alleging that a proposed acquisition violates [section 18 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-18), or [section 45 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45), or an action is filed by the United States, alleging that a proposed acquisition violates such [section 18 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-18), or section 1 or 2 of this title, and the Federal Trade Commission or the Assistant Attorney General (1) files a motion for a preliminary injunction against consummation of such acquisition pendente lite, and (2) certifies the United States district court for the judicial district within which the respondent resides or carries on business, or in which the action is brought, that it or he believes that the public interest requires relief pendente lite pursuant to this subsection, then upon the filing of such motion and certification, the chief judge of such district court shall immediately notify the chief judge of the United States court of appeals for the circuit in which such district court is located, who shall designate a United States district judge to whom such action shall be assigned for all purposes.
 
@@ -809,11 +809,11 @@ In the case of a tender offer, the person whose voting securities are sought to 
 
 (1) Any person, or any officer, director, or partner thereof, who fails to comply with any provision of this section shall be liable to the United States for a civil penalty of not more than $10,000 for each day during which such person is in violation of this section. Such penalty may be recovered in a civil action brought by the United States.
 
-(2) If any person, or any officer, director, partner, agent, or employee thereof, fails substantially to comply with the notification requirement under subsection (a) of this section or any request for the submission of additional information or documentary material under subsection (e)(1) of this section within the waiting period specified in subsection (b)(1) of this section and as may be extended under subsection (e)(2) of this section, the United States district court—
+(2) If any person, or any officer, director, partner, agent, or employee thereof, fails substantially to comply with the notification requirement under subsection (a) or any request for the submission of additional information or documentary material under subsection (e)(1) of this section within the waiting period specified in subsection (b)(1) and as may be extended under subsection (e)(2), the United States district court—
 
   (A) may order compliance;
 
-  (B) shall extend the waiting period specified in subsection (b)(1) of this section and as may have been extended under subsection (e)(2) of this section until there has been substantial compliance, except that, in the case of a tender offer, the court may not extend such waiting period on the basis of a failure, by the person whose stock is sought to be acquired, to comply substantially with such notification requirement or any such request; and
+  (B) shall extend the waiting period specified in subsection (b)(1) and as may have been extended under subsection (e)(2) until there has been substantial compliance, except that, in the case of a tender offer, the court may not extend such waiting period on the basis of a failure, by the person whose stock is sought to be acquired, to comply substantially with such notification requirement or any such request; and
 
   (C) may grant such other equitable relief as the court in its discretion determines necessary or appropriate,
   upon application of the Federal Trade Commission or the Assistant Attorney General.
@@ -968,9 +968,9 @@ Section, act Oct. 15, 1914, ch. 323, § 10, 38 Stat. 734, related to a $50,000 y
 
 **(f) Service of complaints, orders and other processes** Complaints, orders, and other processes of the commission, board, or Secretary under this section may be serviced by anyone duly authorized by the commission, board, or Secretary, either (1) by delivering a copy thereof to the person to be served, or to a member of the partnership to be served, or to the president, secretary, or other executive officer or a director of the corporation to be served; or (2) by leaving a copy thereof at the residence or the principal office or place of business of such person; or (3) by mailing by registered or certified mail a copy thereof addressed to such person at his or its residence or principal office or place of business. The verified return by the person so serving said complaint, order, or other process setting forth the manner of said service shall be proof of the same, and the return post office receipt for said complaint, order, or other process mailed by registered or certified mail as aforesaid shall be proof of the service of the same.
 
-**(g) Finality of orders generally** Any order issued under subsection (b) of this section shall become final—
+**(g) Finality of orders generally** Any order issued under subsection (b) shall become final—
 
-(1) upon the expiration of the time allowed for filing a petition for review, if no such petition has been duly filed within such time; but the commission, board, or Secretary may thereafter modify or set aside its order to the extent provided in the last sentence of subsection (b) of this section; or
+(1) upon the expiration of the time allowed for filing a petition for review, if no such petition has been duly filed within such time; but the commission, board, or Secretary may thereafter modify or set aside its order to the extent provided in the last sentence of subsection (b); or
 
 (2) upon the expiration of the time allowed for filing a petition for certiorari, if the order of the commission, board, or Secretary has been affirmed, or the petition for review has been dismissed by the court of appeals, and no petition for certiorari has been duly filed; or
 
@@ -986,7 +986,7 @@ Section, act Oct. 15, 1914, ch. 323, § 10, 38 Stat. 734, related to a $50,000 y
 
 **(k) “Mandate” defined** As used in this section the term “mandate”, in case a mandate has been recalled prior to the expiration of thirty days from the date of issuance thereof, means the final mandate.
 
-**(l) Penalties** Any person who violates any order issued by the commission, board, or Secretary under subsection (b) of this section after such order has become final, and while such order is in effect, shall forfeit and pay to the United States a civil penalty of not more than $5,000 for each violation, which shall accrue to the United States and may be recovered in a civil action brought by the United States. Each separate violation of any such order shall be a separate offense, except that in the case of a violation through continuing failure or neglect to obey a final order of the commission, board, or Secretary each day of continuance of such failure or neglect shall be deemed a separate offense.
+**(l) Penalties** Any person who violates any order issued by the commission, board, or Secretary under subsection (b) after such order has become final, and while such order is in effect, shall forfeit and pay to the United States a civil penalty of not more than $5,000 for each violation, which shall accrue to the United States and may be recovered in a civil action brought by the United States. Each separate violation of any such order shall be a separate offense, except that in the case of a violation through continuing failure or neglect to obey a final order of the commission, board, or Secretary each day of continuance of such failure or neglect shall be deemed a separate offense.
 
 ### Statutory Notes
 
@@ -1129,7 +1129,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 <a id="section-26a"></a>
 ## § 26a. Restrictions on the purchase of gasohol and synthetic motor fuel
-**(a) Limitations on the use of credit instruments; sales, resales, and transfers** Except as provided in subsection (b) of this section, it shall be unlawful for any person engaged in commerce, in the course of such commerce, directly or indirectly to impose any condition, restriction, agreement, or understanding that—
+**(a) Limitations on the use of credit instruments; sales, resales, and transfers** Except as provided in subsection (b), it shall be unlawful for any person engaged in commerce, in the course of such commerce, directly or indirectly to impose any condition, restriction, agreement, or understanding that—
 
 (1) limits the use of credit instruments in any transaction concerning the sale, resale, or transfer of gasohol or other synthetic motor fuel of equivalent usability in any case in which there is no similar limitation on transactions concerning such person’s conventional motor fuel; or
 
@@ -1137,13 +1137,13 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 **(b) Credit fees; equivalent conventional motor fuel sales; labeling of pumps; product liability disclaimers; advertising support; furnishing facilities**
 
-(1) Nothing in this section or in any other provision of law in effect on December 2, 1980, which is specifically applicable to the sale of petroleum products shall preclude any person referred to in subsection (a) of this section from imposing a reasonable fee for credit on the sale, resale, or transfer of the gasohol or other synthetic motor fuel referred to in subsection (a) of this section if such fee equals no more than the actual costs to such person of extending that credit.
+(1) Nothing in this section or in any other provision of law in effect on December 2, 1980, which is specifically applicable to the sale of petroleum products shall preclude any person referred to in subsection (a) from imposing a reasonable fee for credit on the sale, resale, or transfer of the gasohol or other synthetic motor fuel referred to in subsection (a) if such fee equals no more than the actual costs to such person of extending that credit.
 
 (2) The prohibitions in this section shall not apply to any person who makes available sufficient supplies of gasohol and other synthetic motor fuels of equivalent usability to satisfy his customers’ needs for such products, if the gasohol and other synthetic fuels are made available on terms and conditions which are equivalent to the terms and conditions on which such person’s conventional motor fuel products are made available.
 
 (3) Nothing in this section shall—
 
-  (A) preclude any person referred to in subsection (a) of this section from requiring reasonable labeling of pumps dispensing the gasohol or other synthetic motor fuel referred to in subsection (a) of this section to indicate, as appropriate, that such gasohol or other synthetic motor fuel is not manufactured, distributed, or sold by such person;
+  (A) preclude any person referred to in subsection (a) from requiring reasonable labeling of pumps dispensing the gasohol or other synthetic motor fuel referred to in subsection (a) to indicate, as appropriate, that such gasohol or other synthetic motor fuel is not manufactured, distributed, or sold by such person;
 
   (B) preclude such person from issuing appropriate disclaimers of product liability for damage resulting from use of the gasohol or other synthetic motor fuel;
 
@@ -1161,9 +1161,9 @@ For short title of Pub. L. 96–493 as the “Gasohol Competition Act of 1980”
 
 <a id="section-26b"></a>
 ## § 26b. Application of antitrust laws to professional major league baseball
-**(a) Major league baseball subject to antitrust laws** Subject to subsections (b) through (d) of this section, the conduct, acts, practices, or agreements of persons in the business of organized professional major league baseball directly relating to or affecting employment of major league baseball players to play baseball at the major league level are subject to the antitrust laws to the same extent such conduct, acts, practices, or agreements would be subject to the antitrust laws if engaged in by persons in any other professional sports business affecting interstate commerce.
+**(a) Major league baseball subject to antitrust laws** Subject to subsections (b) through (d), the conduct, acts, practices, or agreements of persons in the business of organized professional major league baseball directly relating to or affecting employment of major league baseball players to play baseball at the major league level are subject to the antitrust laws to the same extent such conduct, acts, practices, or agreements would be subject to the antitrust laws if engaged in by persons in any other professional sports business affecting interstate commerce.
 
-**(b) Limitation of section** No court shall rely on the enactment of this section as a basis for changing the application of the antitrust laws to any conduct, acts, practices, or agreements other than those set forth in subsection (a) of this section. This section does not create, permit or imply a cause of action by which to challenge under the antitrust laws, or otherwise apply the antitrust laws to, any conduct, acts, practices, or agreements that do not directly relate to or affect employment of major league baseball players to play baseball at the major league level, including but not limited to—
+**(b) Limitation of section** No court shall rely on the enactment of this section as a basis for changing the application of the antitrust laws to any conduct, acts, practices, or agreements other than those set forth in subsection (a). This section does not create, permit or imply a cause of action by which to challenge under the antitrust laws, or otherwise apply the antitrust laws to, any conduct, acts, practices, or agreements that do not directly relate to or affect employment of major league baseball players to play baseball at the major league level, including but not limited to—
 
 (1) any conduct, acts, practices, or agreements of persons engaging in, conducting or participating in the business of organized professional baseball relating to or affecting employment to play baseball at the minor league level, any organized professional baseball amateur or first-year player draft, or any reserve clause as applied to minor league players;
 
@@ -1191,13 +1191,13 @@ For short title of Pub. L. 96–493 as the “Gasohol Competition Act of 1980”
 
 (1) As used in this section, “person” means any entity, including an individual, partnership, corporation, trust or unincorporated association or any combination or association thereof. As used in this section, the National Association of Professional Baseball Leagues, its member leagues and the clubs of those leagues, are not “in the business of organized professional major league baseball”.
 
-(2) In cases involving conduct, acts, practices, or agreements that directly relate to or affect both employment of major league baseball players to play baseball at the major league level and also relate to or affect any other aspect of organized professional baseball, including but not limited to employment to play baseball at the minor league level and the other areas set forth in subsection (b) of this section, only those components, portions or aspects of such conduct, acts, practices, or agreements that directly relate to or affect employment of major league players to play baseball at the major league level may be challenged under subsection (a) of this section and then only to the extent that they directly relate to or affect employment of major league baseball players to play baseball at the major league level.
+(2) In cases involving conduct, acts, practices, or agreements that directly relate to or affect both employment of major league baseball players to play baseball at the major league level and also relate to or affect any other aspect of organized professional baseball, including but not limited to employment to play baseball at the minor league level and the other areas set forth in subsection (b), only those components, portions or aspects of such conduct, acts, practices, or agreements that directly relate to or affect employment of major league players to play baseball at the major league level may be challenged under subsection (a) and then only to the extent that they directly relate to or affect employment of major league baseball players to play baseball at the major league level.
 
-(3) As used in subsection (a) of this section, interpretation of the term “directly” shall not be governed by any interpretation of section 151 et seq. of title 29, United States Code (as amended).
+(3) As used in subsection (a), interpretation of the term “directly” shall not be governed by any interpretation of section 151 et seq. of title 29, United States Code (as amended).
 
 (4) Nothing in this section shall be construed to affect the application to organized professional baseball of the nonstatutory labor exemption from the antitrust laws.
 
-(5) The scope of the conduct, acts, practices, or agreements covered by subsection (b) of this section shall not be strictly or narrowly construed.
+(5) The scope of the conduct, acts, practices, or agreements covered by subsection (b) shall not be strictly or narrowly construed.
 
 ### Statutory Notes
 
@@ -1248,7 +1248,7 @@ Repeal not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. 
 ## § 29. Appeals
 **(a) Court of appeals; review by Supreme Court** Except as otherwise expressly provided by this section, in every civil action brought in any district court of the United States under the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890, or any other Acts having like purpose that have been or hereafter may be enacted, in which the United States is the complainant and equitable relief is sought, any appeal from a final judgement entered in any such action shall be taken to the court of appeals pursuant to sections 1291 and 2107 of title 28. Any appeal from an interlocutory order entered in any such action shall be taken to the court of appeals pursuant to sections 1292(a)(1) and 2107 of title 28 but not otherwise. Any judgment entered by the court of appeals in any such action shall be subject to review by the Supreme Court upon a writ of certiorari as provided in [section 1254(1) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254/1&num=0&edition=prelim).
 
-**(b) Direct appeals to Supreme Court** An appeal from a final judgment pursuant to subsection (a) of this section shall lie directly to the Supreme Court, if, upon application of a party filed within fifteen days of the filing of a notice of appeal, the district judge who adjudicated the case enters an order stating that immediate consideration of the appeal by the Supreme Court is of general public importance in the administration of justice. Such order shall be filed within thirty days after the filing of a notice of appeal. When such an order is filed, the appeal and any cross appeal shall be docketed in the time and manner prescribed by the rules of the Supreme Court. The Supreme Court shall thereupon either (1) dispose of the appeal and any cross appeal in the same manner as any other direct appeal authorized by law, or (2) in its discretion, deny the direct appeal and remand the case to the court of appeals, which shall then have jurisdiction to hear and determine the same as if the appeal and any cross appeal therein had been docketed in the court of appeals in the first instance pursuant to subsection (a) of this section.
+**(b) Direct appeals to Supreme Court** An appeal from a final judgment pursuant to subsection (a) shall lie directly to the Supreme Court, if, upon application of a party filed within fifteen days of the filing of a notice of appeal, the district judge who adjudicated the case enters an order stating that immediate consideration of the appeal by the Supreme Court is of general public importance in the administration of justice. Such order shall be filed within thirty days after the filing of a notice of appeal. When such an order is filed, the appeal and any cross appeal shall be docketed in the time and manner prescribed by the rules of the Supreme Court. The Supreme Court shall thereupon either (1) dispose of the appeal and any cross appeal in the same manner as any other direct appeal authorized by law, or (2) in its discretion, deny the direct appeal and remand the case to the court of appeals, which shall then have jurisdiction to hear and determine the same as if the appeal and any cross appeal therein had been docketed in the court of appeals in the first instance pursuant to subsection (a).
 
 ### Statutory Notes
 
@@ -1344,7 +1344,7 @@ Pub. L. 98–544, § 6, Oct. 24, 1984, 98 Stat. 2751, provided that: “This Act
 ## § 35. Recovery of damages, etc., for antitrust violations from any local government, or official or employee thereof acting in an official capacity
 **(a) Prohibition in general** No damages, interest on damages, costs, or attorney’s fees may be recovered under section 4, 4A, or 4C of the Clayton Act ([15 U.S.C. 15](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-15), 15a, or 15c) from any local government, or official or employee thereof acting in an official capacity.
 
-**(b) Preconditions for attachment of prohibition; prima facie evidence for nonapplication of prohibition** Subsection (a) of this section shall not apply to cases commenced before the effective date of this Act unless the defendant establishes and the court determines, in light of all the circumstances, including the stage of litigation and the availability of alternative relief under the Clayton Act, that it would be inequitable not to apply this subsection to a pending case. In consideration of this section, existence of a jury verdict, district court judgment, or any stage of litigation subsequent thereto, shall be deemed to be prima facie evidence that subsection (a) of this section shall not apply.
+**(b) Preconditions for attachment of prohibition; prima facie evidence for nonapplication of prohibition** Subsection (a) shall not apply to cases commenced before the effective date of this Act unless the defendant establishes and the court determines, in light of all the circumstances, including the stage of litigation and the availability of alternative relief under the Clayton Act, that it would be inequitable not to apply this subsection to a pending case. In consideration of this section, existence of a jury verdict, district court judgment, or any stage of litigation subsequent thereto, shall be deemed to be prima facie evidence that subsection (a) shall not apply.
 
 ### Statutory Notes
 
@@ -1361,7 +1361,7 @@ Section effective thirty days before Oct. 24, 1984, see section 6 of Pub. L. 98�
 ## § 36. Recovery of damages, etc., for antitrust violations on claim against person based on official action directed by local government, or official or employee thereof acting in an official capacity
 **(a) Prohibition in general** No damages, interest on damages, costs or attorney’s fees may be recovered under section 4, 4A, or 4C of the Clayton Act ([15 U.S.C. 15](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-15), 15a, or 15c) in any claim against a person based on any official action directed by a local government, or official or employee thereof acting in an official capacity.
 
-**(b) Nonapplication of prohibition for cases commenced before effective date of provisions** Subsection (a) of this section shall not apply with respect to cases commenced before the effective date of this Act.
+**(b) Nonapplication of prohibition for cases commenced before effective date of provisions** Subsection (a) shall not apply with respect to cases commenced before the effective date of this Act.
 
 ### Statutory Notes
 
@@ -1374,9 +1374,9 @@ Section effective thirty days before Oct. 24, 1984, see section 6 of Pub. L. 98�
 
 <a id="section-37"></a>
 ## § 37. Immunity from antitrust laws
-**(a) Inapplicability of antitrust laws** Except as provided in subsection (d) of this section, the antitrust laws, and any State law similar to any of the antitrust laws, shall not apply to charitable gift annuities or charitable remainder trusts.
+**(a) Inapplicability of antitrust laws** Except as provided in subsection (d), the antitrust laws, and any State law similar to any of the antitrust laws, shall not apply to charitable gift annuities or charitable remainder trusts.
 
-**(b) Immunity** Except as provided in subsection (d) of this section, any person subjected to any legal proceeding for damages, injunction, penalties, or other relief of any kind under the antitrust laws, or any State law similar to any of the antitrust laws, on account of setting or agreeing to rates of return or other terms for, negotiating, issuing, participating in, implementing, or otherwise being involved in the planning, issuance, or payment of charitable gift annuities or charitable remainder trusts shall have immunity from suit under the antitrust laws, including the right not to bear the cost, burden, and risk of discovery and trial, for the conduct set forth in this subsection.
+**(b) Immunity** Except as provided in subsection (d), any person subjected to any legal proceeding for damages, injunction, penalties, or other relief of any kind under the antitrust laws, or any State law similar to any of the antitrust laws, on account of setting or agreeing to rates of return or other terms for, negotiating, issuing, participating in, implementing, or otherwise being involved in the planning, issuance, or payment of charitable gift annuities or charitable remainder trusts shall have immunity from suit under the antitrust laws, including the right not to bear the cost, burden, and risk of discovery and trial, for the conduct set forth in this subsection.
 
 **(c) Treatment of certain annuities and trusts** Any annuity treated as a charitable gift annuity, or any trust treated as a charitable remainder trust, either—
 
@@ -1385,7 +1385,7 @@ Section effective thirty days before Oct. 24, 1984, see section 6 of Pub. L. 98�
 (2) in any schedule, form, or written document provided by or on behalf of the donee to the donor;
 shall be conclusively presumed for the purposes of this section and [section 37a of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-37a) to be respectively a charitable gift annuity or a charitable remainder trust, unless there has been a final determination by the Internal Revenue Service that, for fraud or otherwise, the donor’s annuity or trust did not qualify respectively as a charitable gift annuity or charitable remainder trust when created.
 
-**(d) Limitation** Subsections (a) and (b) of this section shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after the State enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) of this section shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
+**(d) Limitation** Subsections (a) and (b) shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after the State enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
 
 ### Statutory Notes
 

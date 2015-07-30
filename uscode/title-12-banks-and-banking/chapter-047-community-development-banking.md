@@ -633,7 +633,7 @@ The Housing and Community Development Act of 1974, referred to in subsec. (a)(3)
 
   (C) any other representatives of insured depository institutions or other persons as the Administrator may determine to be appropriate.
 
-(2) **Applicability of Bank Enterprise Act of 1991** — Subject to subsection (b) of this section and the consultation requirement of paragraph (1)—
+(2) **Applicability of Bank Enterprise Act of 1991** — Subject to subsection (b) and the consultation requirement of paragraph (1)—
 
   (A) section 233 of the Bank Enterprise Act of 1991 [[12 U.S.C. 1834a](./chapter-016-federal-deposit-insurance-corporation.md#section-1834a)] shall be applicable to the Administrator, for purposes of this section, in the same manner and to the same extent that such section is applicable to the Community Enterprise Assessment Credit Board;
 
@@ -890,6 +890,9 @@ Section is comprised of section 114 of Pub. L. 103–325. Subsec. (c) of section
 
 ### Statutory Notes
 
+#### Termination of Section
+For delay of termination of section by Pub. L. 113–235, see Termination Date note below.
+
 #### References in Text
 The Community Reinvestment Act of 1977, referred to in subsec. (i), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-030-community-reinvestment.md#section-2901) and Tables.
 
@@ -971,9 +974,9 @@ Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2336, provided in p
 
 <a id="section-4716"></a>
 ## § 4716. Studies and reports; examination and audit
-**(a) Annual report by Fund** The Fund shall conduct an annual evaluation of the activities carried out by the Fund and the community development financial institutions and other organizations assisted pursuant to this subchapter, and shall submit a report of its findings to the President and the Congress not later than 120 days after the end of each fiscal year of the Fund. The report shall include financial statements audited in accordance with subsection (f) of this section.
+**(a) Annual report by Fund** The Fund shall conduct an annual evaluation of the activities carried out by the Fund and the community development financial institutions and other organizations assisted pursuant to this subchapter, and shall submit a report of its findings to the President and the Congress not later than 120 days after the end of each fiscal year of the Fund. The report shall include financial statements audited in accordance with subsection (f).
 
-**(b) Optional studies** The Fund may conduct such studies as the Fund determines necessary to further the purpose of this subchapter and to facilitate investment in distressed communities. The findings of any studies conducted pursuant to this subsection shall be included in the report required by subsection (a) of this section.
+**(b) Optional studies** The Fund may conduct such studies as the Fund determines necessary to further the purpose of this subchapter and to facilitate investment in distressed communities. The findings of any studies conducted pursuant to this subsection shall be included in the report required by subsection (a).
 
 **(c) Native American lending study**
 
@@ -1233,7 +1236,7 @@ The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, 
 
 (1) **In general** — A State that is not a participating State, but that has its own capital access program providing portfolio insurance for business loans (based on a separate loss reserve fund for each financial institution), may apply at any time to the Fund to be approved to be a participating State. The Fund shall approve such State to be a participating State, and to be eligible for reimbursements by the Fund pursuant to [section 4747 of this title](./chapter-047-community-development-banking.md#section-4747), if the State—
 
-  (A) satisfies the requirements of subsections (a) and (b) of this section; and
+  (A) satisfies the requirements of subsections (a) and (b); and
 
   (B) certifies that each affected financial institution has satisfied the requirements of [section 4744 of this title](./chapter-047-community-development-banking.md#section-4744).
 
@@ -1247,7 +1250,7 @@ The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, 
 
 **(d) Prior appropriations requirement** The Fund shall not approve a State for participation in the Program until at least $50,000,000 has been appropriated to the Fund (subject to an appropriations Act), without fiscal year limitation, for the purpose of making reimbursements pursuant to [section 4747 of this title](./chapter-047-community-development-banking.md#section-4747) and otherwise carrying out this subchapter.
 
-**(e) Amendments to agreements** If a State that has been approved to be a participating State wishes to amend its form of participation agreement and continue to be a participating State, such State shall submit such amendment for review by the Fund in accordance with subsection (b)(4) of this section. Any such amendment shall become effective only after it has been approved by the Fund.
+**(e) Amendments to agreements** If a State that has been approved to be a participating State wishes to amend its form of participation agreement and continue to be a participating State, such State shall submit such amendment for review by the Fund in accordance with subsection (b)(4). Any such amendment shall become effective only after it has been approved by the Fund.
 
 ### Statutory Notes
 
@@ -1270,7 +1273,7 @@ The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, 
 
 (1) receiving all required premium charges to be paid by the borrower and participating financial institution and contributions by the participating State; and
 
-(2) disbursing funds, either to cover losses sustained by the participating financial institution in connection with loans made under the Program, or as contemplated by subsections (d) and (r) of this section.
+(2) disbursing funds, either to cover losses sustained by the participating financial institution in connection with loans made under the Program, or as contemplated by subsections (d) and (r).
 
 **(c) Investment authority** Subject to applicable State law, the participating State may invest, or cause to be invested, funds held in a reserve fund by establishing a deposit account at the participating financial institution in the name of the participating State. In the event that funds in the reserve fund are not deposited in such an account, such funds shall be invested in a form that the participating State determines is safe and liquid.
 
@@ -1294,7 +1297,7 @@ The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, 
 
   (D) *Submission* — The participation agreement shall require that the items required by this subsection shall be submitted to the participating State by the participating financial institutions not later than 10 calendar days after a loan is made.
 
-(2) **Enrollment by State** — Upon receipt by the participating State of the filing submitted in accordance with paragraph (1), the participating State shall promptly enroll the loan and make a matching contribution to the reserve fund in accordance with subsection (j) of this section, unless the information submitted indicates that the participating financial institution has not complied with the participation agreement in enrolling the loan.
+(2) **Enrollment by State** — Upon receipt by the participating State of the filing submitted in accordance with paragraph (1), the participating State shall promptly enroll the loan and make a matching contribution to the reserve fund in accordance with subsection (j), unless the information submitted indicates that the participating financial institution has not complied with the participation agreement in enrolling the loan.
 
 **(g) Coverage amount** In filing a loan for enrollment under the Program, the participating financial institution may specify an amount to be covered under the Program that is less than the full amount of the loan.
 
@@ -1306,7 +1309,7 @@ The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, 
 
 **(i) Restrictions**
 
-(1) **Actions prohibited** — Except as provided in subsection (h) of this section and paragraph (2) of this subsection, the participating State may not—
+(1) **Actions prohibited** — Except as provided in subsection (h) and paragraph (2) of this subsection, the participating State may not—
 
   (A) impose any restrictions or requirements, relating to the interest rate, fees, collateral, or other business terms and conditions of the loan; or
 
@@ -1330,7 +1333,7 @@ The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, 
 
 **(m) Payment of claims**
 
-(1) **In general** — Except as provided in subsection (n) of this section and paragraph (2) of this subsection, upon receipt of a claim filed in accordance with this section and the participation agreement, the participating State shall promptly pay to the participating financial institution, from funds in the reserve fund, the full amount of the claim as submitted.
+(1) **In general** — Except as provided in subsection (n) and paragraph (2) of this subsection, upon receipt of a claim filed in accordance with this section and the participation agreement, the participating State shall promptly pay to the participating financial institution, from funds in the reserve fund, the full amount of the claim as submitted.
 
 (2) **Insufficient reserve funds** — If there are insufficient funds in the reserve fund to cover the entire amount of a claim of a participating financial institution, the participating State shall pay to the participating financial institution an amount equal to the current balance in the reserve fund. If the enrolled loan for which the claim has been filed—
 
@@ -1381,7 +1384,7 @@ The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, 
 
 **(s) Grandfathered provision**
 
-(1) **Special treatment of premium charges** — Notwithstanding subsection (b) or (d) of this section, the participation agreement, if explicitly authorized by a statute enacted by the State before September 23, 1994, may allow a participating financial institution to treat the premium charges paid by the participating financial institution and the borrower into the reserve fund, and interest or income earned on funds in the reserve fund that are deemed to be attributable to such premium charges, as assets of the participating financial institution for accounting purposes, subject to withdrawal by the participating financial institution only—
+(1) **Special treatment of premium charges** — Notwithstanding subsection (b) or (d), the participation agreement, if explicitly authorized by a statute enacted by the State before September 23, 1994, may allow a participating financial institution to treat the premium charges paid by the participating financial institution and the borrower into the reserve fund, and interest or income earned on funds in the reserve fund that are deemed to be attributable to such premium charges, as assets of the participating financial institution for accounting purposes, subject to withdrawal by the participating financial institution only—
 
   (A) for the payment of claims approved by the participating State in accordance with this section; and
 
@@ -1414,7 +1417,7 @@ The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, 
 
 **(b) Annual data** Not later than March 31 of each year, each participating State shall submit to the Fund annual data indicating the number of borrowers financed under the Program, the total amount of covered loans, and breakdowns by industry type, loan size, annual sales, and number of employees of the borrowers financed.
 
-**(c) Form** The reports and data filed pursuant to subsections (a) and (b) of this section shall be in such form as the Fund may require.
+**(c) Form** The reports and data filed pursuant to subsections (a) and (b) shall be in such form as the Fund may require.
 
 
 <a id="section-4747"></a>
@@ -1439,14 +1442,14 @@ The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, 
 
 **(f) Other amounts** In connection with the enrollment of a loan that will cause the aggregate covered amount of all enrolled loans to exceed $2,000,000, the amount of reimbursement by the Fund to the participating State shall be determined—
 
-(1) by applying subsection (d) of this section to the portion of the loan, which when added to the aggregate covered amount of all previously enrolled loans equals $2,000,000; and
+(1) by applying subsection (d) to the portion of the loan, which when added to the aggregate covered amount of all previously enrolled loans equals $2,000,000; and
 
-(2) by applying subsection (e) of this section to the balance of the loan.
+(2) by applying subsection (e) to the balance of the loan.
 
 
 <a id="section-4748"></a>
 ## § 4748. Reimbursement to Fund
-**(a) In general** If a participating State withdraws funds from a reserve fund pursuant to terms of the participation agreement permitted by subsection (d) or (r) of [section 4745 of this title](./chapter-047-community-development-banking.md#section-4745), such participating State shall, not later than 15 calendar days after such withdrawal, submit to the Fund an amount computed by multiplying the amount withdrawn by the appropriate factor, as determined under subsection (b) of this section.
+**(a) In general** If a participating State withdraws funds from a reserve fund pursuant to terms of the participation agreement permitted by subsection (d) or (r) of [section 4745 of this title](./chapter-047-community-development-banking.md#section-4745), such participating State shall, not later than 15 calendar days after such withdrawal, submit to the Fund an amount computed by multiplying the amount withdrawn by the appropriate factor, as determined under subsection (b).
 
 **(b) Factor** The appropriate factor shall be obtained by dividing the total amount of contributions that have been made by the participating State to all reserve funds which were subject to reimbursement—
 
@@ -1467,7 +1470,7 @@ The Fund shall promulgate appropriate regulations to implement this subchapter.
 ## § 4750. Authorization of appropriations
 **(a) Amount** There are authorized to be appropriated to the Fund $50,000,000 to carry out this subchapter.
 
-**(b) Budgetary treatment** The amount authorized to be appropriated under subsection (a) of this section shall be subject to discretionary spending caps, as provided in section 665 11 See References in Text note below. of title 2, and therefore shall reduce by an equal amount funds made available for other discretionary spending programs.
+**(b) Budgetary treatment** The amount authorized to be appropriated under subsection (a) shall be subject to discretionary spending caps, as provided in section 665 11 See References in Text note below. of title 2, and therefore shall reduce by an equal amount funds made available for other discretionary spending programs.
 
 ### Statutory Notes
 

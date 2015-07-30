@@ -17,7 +17,7 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
-2014—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2), which established the tier 2 tax and its applicable percentage.
+2014—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
 2001—Subsec. (b). Pub. L. 107–90 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to 4.90 percent of the compensation received during any calendar year by such employee for services rendered by such employee.”
 
@@ -344,7 +344,7 @@ The compensation of an employee representative for the purpose of ascertaining t
 The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of the enactment of Pub. L. 111–147, which was approved Mar. 18, 2010.
 
 #### Amendments
-2014—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2), which established the tier 2 tax and its applicable percentage.
+2014—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
 2010—Subsecs. (c), (d). Pub. L. 111–147 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -551,7 +551,7 @@ and an individual shall be deemed to be in the service of such a general committ
 
 (6) The term “compensation” shall not include any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127.
 
-(7) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(v), Dec. 19, 2014, 128 Stat. 4040]
+(7) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(v), Dec. 19, 2014, 128 Stat. 4040.]
 
 (8) **Treatment of certain deferred compensation and salary reduction arrangements**
 
@@ -597,9 +597,9 @@ Section 101(a)(15) of the Immigration and Nationality Act, referred to in subsec
 Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. (e)(4)(B), is classified to [section 352(a) of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section352/a&num=0&edition=prelim), Railroads.
 
 #### Amendments
-2014—Subsec. (b). Pub. L. 113–295, § 221(a)(100)(D), in first sentence substituted “compensation.” for “compensation; except that the term ‘employee’ shall include an employee of a local lodge or division defined as an employer in subsection (a) only if he was in the service of or in the employment relation to a carrier on or after August 29, 1935.” and struck out second sentence, which included pars. (1) to (4) and concluding provisions relating to an individual deemed to have been in the employment relation to a carrier on August 29, 1935.
+2014—Subsec. (b). Pub. L. 113–295, § 221(a)(100)(D), in first sentence substituted “compensation.” for “compensation; except that the term ‘employee’ shall include an employee of a local lodge or division defined as an employer in subsection (a) only if he was in the service of or in the employment relation to a carrier on or after August 29, 1935.” and struck out second sentence, which included pars. (1) to (4) and concluding provisions relating to an individual deemed to have been in the employment relation to a carrier on Aug. 29, 1935.
 
-Subsec. (e)(7). Pub. L. 113–295, § 221(a)(19)(B)(v), struck out par. (7), which read as follows: “The term ‘compensation’ shall not include any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).”
+Subsec. (e)(7). Pub. L. 113–295, § 221(a)(19)(B)(v), struck out par. (7) which read as follows: “The term ‘compensation’ shall not include any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).”
 
 2004—Subsec. (e)(5). Pub. L. 108–357, § 320(b)(2), inserted “108(f)(4),” after “74(c),”.
 

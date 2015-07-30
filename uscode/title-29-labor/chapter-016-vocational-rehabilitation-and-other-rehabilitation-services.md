@@ -482,7 +482,7 @@ A State that receives assistance for fiscal year 2015 with respect to a center i
 A prior section 796f–3, Pub. L. 93–112, title VII, § 724, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4461; amended Pub. L. 103–73, title I, § 114(k), Aug. 11, 1993, 107 Stat. 731, related to centers operated by State agencies, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
-2014—Pub. L. 113–128, § 482(c)(1), in introductory provisions, substituted “2015 with” for “1993 with”, “July 22, 2014” for “August 7, 1998”, and “2015 or” for “1994 or”.
+2014—Pub. L. 113–128, § 482(c)(1), in introductory provisions, substituted “2015” for “1993” in two places and “July 22, 2014” for “August 7, 1998”.
 
 Pars. (1)(A), (2). Pub. L. 113–128, § 482(c)(2), substituted “Administrator” for “Commissioner”.
 
@@ -616,11 +616,11 @@ A prior section 796j, Pub. L. 93–112, title VII, § 751, as added Pub. L. 102�
 
 <a id="section-715"></a>
 ## § 715. Training and technical assistance
-**(a)** From the funds appropriated and made available to carry out this part for any fiscal year, beginning with fiscal year 2015, the Commissioner shall first reserve not less than 1.8 percent and not more than 2 percent of the funds to provide, either directly or through grants, contracts, or cooperative agreements, training and technical assistance to designated State agencies, or other providers of independent living services for older individuals who are blind, that are funded under this part for such fiscal year.
+**(a) In general** From the funds appropriated and made available to carry out this part for any fiscal year, beginning with fiscal year 2015, the Commissioner shall first reserve not less than 1.8 percent and not more than 2 percent of the funds to provide, either directly or through grants, contracts, or cooperative agreements, training and technical assistance to designated State agencies, or other providers of independent living services for older individuals who are blind, that are funded under this part for such fiscal year.
 
-**(b)** The Commissioner shall conduct a survey of designated State agencies that receive grants under [section 796k of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796k) regarding training and technical assistance needs in order to determine funding priorities for such training and technical assistance.
+**(b) Survey** The Commissioner shall conduct a survey of designated State agencies that receive grants under [section 796k of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796k) regarding training and technical assistance needs in order to determine funding priorities for such training and technical assistance.
 
-**(c)** To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, an entity shall submit an application to the Commissioner at such time, in such manner, containing a proposal to provide such training and technical assistance, and containing such additional information, as the Commissioner may require. The Commissioner shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the provision of services to older individuals who are blind.
+**(c) Application for grant** To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, an entity shall submit an application to the Commissioner at such time, in such manner, containing a proposal to provide such training and technical assistance, and containing such additional information, as the Commissioner may require. The Commissioner shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the provision of services to older individuals who are blind.
 
 
 <a id="section-716"></a>
@@ -914,9 +914,7 @@ Subsec. (b)(2) to (5). Pub. L. 113–128, § 402(b)(1)(B), (2)–(5), added par.
 Pub. L. 111–213, § 1, July 29, 2010, 124 Stat. 2343, provided that: “This Act [enacting provisions set out as notes under sections 796f–1 and 796f–2 of this title] may be cited as the ‘Independent Living Centers Technical Adjustment Act’.”
 
 #### Short Title of 1998 Amendment
-Pub. L. 105–220, title IV, § 401, Aug. 7, 1998, 112 Stat. 1092, provided that: “This title [see Tables for classification] may be cited as the ‘Rehabilitation Act Amendments of 1998’.”
-
-[Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 401 of Pub. L. 105–220, set out above, is repealed.]
+Pub. L. 105–220, title IV, § 401, Aug. 7, 1998, 112 Stat. 1092, provided that title IV of Pub. L. 105–220 could be cited as the “Rehabilitation Act Amendments of 1998”, prior to repeal by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
 
 #### Short Title of 1993 Amendment
 Pub. L. 103–73, § 1, Aug. 11, 1993, 107 Stat. 718, provided that: “This Act [enacting sections 753 and 753a of this title, amending sections 706, 718 to 718b, 721 to 723, 725, 730 to 732, 744, 761a, 762, 771a, 777, 777a, 777f, 783, 791, 792, 794e, 795l, 796, 796c, 796d to 796e–2, 796f to 796f–4, and 796k of this title, sections 1431, 4301 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of Title 20, Education, and [section 46 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section46&num=0&edition=prelim), Public Contracts, enacting provisions set out as notes under [section 725 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-725) and [section 4301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4301&num=0&edition=prelim), and amending provisions set out as a note under this section] may be cited as the ‘Rehabilitation Act Amendments of 1993’.”
@@ -1021,7 +1019,7 @@ Sec. 2. Specific activities by Task Force members and other agencies.
 
 (g) All executive agencies that are not members of the Task Force shall: (1) coordinate and cooperate with the Task Force; and (2) review their programs and policies to ensure that they are being conducted and delivered in a manner that facilitates and promotes the employment of adults with disabilities. Each agency shall file a report with the Task Force on the results of its review on November 15, 1998.
 
-(h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 [Pub. L. 105–220, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
+(h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 [Pub. L. 105–220 repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
 
 Sec. 3. Cooperation. All efforts taken by executive departments and agencies under sections 1 and 2 of this order shall, as appropriate, further partnerships and cooperation with public and private sector employers, organizations that represent people with disabilities, organized labor, veteran service organizations, and State and local governments whenever such partnerships and cooperation are possible and would promote the employment and gainful economic activities of individuals with disabilities.
 
@@ -1603,7 +1601,7 @@ For the purposes of this chapter:
 
 (40) **Vocational rehabilitation services** — The term “vocational rehabilitation services” means those services identified in [section 723 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-723) which are provided to individuals with disabilities under this chapter.
 
-(41) **Workforce investment activities** — The term “workforce investment activities” means workforce investment activities,as defined in section 3 of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3102](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)], that are carried out under that Act.
+(41) **Workforce investment activities** — The term “workforce investment activities” means workforce investment activities, as defined in section 3 of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3102](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)], that are carried out under that Act.
 
 (42) **Youth with a disability**
 
@@ -2038,7 +2036,7 @@ The clearinghouse shall also provide any other relevant information and data whi
 ### Statutory Notes
 
 #### References in Text
-Such Act, referred to in subsec. (a)(1), probably means the Workforce Investment Act of 1998, which is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+Such Act, referred to in subsec. (a)(1), probably means the Workforce Investment Act of 1998, which is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former § 2801 et seq.) of this title. Pursuant to [section 3361(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 714 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-714) prior to repeal by Pub. L. 105–220.
@@ -2539,7 +2537,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
       (IV) the number of individuals with open cases (disaggregated by those who are receiving training and those who are in postsecondary education), and the type of services the individuals are receiving (including supported employment);
 
-      (V) the number of students with disabilities who are receiving pre-employment transition services under this subchapter: and
+      (V) the number of students with disabilities who are receiving pre-employment transition services under this subchapter: 11 So in original. The colon probably should be a semicolon. and
 
       (VI) the number of individuals referred to State vocational rehabilitation programs by one-stop operators (as defined in section 3 of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3102](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)]), and the number of individuals referred to such one-stop operators by State vocational rehabilitation programs;
 
@@ -2765,7 +2763,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
   (A) the Federal share of the cost of construction for the facilities for a fiscal year will not exceed an amount equal to 10 percent of the State’s allotment under [section 730 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-730) for such year;
 
-  (B) the provisions of section 776 11 See References in Text note below. of this title (as in effect on the day before August 7, 1998) shall be applicable to such construction and such provisions shall be deemed to apply to such construction; and
+  (B) the provisions of section 776 22 See References in Text note below. of this title (as in effect on the day before August 7, 1998) shall be applicable to such construction and such provisions shall be deemed to apply to such construction; and
 
   (C) there shall be compliance with regulations the Commissioner shall prescribe designed to assure that no State will reduce its efforts in providing other vocational rehabilitation services (other than for the establishment of facilities for community rehabilitation programs) because the plan includes such provisions for construction.
 
@@ -2910,7 +2908,7 @@ Subsec. (a)(7)(A)(v)(II). Pub. L. 113–128, § 412(a)(4)(A)(ii), substituted �
 
 Subsec. (a)(7)(B)(ii). Pub. L. 113–128, § 412(a)(4)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “to the extent that such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and”.
 
-Subsec. (a)(8)(A)(i). Pub. L. 113–128, § 412(a)(5)(A), inserted “an accommodation or auxiliary aid or service or” after “prior to providing” and substituted “(5)(E)” for “(5)(D)” in introductory provisions.
+Subsec. (a)(8)(A)(i). Pub. L. 113–128, § 412(a)(5)(A), in introductory provisions, inserted “an accommodation or auxiliary aid or service or” after “prior to providing” and substituted “(5)(E)” for “(5)(D)”.
 
 Subsec. (a)(8)(B). Pub. L. 113–128, § 412(a)(5)(B)(i), in introductory provisions, substituted “Medicaid” for “medicaid”, “workforce development system” for “workforce investment system”, and “(5)(E)” for “(5)(D)”, inserted “and, if appropriate, accommodations or auxiliary aids and services,” before “that are included”, and substituted “provision of such vocational rehabilitation services (including, if appropriate, accommodations or auxiliary aids and services)” for “provision of such vocational rehabilitation services”.
 
@@ -4421,9 +4419,9 @@ Par. (5). Pub. L. 113–128, § 431(5), inserted “, including individuals with
 
 Par. (6). Pub. L. 113–128, § 431(7), added par. (6). Former par. (6) redesignated (7).
 
-Par. (7). Pub. L. 113–128, § 431(6), (8), redesignated par. (6) as (7) and substituted “; and” for period at end.
+Par. (7). Pub. L. 113–128, § 431(6), redesignated par. (6) as (7).
 
-Par. (8). Pub. L. 113–128, § 431(9), added par. (8).
+Par. (8). Pub. L. 113–128, § 431(8), (9), added par. (8).
 
 1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
 
@@ -4533,7 +4531,7 @@ Section 761b, Pub. L. 93–112, title II, § 203, as added Pub. L. 95–602, tit
 
 (8) conducting research on consumer satisfaction with independent living and vocational rehabilitation services for the purpose of identifying effective independent living and rehabilitation programs and policies that promote the independence of individuals with disabilities and achievement of long-term independent living and employment goals;
 
-(9) conducting research to examine the relationship between the provision of specific services and successful, sustained employment outcomes, including employment outcomes involving self-employment , supported employment (including customized employment), and telecommuting; and
+(9) conducting research to examine the relationship between the provision of specific services and successful, sustained employment outcomes, including employment outcomes involving self-employment, supported employment (including customized employment), and telecommuting; and
 
 (10) coordinating activities with the Attorney General regarding the provision of information, training, or technical assistance regarding the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) to ensure consistency with the plan for technical assistance required under section 506 22 See References in Text note below. of such Act ([42 U.S.C. 12206](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12206&num=0&edition=prelim)).
 
@@ -4664,7 +4662,7 @@ Subsec. (b)(2)(B). Pub. L. 113–128, § 433(3)(A), added subpar. (B) and struck
 
 Subsec. (b)(3). Pub. L. 113–128, § 433(3)(B), substituted “on disability, independent living, and rehabilitation” for “in rehabilitation”.
 
-Subsec. (b)(4). Pub. L. 113–128, § 433(3)(C), inserted “education, health and wellness,” after “independent living,” in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to current subpars. (A), (B), (D), and (E), respectively.
+Subsec. (b)(4). Pub. L. 113–128, § 433(3)(C), inserted “education, health and wellness,” after “independent living,” in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to subpars. (A), (B), (D), and (E), respectively.
 
 Subsec. (b)(6). Pub. L. 113–128, § 433(3)(D), substituted “advances in disability, independent living, and rehabilitation” for “advances in rehabilitation” and inserted “education, health and wellness,” after “employment, independent living,”.
 
@@ -4841,7 +4839,9 @@ Subsec. (b)(1). Pub. L. 113–128, § 434(2)(A), substituted “individuals with
 
 Subsec. (b)(2)(A). Pub. L. 113–128, § 434(2)(B)(i), inserted “independent living research,” after “assistive technology research,”.
 
-Subsec. (b)(2)(B), (D), (E). Pub. L. 113–128, § 434(2)(B)(ii)–(iv), inserted “, independent living research,” after “assistive technology research”.
+Subsec. (b)(2)(B). Pub. L. 113–128, § 434(2)(B)(ii), inserted “, independent living research,” after “assistive technology research”.
+
+Subsec. (b)(2)(D), (E). Pub. L. 113–128, § 434(2)(B)(iii), (iv), substituted “, independent living research, and research that incorporates the principles of universal design” for “and research that incorporates the principles of universal design”.
 
 Subsec. (c). Pub. L. 113–128, § 434(5), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -4864,9 +4864,6 @@ Subsec. (b). Pub. L. 105–394, § 201(2), designated existing provisions as par
 Subsec. (c). Pub. L. 105–394, § 201(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Committee shall annually submit to the President and to the appropriate committees of the Congress a report making such recommendations as the Committee deems appropriate with respect to coordination of policy and development of objectives and priorities for all Federal programs relating to the conduct of research related to rehabilitation of individuals with disabilities.”
 
 Subsecs. (d), (e). Pub. L. 105–394, § 201(4), added subsecs. (d) and (e).
-
-#### Change of Name
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 
 <a id="section-793"></a>
@@ -5218,7 +5215,7 @@ Subsec. (b)(1). Pub. L. 113–128, § 435(2)(A), substituted “(17)” for “(
 
 Subsec. (b)(2)(A)(i), (ii). Pub. L. 113–128, § 435(2)(B)(i), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
-“‘(i) be operated in collaboration with institutions of higher education or providers of rehabilitation services or other appropriate services; and
+“(i) be operated in collaboration with institutions of higher education or providers of rehabilitation services or other appropriate services; and
 
 “(ii) serve as centers of national excellence and national or regional resources for providers and individuals with disabilities and the individuals’ representatives.”
 
@@ -5252,7 +5249,7 @@ Subsec. (b)(2)(C)(iv). Pub. L. 113–128, § 435(2)(B)(iii)(VI), substituted “
 
 Pub. L. 113–128, § 435(2)(B)(iii)(III), (IV), redesignated cl. (vi) as (iv) and struck out former cl. (iv) which read as follows: “continuation of research that promotes the emotional, social, educational, and functional growth of children who are individuals with disabilities;”.
 
-Subsec. (b)(2)(C)(v), (vi). Pub. L. 113–128, § 435(2)(B)(iii)(VII), added cls. (v) and (vi).
+Subsec. (b)(2)(C)(v), (vi). Pub. L. 113–128, § 435(2)(B)(iii)(VII), added cls. (v) and (vi). Former cls. (v) and (vi) redesignated (iii) and (iv), respectively.
 
 Subsec. (b)(2)(D). Pub. L. 113–128, § 435(2)(B)(iv), added subpar. (D) and struck out former subpar. (D) which read as follows: “Training of students preparing to be rehabilitation personnel shall be an important priority for such a Center.”
 
@@ -5958,15 +5955,25 @@ A prior section 780, Pub. L. 93–112, title IV, § 400, as added Pub. L. 95–6
 Another prior section 780, Pub. L. 93–112, title IV, § 400, Sept. 26, 1973, 87 Stat. 385, related to general administrative powers of Secretary under this chapter, prior to repeal by Pub. L. 95–602, § 117.
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–18 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+
+“(b)(1) Each member of the National Council shall serve for a term of 3 years.
+
+“(2)(A) No member of the National Council may serve more than two consecutive full terms beginning on the date of commencement of the first full term on the Council. Members may serve after the expiration of their terms until their successors have taken office.
+
+“(B) As used in this paragraph, the term ‘full term’ means a term of 3 years.
+
+“(3) Any member appointed to fill a vacancy occurring before the expiration of the term for which such member’s predecessor was appointed shall be appointed only for the remainder of such term.”
+
 2014—Subsec. (a)(1)(A) to (C). Pub. L. 113–128, § 451(1)(B), added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
 
-“(1)(A) There is established within the Federal Government a National Council on Disability (hereinafter in this subchapter referred to as the “National Council”), which shall be composed of fifteen members appointed by the President.
+“(1)(A) There is established within the Federal Government a National Council on Disability (hereinafter in this subchapter referred to as the ‘National Council’), which shall be composed of fifteen members appointed by the President.
 
 “(B) The President shall select members of the National Council after soliciting recommendations from representatives of—
 
 “(i) organizations representing a broad range of individuals with disabilities; and
 
-“(ii) organizations interested in individuals with disabilities.
+“(ii) organizations interested in individuals with disabilities.”
 
 Former subpar. (C) redesignated (D).
 
@@ -5979,6 +5986,9 @@ Subsec. (b). Pub. L. 113–128, § 451(2), which directed substitution of a peri
 Subsec. (d). Pub. L. 113–128, § 451(3), substituted “Five” for “Eight”.
 
 2012—Subsec. (a)(1)(A). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–18, § 3(b), May 22, 2015, 129 Stat. 214, provided that: “The amendment made by this section [amending this section] shall take effect as if enacted 1 day after the date of enactment of the Workforce Innovation and Opportunity Act [Pub. L. 113–128, approved July 22, 2014] ([29 U.S.C. 3101](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) et seq.).”
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under [section 113 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section113&num=0&edition=prelim), Domestic Security.
@@ -6063,9 +6073,6 @@ Subsec. (c). Pub. L. 113–128, § 452(2), struck out subsec. (c) which required
 2000—Subsec. (a)(5)(A). Pub. L. 106–402, which directed substitution of “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6000](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6000&num=0&edition=prelim) et seq.)”, was executed by making the substitution for “Developmental Disabilities Assistance and Bill of Rights Act” to reflect the probable intent of Congress.
 
 1998—Subsec. (c). Pub. L. 105–394 added subsec. (c).
-
-#### Change of Name
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to Congress required under subsec. (b) of this section is listed on page 182), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
@@ -7432,7 +7439,7 @@ A prior section 795g, Pub. L. 93–112, title VI, § 621, as added Pub. L. 95–
 ### Statutory Notes
 
 #### References in Text
-Part B of this subchapter (as in effect on September 30, 1992), referred to in subsec. (a)(1)(B), consisted of sections 795g to 795i and related to Projects With Industry and business opportunities for individuals with handicaps.
+Part B of this subchapter (as in effect on September 30, 1992), referred to in subsec. (a)(1)(B), consisted of sections 795g to 795i and related to projects with industry and business opportunities for individuals with handicaps.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 795k of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-795k) prior to the general amendment of this subchapter by Pub. L. 105–220.
@@ -7773,7 +7780,7 @@ Another prior section 796, Pub. L. 93–112, title VII, § 701, as added Pub. L.
 
 
 <a id="section-796j"></a>
-## § 796j. Administration of the Independent Living program
+## § 796j. Administration of the independent living program
 
 There is established within the Administration for Community Living of the Department of Health and Human Services, an Independent Living Administration. The Independent Living Administration shall be headed by a Director (referred to in this section as the “Director”) appointed by the Secretary of Health and Human Services. The Director shall be an individual with substantial knowledge of independent living services. The Independent Living Administration shall be the principal agency, and the Director shall be the principal officer, to carry out this part. In performing the functions of the office, the Director shall be directly responsible to the Administrator of the Administration for Community Living of the Department of Health and Human Services. The Secretary shall ensure that the Independent Living Administration has sufficient resources (including designating at least 1 individual from the Office of General Counsel who is knowledgeable about independent living services) to provide technical assistance and support to, and oversight of, the programs funded under this part.
 
@@ -7973,7 +7980,7 @@ Subsec. (a)(4). Pub. L. 113–128, § 474(1)(D), substituted “Administrator”
 
 Subsec. (a)(5). Pub. L. 113–128, § 474(1)(E), added par. (5).
 
-Subsec. (c). Pub. L. 113–128, § 474(2)(A), (B), substituted “entity” for “unit” in heading and “a State entity of such State (referred to in this subchapter as the ‘designated State entity’)” in introductory provisions.
+Subsec. (c). Pub. L. 113–128, § 474(2)(A), (B), substituted “entity” for “unit” in heading and “a State entity of such State (referred to in this subchapter as the ‘designated State entity’)” for “the designated State unit of such State” in introductory provisions.
 
 Subsec. (c)(3), (4). Pub. L. 113–128, § 474(2)(C), substituted “Administrator” for “Commissioner”.
 

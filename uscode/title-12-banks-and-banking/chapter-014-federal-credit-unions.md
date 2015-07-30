@@ -3946,11 +3946,11 @@ for gross negligence, including any similar conduct or conduct that demonstrates
 
   (D) *Rule of construction* — No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an employee benefit plan in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
 
-(5) **Coverage for interest on lawyers trust accounts (iolta) and other similar escrow accounts**
+(5) **Coverage for interest on lawyers trust accounts (IOLTA) and other similar escrow accounts**
 
   (A) *Pass-through insurance* — The Administration shall provide pass-through share insurance for the deposits or shares of any interest on lawyers trust account (IOLTA) or other similar escrow accounts.
 
-  (B) *Treatment of ioltas*
+  (B) *Treatment of IOLTAs*
 
     (i) *Treatment as escrow accounts* — For share insurance purposes, IOLTAs are treated as escrow accounts.
 

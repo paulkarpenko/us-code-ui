@@ -1541,7 +1541,7 @@ Pub. L. 113–291, div. C, title XXXI, § 3122(b), Dec. 19, 2014, 128 Stat. 3894
 
   (B) Nothing in this paragraph may be construed to terminate, supersede, or otherwise affect any other requirements of this section.
 
-(3) If the State of South Carolina obtains an injunction that prohibits the Department of Energy from taking any action necessary for the Department of Energy to meet any deadline specified by this subsection, that deadline shall be extended for a period of time equal to the period of time during which the injunction is in effect.
+(3) If the State of South Carolina obtains an injunction that prohibits the Department of Energy from taking any action necessary for the Department to meet any deadline specified by this subsection, that deadline shall be extended for a period of time equal to the period of time during which the injunction is in effect.
 
 **(e) Failure to complete planned disposition program** If on July 1 each year beginning in 2025 and continuing for as long as the MOX facility is in use, less than 34 metric tons of defense plutonium or defense plutonium materials have been processed by the MOX facility, the Secretary shall submit to Congress a plan for—
 
@@ -1575,7 +1575,7 @@ The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B)
 
 Subsec. (c)(2). Pub. L. 113–291, § 3142(f)(2), substituted “2002,” for “2002”.
 
-Subsec. (d)(3). Pub. L. 113–291, § 3142(f)(3), which directed amendment of par. (3) by inserting “of Energy” after “Department”, was executed by making the insertion after “Department” both places it appeared.
+Subsec. (d)(3). Pub. L. 113–291, § 3142(f)(3), inserted “of Energy” after “Department”.
 
 2013—Subsec. (a)(3)(C). Pub. L. 112–239, § 3116(1)(A), substituted “2014” for “2012” in introductory provisions.
 
@@ -2679,7 +2679,7 @@ Pub. L. 107–314, div. D, title XLV, § 4504(c), formerly Pub. L. 107–107, di
 Section was formerly classified to [section 7383d of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7383d&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
-2014—Subsec. (b). Pub. L. 113–291, § 3142(k)(1), amended heading in original act which, for purposes of codification, resulted in no change in text.substituted “Significant atomic energy defense intelligence losses” for “Significant atomic energy defense intelligence losses” in heading requiring no change in text.
+2014—Subsec. (b). Pub. L. 113–291, § 3142(k)(1), reenacted heading without change.
 
 Subsec. (e)(2). Pub. L. 113–291, § 3142(k)(2), made technical amendment to reference in original act which appears in text as reference to [section 3091 of this title](./chapter-044-national-security.md#section-3091).
 
@@ -3220,7 +3220,7 @@ Section, Pub. L. 107–314, div. D, title XLVI, § 4603, formerly Pub. L. 106–
 
 (6) The Department of Energy should provide local impact assistance to communities that are affected by the restructuring plan and coordinate the provision of such assistance with—
 
-  (A) programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.);
+  (A) programs carried out by the Secretary of Labor under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.];
 
   (B) programs carried out pursuant to the Defense Economic Adjustment, Diversification, Conversion, and Stabilization Act of 1990 (division D of Public Law 101–510; [10 U.S.C. 2391](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2391&num=0&edition=prelim) note); and
 
@@ -3254,13 +3254,10 @@ Section, Pub. L. 107–314, div. D, title XLVI, § 4603, formerly Pub. L. 106–
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)(6)(A)
-Pub. L. 113–128, title V, §§ 506, 512(d), July 22, 2014, 128 Stat. 1703, 1706, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(6)(A) of this section is amended by striking “programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “programs carried out by the Secretary of Labor under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
 #### References in Text
 Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (c)(2), is section 3152 of Pub. L. 101–189, div. C, title XXXI, Nov. 29, 1989, 103 Stat. 1682, which is not classified to the Code.
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(6)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title II of the Act is classified generally to subchapter II (§ 3141 et seq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
 
@@ -3317,7 +3314,7 @@ Subsec. (c)(6)(B). Pub. L. 103–337, § 1070(c)(2)(C), substituted “division 
 Subsec. (d). Pub. L. 103–337, § 1070(c)(2)(A), substituted “workforce” for “work force”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(7)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(6)(A)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
@@ -4152,7 +4149,7 @@ Section was formerly classified to [section 7386k of Title 42](https://uscode.ho
 ### Statutory Notes
 
 #### Amendments
-2014—Subsec. (a)(1)(A). Pub. L. 113–291, § 3115(1), inserted at end “In addition to the requirement under subparagraph (B), the cost and schedule baseline of a nuclear stockpile life extension project established under this subparagraph shall be the cost and schedule as described in the first Selected Acquisition Report submitted under section 42172537(a) of this title for the project.”
+2014—Subsec. (a)(1)(A). Pub. L. 113–291, § 3115(1), inserted at end “In addition to the requirement under subparagraph (B), the cost and schedule baseline of a nuclear stockpile life extension project established under this subparagraph shall be the cost and schedule as described in the first Selected Acquisition Report submitted under [section 2537(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2537/a&num=0&edition=prelim) for the project.”
 
 Subsec. (b)(2). Pub. L. 113–291, § 3115(2), substituted “150” for “200”.
 
@@ -4516,7 +4513,7 @@ Pub. L. 112–239, div. C, title XXXI, § 3117(b), Jan. 2, 2013, 126 Stat. 2173,
 ### Statutory Notes
 
 #### References in Text
-[Section 3542 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3542&num=0&edition=prelim), referred to in subsec. (f)(5)(A), was repealed by Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions defining “national security system” are now contained in [section 3552 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim), as enacted by Pub. L. 113–283.
+[Section 3542(b) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3542/b&num=0&edition=prelim), referred to in subsec. (f)(5)(A), was repealed by Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions defining “national security system” are now contained in [section 3552 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim), as enacted by Pub. L. 113–283.
 
 #### Amendments
 2014—Subsec. (g)(1). Pub. L. 113–291 substituted “June 24, 2014” for “the date that is 180 days after December 26, 2013”.
@@ -4575,7 +4572,7 @@ Of the funds authorized by the Secretary of Energy for laboratory directed resea
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is div. D of Pub. L. 113–235, known as the Energy and Water Development and Related Agencies Appropriations Act, 2015. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is div. D of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2303, known as the Energy and Water Development and Related Agencies Appropriations Act, 2015. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2015, and also as part of the Consolidated and Further Continuing Appropriations Act, 2015, and not as part of the Atomic Energy Defense Act which comprises this chapter.

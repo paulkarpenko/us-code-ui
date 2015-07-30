@@ -78,6 +78,9 @@ Another prior section 3711, Pub. L. 90–351, title I, § 101, June 19, 1968, 82
 #### Effective Date
 Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107, provided that: “(a) Except as provided in subsection (b), this division and the amendments made by this title [probably means division, see Short Title of 1984 Amendment note below] shall take effect on the date of the enactment of this joint resolution [Oct. 12, 1984] or October 1, 1984, whichever is later. “(b)(1) The amendment made by section 609F [amending sections 3796 to 3796c of this title] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984. “(2) Section 609Z [repealing section 204 of Pub. L. 98–411, which had amended sections 3796 to 3796b of this title and enacted provisions set out as a note under [section 3796 of this title](./chapter-046-justice-system-improvement.md#section-3796)] shall take effect on October 1, 1984.”
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–22, title X, § 1001, May 29, 2015, 129 Stat. 266, provided that: “This title [amending [section 3796dd of this title](./chapter-046-justice-system-improvement.md#section-3796dd)] may be cited as the ‘Human Trafficking Survivors Relief and Empowerment Act of 2015’.”
+
 #### Short Title of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1086(a), Jan. 2, 2013, 126 Stat. 1964, provided that: “This section [amending sections 3791, 3796 to 3796c–2, 3796d–1 to 3796d–3, 3796d–5, and 3796d–6 of this title and sections 101 and 402 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under [section 3791 of this title](./chapter-046-justice-system-improvement.md#section-3791)] may be cited as the ‘Dale Long Public Safety Officers’ Benefits Improvements Act of 2012’.”
 
@@ -1715,10 +1718,15 @@ Section applicable with respect to the first fiscal year beginning after Jan. 5,
 
 **(h) Units of local government in Louisiana** In carrying out this section with respect to the State of Louisiana, the term “unit of local government” means a district attorney or a parish sheriff.
 
+**(i) Part 1 violent crimes to include human trafficking** For purposes of this section, the term “part 1 violent crimes” shall include severe forms of trafficking in persons (as defined in [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)).
+
 ### Statutory Notes
 
 #### Prior Provisions
 For prior sections 505 of Pub. L. 90–351 and prior sections 3755 of this title, see notes set out preceding [section 3750 of this title](./chapter-046-justice-system-improvement.md#section-3750).
+
+#### Amendments
+2015—Subsec. (i). Pub. L. 114–22 added subsec. (i).
 
 #### Effective Date
 Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under [section 3750 of this title](./chapter-046-justice-system-improvement.md#section-3750).
@@ -2183,7 +2191,7 @@ Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set o
 For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Employment of Annuitants by Federal Law Enforcement Training Center
-Pub. L. 107–206, title I, § 1202, Aug. 2, 2002, 116 Stat. 887, as amended by Pub. L. 109–295, title IV, Oct. 4, 2006, 120 Stat. 1374; Pub. L. 110–161, div. E, title IV, Dec. 26, 2007, 121 Stat. 2068; Pub. L. 110–329, div. D, title IV, Sept. 30, 2008, 122 Stat. 3677; Pub. L. 111–83, title IV, Oct. 28, 2009, 123 Stat. 2166; Pub. L. 112–74, div. D, title IV, Dec. 23, 2011, 125 Stat. 966; Pub. L. 113–6, div. D, title IV, Mar. 26, 2013, 127 Stat. 364; Pub. L. 113–76, div. F, title IV, Jan. 17, 2014, 128 Stat. 266, provided that: “(a) The Federal Law Enforcement Training Center may, for a period ending not later than December 31, 2016, appoint and maintain a cadre of up to 350 Federal annuitants: (1) without regard to any provision of title 5, United States Code, which might otherwise require the application of competitive hiring procedures; and (2) who shall not be subject to any reduction in pay (for annuity allocable to the period of actual employment) under the provisions of section 8344 or 8468 of such title 5 or similar provision of any other retirement system for employees. A reemployed Federal annuitant as to whom a waiver of reduction under paragraph (2) applies shall not, for any period during which such waiver is in effect, be considered an employee for purposes of subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or such other retirement system (referred to in paragraph (2)) as may apply. “(b) No appointment under this section may be made which would result in the displacement of any employee. “(c) For purposes of this section—“(1) the term ‘Federal annuitant’ means an employee who has retired under the Civil Service Retirement System, the Federal Employees’ Retirement System, or any other retirement system for employees; “(2) the term ‘employee’ has the meaning given such term by section 2105 of such title 5; and “(3) the counting of Federal annuitants shall be done on a full time equivalent basis.”
+Pub. L. 107–206, title I, § 1202, Aug. 2, 2002, 116 Stat. 887, as amended by Pub. L. 109–295, title IV, Oct. 4, 2006, 120 Stat. 1374; Pub. L. 110–161, div. E, title IV, Dec. 26, 2007, 121 Stat. 2068; Pub. L. 110–329, div. D, title IV, Sept. 30, 2008, 122 Stat. 3677; Pub. L. 111–83, title IV, Oct. 28, 2009, 123 Stat. 2166; Pub. L. 112–74, div. D, title IV, Dec. 23, 2011, 125 Stat. 966; Pub. L. 113–6, div. D, title IV, Mar. 26, 2013, 127 Stat. 364; Pub. L. 113–76, div. F, title IV, Jan. 17, 2014, 128 Stat. 266; Pub. L. 114–4, title IV, Mar. 4, 2015, 129 Stat. 59, provided that: “(a) The Federal Law Enforcement Training Center may, for a period ending not later than December 31, 2017, appoint and maintain a cadre of up to 350 Federal annuitants: (1) without regard to any provision of title 5, United States Code, which might otherwise require the application of competitive hiring procedures; and (2) who shall not be subject to any reduction in pay (for annuity allocable to the period of actual employment) under the provisions of section 8344 or 8468 of such title 5 or similar provision of any other retirement system for employees. A reemployed Federal annuitant as to whom a waiver of reduction under paragraph (2) applies shall not, for any period during which such waiver is in effect, be considered an employee for purposes of subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or such other retirement system (referred to in paragraph (2)) as may apply. “(b) No appointment under this section may be made which would result in the displacement of any employee. “(c) For purposes of this section—“(1) the term ‘Federal annuitant’ means an employee who has retired under the Civil Service Retirement System, the Federal Employees’ Retirement System, or any other retirement system for employees; “(2) the term ‘employee’ has the meaning given such term by section 2105 of such title 5; and “(3) the counting of Federal annuitants shall be done on a full time equivalent basis.”
 
 #### Annual Outstanding Student Award
 Pub. L. 107–67, title I, Nov. 12, 2001, 115 Stat. 516, and similar provisions authorizing the Federal Law Enforcement Training Center to use gifts of property for authorized purposes, including funding of an annual gift to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, were transferred to a note set out under [section 464 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section464&num=0&edition=prelim), Domestic Security.
@@ -4174,7 +4182,35 @@ For purposes of this subchapter, the term “local entity” means a child suppo
 
 (17) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (16).
 
-**(c) Preferential consideration of applications for certain grants** In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section.
+**(c) Preferential consideration of applications for certain grants** In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to an application—
+
+(1) for hiring and rehiring additional career law enforcement officers that involves a non-Federal contribution exceeding the 25 percent minimum under subsection (g);
+
+(2) from an applicant in a State that has in effect a law that—
+
+  (A) treats a minor who has engaged in, or has attempted to engage in, a commercial sex act as a victim of a severe form of trafficking in persons;
+
+  (B) discourages or prohibits the charging or prosecution of an individual described in subparagraph (A) for a prostitution or sex trafficking offense, based on the conduct described in subparagraph (A); and
+
+  (C) encourages the diversion of an individual described in subparagraph (A) to appropriate service providers, including child welfare services, victim treatment programs, child advocacy centers, rape crisis centers, or other social services; or
+
+(3) from an applicant in a State that has in effect a law—
+
+  (A) that—
+
+    (i) provides a process by which an individual who is a human trafficking survivor can move to vacate any arrest or conviction records for a non-violent offense committed as a direct result of human trafficking, including prostitution or lewdness;
+
+    (ii) establishes a rebuttable presumption that any arrest or conviction of an individual for an offense associated with human trafficking is a result of being trafficked, if the individual—
+
+      (I) is a person granted nonimmigrant status pursuant to [section 1101(a)(15)(T)(i) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T/i&num=0&edition=prelim);
+
+      (II) is the subject of a certification by the Secretary of Health and Human Services under [section 7105(b)(1)(E) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/b/1/E&num=0&edition=prelim); or
+
+      (III) has other similar documentation of trafficking, which has been issued by a Federal, State, or local agency; and
+
+    (iii) protects the identity of individuals who are human trafficking survivors in public and court records; and
+
+  (B) that does not require an individual who is a human trafficking survivor to provide official documentation as described in subclause (I), (II), or (III) of subparagraph (A)(ii) in order to receive protection under the law.
 
 **(d) Technical assistance**
 
@@ -4225,6 +4261,10 @@ The Public Safety Partnership and Community Policing Act of 1994, referred to in
 A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is classified to [section 3797 of this title](./chapter-046-justice-system-improvement.md#section-3797).
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–22, § 601(1), substituted “where feasible, to an application—” for “where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section.” and added pars. (1) and (2).
+
+Subsec. (c)(3). Pub. L. 114–22, § 1002, added par. (3).
+
 2010—Subsec. (b). Pub. L. 111–211, § 243(1)(A), inserted “to” after each par. designation.
 
 Subsec. (b)(1). Pub. L. 111–211, § 243(1)(B), substituted “State, tribal, or” for “State and”.
@@ -4578,12 +4618,20 @@ In this subchapter—
 
   (G) to assist in developing school policy that addresses crime and to recommend procedural changes.
 
+(5) “commercial sex act” has the meaning given the term in [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim).
+
+(6) “minor” means an individual who has not attained the age of 18 years.
+
+(7) “severe form of trafficking in persons” has the meaning given the term in [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### References in Text
 The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, § 2, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Pub. L. 114–22 added pars. (5) to (7).
+
 1998—Pub. L. 105–302 designated first three undesignated paragraphs as pars. (1) to (3), respectively, and added par. (4).
 
 

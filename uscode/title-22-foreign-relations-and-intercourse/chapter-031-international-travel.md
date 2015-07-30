@@ -69,7 +69,7 @@ Subsec. (b)(2) to (16). Pub. L. 102–372, § 5(2), (3), added pars. (2) to (5) 
 Pub. L. 97–63, § 6, Oct. 16, 1981, 95 Stat. 1018, provided that: “The amendments made by this Act [see Short Title of 1981 Amendment note below] shall take effect October 1, 1981.”
 
 #### Short Title of 2014 Amendment
-Pub. L. 113–235, div. B, title VI, § 601, Dec. 16, 2014, 128 Stat. 2218, provided that: “This title [amending sections 2123, 2123a, and 2131 of this title and [section 1187 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187&num=0&edition=prelim), Aliens and Nationality] may be cited as the “Travel Promotion, Enhancement, and Modernization Act of 2014”.
+Pub. L. 113–235, div. B, title VI, § 601, Dec. 16, 2014, 128 Stat. 2218, provided that: “This title [amending sections 2123, 2123a, and 2131 of this title and [section 1187 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187&num=0&edition=prelim), Aliens and Nationality] may be cited as the ‘Travel Promotion, Enhancement, and Modernization Act of 2014’.”
 
 #### Short Title of 1996 Amendment
 Pub. L. 104–288, § 1, Oct. 11, 1996, 110 Stat. 3402, provided that: “This Act [enacting sections 2124 and 2141 to 2141f of this title, amending sections 2122 and 2124c of this title and [section 4727 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4727&num=0&edition=prelim), Commerce and Trade, and repealing sections 2123 to 2123d, 2124 to 2124b, and 2126 to 2129 of this title] may be cited as the ‘United States National Tourism Organization Act of 1996’.”
@@ -700,7 +700,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
 (2) **GAO accountability** — Not later than 60 days after the date on which the Corporation receives a report from the Government Accountability Office with recommendations for the Corporation, the Corporation shall submit a report to Congress that describes the actions taken by the Corporation in response to the recommendations in such report.
 
-**(g) Procurement Requirements** The Corporation shall—
+**(g) Procurement requirements** The Corporation shall—
 
 (1) establish a competitive procurement process; and
 

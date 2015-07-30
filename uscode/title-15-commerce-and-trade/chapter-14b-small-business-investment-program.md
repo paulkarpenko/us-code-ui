@@ -610,7 +610,7 @@ For purposes of this subsection, the term “venture capital” includes such co
 
 **(h) Computation of amounts due under participating securities** The computation of amounts due the Administration under participating securities shall be subject to the following terms and conditions:
 
-(1) The formula in subsection (g)(11) of this section shall be computed annually and the Administration shall receive distributions of its profit participation at the same time as other investors in the company.
+(1) The formula in subsection (g)(11) shall be computed annually and the Administration shall receive distributions of its profit participation at the same time as other investors in the company.
 
 (2) The formula shall not be modified due to an increase in the private capital unless the increase is provided for in a proposed business plan submitted to and approved by the Administration.
 
@@ -618,7 +618,7 @@ For purposes of this subsection, the term “venture capital” includes such co
 
 (4) If the company prepays or repays the participating securities, the Administration shall receive the requisite participation upon the distribution of profits due to any investments held by the company on the date of the repayment or prepayment.
 
-(5) If a company is licensed on or before March 31, 1993, it may elect to exclude from profit participation all investments held on that date and in such case the Administration shall determine the amount of the future expenses attributable to such prior investment: Provided, That if the company issues participating securities to refinance debentures as authorized in subsection (g)(6) of this section, it may not elect to exclude profits on existing investments under this paragraph.
+(5) If a company is licensed on or before March 31, 1993, it may elect to exclude from profit participation all investments held on that date and in such case the Administration shall determine the amount of the future expenses attributable to such prior investment: Provided, That if the company issues participating securities to refinance debentures as authorized in subsection (g)(6), it may not elect to exclude profits on existing investments under this paragraph.
 
 **(i) Leverage fee** With respect to leverage granted by the Administration to a licensee, the Administration shall collect from the licensee a nonrefundable fee in an amount equal to 3 percent of the face amount of leverage granted to the licensee in the following manner: 1 percent upon the date on which the Administration enters into any commitment for such leverage with the licensee, and the balance of 2 percent (or 3 percent if no commitment has been entered into by the Administration) on the date on which the leverage is drawn by the licensee.
 
@@ -1084,13 +1084,13 @@ For purposes of subsec. (i) of this section, the term “State” to include the
 
 **(b) Grounds for cease and desist order** Where a licensee or any other person has not complied with any provision of this chapter, or of any regulation issued pursuant thereto by the Administration, or is engaging or is about to engage in any acts or practices which constitute or will constitute a violation of such chapter or regulation, the Administration may order such licensee or other person to cease and desist from such action or failure to act. The Administration may further order such licensee or other person to take such action or to refrain from such action as the Administration deems necessary to insure compliance with this chapter and the regulations. The Administration may also suspend the license of a licensee, against whom an order has been issued, until such licensee complies with such order.
 
-**(c) Order to show cause; contents; hearing; issuance and service** Before revoking or suspending a license pursuant to subsection (a) of this section, or issuing a cease and desist order pursuant to subsection (b) of this section, the Administration shall serve upon the licensee and any other person involved an order to show cause why an order revoking or suspending the license or a cease and desist order should not be issued. Any such order to show cause shall contain a statement of the matters of fact and law asserted by the Administration and the legal authority and jurisdiction under which a hearing is to be held, and shall set forth that a hearing will be held before the Administration at a time and place stated in the order. If after hearing, or a waiver thereof, the Administration determines on the record that an order revoking or suspending the license or a cease and desist order should issue, it shall promptly issue such order, which shall include a statement of the findings of the Administration and the grounds and reasons therefor and specify the effective date of the order, and shall cause the order to be served on the licensee and any other person involved.
+**(c) Order to show cause; contents; hearing; issuance and service** Before revoking or suspending a license pursuant to subsection (a), or issuing a cease and desist order pursuant to subsection (b), the Administration shall serve upon the licensee and any other person involved an order to show cause why an order revoking or suspending the license or a cease and desist order should not be issued. Any such order to show cause shall contain a statement of the matters of fact and law asserted by the Administration and the legal authority and jurisdiction under which a hearing is to be held, and shall set forth that a hearing will be held before the Administration at a time and place stated in the order. If after hearing, or a waiver thereof, the Administration determines on the record that an order revoking or suspending the license or a cease and desist order should issue, it shall promptly issue such order, which shall include a statement of the findings of the Administration and the grounds and reasons therefor and specify the effective date of the order, and shall cause the order to be served on the licensee and any other person involved.
 
 **(d) Subpena of person, and books, papers and documents; fees and mileage; enforcement** The Administration may require by subpena the attendance and testimony of witnesses and the production of all books, papers, and documents relating to the hearing from any place in the United States. Witnesses summoned before the Administration shall be paid by the party at whose instance they were called the same fees and mileage that are paid witnesses in the courts of the United States. In case of disobedience to a subpena, the Administration, or any party to a proceeding before the Administration, may invoke the aid of any court of the United States in requiring the attendance and testimony of witnesses and the production of books, papers, and documents.
 
 **(e) Petition to modify or set aside order; filing, time and place, Administration to submit record; action of court; review** An order issued by the Administration under this section shall be final and conclusive unless within thirty days after the service thereof the licensee, or other person against whom an order is issued, appeals to the United States court of appeals for the circuit in which such licensee has its principal place of business by filing with the clerk of such court a petition praying that the Administration’s order be set aside or modified in the manner stated in the petition. After the expiration of such thirty days, a petition may be filed only by leave of court on a showing of reasonable grounds for failure to file the petition theretofore. The clerk of the court shall immediately cause a copy of the petition to be delivered to the Administration, and the Administration shall thereupon certify and file in the court a transcript of the record upon which the order complained of was entered. If before such record is filed the Administration amends or sets aside its order, in whole or in part, the petitioner may amend the petition within such time as the court may determine, on notice to the Administration. The filing of a petition for review shall not of itself stay or suspend the operation of the order of the Administration, but the court of appeals in its discretion may restrain or suspend, in whole or in part, the operation of the order pending the final hearing and determination of the petition. The court may affirm, modify, or set aside the order of the Administration. If the court determines that the just and proper disposition of the case requires the taking of additional evidence, the court shall order the Administration to reopen the hearing for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Administration may modify its findings as to the facts, or make new findings, by reason of the additional evidence so taken, and it shall file its modified or new findings and the amendments, if any, of its order, with the record of such additional evidence. No objection to an order of the Administration shall be considered by the court unless such objection was urged before the Administration or, if it was not so urged, unless there were reasonable grounds for failure to do so. The judgment and decree of the court affirming, modifying, or setting aside any such order of the Administration shall be subject only to review by the Supreme Court of the United States upon certification or certiorari as provided in [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim).
 
-**(f) Enforcement of order** If any licensee or other person against which or against whom an order is issued under this section fails to obey the order, the Administration may apply to the United States court of appeals, within the circuit where the licensee has its principal place of business, for the enforcement of the order, and shall file a transcript of the record upon which the order complained of was entered. Upon the filing of the application the court shall cause notice thereof to be served on the licensee or other person. The evidence to be considered, the procedure to be followed, and the jurisdiction of the court shall be the same as is provided in subsection (e) of this section for applications to set aside or modify orders.
+**(f) Enforcement of order** If any licensee or other person against which or against whom an order is issued under this section fails to obey the order, the Administration may apply to the United States court of appeals, within the circuit where the licensee has its principal place of business, for the enforcement of the order, and shall file a transcript of the record upon which the order complained of was entered. Upon the filing of the application the court shall cause notice thereof to be served on the licensee or other person. The evidence to be considered, the procedure to be followed, and the jurisdiction of the court shall be the same as is provided in subsection (e) for applications to set aside or modify orders.
 
 ### Statutory Notes
 
@@ -1295,7 +1295,7 @@ Pub. L. 94–305, § 106(f)(1), inserted “or partners” after “to the share
 
 **(c) Authority to suspend or prohibit participation**
 
-(1) **In general** — The Administrator may, if the Administrator deems it necessary for the protection of the licensee or the interests of the Administration, suspend from office or prohibit from further participation in any manner in the management or conduct of the affairs of the licensee, or both, any management official referred to in subsection (b)(1) of this section, by written notice to such effect served upon the management official.
+(1) **In general** — The Administrator may, if the Administrator deems it necessary for the protection of the licensee or the interests of the Administration, suspend from office or prohibit from further participation in any manner in the management or conduct of the affairs of the licensee, or both, any management official referred to in subsection (b)(1), by written notice to such effect served upon the management official.
 
 (2) **Effectiveness** — A suspension or prohibition under paragraph (1)—
 
@@ -1303,11 +1303,11 @@ Pub. L. 94–305, § 106(f)(1), inserted “or partners” after “to the share
 
   (B) unless stayed by a court in proceedings authorized by paragraph (3), shall remain in effect—
 
-    (i) pending the completion of the administrative proceedings pursuant to a notice of intention to remove served under subsection (b) of this section; and
+    (i) pending the completion of the administrative proceedings pursuant to a notice of intention to remove served under subsection (b); and
 
     (ii) until such time as the Administrator shall dismiss the charges specified in the notice, or, if an order of removal or prohibition is issued against the management official, until the effective date of any such order.
 
-(3) **Judicial review** — Not later than 10 days after any management official has been suspended from office or prohibited from participation in the management or conduct of the affairs of a licensee, or both, under paragraph (1), that management official may apply to the United States district court for the judicial district in which the home office of the licensee is located, or the United States District Court for the District of Columbia, for a stay of the suspension or prohibition pending the completion of the administrative proceedings pursuant to a notice of intent to remove served upon the management official under subsection (b) of this section, and such court shall have jurisdiction to stay such action.
+(3) **Judicial review** — Not later than 10 days after any management official has been suspended from office or prohibited from participation in the management or conduct of the affairs of a licensee, or both, under paragraph (1), that management official may apply to the United States district court for the judicial district in which the home office of the licensee is located, or the United States District Court for the District of Columbia, for a stay of the suspension or prohibition pending the completion of the administrative proceedings pursuant to a notice of intent to remove served upon the management official under subsection (b), and such court shall have jurisdiction to stay such action.
 
 **(d) Authority to suspend on criminal charges**
 
@@ -1317,7 +1317,7 @@ Pub. L. 94–305, § 106(f)(1), inserted “or partners” after “to the share
 
 (3) **Authority upon conviction** — If a judgment of conviction with respect to an offense described in paragraph (1) is entered against a management official, then at such time as the judgment is not subject to further appellate review, the Administrator may issue and serve upon the management official an order removing that management official, which removal shall become effective upon service of a copy of the order upon the licensee.
 
-(4) **Authority upon dismissal or other disposition** — A finding of not guilty or other disposition of charges described in paragraph (1) shall not preclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c) of this section.
+(4) **Authority upon dismissal or other disposition** — A finding of not guilty or other disposition of charges described in paragraph (1) shall not preclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c).
 
 **(e) Notification to licensees** Copies of each notice required to be served on a management official under this section shall also be served upon the interested licensee.
 
@@ -1341,7 +1341,7 @@ Pub. L. 94–305, § 106(f)(1), inserted “or partners” after “to the share
 
   (A) *In general* — Judicial review of an order issued under this section shall be exclusively as provided in this subsection.
 
-  (B) *Petition for review* — Any party to a hearing provided for in this section may obtain a review of any order issued pursuant to paragraph (2) (other than an order issued with the consent of the management official concerned, or an order issued under subsection (d) of this section), by filing in the court of appeals of the United States for the circuit in which the principal office of the licensee is located, or in the United States Court of Appeals for the District of Columbia Circuit, not later than 30 days after the date of service of such order, a written petition praying that the order of the Administrator be modified, terminated, or set aside.
+  (B) *Petition for review* — Any party to a hearing provided for in this section may obtain a review of any order issued pursuant to paragraph (2) (other than an order issued with the consent of the management official concerned, or an order issued under subsection (d)), by filing in the court of appeals of the United States for the circuit in which the principal office of the licensee is located, or in the United States Court of Appeals for the District of Columbia Circuit, not later than 30 days after the date of service of such order, a written petition praying that the order of the Administrator be modified, terminated, or set aside.
 
   (C) *Notification to administration* — A copy of a petition filed under subparagraph (B) shall be forthwith transmitted by the clerk of the court to the Administrator, and thereupon the Administrator shall file in the court the record in the proceeding, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim).
 
@@ -1643,7 +1643,7 @@ In accordance with this part, the Administrator shall establish a New Markets Ve
 
 (3) the company has a primary objective of economic development of low-income geographic areas.
 
-**(b) Application** To participate, as a New Markets Venture Capital company, in the program established under this part a company meeting the eligibility requirements set forth in subsection (a) of this section shall submit an application to the Administrator that includes—
+**(b) Application** To participate, as a New Markets Venture Capital company, in the program established under this part a company meeting the eligibility requirements set forth in subsection (a) shall submit an application to the Administrator that includes—
 
 (1) a business plan describing how the company intends to make successful developmental venture capital investments in identified low-income geographic areas;
 
@@ -1663,7 +1663,7 @@ In accordance with this part, the Administrator shall establish a New Markets Ve
 
 **(c) Conditional approval**
 
-(1) **In general** — From among companies submitting applications under subsection (b) of this section, the Administrator shall, in accordance with this subsection, conditionally approval 11 So in original. Probably should be “approve”. companies to participate in the New Markets Venture Capital Program.
+(1) **In general** — From among companies submitting applications under subsection (b), the Administrator shall, in accordance with this subsection, conditionally approval 11 So in original. Probably should be “approve”. companies to participate in the New Markets Venture Capital Program.
 
 (2) **Selection criteria** — In selecting companies under paragraph (1), the Administrator shall consider the following:
 
@@ -1675,7 +1675,7 @@ In accordance with this part, the Administrator shall establish a New Markets Ve
 
   (D) The extent to which the company will concentrate its activities on serving the geographic areas in which it intends to invest.
 
-  (E) The likelihood that the company will be able to satisfy the conditions under subsection (d) of this section.
+  (E) The likelihood that the company will be able to satisfy the conditions under subsection (d).
 
   (F) The extent to which the activities proposed by the company will expand economic opportunities in the geographic areas in which the company intends to invest.
 
@@ -1719,15 +1719,15 @@ In accordance with this part, the Administrator shall establish a New Markets Ve
 
   (C) *Limitation* — In order to comply with the requirements of subparagraphs (A) and (B), the total amount of a company’s in-kind contributions may not exceed 50 percent of the company’s total contributions.
 
-**(e) Final approval; designation** The Administrator shall, with respect to each applicant conditionally approved to operate as a New Markets Venture Capital company under subsection (c) of this section, either—
+**(e) Final approval; designation** The Administrator shall, with respect to each applicant conditionally approved to operate as a New Markets Venture Capital company under subsection (c), either—
 
 (1) grant final approval to the applicant to operate as a New Markets Venture Capital company under this part and designate the applicant as such a company, if the applicant—
 
-  (A) satisfies the requirements of subsection (d) of this section on or before the expiration of the time period described in that subsection; and
+  (A) satisfies the requirements of subsection (d) on or before the expiration of the time period described in that subsection; and
 
   (B) enters into a participation agreement with the Administrator; or
 
-(2) if the applicant fails to satisfy the requirements of subsection (d) of this section on or before the expiration of the time period described in that subsection, revoke the conditional approval granted under that subsection.
+(2) if the applicant fails to satisfy the requirements of subsection (d) on or before the expiration of the time period described in that subsection, revoke the conditional approval granted under that subsection.
 
 
 <a id="section-689d"></a>
@@ -1778,7 +1778,7 @@ In accordance with this part, the Administrator shall establish a New Markets Ve
 
 **(c) Full faith and credit of the United States** The full faith and credit of the United States is pledged to pay all amounts that may be required to be paid under any guarantee of a trust certificate issued by the Administrator or its agents under this section.
 
-**(d) Fees** The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2) of this section.
+**(d) Fees** The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2).
 
 **(e) Subrogation and ownership rights**
 
@@ -1851,9 +1851,9 @@ The effective date of the New Markets Venture Capital Program Act of 2000, refer
 
 <a id="section-689h"></a>
 ## § 689h. Bank participation
-**(a) In general** Except as provided in subsection (b) of this section, any national bank, any member bank of the Federal Reserve System, and (to the extent permitted under applicable State law) any insured bank that is not a member of such system, may invest in any New Markets Venture Capital company, or in any entity established to invest solely in New Markets Venture Capital companies.
+**(a) In general** Except as provided in subsection (b), any national bank, any member bank of the Federal Reserve System, and (to the extent permitted under applicable State law) any insured bank that is not a member of such system, may invest in any New Markets Venture Capital company, or in any entity established to invest solely in New Markets Venture Capital companies.
 
-**(b) Limitation** No bank described in subsection (a) of this section may make investments described in such subsection that are greater than 5 percent of the capital and surplus of the bank.
+**(b) Limitation** No bank described in subsection (a) may make investments described in such subsection that are greater than 5 percent of the capital and surplus of the bank.
 
 
 <a id="section-689i"></a>
@@ -1893,7 +1893,7 @@ Each New Markets Venture Capital company that participates in the program establ
 ## § 689l. Injunctions and other orders
 **(a) In general** Whenever, in the judgment of the Administrator, a New Markets Venture Capital company or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provision of this chapter, or of any rule or regulation under this chapter, or of any order issued under this chapter, the Administrator may make application to the proper district court of the United States or a United States court of any place subject to the jurisdiction of the United States for an order enjoining such acts or practices, or for an order enforcing compliance with such provision, rule, regulation, or order, and such courts shall have jurisdiction of such actions and, upon a showing by the Administrator that such New Markets Venture Capital company or other person has engaged or is about to engage in any such acts or practices, a permanent or temporary injunction, restraining order, or other order, shall be granted without bond.
 
-**(b) Jurisdiction** In any proceeding under subsection (a) of this section, the court as a court of equity may, to such extent as it deems necessary, take exclusive jurisdiction of the New Market Venture Capital company and the assets thereof, wherever located, and the court shall have jurisdiction in any such proceeding to appoint a trustee or receiver to hold or administer under the direction of the court the assets so possessed.
+**(b) Jurisdiction** In any proceeding under subsection (a), the court as a court of equity may, to such extent as it deems necessary, take exclusive jurisdiction of the New Market Venture Capital company and the assets thereof, wherever located, and the court shall have jurisdiction in any such proceeding to appoint a trustee or receiver to hold or administer under the direction of the court the assets so possessed.
 
 **(c) Administrator as trustee or receiver**
 
@@ -1917,7 +1917,7 @@ For definition of “this chapter”, referred to in subsec. (a), see References
 
 **(b) Adjudication of noncompliance**
 
-(1) **In general** — Before the Administrator may cause a New Markets Venture Capital company to forfeit rights or privileges under subsection (a) of this section, a court of the United States of competent jurisdiction must find that the company committed a violation, or failed to comply, in a cause of action brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of the company is located.
+(1) **In general** — Before the Administrator may cause a New Markets Venture Capital company to forfeit rights or privileges under subsection (a), a court of the United States of competent jurisdiction must find that the company committed a violation, or failed to comply, in a cause of action brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of the company is located.
 
 (2) **Parties authorized to file causes of action** — Each cause of action brought by the United States under this subsection shall be brought by the Administrator or by the Attorney General.
 
@@ -2438,24 +2438,24 @@ Section 911(b) of Pub. L. 91–609 authorized the Secretary of Housing and Urban
 
 (5)
 
-  (A) The Administration shall promptly act upon an application from a surety to participate in the Preferred Surety Bond Guarantee Program, authorized by paragraph (3), in accordance with criteria and procedures established in regulations pursuant to subsection (d) of this section.
+  (A) The Administration shall promptly act upon an application from a surety to participate in the Preferred Surety Bond Guarantee Program, authorized by paragraph (3), in accordance with criteria and procedures established in regulations pursuant to subsection (d).
 
   (B) The Administration is authorized to reduce the allotment of bond guarantee authority or terminate the participation of a surety in the Preferred Surety Bond Guarantee Program based on the rate of participation of such surety during the 4 most recent fiscal year quarters compared to the median rate of participation by the other sureties in the program.
 
-**(b) Indemnification of surety against loss from avoiding breach** Subject to the provisions of this section, in connection with the issuance by the Administration of a guarantee to a surety as provided by subsection (a) of this section, the Administration may agree to indemnify such surety against a loss sustained by such surety in avoiding or attempting to avoid a breach of the terms of a bond guaranteed by the Administration pursuant to subsection (a) of this section: Provided, however—
+**(b) Indemnification of surety against loss from avoiding breach** Subject to the provisions of this section, in connection with the issuance by the Administration of a guarantee to a surety as provided by subsection (a), the Administration may agree to indemnify such surety against a loss sustained by such surety in avoiding or attempting to avoid a breach of the terms of a bond guaranteed by the Administration pursuant to subsection (a): Provided, however—
 
 (1) prior to making any payment under this subsection, the Administration shall first determine that a breach of the terms of such bond was imminent;
 
-(2) a surety must obtain approval from the Administration prior to making any payments pursuant to this subsection unless the surety is participating under the authority of subsection (a)(3) of this section; and
+(2) a surety must obtain approval from the Administration prior to making any payments pursuant to this subsection unless the surety is participating under the authority of subsection (a)(3); and
 
 (3) no payment by the Administration pursuant to this subsection shall exceed 10 per centum of the contract price unless the Administrator determines that a greater payment should be made as a result of a finding by the Administrator that the surety’s loss sustained in avoiding or attempting to avoid such breach was necessary and reasonable.
-In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a) of this section.
+In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a).
 
 **(c) Limitation of liability** Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum—
 
-(1) not to exceed 70 per centum of the loss incurred and paid by a surety authorized to issue bonds subject to the Administration’s guarantee under subsection (a)(3) of this section;
+(1) not to exceed 70 per centum of the loss incurred and paid by a surety authorized to issue bonds subject to the Administration’s guarantee under subsection (a)(3);
 
-(2) not to exceed 90 per centum of the loss incurred and paid in the case of a surety requiring the Administration’s specific approval for the issuance of such bond, but in no event may the Administration make any duplicate payment pursuant to subsection (b) of this section or any other subsection;
+(2) not to exceed 90 per centum of the loss incurred and paid in the case of a surety requiring the Administration’s specific approval for the issuance of such bond, but in no event may the Administration make any duplicate payment pursuant to subsection (b) or any other subsection;
 
 (3) equal to 90 per centum of the loss incurred and paid in the case of a surety requiring the administration’s 11 So in original. Probably should be capitalized. specific approval for the issuance of a bond, if—
 
@@ -2463,7 +2463,7 @@ In no event shall the Administration pay a surety pursuant to this subsection an
 
   (B) the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by [section 637(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/d&num=0&edition=prelim), or to a qualified HUBZone small business concern (as defined in [section 632(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim)); or
 
-(4) determined pursuant to subsection (b) of this section, if applicable.
+(4) determined pursuant to subsection (b), if applicable.
 
 **(d) Regulations** The Administration may establish and periodically review regulations for participating sureties which shall require such sureties to meet Administration standards for underwriting, claim practices, and loss ratios.
 
@@ -2485,7 +2485,7 @@ In no event shall the Administration pay a surety pursuant to this subsection an
 
 (2) The Administration may at all reasonable times audit, in the offices of a participating surety, all documents, files, books, records, and other material relevant to the Administration’s guarantee, commitments to guarantee, or agreements to indemnify any surety pursuant to this section.
 
-(3) Each surety participating under the authority of paragraph (3) of subsection (a) of this section shall be audited at least once every three years by examiners selected and approved by the Administration.
+(3) Each surety participating under the authority of paragraph (3) of subsection (a) shall be audited at least once every three years by examiners selected and approved by the Administration.
 
 **(h) Administrative provisions** The Administration shall administer this part on a prudent and economically justifiable basis and establish such fee or fees for small business concerns and premium or premiums for sureties as it deems reasonable and necessary, to be payable at such time and under such conditions as may be determined by the Administration.
 
@@ -2540,7 +2540,7 @@ Subsec. (g)(3). Pub. L. 108–447, § 203(b), substituted “every three years�
 
 1988—Subsec. (a). Pub. L. 100–590, § 202, amended subsec. (a) generally, substituting pars. (1) to (4) for former pars. (1) to (6).
 
-Subsec. (b). Pub. L. 100–590, § 203(c), added par. (2), redesignated former par. (2) as (3), struck out former par. (3) which prohibited the making subsequent to two years after Oct. 24, 1978, of new agreements to indemnify, and inserted concluding provision: “In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a) of this section.”
+Subsec. (b). Pub. L. 100–590, § 203(c), added par. (2), redesignated former par. (2) as (3), struck out former par. (3) which prohibited the making subsequent to two years after Oct. 24, 1978, of new agreements to indemnify, and inserted concluding provision: “In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a).”
 
 Subsec. (c). Pub. L. 100–590, § 203(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum not to exceed (1) in the case of a breach of contract, 90 percent of the loss incurred and paid by the surety as the result of the breach; or (2) in a case in which subsection (b) of this section applies, the amount determined under subsection (b) of this section.”
 
@@ -2727,9 +2727,9 @@ If eligibility is based upon the criteria set forth in paragraph (2) or (3), the
 
 **(e) Creation or retention of jobs**
 
-(1) A project meets the objective set forth in subsection (d)(1) of this section if the project creates or retains one job for every $65,000 guaranteed by the Administration, except that the amount is $100,000 in the case of a project of a small manufacturer.
+(1) A project meets the objective set forth in subsection (d)(1) if the project creates or retains one job for every $65,000 guaranteed by the Administration, except that the amount is $100,000 in the case of a project of a small manufacturer.
 
-(2) Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d) of this section, if the development company’s portfolio of outstanding debentures creates or retains one job for every $65,000 guaranteed by the Administration.
+(2) Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d), if the development company’s portfolio of outstanding debentures creates or retains one job for every $65,000 guaranteed by the Administration.
 
 (3) For projects in Alaska, Hawaii, State-designated enterprise zones, empowerment zones and enterprise communities, labor surplus areas, as determined by the Secretary of Labor, and for other areas designated by the Administrator, the development company’s portfolio may average not more than $75,000 per job created or retained.
 
@@ -2961,15 +2961,15 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1918 of Pub. L.
 ## § 697. Development company debentures
 **(a) Guarantees; Administration authority; regulatory terms and conditions; full faith and credit; subordination of debentures**
 
-(1) Except as provided in subsection (b) of this section, the Administration may guarantee the timely payment of all principal and interest as scheduled on any debenture issued by any qualified State or local development company.
+(1) Except as provided in subsection (b), the Administration may guarantee the timely payment of all principal and interest as scheduled on any debenture issued by any qualified State or local development company.
 
-(2) Such guarantees may be made on such terms and conditions as the Administration may be regulation determine to be appropriate: Provided, That the Administration shall not decline to issue such guarantee when the ownership interests of the small business concern and the ownership interests of the property to be financed with the proceeds of a loan made pursuant to subsection (b)(1) of this section are not identical because one or more of the following classes of relatives have an ownership interest in either the small business concern or the property: father, mother, son, daughter, wife, husband, brother, or sister: Provided further, That the Administrator or his designee has determined on a case-by-case basis that such ownership interest, such guarantee, and the proceeds of such loan, will substantially benefit the small business concern.
+(2) Such guarantees may be made on such terms and conditions as the Administration may be regulation determine to be appropriate: Provided, That the Administration shall not decline to issue such guarantee when the ownership interests of the small business concern and the ownership interests of the property to be financed with the proceeds of a loan made pursuant to subsection (b)(1) are not identical because one or more of the following classes of relatives have an ownership interest in either the small business concern or the property: father, mother, son, daughter, wife, husband, brother, or sister: Provided further, That the Administrator or his designee has determined on a case-by-case basis that such ownership interest, such guarantee, and the proceeds of such loan, will substantially benefit the small business concern.
 
 (3) The full faith and credit of the United States in pledged to the payment of all amounts guaranteed under this subsection.
 
 (4) Any debenture issued by any State or local development company with respect to which a guarantee is made under this subsection, may be subordinated by the Administration to any other debenture, promissory note, or other debt or obligation of such company.
 
-**(b) Statutory terms and conditions** No guarantee may be made with respect to any debenture under subsection (a) of this section unless—
+**(b) Statutory terms and conditions** No guarantee may be made with respect to any debenture under subsection (a) unless—
 
 (1) such debenture is issued for the purpose of making one or more loans to small business concerns, the proceeds of which shall be used by such concern for the purposes set forth in [section 696 of this title](./chapter-14b-small-business-investment-program.md#section-696);
 
@@ -2995,7 +2995,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1918 of Pub. L.
 
     (ii) 50 percent of the amount established under clause (i) in the case of a loan made during the 2-year period beginning on October 1, 2002, for the life of the loan; and
 
-  (B) uses the proceeds of such fee to offset the cost (as such term is defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)) to the Administration of making guarantees under subsection (a) of this section.
+  (B) uses the proceeds of such fee to offset the cost (as such term is defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)) to the Administration of making guarantees under subsection (a).
 
 **(c) Commercial loan interest rate**
 
@@ -3007,11 +3007,11 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1918 of Pub. L.
 
 **(d) Charges for Administration expenses**
 
-(1) **Level of charges** — The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a) of this section.
+(1) **Level of charges** — The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a).
 
-(2) **Participation fee** — The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of any institution described in subclause (I), (II), or (III) of [section 696(3)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section696/3/B/i&num=0&edition=prelim). Such fee shall be imposed only when the participation of the institution will occupy a senior credit position to that of the development company. All proceeds of the fee shall be used to offset the cost (as that term is defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)) to the Administration of making guarantees under subsection (a) of this section.
+(2) **Participation fee** — The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of any institution described in subclause (I), (II), or (III) of [section 696(3)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section696/3/B/i&num=0&edition=prelim). Such fee shall be imposed only when the participation of the institution will occupy a senior credit position to that of the development company. All proceeds of the fee shall be used to offset the cost (as that term is defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)) to the Administration of making guarantees under subsection (a).
 
-(3) **Development company fee** — The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)) to the Administration of making guarantees under subsection (a) of this section.
+(3) **Development company fee** — The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)) to the Administration of making guarantees under subsection (a).
 
 **(e) “Qualified State or local development company” defined; exception for rural company; authority**
 
@@ -3027,7 +3027,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1918 of Pub. L.
 
 (3) Notwithstanding any other provision of law, qualified State or local development companies shall be authorized to prepare applications for deferred participation loans under [section 636(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), to service such loans and to charge a reasonable fee for servicing such loans.
 
-**(f) Effective date** The fees authorized by subsections (b) and (d) of this section shall apply to financings approved by the Administration on or after October 1, 1996.
+**(f) Effective date** The fees authorized by subsections (b) and (d) shall apply to financings approved by the Administration on or after October 1, 1996.
 
 **(g) Calculation of subsidy rate** All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)) to the Administration of purchasing and guaranteeing debentures under this chapter.
 
@@ -3234,7 +3234,7 @@ Notwithstanding Any Other Provision of Law: (1) on or after May 1, 1991, no deve
 
 <a id="section-697d"></a>
 ## § 697d. Accredited Lenders Program
-**(a) Establishment** The Administration is authorized to establish an Accredited Lenders Program for qualified State and local development companies that meet the requirements of subsection (b) of this section.
+**(a) Establishment** The Administration is authorized to establish an Accredited Lenders Program for qualified State and local development companies that meet the requirements of subsection (b).
 
 **(b) Requirements** The Administration may designate a qualified State or local development company as an accredited lender if such company—
 
@@ -3250,13 +3250,13 @@ Notwithstanding Any Other Provision of Law: (1) on or after May 1, 1991, no deve
 
 (6) has demonstrated the ability to serve small business credit needs for financing plant and equipment through the Development Company Program.
 
-**(c) Expedited processing of loan applications** The Administration shall develop an expedited procedure for processing a loan application or servicing action submitted by a qualified State or local development company that has been designated as an accredited lender in accordance with subsection (b) of this section.
+**(c) Expedited processing of loan applications** The Administration shall develop an expedited procedure for processing a loan application or servicing action submitted by a qualified State or local development company that has been designated as an accredited lender in accordance with subsection (b).
 
 **(d) Suspension or revocation of designation**
 
 (1) **In general** — The designation of a qualified State or local development company as an accredited lender may be suspended or revoked if the Administration determines that—
 
-  (A) the development company has not continued to meet the criteria for eligibility under subsection (b) of this section; or
+  (A) the development company has not continued to meet the criteria for eligibility under subsection (b); or
 
   (B) the development company has failed to adhere to the Administration’s rules and regulations or is violating any other applicable provision of law.
 
@@ -3275,11 +3275,11 @@ Pub. L. 103–403, title II, § 212(c), Oct. 22, 1994, 108 Stat. 4184, provided 
 
 <a id="section-697e"></a>
 ## § 697e. Premier Certified Lenders Program
-**(a) Establishment** The Administration may establish a Premier Certified Lenders Program for certified development companies that meet the requirements of subsection (b) of this section.
+**(a) Establishment** The Administration may establish a Premier Certified Lenders Program for certified development companies that meet the requirements of subsection (b).
 
 **(b) Requirements**
 
-(1) **Application** — To be eligible to participate in the Premier Certified Lenders Program established under subsection (a) of this section, a certified development company shall prepare and submit to the Administration an application at such time, in such manner, and containing such information as the Administration may require.
+(1) **Application** — To be eligible to participate in the Premier Certified Lenders Program established under subsection (a), a certified development company shall prepare and submit to the Administration an application at such time, in such manner, and containing such information as the Administration may require.
 
 (2) **Designation** — The Administration may designate a certified development company as a premier certified lender—
 
@@ -3291,9 +3291,9 @@ Pub. L. 103–403, title II, § 212(c), Oct. 22, 1994, 108 Stat. 4184, provided 
 
     (ii) of properly closing section 504 [[15 U.S.C. 697a](./chapter-14b-small-business-investment-program.md#section-697a)] loans and servicing its loan portfolio;
 
-  (C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company); and
+  (C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company); and
 
-  (D) the 11 So in original. Probably should be preceded by “if”. Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) of this section is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
+  (D) the 11 So in original. Probably should be preceded by “if”. Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
 
 (3) **Applicability of criteria after designation** — The Administrator may revoke the designation of a certified development company as a premier certified lender under this section at any time, if the Administrator determines that the certified development company does not meet any requirement described in subparagraphs (A) through (D) of paragraph (2).
 
@@ -3301,7 +3301,7 @@ Pub. L. 103–403, title II, § 212(c), Oct. 22, 1994, 108 Stat. 4184, provided 
 
 (1) **Establishment** — A company designated as a premier certified lender shall establish a loss reserve for financing approved pursuant to this section.
 
-(2) **Amount** — The amount of each loss reserve established under paragraph (1) shall be 10 percent of the amount of the company’s exposure, as determined under subsection (b)(2)(C) of this section.
+(2) **Amount** — The amount of each loss reserve established under paragraph (1) shall be 10 percent of the amount of the company’s exposure, as determined under subsection (b)(2)(C).
 
 (3) **Assets** — Each loss reserve established under paragraph (1) shall be comprised of—
 
@@ -3319,7 +3319,7 @@ Pub. L. 103–403, title II, § 212(c), Oct. 22, 1994, 108 Stat. 4184, provided 
 
   (C) 25 percent additional not later than 2 years after a debenture is closed.
 
-(5) **Replenishment** — If a loss has been sustained by the Administration, any portion of the loss reserve, and other funds provided by the premier company as necessary, may be used to reimburse the Administration for the premier company’s share of the loss as provided in subsection (b)(2)(C) of this section. If the company utilizes the reserve, within 30 days it shall replace an equivalent amount of funds.
+(5) **Replenishment** — If a loss has been sustained by the Administration, any portion of the loss reserve, and other funds provided by the premier company as necessary, may be used to reimburse the Administration for the premier company’s share of the loss as provided in subsection (b)(2)(C). If the company utilizes the reserve, within 30 days it shall replace an equivalent amount of funds.
 
 (6) **Disbursements**
 
@@ -3437,19 +3437,19 @@ Pub. L. 103–403, title II, § 212(c), Oct. 22, 1994, 108 Stat. 4184, provided 
 
 (2) **Scope of review** — The approval of a loan by a premier certified lender shall be subject to final approval as to eligibility of any guarantee by the Administration pursuant to [section 697(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section697/a&num=0&edition=prelim), but such final approval shall not include review of decisions by the lender involving creditworthiness, loan closing, or compliance with legal requirements imposed by law or regulation.
 
-**(f) Review** After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender’s credit decisions and general compliance with the eligibility requirements for each financing approved under the program authorized under this section. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g) of this section, but such review shall not affect any outstanding debenture guarantee.
+**(f) Review** After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender’s credit decisions and general compliance with the eligibility requirements for each financing approved under the program authorized under this section. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g), but such review shall not affect any outstanding debenture guarantee.
 
 **(g) Suspension or revocation** The designation of a certified development company as a premier certified lender may be suspended or revoked if the Administration determines that the company—
 
-(1) has not continued to meet the criteria for eligibility under subsection (b) of this section;
+(1) has not continued to meet the criteria for eligibility under subsection (b);
 
-(2) has not established or maintained the loss reserve required under subsection (c) of this section;
+(2) has not established or maintained the loss reserve required under subsection (c);
 
 (3) is failing to adhere to the Administration’s rules and regulations; or
 
 (4) is violating any other applicable provision of law.
 
-**(h) Effect of suspension or revocation** A suspension or revocation under subsection (g) of this section shall not affect any outstanding debenture guarantee.
+**(h) Effect of suspension or revocation** A suspension or revocation under subsection (g) shall not affect any outstanding debenture guarantee.
 
 **(i) Program goals** Each certified development company participating in the program under this section shall establish a goal of processing a minimum of not less than 50 percent of the loan applications for assistance under [section 697a of this title](./chapter-14b-small-business-investment-program.md#section-697a) pursuant to the program authorized under this section.
 
@@ -3471,7 +3471,7 @@ May 28, 2004, referred to in subsec. (c)(8)(C), was in the original “the date 
 October 22, 1994, referred to in subsec. (j), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–403, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
-2004—Subsec. (b)(2)(C). Pub. L. 108–232, § 3(b), inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company)” before “; and”.
+2004—Subsec. (b)(2)(C). Pub. L. 108–232, § 3(b), inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company)” before “; and”.
 
 Subsec. (b)(2)(D). Pub. L. 108–232, § 3(c)(1), substituted “subsection (c)” for “subsection (c)(2)”.
 
@@ -3560,7 +3560,7 @@ Pub. L. 105–135, title II, § 223(b), Dec. 2, 1997, 111 Stat. 2606, provided t
 ## § 697f. Prepayment of development company debentures
 **(a) In general**
 
-(1) **Prepayment authorized** — Subject to the requirements set forth in subsection (b) of this section, an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under [section 697 of this title](./chapter-14b-small-business-investment-program.md#section-697)) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
+(1) **Prepayment authorized** — Subject to the requirements set forth in subsection (b), an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under [section 697 of this title](./chapter-14b-small-business-investment-program.md#section-697)) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
 
 (2) **Procedure**
 
@@ -3590,11 +3590,11 @@ Pub. L. 105–135, title II, § 223(b), Dec. 2, 1997, 111 Stat. 2606, provided t
 
     (iii) *Adjustments to applicable percentage rate* — The percentage rates described in clause (ii) shall be increased or decreased by the Administration by a factor not to exceed one-third, if the same factor is applied in each case and if the Administration determines that an adjustment is necessary, based on the number of borrowers having given notice of their intent to participate, in order to make the program (including the amounts appropriated for this purpose under Public Law 103–317) result in no substantial net gain or loss of revenue to the Federal Financing Bank or to the Administration. Amounts collected in excess of the amount necessary to ensure revenue neutrality shall be refunded to the borrowers.
 
-**(b) Requirements** For purposes of subsection (a) of this section, the requirements of this subsection are that—
+**(b) Requirements** For purposes of subsection (a), the requirements of this subsection are that—
 
 (1) the debenture is outstanding and neither the loan that secures the debenture, if any, nor the debenture is in default on the date on which the prepayment is made;
 
-(2) State, local, or personal funds, or the proceeds of a refinancing in accordance with subsection (d) of this section under the programs authorized by this subchapter, are used to prepay or roll over the debenture; and
+(2) State, local, or personal funds, or the proceeds of a refinancing in accordance with subsection (d) under the programs authorized by this subchapter, are used to prepay or roll over the debenture; and
 
 (3) with respect to a debenture issued under [section 697 of this title](./chapter-14b-small-business-investment-program.md#section-697), the issuer certifies that the benefits, net of fees and expenses authorized herein, associated with prepayment of the debenture are entirely passed through to the borrower.
 
@@ -3602,7 +3602,7 @@ Pub. L. 105–135, title II, § 223(b), Dec. 2, 1997, 111 Stat. 2606, provided t
 
 **(d) Refinancing limitations**
 
-(1) **In general** — The refinancing of a debenture under sections 697a and 697b of this title, in accordance with subsection (b)(2) of this section—
+(1) **In general** — The refinancing of a debenture under sections 697a and 697b of this title, in accordance with subsection (b)(2)—
 
   (A) shall not exceed the amount necessary to prepay existing debentures, including all costs associated with the refinancing and any applicable prepayment penalty or repurchase premium; and
 
@@ -3610,9 +3610,9 @@ Pub. L. 105–135, title II, § 223(b), Dec. 2, 1997, 111 Stat. 2606, provided t
 
 (2) **Job creation** — An applicant for refinancing under [section 697a of this title](./chapter-14b-small-business-investment-program.md#section-697a) of a loan made pursuant to [section 697 of this title](./chapter-14b-small-business-investment-program.md#section-697) shall not be required to demonstrate that a requisite number of jobs will be created with the proceeds of a refinancing.
 
-(3) **Loan processing fee** — To cover the cost of loan packaging, processing, and other administrative functions, a development company that provides refinancing under subsection (b)(2) of this section may impose a one-time loan processing fee, not to exceed 0.5 percent of the principal amount of the loan.
+(3) **Loan processing fee** — To cover the cost of loan packaging, processing, and other administrative functions, a development company that provides refinancing under subsection (b)(2) may impose a one-time loan processing fee, not to exceed 0.5 percent of the principal amount of the loan.
 
-(4) **New debentures** — Issuers of debentures under subchapter III of this chapter may issue new debentures in accordance with such subchapter in order to prepay existing debentures as authorized in this section.
+(4) **New debentures** — Issuers of debentures under subchapter III may issue new debentures in accordance with such subchapter in order to prepay existing debentures as authorized in this section.
 
 (5) **Preliminary notice**
 
@@ -3656,11 +3656,11 @@ Pub. L. 103–403, title V, § 502, Oct. 22, 1994, 108 Stat. 4198, provided that
 
 <a id="section-697g"></a>
 ## § 697g. Foreclosure and liquidation of loans
-**(a) Delegation of authority** In accordance with this section, the Administration shall delegate to any qualified State or local development company (as defined in [section 697(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section697/e&num=0&edition=prelim)) that meets the eligibility requirements of subsection (b)(1) of this section the authority to foreclose and liquidate, or to otherwise treat in accordance with this section, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under [section 697 of this title](./chapter-14b-small-business-investment-program.md#section-697).
+**(a) Delegation of authority** In accordance with this section, the Administration shall delegate to any qualified State or local development company (as defined in [section 697(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section697/e&num=0&edition=prelim)) that meets the eligibility requirements of subsection (b)(1) the authority to foreclose and liquidate, or to otherwise treat in accordance with this section, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under [section 697 of this title](./chapter-14b-small-business-investment-program.md#section-697).
 
 **(b) Eligibility for delegation**
 
-(1) **Requirements** — A qualified State or local development company shall be eligible for a delegation of authority under subsection (a) of this section if—
+(1) **Requirements** — A qualified State or local development company shall be eligible for a delegation of authority under subsection (a) if—
 
   (A) the company—
 
@@ -3680,11 +3680,11 @@ Pub. L. 103–403, title V, § 502, Oct. 22, 1994, 108 Stat. 4198, provided that
 
     (ii) submits to the Administration documentation demonstrating that the company has contracted with a qualified third-party to perform any liquidation activities and secures the approval of the contract by the Administration with respect to the qualifications of the contractor and the terms and conditions of liquidation activities.
 
-(2) **Confirmation** — On request the Administration shall examine the qualifications of any company described in subsection (a) of this section to determine if such company is eligible for the delegation of authority under this section. If the Administration determines that a company is not eligible, the Administration shall provide the company with the reasons for such ineligibility.
+(2) **Confirmation** — On request the Administration shall examine the qualifications of any company described in subsection (a) to determine if such company is eligible for the delegation of authority under this section. If the Administration determines that a company is not eligible, the Administration shall provide the company with the reasons for such ineligibility.
 
 **(c) Scope of delegated authority**
 
-(1) **In general** — Each qualified State or local development company to which the Administration delegates authority under section 11 So in original. Probably should be “subsection”. (a) may with respect to any loan described in subsection (a) of this section—
+(1) **In general** — Each qualified State or local development company to which the Administration delegates authority under section 11 So in original. Probably should be “subsection”. (a) may with respect to any loan described in subsection (a)—
 
   (A) perform all liquidation and foreclosure functions, including the purchase in accordance with this subsection of any other indebtedness secured by the property securing the loan, in a reasonable and sound manner according to commercially accepted practices, pursuant to a liquidation plan approved in advance by the Administration under paragraph (2)(A);
 
@@ -3754,7 +3754,7 @@ Pub. L. 103–403, title V, § 502, Oct. 22, 1994, 108 Stat. 4198, provided that
 
 **(d) Suspension or revocation of authority** The Administration may revoke or suspend a delegation of authority under this section to any qualified State or local development company, if the Administration determines that the company—
 
-(1) does not meet the requirements of subsection (b)(1) of this section;
+(1) does not meet the requirements of subsection (b)(1);
 
 (2) has violated any applicable rule or regulation of the Administration or any other applicable law; or
 

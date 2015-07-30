@@ -1454,7 +1454,7 @@ Pub. L. 102–375, title II, § 202(h), Sept. 30, 1992, 106 Stat. 1210, provided
 
 (1) The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperate with the Secretary of Labor in carrying out subchapter IX of this chapter and with the Corporation for National and Community Service in carrying out this chapter.
 
-(2) The head of each department, agency, or instrumentality of the Federal Government proposing to establish programs and services substantially related to the objectives of this chapter shall consult with the Assistant Secretary prior to the establishment of such programs and services. To achieve appropriate coordination, the head of each department, agency, or instrumentality of the Federal Government administering any program substantially related to the objectives of this chapter, particularly administering any program referred to in subsection (b) of this section, shall consult and cooperate with the Assistant Secretary in carrying out such program. In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.].
+(2) The head of each department, agency, or instrumentality of the Federal Government proposing to establish programs and services substantially related to the objectives of this chapter shall consult with the Assistant Secretary prior to the establishment of such programs and services. To achieve appropriate coordination, the head of each department, agency, or instrumentality of the Federal Government administering any program substantially related to the objectives of this chapter, particularly administering any program referred to in subsection (b) of this section, shall consult and cooperate with the Assistant Secretary in carrying out such program. In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.].
 
 (3) The head of each department, agency, or instrumentality of the Federal Government administering programs and services substantially related to the objectives of this chapter shall collaborate with the Assistant Secretary in carrying out this chapter, and shall develop a written analysis, for review and comment by the Assistant Secretary, of the impact of such programs and services on—
 
@@ -1464,7 +1464,7 @@ Pub. L. 102–375, title II, § 202(h), Sept. 30, 1992, 106 Stat. 1210, provided
 
 **(b) Federal programs related to chapter objectives** For the purposes of subsection (a) of this section, programs related to the objectives of this chapter shall include—
 
-(1) title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.],
+(1) title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.],
 
 (2) title II of the Domestic Volunteer Service Act of 1973 [[42 U.S.C. 5000](./chapter-066-domestic-volunteer-services.md#section-5000) et seq.],
 
@@ -1478,7 +1478,7 @@ Pub. L. 102–375, title II, § 202(h), Sept. 30, 1992, 106 Stat. 1210, provided
 
 (7) title I of the Housing and Community Development Act of 1974 [[42 U.S.C. 5301](./chapter-069-community-development.md#section-5301) et seq.],
 
-(8) title I of Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.] and the Adult Education and Family Literacy Act [[20 U.S.C. 9201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim) et seq.],
+(8) title I of Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.] and the Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.],
 
 (9) sections 5309 and 5310 of title 49,
 
@@ -1564,17 +1564,8 @@ Pub. L. 102–375, title II, § 202(h), Sept. 30, 1992, 106 Stat. 1210, provided
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(w)(1), July 22, 2014, 128 Stat. 1703, 1713, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
-
-in subsection (a)(2), by striking “In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998” and inserting “In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Innovation and Opportunity Act”; and
-
-in subsection (b)(1), by striking “title I of the Workforce Investment Act of 1998” and inserting “title I of the Workforce Innovation and Opportunity Act”.
-
-See 2014 Amendment notes below.
-
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (b)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(2) and (b)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Title II of the Domestic Volunteer Service Act of 1973 is classified generally to subchapter II (§ 5000 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
 
@@ -1586,7 +1577,7 @@ The Housing and Community Development Act of 1974, referred to in subsec. (b)(7)
 
 The Higher Education Act of 1965, referred to in subsec. (b)(8), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title I of the Higher Education Act of 1965 is classified generally to subchapter I (§ 1001 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (b)(8), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim) and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (b)(8), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(10), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of this title. Title XIX of the Public Health Service Act is classified to subchapter XVII (§ 300w et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
@@ -1669,7 +1660,7 @@ Subsec. (b). Pub. L. 97–115, § 2(d)(2), substituted “purposes of this chapt
 Subsec. (b). Pub. L. 95–478 added subsec. (b).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(33)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(25)(A)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
@@ -4928,7 +4919,7 @@ Pub. L. 106–501, § 310, which directed the addition of this section at the en
 
 (11) provision of services and assistive devices (including provision of assistive technology services and assistive technology devices) which are designed to meet the unique needs of older individuals who are disabled, and of older individuals who provide uncompensated care to their adult children with disabilities;
 
-(12) services to encourage the employment of older workers, including job and second career counseling and, where appropriate, job development, referral, and placement, and including the coordination of the services with programs administered by or receiving assistance from the Department of Labor, including programs carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.);
+(12) services to encourage the employment of older workers, including job and second career counseling and, where appropriate, job development, referral, and placement, and including the coordination of the services with programs administered by or receiving assistance from the Department of Labor, including programs carried out under the Workforce Innovation and Opportunity Act;
 
 (13) crime prevention services and victim assistance programs for older individuals;
 
@@ -4969,11 +4960,8 @@ if such services meet standards prescribed by the Assistant Secretary and are ne
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(12)
-Pub. L. 113–128, title V, §§ 506, 512(w)(2), July 22, 2014, 128 Stat. 1703, 1713, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(12) of this section is amended by striking “including programs carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “including programs carried out under the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsec. (a)(12), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(12), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (a)(12). Pub. L. 113–128 substituted “including programs carried out under the Workforce Innovation and Opportunity Act” for “including programs carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
@@ -5069,7 +5057,7 @@ Subsec. (a)(4). Pub. L. 97–115, § 10(b), designated existing provisions as cl
 Subsec. (a)(12) to (15). Pub. L. 97–115, § 10(c), added pars. (12) to (14) and redesignated former par. (12) as (15).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1992 Amendment
 Amendment by section 708(b) of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
@@ -6382,7 +6370,7 @@ Section 3055, Pub. L. 89–73, title VIII, § 805, formerly title VII, § 705, a
 
     (iv) will not employ or continue to employ any eligible individual to perform the same work or substantially the same work as that performed by any other individual who is on layoff;
 
-  (H) will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved to recruit eligible individuals to ensure that the maximum number of eligible individuals will have an opportunity to participate in the project;
+  (H) will coordinate activities with training and other services provided under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.], including utilizing the one-stop delivery system of the local workforce development areas involved to recruit eligible individuals to ensure that the maximum number of eligible individuals will have an opportunity to participate in the project;
 
   (I) will include such training (such as work experience, on-the-job training, and classroom training) as may be necessary to make the most effective use of the skills and talents of those individuals who are participating, and will provide for the payment of the reasonable expenses of individuals being trained, including a reasonable subsistence allowance equivalent to the wage described in subparagraph (J);
 
@@ -6402,13 +6390,13 @@ Section 3055, Pub. L. 89–73, title VIII, § 805, formerly title VII, § 705, a
 
   (N)
 
-    (i) will prepare an assessment of the participants’ skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.), or part A of title IV of the Social Security Act ([42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.)) and will prepare a related service strategy;
+    (i) will prepare an assessment of the participants’ skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)11 See References in Text note below, the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.), or part A of title IV of the Social Security Act ([42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.)) and will prepare a related service strategy;
 
     (ii) will provide training and employment counseling to eligible individuals based on strategies that identify appropriate employment objectives and the need for supportive services, developed as a result of the assessment and service strategy provided for in clause (i), and provide other appropriate information regarding such project; and
 
     (iii) will provide counseling to participants on their progress in meeting such objectives and satisfying their need for supportive services;
 
-  (O) will provide appropriate services for participants, or refer the participants to appropriate services, through the one-stop delivery system of the local workforce investment areas involved as established under section 134(c) of the Workforce Investment Act of 1998 ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)), and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce investment board in accordance with section 121(c) of such Act ([29 U.S.C. 2841(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841/c&num=0&edition=prelim));
+  (O) will provide appropriate services for participants, or refer the participants to appropriate services, through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3151(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)], and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section 121(c) of such Act [[29 U.S.C. 3151(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/c&num=0&edition=prelim)];
 
   (P) will post in such project workplace a notice, and will make available to each person associated with such project a written explanation—
 
@@ -6418,9 +6406,9 @@ Section 3055, Pub. L. 89–73, title VIII, § 805, formerly title VII, § 705, a
 
   (Q) will provide to the Secretary the description and information described in—
 
-    (i) paragraph (8), relating to coordination with other Federal programs, of section 112(b) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2822/b&num=0&edition=prelim)); and
+    (i) clauses (ii) and (viii) of paragraph (2)(B), relating to coordination with other Federal programs, of section 102(b) of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3112(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3112/b&num=0&edition=prelim)]; and
 
-    (ii) paragraph (14), relating to implementation of one-stop delivery systems, of section 112(b) of the Workforce Investment Act of 1998; and
+    (ii) paragraph (2)(C)(i), relating to implementation of one-stop delivery systems, of section 102(b) of the Workforce Innovation and Opportunity Act; and
 
   (R) will ensure that entities that carry out activities under the project (including State agencies, local entities, subgrantees, and subcontractors) and affiliates of such entities receive an amount of the administrative cost allocation determined by the Secretary, in consultation with grantees, to be sufficient.
 
@@ -6428,9 +6416,9 @@ Section 3055, Pub. L. 89–73, title VIII, § 805, formerly title VII, § 705, a
 
 (3) **Assessment and service strategies**
 
-  (A) *Prepared under this chapter* — An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2811&num=0&edition=prelim) et seq.), in order to determine whether such eligible individual also qualifies for intensive or training services described in section 134(d) of such Act ([29 U.S.C. 2864(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/d&num=0&edition=prelim)).
+  (A) *Prepared under this chapter* — An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151&num=0&edition=prelim) et seq.], in order to determine whether such eligible individual also qualifies for career or training services described in section 134(c) of such Act [[29 U.S.C. 3174(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3174/c&num=0&edition=prelim)].
 
-  (B) *Prepared under Workforce Investment Act of 1998* — An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2811&num=0&edition=prelim) et seq.) for an eligible individual may be used to comply with the requirement specified in subparagraph (A).
+  (B) *Prepared under Workforce Innovation and Opportunity Act* — An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151&num=0&edition=prelim) et seq.] for an eligible individual may be used to comply with the requirement specified in subparagraph (A).
 
 **(c) Federal share and use of funds**
 
@@ -6551,7 +6539,7 @@ Section 3055, Pub. L. 89–73, title VIII, § 805, formerly title VII, § 705, a
 
     (i) attract more eligible individuals into the labor force;
 
-    (ii) improve the provision of services to eligible individuals under one-stop delivery systems established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.);
+    (ii) improve the provision of services to eligible individuals under one-stop delivery systems established under section 121(e) of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3151(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)];
 
     (iii) enhance the technological skills of eligible individuals; and
 
@@ -6569,37 +6557,12 @@ Section 3055, Pub. L. 89–73, title VIII, § 805, formerly title VII, § 705, a
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(w)(3), July 22, 2014, 128 Stat. 1703, 1713, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
-
-(1) in subsection (b):
-
-(A) in paragraph (1):
-
-(i) in subparagraph (H), by striking “will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved” and inserting “will coordinate activities with training and other services provided under title I of the Workforce Innovation and Opportunity Act, including utilizing the one-stop delivery system of the local workforce development areas involved”;
-
-(ii) in subparagraph (O), by striking “through the one-stop delivery system of the local workforce investment areas involved as established under section 134(c) of the Workforce Investment Act of 1998 ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)),” and inserting “through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act,” and by striking “and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce investment board in accordance with section 121(c) of such Act ([29 U.S.C. 2841(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841/c&num=0&edition=prelim))” and inserting “and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section 121(c) of such Act”; and
-
-(iii) in subparagraph (Q)—
-
-(I) in clause (i), by striking “paragraph (8), relating to coordination with other Federal programs, of section 112(b) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2822/b&num=0&edition=prelim))” and inserting “clauses (ii) and (viii) of paragraph (2)(B), relating to coordination with other Federal programs, of section 102(b) of the Workforce Innovation and Opportunity Act”; and
-
-(II) in clause (ii), by striking “paragraph (14), relating to implementation of one-stop delivery systems, of section 112(b) of the Workforce Investment Act of 1998” and inserting “paragraph (2)(C)(i), relating to implementation of one-stop delivery systems, of section 102(b) of the Workforce Innovation and Opportunity Act”; and
-
-(B) in paragraph (3):
-
-(i) in subparagraph (A), by striking “An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2811&num=0&edition=prelim) et seq.), in order to determine whether such eligible individual also qualifies for intensive or training services described in section 134(d) of such Act ([29 U.S.C. 2864(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/d&num=0&edition=prelim)).” and inserting “An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Innovation and Opportunity Act, in order to determine whether such eligible individual also qualifies for career or training services described in section 134(c) of such Act.”; and
-
-(ii) in subparagraph (B), in the subparagraph heading, by striking “Workforce Investment Act of 1998” and inserting “Workforce Innovation and Opportunity Act” and by striking “An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2811&num=0&edition=prelim) et seq.)” and inserting “An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Innovation and Opportunity Act”; and
-
-(2) in subsection (e)(2)(B)(ii), by striking “one-stop delivery systems established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “one-stop delivery systems established under section 121(e) of the Workforce Innovation and Opportunity Act”.
-
-See 2014 Amendment notes below.
-
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsecs. (b)(1)(H), (N)(i), (3) and (e)(2)(B)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, which enacted chapter 73 (§ 9201 et seq.) of Title 20, Education, and chapter 30 (§ 2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 of Title 29. Subtitle B of title I of the Act is classified generally to subchapter II (§ 2811 et seq.) of chapter 30 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§ 3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+
+The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(N)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113—128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-037-community-facilities-and-advance-land-acquisition.md#section-3101) and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(1)(N)(i), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) and Tables.
 
@@ -6628,7 +6591,7 @@ Subsec. (b)(3)(B). Pub. L. 113–128, § 512(w)(3)(A)(ii)(II), substituted “Wo
 Subsec. (e)(2)(B)(ii). Pub. L. 113–128, § 512(w)(3)(B), substituted “one-stop delivery systems established under section 121(e) of the Workforce Innovation and Opportunity Act” for “one-stop delivery systems established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date
 Pub. L. 109–365, title V, § 502, Oct. 17, 2006, 120 Stat. 2590, provided that: “(a) In General.—Title V of the Older Americans Act of 1965 [[42 U.S.C. 3056](./chapter-035-programs-for-older-americans.md#section-3056) et seq.] (as amended by section 501) takes effect July 1, 2007. “(b) Regulations and Expected Levels of Performance.—“(1) Regulations.—Effective on the date of enactment of this Act [Oct. 17, 2006], the Secretary of Labor may issue rules and regulations authorized in such title V. “(2) Expected levels of performance.—Prior to July 1, 2007, the Secretary of Labor may carry out the activities authorized in section 513(a)(2) of the Older Americans Act of 1965 [[42 U.S.C. 3056k(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056k/a/2&num=0&edition=prelim)] (as so amended), in preparation for program year 2007.”
@@ -6645,7 +6608,7 @@ For short title of this subchapter as the “Community Service Senior Opportunit
 
 (2) **Recommendations** — In developing the State plan prior to its submission to the Secretary, the Governor shall seek the advice and recommendations of—
 
-  (A) individuals representing the State agency and the area agencies on aging in the State, and the State and local workforce investment boards established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.);
+  (A) individuals representing the State agency and the area agencies on aging in the State, and the State and local workforce development boards established under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.];
 
   (B) individuals representing public and nonprofit private agencies and organizations providing employment services, including each grantee operating a project under this subchapter in the State; and
 
@@ -6673,7 +6636,7 @@ For short title of this subchapter as the “Community Service Senior Opportunit
 
   (E) the localities and populations for which projects of the type authorized by this subchapter are most needed; and
 
-  (F) plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.).
+  (F) plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.].
 
 (5) **Governor’s recommendations** — Before a proposal for a grant under this subchapter for any fiscal year is submitted to the Secretary, the Governor of the State in which projects are proposed to be conducted under such grant shall be afforded a reasonable opportunity to submit to the Secretary—
 
@@ -6699,11 +6662,11 @@ For short title of this subchapter as the “Community Service Senior Opportunit
 
 (2) **Programs**
 
-  (A) *In general* — The Secretary shall coordinate programs carried out under this subchapter with the program carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.), the Community Services Block Grant Act ([42 U.S.C. 9901](./chapter-106-community-services-block-grant-program.md#section-9901) et seq.), the Rehabilitation Act of 1973 ([29 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.), the National and Community Service Act of 1990 ([42 U.S.C. 12501](./chapter-129-national-and-community-service.md#section-12501) et seq.), and the Domestic Volunteer Service Act of 1973 ([42 U.S.C. 4950](./chapter-066-domestic-volunteer-services.md#section-4950) et seq.). The Secretary shall coordinate the administration of this subchapter with the administration of other subchapters of this chapter by the Assistant Secretary to increase the likelihood that eligible individuals for whom employment opportunities under this subchapter are available and who need services under such subchapters receive such services.
+  (A) *In general* — The Secretary shall coordinate programs carried out under this subchapter with the program carried out under the Workforce Innovation and Opportunity Act, the Community Services Block Grant Act ([42 U.S.C. 9901](./chapter-106-community-services-block-grant-program.md#section-9901) et seq.), the Rehabilitation Act of 1973 ([29 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.), the National and Community Service Act of 1990 ([42 U.S.C. 12501](./chapter-129-national-and-community-service.md#section-12501) et seq.), and the Domestic Volunteer Service Act of 1973 ([42 U.S.C. 4950](./chapter-066-domestic-volunteer-services.md#section-4950) et seq.). The Secretary shall coordinate the administration of this subchapter with the administration of other subchapters of this chapter by the Assistant Secretary to increase the likelihood that eligible individuals for whom employment opportunities under this subchapter are available and who need services under such subchapters receive such services.
 
   (B) *Use of funds*
 
-    (i) *Prohibition* — Funds appropriated to carry out this subchapter may not be used to carry out any program under the Workforce Investment Act of 1998, the Community Services Block Grant Act, the Rehabilitation Act of 1973, the Carl D. Perkins Career and Technical Education Act of 2006, the National and Community Service Act of 1990, or the Domestic Volunteer Service Act of 1973.
+    (i) *Prohibition* — Funds appropriated to carry out this subchapter may not be used to carry out any program under the Workforce Investment Act of 1998,11 See References in Text note below. the Community Services Block Grant Act, the Rehabilitation Act of 1973, the Carl D. Perkins Career and Technical Education Act of 2006, the National and Community Service Act of 1990, or the Domestic Volunteer Service Act of 1973.
 
     (ii) *Joint activities* — Clause (i) shall not be construed to prohibit carrying out projects under this subchapter jointly with programs, projects, or activities under any Act specified in clause (i), or from carrying out [section 3056i of this title](./chapter-035-programs-for-older-americans.md#section-3056i).
 
@@ -6735,21 +6698,8 @@ For short title of this subchapter as the “Community Service Senior Opportunit
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(w)(4), July 22, 2014, 128 Stat. 1703, 1715, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
-
-(1) in subsection (a):
-
-(A) in paragraph (2)(A), by striking “the State and local workforce investment boards established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “the State and local workforce development boards established under title I of the Workforce Innovation and Opportunity Act”; and
-
-(B) in paragraph (4)(F), by striking “plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act”; and
-
-(2) in subsection (b)(2)(A), by striking “with the program carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “with the program carried out under the Workforce Innovation and Opportunity Act”.
-
-See 2014 Amendment notes below.
-
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsecs. (a)(2)(A), (4)(F) and (b)(2)(A), (B)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, which enacted chapter 73 (§ 9201 et seq.) of Title 20, Education, and chapter 30 (§ 2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(2)(A), (4)(F) and (b)(2)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Community Services Block Grant Act, referred to in subsec. (b)(2)(A), (B)(i), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title](./chapter-106-community-services-block-grant-program.md#section-9901) and Tables.
 
@@ -6759,7 +6709,9 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 
 The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A), (B)(i), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§ 12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title](./chapter-129-national-and-community-service.md#section-12501) and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2)(A), (B)(i), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§ 4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2)(A), (B)(i), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§ 4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
+
+The Workforce Investment Act of 1998, referred to in subsec. (b)(2)(B)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113—128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classificaiton of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(3), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section621&num=0&edition=prelim) and Tables.
 
@@ -6778,7 +6730,7 @@ Subsec. (a)(4)(F). Pub. L. 113–128, § 512(w)(4)(A)(ii), substituted “plans 
 Subsec. (b)(2)(A). Pub. L. 113–128, § 512(w)(4)(B), substituted “with the program carried out under the Workforce Innovation and Opportunity Act” for “with the program carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-3056b"></a>
@@ -6805,17 +6757,14 @@ Another prior section 504 of Pub. L. 89–73 was classified to [section 3041c of
 
 **(c) Coordination**
 
-(1) **In general** — The Secretary shall promote and coordinate efforts to carry out projects under this subchapter jointly with programs, projects, or activities carried out under other Acts, especially activities provided under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.), including activities provided through one-stop delivery systems established under section 134(c)) of such Act ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)), that provide training and employment opportunities to eligible individuals.
+(1) **In general** — The Secretary shall promote and coordinate efforts to carry out projects under this subchapter jointly with programs, projects, or activities carried out under other Acts, especially activities provided under the Workforce Innovation and Opportunity Act, including activities provided through one-stop delivery systems established under section 121(e) of such Act [[29 U.S.C. 3151(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)], that provide training and employment opportunities to eligible individuals.
 
 (2) **Coordination with certain activities** — The Secretary shall consult with the Secretary of Education to promote and coordinate efforts to carry out projects under this subchapter jointly with activities in which eligible individuals may participate that are carried out under the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)(1)
-Pub. L. 113–128, title V, §§ 506, 512(w)(5), July 22, 2014, 128 Stat. 1703, 1715, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(1) of this section is amended by striking “activities carried out under other Acts, especially activities provided under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.), including activities provided through one-stop delivery systems established under section 134(c)) of such Act ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)),” and inserting “activities carried out under other Acts, especially activities provided under the Workforce Innovation and Opportunity Act, including activities provided through one-stop delivery systems established under section 121(e) of such Act,”. See 2014 Amendment note below.
-
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (c)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) and Tables.
 
@@ -6830,7 +6779,7 @@ Another prior section 505 of Pub. L. 89–73 was classified to [section 3041d of
 2014—Subsec. (c)(1). Pub. L. 113–128 substituted “activities carried out under other Acts, especially activities provided under the Workforce Innovation and Opportunity Act, including activities provided through one-stop delivery systems established under section 121(e) of such Act,” for “activities carried out under other Acts, especially activities provided under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.), including activities provided through one-stop delivery systems established under section 134(c)) of such Act ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)),”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-3056d"></a>
@@ -6994,15 +6943,12 @@ Amendment by section 4002(b)(1)(B), (2)(BB) of Pub. L. 110–246 effective Oct. 
 <a id="section-3056h"></a>
 ## § 3056h. Eligibility for workforce investment activities
 
-Eligible individuals under this subchapter may be considered by local workforce investment boards and one-stop operators established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.) to satisfy the requirements for receiving services under such title I that are applicable to adults.
+Eligible individuals under this subchapter may be considered by local workforce development boards and one-stop operators established under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.] to satisfy the requirements for receiving services under such title that are applicable to adults.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(w)(6), July 22, 2014, 128 Stat. 1703, 1715, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended by striking “by local workforce investment boards and one-stop operators established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “by local workforce development boards and one-stop operators established under title I of the Workforce Innovation and Opportunity Act” and by striking “such title I” and inserting “such title”. See 2014 Amendment note below.
-
 #### References in Text
-The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 3056h, Pub. L. 89–73, title V, § 510, as added Pub. L. 106–501, title V, § 501, Nov. 13, 2000, 114 Stat. 2280, related to eligibility for workforce investment activities, prior to the general amendment of this subchapter by Pub. L. 109–365.
@@ -7013,29 +6959,20 @@ Another prior section 3056h, Pub. L. 89–73, title V, § 510, as added Pub. L. 
 2014—Pub. L. 113–128 substituted “by local workforce development boards and one-stop operators established under title I of the Workforce Innovation and Opportunity Act” for “by local workforce investment boards and one-stop operators established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and “such title” for “such title I”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-3056i"></a>
-## § 3056i. Coordination with the Workforce Investment Act of 1998
-**(a) Partners** Grantees under this subchapter shall be one-stop partners as described in subparagraphs (A) and (B)(vi) of section 121(b)(1) of the Workforce Investment Act of 1998 ([29 U.S.C. 2841(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841/b/1&num=0&edition=prelim)) in the one-stop delivery system established under section 134(c) of such Act ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)) for the appropriate local workforce investment areas, and shall carry out the responsibilities relating to such partners.
+## § 3056i. Coordination with the Workforce Innovation and Opportunity Act 11 Catchline updated editorially based on amendment by Pub. L. 113–128.
+**(a) Partners** Grantees under this subchapter shall be one-stop partners as described in subparagraphs (A) and (B)(v) of section 121(b)(1) of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3151(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/b/1&num=0&edition=prelim)] in the one-stop delivery system established under section 121(e) of such Act [[29 U.S.C. 3151(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)] for the appropriate local workforce development areas, and shall carry out the responsibilities relating to such partners.
 
 **(b) Coordination** In local workforce investment areas where more than 1 grantee under this subchapter provides services, the grantees shall—
 
 (1) coordinate their activities related to the one-stop delivery systems; and
 
-(2) be signatories of the memorandum of understanding established under section 121(c) of the Workforce Investment Act of 1998 ([29 U.S.C. 2841(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841/c&num=0&edition=prelim)).
+(2) be signatories of the memorandum of understanding established under section 121(c) of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3151(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/c&num=0&edition=prelim)].
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(w)(7), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
-
-in subsection (a), by striking “Grantees under this subchapter shall be one-stop partners as described in subparagraphs (A) and (B)(vi) of section 121(b)(1) of the Workforce Investment Act of 1998 ([29 U.S.C. 2841(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841/b/1&num=0&edition=prelim)) in the one-stop delivery system established under section 134(c) of such Act ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)) for the appropriate local workforce investment areas” and inserting “Grantees under this subchapter shall be one-stop partners as described in subparagraphs (A) and (B)(v) of section 121(b)(1) of the Workforce Innovation and Opportunity Act in the one-stop delivery system established under section 121(e) of such Act for the appropriate local workforce development areas”; and
-
-in subsection (b)(2), by striking “be signatories of the memorandum of understanding established under section 121(c) of the Workforce Investment Act of 1998 ([29 U.S.C. 2841(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841/c&num=0&edition=prelim))” and inserting “be signatories of the memorandum of understanding established under section 121(c) of the Workforce Innovation and Opportunity Act”.
-
-See 2014 Amendment notes below.
 
 #### Prior Provisions
 A prior section 3056i, Pub. L. 89–73, title V, § 511, as added Pub. L. 106–501, title V, § 501, Nov. 13, 2000, 114 Stat. 2280, provided that assistance under this subchapter was not financial assistance described in [section 1255a(h)(1)(A) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a/h/1/A&num=0&edition=prelim), prior to the general amendment of this subchapter by Pub. L. 109–365. See [section 3056j of this title](./chapter-035-programs-for-older-americans.md#section-3056j).
@@ -7048,7 +6985,7 @@ Another prior section 3056i, Pub. L. 89–73, title V, § 511, as added Pub. L. 
 Subsec. (b)(2). Pub. L. 113–128, § 512(w)(7)(B), substituted “be signatories of the memorandum of understanding established under section 121(c) of the Workforce Innovation and Opportunity Act” for “be signatories of the memorandum of understanding established under section 121(c) of the Workforce Investment Act of 1998 ([29 U.S.C. 2841(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841/c&num=0&edition=prelim))”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-3056j"></a>
@@ -7417,25 +7354,22 @@ A prior section 3056n, Pub. L. 89–73, title V, § 516, as added Pub. L. 106–
 
   (E) has low employment prospects;
 
-  (F) has failed to find employment after utilizing services provided under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.); or
+  (F) has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.]; or
 
   (G) is homeless or at risk for homelessness.
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(2)(F)
-Pub. L. 113–128, title V, §§ 506, 512(w)(8), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (b)(2)(F) of this section is amended by striking “has failed to find employment after utilizing services provided under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
 #### References in Text
 The Social Security Act, referred to in subsec. (a)(3)(A), (B)(ii)(III), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-The Workforce Investment Act of 1998, referred to in (b)(2)(F), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(2)(F), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (b)(2)(F). Pub. L. 113–128 substituted “has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act” for “has failed to find employment after utilizing services provided under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-3057"></a>

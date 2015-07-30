@@ -8,49 +8,18 @@ source: >-
 ---
 <a id="section-2421"></a>
 ## § 2421. Transportation generally
+**(a) In General.—** Whoever knowingly transports any individual in interstate or foreign commerce, or in any Territory or Possession of the United States, with intent that such individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-Whoever knowingly transports any individual in interstate or foreign commerce, or in any Territory or Possession of the United States, with intent that such individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title or imprisoned not more than 10 years, or both.
+**(b) Requests To Prosecute Violations by State Attorneys General.—**
+
+(1) **In general.—** — The Attorney General shall grant a request by a State attorney general that a State or local attorney be cross designated to prosecute a violation of this section unless the Attorney General determines that granting the request would undermine the administration of justice.
+
+(2) **Reason for denial.—** — If the Attorney General denies a request under paragraph (1), the Attorney General shall submit to the State attorney general a detailed reason for the denial not later than 60 days after the date on which a request is received.
 
 ### Statutory Notes
 
-#### 1948 Act
-Based on title 18, U.S.C., 1940 ed., §§ 397, 398, 401, 404 (June 25, 1910, ch. 395, §§ 1, 2, 5, 8, 36 Stat. 825–827).
-
-Section consolidates sections 397, 398, 401, and 404 of title 18, U.S.C., 1940 ed.
-
-[Section 397 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section397&num=0&edition=prelim), U.S.C., 1940 ed., containing a definition of the terms “interstate commerce” and “foreign commerce” was omitted as unnecessary in view of the definition of those terms in [section 10 of this title](./chapter-001-general-provisions.md#section-10).
-
-[Section 401 of title 18](./chapter-021-contempts.md#section-401), U.S.C., 1940 ed., prescribing venue was omitted as unnecessary in view of [section 3237 of this title](./chapter-211-jurisdiction-and-venue.md#section-3237).
-
-[Section 403 of title 18](./chapter-021-contempts.md#section-403), U.S.C., 1940 ed., was omitted. No definition of “Territory” is necessary to the revised section as it is phrased. Construction therein of “person” is covered by [section 1 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim), U.S.C., 1940 ed., General Provisions, as amended. Last paragraph of said section relating to construction of this chapter was omitted as surplusage.
-
-Words “Possession of the United States” were inserted in three places in view of mission of said [section 403 of title 18](./chapter-021-contempts.md#section-403), U.S.C., 1940 ed., and, reference in that section to the Canal Zone is covered by those words. This chapter applies to the Territory of Hawaii. (See Sun Chong Lee v. United States, C.C.A. Hawaii, 1942, 125 F. 2d 95.)
-
-[Section 404 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section404&num=0&edition=prelim), U.S.C., 1940 ed., containing the short title was omitted as not appropriate in a revision.
-
-Reference to persons causing, procuring, aiding or assisting was deleted as unnecessary because such persons are made principals by [section 2 of this title](./chapter-001-general-provisions.md#section-2).
-
-Words “and upon conviction thereof” were also deleted as surplusage since punishment cannot be imposed until a conviction is secured.
-
-Words “deemed guilty of a felony” were deleted as unnecessary in view of the definition of a felony in [section 1 of this title](./chapter-001-general-provisions.md#section-1). (See reviser’s note under [section 550 of this title](./chapter-027-customs.md#section-550).)
-
-Minor changes were also made in translations and phraseology.
-
-#### 1949 Act
-This section [section 47] corrects a typographical error in [section 2421 of title 18](./chapter-117-transportation-for-illegal-sexual-activity-and-related-crimes.md#section-2421), U.S.C.
-
-#### Amendments
-1998—Pub. L. 105–314 inserted “or attempts to do so,” before “shall be fined” and substituted “10 years” for “five years”.
-
-1986—Pub. L. 99–628 amended section generally. Prior to amendment, section read as follows:
-
-“Whoever knowingly transports in interstate or foreign commerce, or in the District of Columbia or in any Territory or Possession of the United States, any woman or girl for the purpose of prostitution or debauchery, or for any other immoral purpose, or with the intent and purpose to induce, entice, or compel such woman or girl to become a prostitute or to give herself up to debauchery, or to engage in any other immoral practice; or
-
-“Whoever knowingly procures or obtains any ticket or tickets, or any form of transportation or evidence of the right thereto, to be used by any woman or girl in interstate or foreign commerce, or in the District of Columbia or any Territory or Possession of the United States, in going to any place for the purpose of prostitution or debauchery, or for any other immoral purpose, or with the intent or purpose on the part of such person to induce, entice, or compel her to give herself up to the practice of prostitution, or to give herself up to debauchery, or any other immoral practice, whereby any such woman or girl shall be transported in interstate or foreign commerce, or in the District of Columbia or any Territory or Possession of the United States—
-
-“Shall be fined not more than $5,000 or imprisoned not more than five years, or both.”
-
-1949—Act May 24, 1949, corrected spelling of “induce”.
+#### Prior Provisions
+A prior section 2421, act June 25, 1948, ch. 645, 62 Stat. 812; May 24, 1949, ch. 139, § 47, 63 Stat. 96; Pub. L. 99–628, § 5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 105–314, title I, § 106, Oct. 30, 1998, 112 Stat. 2977, related to transportation of individuals generally, prior to repeal by Pub. L. 114–22, title III, § 303, May 29, 2015, 129 Stat. 255.)
 
 
 <a id="section-2422"></a>
@@ -104,9 +73,15 @@ Subsec. (b). Pub. L. 105–314, § 102(2), added subsec. (b) and struck out form
 
 **(e) Attempt and Conspiracy.—** Whoever attempts or conspires to violate subsection (a), (b), (c), or (d) shall be punishable in the same manner as a completed violation of that subsection.
 
-**(f) Definition.—** As used in this section, the term “illicit sexual conduct” means (1) a sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States; or (2) any commercial sex act (as defined in section 1591) with a person under 18 years of age.
+**(f) Definition.—** As used in this section, the term “illicit sexual conduct” means—
 
-**(g) Defense.—** In a prosecution under this section based on illicit sexual conduct as defined in subsection (f)(2), it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the person with whom the defendant engaged in the commercial sex act had attained the age of 18 years.
+(1) a sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States;
+
+(2) any commercial sex act (as defined in section 1591) with a person under 18 years of age; or
+
+(3) production of child pornography (as defined in section 2256(8)).
+
+**(g) Defense.—** In a prosecution under this section based on illicit sexual conduct as defined in subsection (f)(2), it is a defense, which the defendant must establish by clear and convincing evidence, that the defendant reasonably believed that the person with whom the defendant engaged in the commercial sex act had attained the age of 18 years.
 
 ### Statutory Notes
 
@@ -122,6 +97,10 @@ Words “Possession of the United States” were inserted twice. (See reviser’
 Minor changes were made in phraseology.
 
 #### Amendments
+2015—Subsec. (f). Pub. L. 114–22, § 111(a), inserted a dash after “means”, designated existing provisions containing designations (1) and (2) as pars. (1) and (2), and added par. (3).
+
+Subsec. (g). Pub. L. 114–22, § 111(b), substituted “clear and convincing evidence” for “a preponderance of the evidence”.
+
 2013—Subsec. (c). Pub. L. 113–4 inserted “or resides, either temporarily or permanently, in a foreign country” after “commerce”.
 
 2006—Subsec. (a). Pub. L. 109–248 substituted “10 years or for life” for “5 years and not more than 30 years”.

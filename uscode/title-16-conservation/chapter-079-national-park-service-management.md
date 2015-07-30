@@ -11,7 +11,7 @@ source: >-
 
 ### Statutory Notes
 
-Section, Pub. L. 105–391, title VIII, § 801, Nov. 13, 1998, 112 Stat. 3521, related to United States Park Police.
+Section, Pub. L. 105–391, title VIII, § 801, Nov. 13, 1998, 112 Stat. 3521, related to evaluations of law enforcement programs in the National Park Service and of the United States Park Police.
 
 
 <a id="section-5911"></a>
@@ -19,7 +19,7 @@ Section, Pub. L. 105–391, title VIII, § 801, Nov. 13, 1998, 112 Stat. 3521, r
 
 ### Statutory Notes
 
-Section, Pub. L. 105–391, § 2, Nov. 13, 1998, 112 Stat. 3498, related to definition of “Secretary”. See [section 100102 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100102&num=0&edition=prelim), National Park Service and Related Programs.
+Section, Pub. L. 105–391, § 2, Nov. 13, 1998, 112 Stat. 3498, defined “Secretary” for this chapter.
 
 
 <a id="section-5912"></a>
@@ -59,7 +59,7 @@ Section, Pub. L. 105–391, title I, § 104, Nov. 13, 1998, 112 Stat. 3499, rela
 
 ### Statutory Notes
 
-Section, Pub. L. 105–391, title II, § 201, Nov. 13, 1998, 112 Stat. 3499, related to subchapter purposes.
+Section, Pub. L. 105–391, title II, § 201, Nov. 13, 1998, 112 Stat. 3499, related to purposes of this subchapter.
 
 
 <a id="section-5933"></a>
@@ -75,7 +75,7 @@ Section, Pub. L. 105–391, title II, § 202, Nov. 13, 1998, 112 Stat. 3499, rel
 
 ### Statutory Notes
 
-Section, Pub. L. 105–391, title II, § 203, Nov. 13, 1998, 112 Stat. 3500, related to cooperative agreements with colleges and universities. Subsec. (a), relating to cooperative study units, was repealed and reenacted as [section 100703 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100703&num=0&edition=prelim), National Park Service and Related Programs. Subsec. (b), requiring a report within one year after November 13, 1998, was repealed as obsolete.
+Section, Pub. L. 105–391, title II, § 203, Nov. 13, 1998, 112 Stat. 3500, related to cooperative agreements with colleges and universities. Subsec. (a) was repealed and restated in [section 100703 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100703&num=0&edition=prelim), National Park Service and Related Programs. Subsec. (b), requiring a report within one year of Nov. 13, 1998, was repealed as obsolete.
 
 
 <a id="section-5935"></a>
@@ -115,7 +115,7 @@ Section, Pub. L. 105–391, title II, § 207, Nov. 13, 1998, 112 Stat. 3501, rel
 
 ### Statutory Notes
 
-Section, Pub. L. 105–391, title IV, § 402, Nov. 13, 1998, 112 Stat. 3503, related to Congressional findings and statement of policy. See [section 101912 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101912&num=0&edition=prelim), National Park Service and Related Programs.
+Section, Pub. L. 105–391, title IV, § 402, Nov. 13, 1998, 112 Stat. 3503, related to congressional findings and statement of policy. See [section 101912 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101912&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-5953"></a>
@@ -123,7 +123,7 @@ Section, Pub. L. 105–391, title IV, § 402, Nov. 13, 1998, 112 Stat. 3503, rel
 
 ### Statutory Notes
 
-Section, Pub. L. 105–391, title IV, § 403, Nov. 13, 1998, 112 Stat. 3504, related to award of concessions contracts. See sections 101911 and 101913 of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 105–391, title IV, § 403, Nov. 13, 1998, 112 Stat. 3504, related to award of concessions contracts. See sections 101911(2) and 101913 of Title 54, National Park Service and Related Programs.
 
 
 <a id="section-5954"></a>
@@ -139,7 +139,10 @@ Section, Pub. L. 105–391, title IV, § 404, Nov. 13, 1998, 112 Stat. 3508; Pub
 
 ### Statutory Notes
 
-Section, Pub. L. 105–391, title IV, § 405, Nov. 13, 1998, 112 Stat. 3508, related to protection of concessioner investment. Subsecs. (a) to (e) were repealed and reenacted as [section 101915 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101915&num=0&edition=prelim), National Park Service and Related Programs. Subsec. (f), requiring the Secretary to submit a report to Congress not later than 7 years after Nov. 13, 1998, was repealed as obsolete.
+Section, Pub. L. 105–391, title IV, § 405, Nov. 13, 1998, 112 Stat. 3508, related to protection of concessioner investment. Subsecs. (a) to (e) were repealed and restated in [section 101915 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101915&num=0&edition=prelim), National Park Service and Related Programs. Subsec. (f), requiring the Secretary to submit a report to Congress not later than 7 years after Nov. 13, 1998, was repealed as obsolete.
+
+#### De Novo Review of Value Determination Decisions by United States Court of Federal Claims
+Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2107, which provided for de novo review by the United States Court of Federal Claims of certain value determination decisions, was repealed and restated as subsec. (c)(4) of [section 101915 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101915&num=0&edition=prelim), National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3145, 3272, which Act enacted Title 54.
 
 
 <a id="section-5956"></a>
@@ -187,7 +190,7 @@ Section, Pub. L. 105–391, title IV, § 410, Nov. 13, 1998, 112 Stat. 3514, rel
 
 ### Statutory Notes
 
-Section, Pub. L. 105–391, title IV, § 411, Nov. 13, 1998, 112 Stat. 3514, related to multiple contracts within park. See [section 101921 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101921&num=0&edition=prelim), National Park Service and Related Programs.
+Section, Pub. L. 105–391, title IV, § 411, Nov. 13, 1998, 112 Stat. 3514, related to multiple contracts within a park. See [section 101921 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101921&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-5962"></a>
@@ -195,7 +198,7 @@ Section, Pub. L. 105–391, title IV, § 411, Nov. 13, 1998, 112 Stat. 3514, rel
 
 ### Statutory Notes
 
-Section, Pub. L. 105–391, title IV, § 412, Nov. 13, 1998, 112 Stat. 3515; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 143], Nov. 29, 1999, 113 Stat. 1535, 1501A–171; Pub. L. 106–291, title I, § 139, Oct. 11, 2000, 114 Stat. 949; Pub. L. 107–63, title I, § 122, Nov. 5, 2001, 115 Stat. 440, related to special rule for transportation contracting services. Subsec. (a), limiting the length of a service contract, was repealed and reenacted as [section 101524 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101524&num=0&edition=prelim), National Park Service and Related Programs. Subsec. (b), relating to obligation of funds received in fiscal year 2002, was repealed as obsolete.
+Section, Pub. L. 105–391, title IV, § 412, Nov. 13, 1998, 112 Stat. 3515; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 143], Nov. 29, 1999, 113 Stat. 1535, 1501A–171; Pub. L. 106–291, title I, § 139, Oct. 11, 2000, 114 Stat. 949; Pub. L. 107–63, title I, § 122, Nov. 5, 2001, 115 Stat. 440, related to special rule for transportation contracting services. Subsec. (a) was repealed and restated in [section 101524 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101524&num=0&edition=prelim), National Park Service and Related Programs. Subsec. (b), relating to obligation of funds received in fiscal year 2002, was repealed as obsolete.
 
 
 <a id="section-5963"></a>

@@ -162,7 +162,7 @@ Section was formerly classified to [section 442b of this title](./chapter-015-na
 ## § 3006. Prohibited personnel practices in the intelligence community
 **(a) Definitions** In this section:
 
-(1) **Agency** — The term “agency” means an executive department or independent establishment, as defined under sections 101 and 104 of title 5, United States Code, that contains an intelligence community element, except the Federal Bureau of Investigation.
+(1) **Agency** — The term “agency” means an executive department or independent establishment, as defined under sections 101 and 104 of title 5, that contains an intelligence community element, except the Federal Bureau of Investigation.
 
 (2) **Covered intelligence community element** — The term “covered intelligence community element”—
 
@@ -1482,7 +1482,7 @@ In subsec. (c), provisions that specified compensation of $10,000 per year for t
 In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
-2014—Subsec. (a)(5) to (8). Pub. L. 113–126 substituted “; and” for semicolon at end of par. (5), redesignated par. (8) as (6) and struck out “the Chairman of the Munitions Board, and the Chairman of the Research and Development Board,” after “military departments,”, and struck out former pars. (6) and (7) which read follows:
+2014—Subsec. (a)(5) to (8). Pub. L. 113–126 substituted “; and” for semicolon at end of par. (5), redesignated par. (8) as (6) and struck out “the Chairman of the Munitions Board, and the Chairman of the Research and Development Board,” after “military departments,”, and struck out former pars. (6) and (7) which read as follows:
 
 “(6) the Director for Mutual Security;
 
@@ -3189,7 +3189,7 @@ Section was formerly classified to [section 403–3i of this title](./chapter-01
 
 <a id="section-3040"></a>
 ## § 3040. Functional Managers for the intelligence community
-**(a) Functional managers authorized** The Director of National Intelligence may establish within the intelligence community one or more positions of manager of an intelligence function. Any position so established may be known as the “Functional Manager” of the intelligence function concerned.
+**(a) Functional Managers authorized** The Director of National Intelligence may establish within the intelligence community one or more positions of manager of an intelligence function. Any position so established may be known as the “Functional Manager” of the intelligence function concerned.
 
 **(b) Personnel** The Director shall designate individuals to serve as manager of intelligence functions established under subsection (a) from among officers and employees of elements of the intelligence community.
 
@@ -3799,11 +3799,11 @@ Pub. L. 102–172, title VIII, § 8132, Nov. 26, 1991, 105 Stat. 1208, provided 
 A prior section 3044, act July 26, 1947, ch. 343, title I, § 109, as added Pub. L. 103–178, title III, § 304(a), Dec. 3, 1993, 107 Stat. 2034; amended Pub. L. 104–293, title VIII, § 803(a), (b)(1), Oct. 11, 1996, 110 Stat. 3475, 3476; Pub. L. 106–65, div. A, title X, § 1067(16), Oct. 5, 1999, 113 Stat. 775; Pub. L. 107–306, title VIII, § 811(b)(1)(B), Nov. 27, 2002, 116 Stat. 2422, related to annual report on intelligence, prior to repeal by Pub. L. 111–259, title III, § 347(a), Oct. 7, 2010, 124 Stat. 2698.
 
 #### Amendments
-2014—Subsec. (a)(2). Pub. L. 113–293, § 304(1), substituted “usage, including—” for “usage; and” and added subpars. (A) to (D).
+2014—Subsec. (a)(2). Pub. L. 113–293, § 304(1), substituted “usage, including—” for “usage; and” in introductory provisions and added subpars. (A) to (D).
 
 Subsec. (b)(1). Pub. L. 113–293, § 304(2)(A), substituted semicolon at end for “; and”.
 
-Subsec. (b)(2). Pub. L. 113–293, § 304(2)(B), substituted “usage, including—” for “usage.” and added subpars. (A) to (D).
+Subsec. (b)(2). Pub. L. 113–293, § 304(2)(B), substituted “usage, including—” for “usage.” in introductory provisions and added subpars. (A) to (D).
 
 Subsec. (b)(3). Pub. L. 113–293, § 304(2)(C), added par. (3).
 
@@ -4022,19 +4022,25 @@ Section was formerly classified to [section 404h–1 of this title](./chapter-01
 ### Statutory Notes
 
 #### References in Text
-The General Schedule, referred to in subsec. (b)(2), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
+The General Schedule, referred to in subsec. (b)(2)(A), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 #### Codification
 Section was formerly classified to [section 404i of this title](./chapter-015-national-security.md#section-404i) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
-2014—Pub. L. 113–126, § 329(a)(1), (c)(2)(A)–(C), substituted “Annual report on hiring and retention of minority employees” for “Additional annual reports from the Director of National Intelligence” in section catchline, struck out subsec. (a) designation and heading “Annual report on hiring and retention of minority employees”, redesignated pars. (1) to (5) of former subsec. (a) as subsecs. (a) to (e), respectively, and struck out former subsec. (b) which related to annual report on threat of attack on the United States using weapons of mass destruction.
+2014—Pub. L. 113–126, § 329(c)(2)(A), substituted “Annual report on hiring and retention of minority employees” for “Additional annual reports from the Director of National Intelligence” in section catchline.
 
-Subsec. (b). Pub. L. 113–126, § 329(c)(2)(D), redesignated subpars. (A) to (C) of former subsec. (a)(2) as pars. (1) to (3), respectively, of subsec. (b), substituted “subparagraphs (A) and (B)” for “clauses (i) and (ii)” in introductory provisions of par. (2), and redesignated cls. (i) and (ii) of former subpar. (B) as subpars. (A) and (B), respectively, of par. (2).
+Subsec. (a). Pub. L. 113–126, § 329(c)(2)(B), (C), struck out subsec. (a) designation and heading “Annual report on hiring and retention of minority employees” and redesignated par. (1) as subsec. (a). Former pars. (2) to (5) redesignated subsecs. (b) to (e), respectively.
 
-Subsec. (d). Pub. L. 113–126, § 329(c)(2)(E), substituted “this section” for “this subsection”.
+Subsec. (b). Pub. L. 113–126, § 329(c)(2)(C), (D), redesignated subsec. (a)(2) as (b), redesignated subsec. (a)(2), subpars. (A) to (C) as subsec. (b), pars. (1) to (3), respectively, and in par. (2) substituted “subparagraphs (A) and (B)” for “clauses (i) and (ii)” in introductory provisions and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
-Subsec. (e). Pub. L. 113–126, § 329(c)(2)(F), in introductory provisions, substituted “this section” for “this subsection,” and redesignated subpars. (A) to (C) of former subsec. (a)(5) as pars. (1) to (3), respectively, of subsec. (e).
+Pub. L. 113–126, § 329(a)(1), struck out subsec. (b) which related to annual report on threat of attack on the United States using weapons of mass destruction.
+
+Subsec. (c). Pub. L. 113–126, § 329(c)(2)(C), redesignated subsec. (a)(3) as (c).
+
+Subsec. (d). Pub. L. 113–126, § 329(c)(2)(C), (E), redesignated subsec. (a)(4) as (d) and substituted “section” for “subsection”.
+
+Subsec. (e). Pub. L. 113–126, § 329(c)(2)(C), (F), redesignated subsec. (a)(5) as (e), substituted “section” for “subsection,” in introductory provisions, and redesignated subsec. (a)(5), subpars. (A) and (B) as subsec. (e), pars. (1) and (2), respectively.
 
 2013—Pub. L. 112–277 redesignated subsecs. (b) and (c) as (a) and (b), respectively, struck out former subsec. (a) which required annual reports on the safety and security of Russian nuclear facilities and nuclear military forces, and struck out subsec. (d) which defined the term “congressional leadership”.
 
@@ -6395,9 +6401,9 @@ Section was formerly classified to [section 426 of this title](./chapter-015-nat
 A prior section 605 of act July 26, 1947, was renumbered section 604 and is classified to [section 3125 of this title](./chapter-044-national-security.md#section-3125).
 
 #### Amendments
-2014—Pub. L. 113–126, § 703(a), made technical amendment to directory language of Pub. L. 112–277, § 506. See 2013 Amendment note below.
+2014—Pub. L. 113–126 made technical amendments to directory language of Pub. L. 112–277, § 506. See 2013 Amendment note below.
 
-2013—Par. (5). Pub. L. 112–277, § 506, as amended by Pub. L. 113–126, § 703(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘intelligence agency’ means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation.”
+2013—Par. (5). Pub. L. 112–277, § 506, as amended by Pub. L. 113–126, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘intelligence agency’ means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation.”
 
 1999—Par. (4)(A). Pub. L. 106–120 substituted “a present or retired officer or employee” for “an officer or employee” and “a present or retired member” for “a member”.
 
@@ -7171,22 +7177,22 @@ Sec. 3. This order is not intended to create any right or benefit, substantive o
 George Bush.
 
 #### Ex. Ord. No. 12829. National Industrial Security Program
-Ex. Ord. No. 12829, Jan. 6, 1993, 58 F.R. 3479, as amended by Ex. Ord. No. 12885, Dec. 14, 1993, 58 F.R. 65863, provided:
+Ex. Ord. No. 12829, Jan. 6, 1993, 58 F.R. 3479, as amended by Ex. Ord. No. 12885, Dec. 14, 1993, 58 F.R. 65863; Ex. Ord. No. 13691, § 6, Feb. 13, 2015, 80 F.R. 9351, provided:
 
 This order establishes a National Industrial Security Program to safeguard Federal Government classified information that is released to contractors, licensees, and grantees of the United States Government. To promote our national interests, the United States Government issues contracts, licenses, and grants to nongovernment organizations. When these arrangements require access to classified information, the national security requires that this information be safeguarded in a manner equivalent to its protection within the executive branch of Government. The national security also requires that our industrial security program promote the economic and technological interests of the United States. Redundant, overlapping, or unnecessary requirements impede those interests. Therefore, the National Industrial Security Program shall serve as a single, integrated, cohesive industrial security program to protect classified information and to preserve our Nation’s economic and technological interests.
 
-Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Atomic Energy Act of 1954, as amended ([42 U.S.C. 2011–228](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011–228&num=0&edition=prelim)6) [[42 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) et seq.], the National Security Act of 1947, as amended (codified as amended in scattered sections of the United States Code) [[50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) et seq.], and the Federal Advisory Committee Act, as amended (5 U.S.C. App. 2) [5 U.S.C. App.], it is hereby ordered as follows:
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Atomic Energy Act of 1954, as amended ([42 U.S.C. 2011–228](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011–228&num=0&edition=prelim)6) [[42 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) et seq.], the National Security Act of 1947, as amended (codified as amended in scattered sections of the United States Code) [[50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) et seq.], the Intelligence Reform and Terrorism Prevention Act of 2004 [Pub. L. 108–458, see Tables for classification], and the Federal Advisory Committee Act, as amended (5 U.S.C. App. 2) [5 U.S.C. App.], it is hereby ordered as follows:
 
 #### PART 1. ESTABLISHMENT AND POLICY
 Section 101. Establishment. (a) There is established a National Industrial Security Program. The purpose of this program is to safeguard classified information that may be released or has been released to current, prospective, or former contractors, licensees, or grantees of United States agencies. For the purposes of this order, the terms “contractor, licensee, or grantee” means current, prospective, or former contractors, licensees, or grantees of United States agencies. The National Industrial Security Program shall be applicable to all executive branch departments and agencies.
 
-(b) The National Industrial Security Program shall provide for the protection of information classified pursuant to Executive Order No. 12356 of April 2, 1982 [formerly set out above], or its successor, and the Atomic Energy Act of 1954, as amended [[42 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) et seq.].
+(b) The National Industrial Security Program shall provide for the protection of information classified pursuant to Executive Order 13526 of December 29, 2009 [set out below], or any predecessor or successor order, and the Atomic Energy Act of 1954, as amended ([42 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) et seq.).
 
 (c) For the purposes of this order, the term “contractor” does not include individuals engaged under personal services contracts.
 
 Sec. 102. Policy Direction. (a) The National Security Council shall provide overall policy direction for the National Industrial Security Program.
 
-(b) The Director of the Information Security Oversight Office, established under Executive Order No. 12356 of April 2, 1982 [formerly set out above], shall be responsible for implementing and monitoring the National Industrial Security Program and shall:
+(b) In consultation with the National Security Advisor, the Director of the Information Security Oversight Office, in accordance with Executive Order 13526 of December 29, 2009, shall be responsible for implementing and monitoring the National Industrial Security Program and shall:
 
 (1) develop, in consultation with the agencies, and promulgate subject to the approval of the National Security Council, directives for the implementation of this order, which shall be binding on the agencies;
 
@@ -7204,7 +7210,7 @@ Sec. 102. Policy Direction. (a) The National Security Council shall provide over
 
 (8) report at least annually to the President through the National Security Council on the implementation of the National Industrial Security Program.
 
-(c) Nothing in this order shall be construed to supersede the authority of the Secretary of Energy or the Nuclear Regulatory Commission under the Atomic Energy Act of 1954, as amended [[42 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) et seq.], or the authority of the Director of Central Intelligence under the National Security Act of 1947, as amended [[50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) et seq.], or Executive Order No. 12333 of December 8, 1981 [[50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) note].
+(c) Nothing in this order shall be construed to supersede the authority of the Secretary of Energy or the Nuclear Regulatory Commission under the Atomic Energy Act of 1954, as amended ([42 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) et seq.), or the authority of the Director of National Intelligence (or any Intelligence Community element) under the Intelligence Reform and Terrorism Prevention Act of 2004 [Pub. L. 108–458, see Tables for classification], the National Security Act of 1947, as amended [[50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) et seq.], or Executive Order 12333 of December 8, 1981 [[50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) note], as amended, or the authority of the Secretary of Homeland Security, as the Executive Agent for the Classified National Security Information Program established under Executive Order 13549 of August 18, 2010 (Classified National Security Information Program for State, Local, Tribal, and Private Sector Entities) [set out below].
 
 Sec. 103. National Industrial Security Program Policy Advisory Committee. (a) Establishment. There is established the National Industrial Security Program Policy Advisory Committee (“Committee”). The Director of the Information Security Oversight Office shall serve as Chairman of the Committee and appoint the members of the Committee. The members of the Committee shall be the representatives of those departments and agencies most affected by the National Industrial Security Program and nongovernment representatives of contractors, licensees, or grantees involved with classified contracts, licenses, or grants, as determined by the Chairman.
 
@@ -7219,25 +7225,27 @@ Sec. 103. National Industrial Security Program Policy Advisory Committee. (a) Es
 (d) General. Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended [5 U.S.C. App.], except that of reporting to the Congress, which are applicable to the Committee, shall be performed by the Administrator of General Services in accordance with the guidelines and procedures established by the General Services Administration.
 
 #### PART 2. OPERATIONS
-Sec. 201. National Industrial Security Program Operating Manual. (a) The Secretary of Defense, in consultation with all affected agencies and with the concurrence of the Secretary of Energy, the Nuclear Regulatory Commission, and the Director of Central Intelligence, shall issue and maintain a National Industrial Security Program Operating Manual (“Manual”). The Secretary of Energy and the Nuclear Regulatory Commission shall prescribe and issue that portion of the Manual that pertains to information classified under the Atomic Energy Act of 1954, as amended [[42 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) et seq.]. The Director of Central Intelligence shall prescribe and issue that portion of the Manual that pertains to intelligence sources and methods, including Sensitive Compartmented Information.
+Sec. 201. National Industrial Security Program Operating Manual. (a) The Secretary of Defense, in consultation with all affected agencies and with the concurrence of the Secretary of Energy, the Nuclear Regulatory Commission, the Director of National Intelligence, and the Secretary of Homeland Security, shall issue and maintain a National Industrial Security Program Operating Manual (Manual). The Secretary of Energy and the Nuclear Regulatory Commission shall prescribe and issue that portion of the Manual that pertains to information classified under the Atomic Energy Act of 1954, as amended ([42 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) et seq.). The Director of National Intelligence shall prescribe and issue that portion of the Manual that pertains to intelligence sources and methods, including Sensitive Compartmented Information. The Secretary of Homeland Security shall prescribe and issue that portion of the Manual that pertains to classified information shared under a designated critical infrastructure protection program.
 
 (b) The Manual shall prescribe specific requirements, restrictions, and other safeguards that are necessary to preclude unauthorized disclosure and control authorized disclosure of classified information to contractors, licensees, or grantees. The Manual shall apply to the release of classified information during all phases of the contracting process including bidding, negotiation, award, performance, and termination of contracts, the licensing process, or the grant process, with or under the control of departments or agencies.
 
 (c) The Manual shall also prescribe requirements, restrictions, and other safeguards that are necessary to protect special classes of classified information, including Restricted Data, Formerly Restricted Data, intelligence sources and methods information, Sensitive Compartmented Information, and Special Access Program information.
 
-(d) In establishing particular requirements, restrictions, and other safeguards within the Manual, the Secretary of Defense, the Secretary of Energy, the Nuclear Regulatory Commission, and the Director of Central Intelligence shall take into account these factors: (i) the damage to the national security that reasonably could be expected to result from an unauthorized disclosure; (ii) the existing or anticipated threat to the disclosure of information; and (iii) the short- and long-term costs of the requirements, restrictions, and other safeguards.
+(d) The Manual shall also prescribe arrangements necessary to permit and enable secure sharing of classified information under a designated critical infrastructure protection program to such authorized individuals and organizations as determined by the Secretary of Homeland Security.
 
-(e) To the extent that is practicable and reasonable, the requirements, restrictions, and safeguards that the Manual establishes for the protection of classified information by contractors, licensees, and grantees shall be consistent with the requirements, restrictions, and safeguards that directives implementing Executive Order No. 12356 of April 2, 1982 [formerly set out above], or the Atomic Energy Act of 1954, as amended, establish for the protection of classified information by agencies. Upon request by the Chairman of the Committee, the Secretary of Defense shall provide an explanation and justification for any requirement, restriction, or safeguard that results in a standard for the protection of classified information by contractors, licensees, and grantees that differs from the standard that applies to agencies.
+(e) In establishing particular requirements, restrictions, and other safeguards within the Manual, the Secretary of Defense, the Secretary of Energy, the Nuclear Regulatory Commission, the Director of National Intelligence, and the Secretary of Homeland Security shall take into account these factors: (i) the damage to the national security that reasonably could be expected to result from an unauthorized disclosure; (ii) the existing or anticipated threat to the disclosure of information; and (iii) the short- and long-term costs of the requirements, restrictions, and other safeguards.
 
-(f) The Manual shall be issued to correspond as closely as possible to pertinent decisions of the Secretary of Defense and the Director of Central Intelligence made pursuant to the recommendations of the Joint Security Review Commission and to revisions to the security classification system that result from Presidential Review Directive 29, but in any event no later than June 30, 1994.
+(f) To the extent that is practicable and reasonable, the requirements, restrictions, and safeguards that the Manual establishes for the protection of classified information by contractors, licensees, and grantees shall be consistent with the requirements, restrictions, and safeguards that directives implementing Executive Order 13526 of December 29, 2009 [set out below], or any successor order, or the Atomic Energy Act of 1954, as amended, establish for the protection of classified information by agencies. Upon request by the Chairman of the Committee, the Secretary of Defense shall provide an explanation and justification for any requirement, restriction, or safeguard that results in a standard for the protection of classified information by contractors, licensees, and grantees that differs from the standard that applies to agencies.
 
 Sec. 202. Operational Oversight. (a) The Secretary of Defense shall serve as Executive Agent for inspecting and monitoring the contractors, licensees, and grantees who require or will require access to, or who store or will store classified information; and for determining the eligibility for access to classified information of contractors, licensees, and grantees and their respective employees. The heads of agencies shall enter into agreements with the Secretary of Defense that establish the terms of the Secretary’s responsibilities on behalf of these agency heads.
 
-(b) The Director of Central Intelligence retains authority over access to intelligence sources and methods, including Sensitive Compartmented Information. The Director of Central Intelligence may inspect and monitcr [sic] contractor, licensee, and grantee programs and facilities that involve access to such information or may enter into written agreements with the Secretary of Defense, as Executive Agent, to inspect and monitor these programs or facilities, in whole or in part, on the Director’s behalf.
+(b) The Director of National Intelligence retains authority over access to intelligence sources and methods, including Sensitive Compartmented Information. The Director of National Intelligence may inspect and monitor contractor, licensee, and grantee programs and facilities that involve access to such information or may enter into written agreements with the Secretary of Defense, as Executive Agent, or with the Director of the Central Intelligence Agency to inspect and monitor these programs or facilities, in whole or in part, on the Director’s behalf.
 
 (c) The Secretary of Energy and the Nuclear Regulatory Commission retain authority over access to information under their respective programs classified under the Atomic Energy Act of 1954, as amended [[42 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) et seq.]. The Secretary or the Commission may inspect and monitor contractor, licensee, and grantee programs and facilities that involve access to such information or may enter into written agreements with the Secretary of Defense, as Executive Agent, to inspect and monitor these programs or facilities, in whole or in part, on behalf of the Secretary or the Commission, respectively.
 
-(d) The Executive Agent shall have the authority to issue, after consultation with affected agencies, standard forms or other standardization that will promote the implementation of the National Industrial Security Program.
+(d) The Secretary of Homeland Security may determine the eligibility for access to Classified National Security Information of contractors, licensees, and grantees and their respective employees under a designated critical infrastructure protection program, including parties to agreements with such program; the Secretary of Homeland Security may inspect and monitor contractor, licensee, and grantee programs and facilities or may enter into written agreements with the Secretary of Defense, as Executive Agent, or with the Director of the Central Intelligence Agency, to inspect and monitor these programs or facilities in whole or in part, on behalf of the Secretary of Homeland Security.
+
+(e) The Executive Agent shall have the authority to issue, after consultation with affected agencies, standard forms or other standardization that will promote the implementation of the National Industrial Security Program.
 
 Sec. 203. Implementation. (a) The head of each agency that enters into classified contracts, licenses, or grants shall designate a senior agency official to direct and administer the agency’s implementation and compliance with the National Industrial Security Program.
 
@@ -8824,7 +8832,7 @@ Sec. 7. General Provisions. (a) For the purposes of this order, the word “agen
 
 Barack Obama.
 
-[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of this title](./chapter-044-national-security.md#section-3021).]
+[Reference to the National Security Staff deemed to be a reference to the National Security Council staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of this title](./chapter-044-national-security.md#section-3021).]
 
 #### Implementation of the Executive Order, “Classified National Security Information”
 Memorandum of President of the United States, Dec. 29, 2009, 75 F.R. 733, provided:
@@ -8994,23 +9002,51 @@ Order of President of the United States, dated Apr. 21, 2005, 70 F.R. 21609, for
 
 **(b) Prohibition of certain disclosure**
 
-(1) If an authorized investigative agency described in subsection (a) certifies that otherwise there may result a danger to the national security of the United States, interference with a criminal, counterterrorism, or counterintelligence investigation, interference with diplomatic relations, or danger to the life or physical safety of any person, no governmental or private entity, or officer, employee, or agent of such entity, may disclose to any person (other than those to whom such disclosure is necessary to comply with the request or an attorney to obtain legal advice or legal assistance with respect to the request) that such entity has received or satisfied a request made by an authorized investigative agency under this section.
+(1) **Prohibition**
 
-(2) The request shall notify the person or entity to whom the request is directed of the nondisclosure requirement under paragraph (1).
+  (A) *In general* — If a certification is issued under subparagraph (B) and notice of the right to judicial review under subsection (c) is provided, no governmental or private entity that receives a request under subsection (a), or officer, employee, or agent thereof, shall disclose to any person that an authorized investigative agency described in subsection (a) has sought or obtained access to information under subsection (a).
 
-(3) Any recipient disclosing to those persons necessary to comply with the request or to an attorney to obtain legal advice or legal assistance with respect to the request shall inform such persons of any applicable nondisclosure requirement. Any person who receives a disclosure under this subsection shall be subject to the same prohibitions on disclosure under paragraph (1).
+  (B) *Certification* — The requirements of subparagraph (A) shall apply if the head of an authorized investigative agency described in subsection (a), or a designee, certifies that the absence of a prohibition of disclosure under this subsection may result in—
 
-(4) At the request of the authorized investigative agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized investigative agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, except that nothing in this section shall require a person to inform the requesting official of the identity of an attorney to whom disclosure was made or will be made to obtain legal advice or legal assistance with respect to the request under subsection (a).
+    (i) a danger to the national security of the United States;
 
-**(c) Records or information; inspection or copying**
+    (ii) interference with a criminal, counterterrorism, or counterintelligence investigation;
+
+    (iii) interference with diplomatic relations; or
+
+    (iv) danger to the life or physical safety of any person.
+
+(2) **Exception**
+
+  (A) *In general* — A governmental or private entity that receives a request under subsection (a), or officer, employee, or agent thereof, may disclose information otherwise subject to any applicable nondisclosure requirement to—
+
+    (i) those persons to whom disclosure is necessary in order to comply with the request;
+
+    (ii) an attorney in order to obtain legal advice or assistance regarding the request; or
+
+    (iii) other persons as permitted by the head of the authorized investigative agency described in subsection (a) or a designee.
+
+  (B) *Application* — A person to whom disclosure is made under subparagraph (A) shall be subject to the nondisclosure requirements applicable to a person to whom a request is issued under subsection (a) in the same manner as the person to whom the request is issued.
+
+  (C) *Notice* — Any recipient that discloses to a person described in subparagraph (A) information otherwise subject to a nondisclosure requirement shall inform the person of the applicable nondisclosure requirement.
+
+  (D) *Identification of disclosure recipients* — At the request of the head of an authorized investigative agency described in subsection (a), or a designee, any person making or intending to make a disclosure under clause (i) or (iii) of subparagraph (A) shall identify to the head of the authorized investigative agency or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
+
+**(c) Judicial review**
+
+(1) **In general** — A request under subsection (a) or a nondisclosure requirement imposed in connection with such request under subsection (b) shall be subject to judicial review under [section 3511 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3511&num=0&edition=prelim).
+
+(2) **Notice** — A request under subsection (a) shall include notice of the availability of judicial review described in paragraph (1).
+
+**(d) Records or information; inspection or copying**
 
 (1) Notwithstanding any other provision of law (other than [section 6103 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim)), an entity receiving a request for records or information under subsection (a) of this section shall, if the request satisfies the requirements of this section, make available such records or information within 30 days for inspection or copying, as may be appropriate, by the agency requesting such records or information.
 
 (2) Any entity (including any officer, employee, or agent thereof) that discloses records or information for inspection or copying pursuant to this section in good faith reliance upon the certifications made by an agency pursuant to this section shall not be liable for any such disclosure to any person under this subchapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State.
 
-**(d) Reimbursement of costs** Any agency requesting records or information under this section may, subject to the availability of appropriations, reimburse a private entity for any cost reasonably incurred by such entity in responding to such request, including the cost of identifying, reproducing, or transporting records or other data.
+**(e) Reimbursement of costs** Any agency requesting records or information under this section may, subject to the availability of appropriations, reimburse a private entity for any cost reasonably incurred by such entity in responding to such request, including the cost of identifying, reproducing, or transporting records or other data.
 
-**(e) Dissemination of records or information received** An agency receiving records or information pursuant to a request under this section may disseminate the records or information obtained pursuant to such request outside the agency only—
+**(f) Dissemination of records or information received** An agency receiving records or information pursuant to a request under this section may disseminate the records or information obtained pursuant to such request outside the agency only—
 
 (1) to the agency employing the employee who is the subject of the records or information;
 
@@ -9018,19 +9054,23 @@ Order of President of the United States, dated Apr. 21, 2005, 70 F.R. 21609, for
 
 (3) with respect to dissemination to an agency of the United States, if such information is clearly relevant to the authorized responsibilities of such agency.
 
-**(f) Construction of section** Nothing in this section may be construed to affect the authority of an investigative agency to obtain information pursuant to the Right to Financial Privacy Act ([12 U.S.C. 3401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) et seq.) or the Fair Credit Reporting Act ([15 U.S.C. 1681](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim) et seq.).
+**(g) Construction of section** Nothing in this section may be construed to affect the authority of an investigative agency to obtain information pursuant to the Right to Financial Privacy Act ([12 U.S.C. 3401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) et seq.) or the Fair Credit Reporting Act ([15 U.S.C. 1681](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
 
 #### References in Text
-The Right to Financial Privacy Act, referred to in subsec. (f), probably means the Right to Financial Privacy Act of 1978, which is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, and is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) and Tables.
+The Right to Financial Privacy Act, referred to in subsec. (g), probably means the Right to Financial Privacy Act of 1978, which is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, and is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) and Tables.
 
-The Fair Credit Reporting Act, referred to in subsec. (f), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (g), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 436 of this title](./chapter-015-national-security.md#section-436) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–23, § 502(e), added subsec. (b) and struck out former subsec. (b) which related to prohibition of certain disclosure.
+
+Subsecs. (c) to (g). Pub. L. 114–23, § 503(e), added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+
 2006—Subsec. (b). Pub. L. 109–177 amended subsec. (b) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no governmental or private entity, or officer, employee, or agent of such entity, may disclose to any person, other than those officers, employees, or agents of such entity necessary to satisfy a request made under this section, that such entity has received or satisfied a request made by an authorized investigative agency under this section.”
 
 Subsec. (b)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the authorized investigative agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized investigative agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such official that the person intends to consult an attorney to obtain legal advice or legal assistance.”

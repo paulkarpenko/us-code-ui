@@ -384,7 +384,7 @@ A prior section 1004 of Pub. L. 89–10 was renumbered section 9004 and was clas
 ## § 6316. State plans
 **(a) Plans required**
 
-(1) **In general** — For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan, developed by the State educational agency, in consultation with local educational agencies, teachers, principals, pupil services personnel, administrators (including administrators of programs described in other parts of this subchapter), other staff, and parents, that satisfies the requirements of this section and that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act [[20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.], the Carl D. Perkins Career and Technical Education Act of 2006 [[20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.], the Head Start Act [[42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.], the Adult Education and Family Literacy Act [[20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.], and the McKinney-Vento Homeless Assistance Act [[42 U.S.C. 11301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) et seq.].
+(1) **In general** — For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan, developed by the State educational agency, in consultation with local educational agencies, teachers, principals, pupil services personnel, administrators (including administrators of programs described in other parts of this subchapter), other staff, and parents, that satisfies the requirements of this section and that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act [[20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.], the Carl D. Perkins Career and Technical Education Act of 2006 [[20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.], the Head Start Act [[42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.], the Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.], and the McKinney-Vento Homeless Assistance Act [[42 U.S.C. 11301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) et seq.].
 
 (2) **Consolidated plan** — A State plan submitted under paragraph (1) may be submitted as part of a consolidated plan under [section 7842 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7842).
 
@@ -840,7 +840,7 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 
 The Head Start Act, referred to in subsec. (a)(1), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (a)(1), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (a)(1), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§ 11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) and Tables.
 
@@ -3436,7 +3436,7 @@ A prior section 1202 of Pub. L. 89–10 was classified to [section 2782 of this 
 
   (F) How the State educational agency will, to the extent practicable, make grants to eligible local educational agencies in both rural and urban areas.
 
-  (G) How the State educational agency will build on, and promote coordination among literacy programs in the State (including federally funded programs such as programs under the Adult Education and Family Literacy Act [[20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.], the Individuals with Disabilities Education Act [[20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.], and subpart 2 of this part), to increase the effectiveness of the programs in improving reading for adults and children and to avoid duplication of the efforts of the program.
+  (G) How the State educational agency will build on, and promote coordination among literacy programs in the State (including federally funded programs such as programs under the Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.], the Individuals with Disabilities Education Act [[20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.], and subpart 2 of this part), to increase the effectiveness of the programs in improving reading for adults and children and to avoid duplication of the efforts of the program.
 
   (H) How the State educational agency will assess and evaluate, on a regular basis, eligible local educational agency activities assisted under [section 6362 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6362), with respect to whether the activities have been effective in achieving the purposes of [section 6362 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6362).
 
@@ -3448,15 +3448,13 @@ A prior section 1202 of Pub. L. 89–10 was classified to [section 2782 of this 
 
 (2) **Peer review**
 
-  (A) *In general* — The Secretary, in consultation with the National Institute for Literacy, shall convene a panel to evaluate applications under this section. At a minimum, the panel shall include—
+  (A) *In general* — The Secretary shall convene a panel to evaluate applications under this section. At a minimum, the panel shall include—
 
     (i) three individuals selected by the Secretary;
 
-    (ii) three individuals selected by the National Institute for Literacy;
+    (ii) three individuals selected by the National Research Council of the National Academy of Sciences; and
 
-    (iii) three individuals selected by the National Research Council of the National Academy of Sciences; and
-
-    (iv) three individuals selected by the Eunice Kennedy Shriver National Institute of Child Health and Human Development.
+    (iii) three individuals selected by the Eunice Kennedy Shriver National Institute of Child Health and Human Development.
 
   (B) *Experts* — The panel shall include—
 
@@ -3512,21 +3510,10 @@ A prior section 1202 of Pub. L. 89–10 was classified to [section 2782 of this 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)(2)(A)
-Pub. L. 113–128, title V, §§ 506, 512(i)(1), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(2)(A) of this section is amended:
-
-(1) by striking “, in consultation with the National Institute for Literacy,”; and
-
-(2) by striking clause (ii); and
-
-(3) by redesignating clauses (iii) and (iv) as clauses (ii) and (iii), respectively.
-
-See 2014 Amendment note below.
-
 #### References in Text
 Part C of title II (as such part was in effect on the day before January 8, 2002), referred to in subsecs. (a)(2), (b)(2), and (d)(4), means part C of title II of Pub. L. 89–10, as added by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391, as amended, which was classified generally to part C (§ 6661 et seq.) of subchapter II of this chapter prior to the general amendment of subchapter II by Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1620.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (b)(4)(G), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (b)(4)(G), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(4)(G), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
@@ -3536,12 +3523,12 @@ A prior section 6363, Pub. L. 89–10, title I, § 1203, as added Pub. L. 103–
 A prior section 1203 of Pub. L. 89–10 was classified to [section 2783 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2783&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
-2014—Subsec. (c)(2)(A). Pub. L. 113–128 struck out “, in consultation with the National Institute for Literacy,” after “The Secretary” in introductory provisions, redesignated subcls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: “three individuals selected by the National Institute for Literacy;”.
+2014—Subsec. (c)(2)(A). Pub. L. 113–128 struck out “, in consultation with the National Institute for Literacy,” after “The Secretary” in introductory provisions, redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: “three individuals selected by the National Institute for Literacy;”.
 
 2007—Subsec. (c)(2)(A)(iv). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-6371"></a>
@@ -3674,13 +3661,13 @@ A prior section 6366, Pub. L. 89–10, title I, § 1206, as added Pub. L. 103–
 
 **(b) Dissemination and coordination** At a minimum, the National Institute for Literacy shall disseminate the information described in subsection (a) of this section to—
 
-(1) recipients of Federal financial assistance under this subchapter, subchapter III of this chapter, the Head Start Act [[42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.], the Individuals with Disabilities Education Act [[20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.], and the Adult Education and Family Literacy Act [[20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.]; and
+(1) recipients of Federal financial assistance under this subchapter, subchapter III of this chapter, the Head Start Act [[42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.], the Individuals with Disabilities Education Act [[20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.], and the Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.]; and
 
 (2) each Bureau funded school (as defined in [section 2021 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021&num=0&edition=prelim)).
 
 **(c) Use of existing networks** In carrying out this section, the National Institute for Literacy shall, to the extent practicable, use existing information and dissemination networks developed and maintained through other public and private entities including through the Department and the National Center for Family Literacy.
 
-**(d) National Institute for Literacy** For purposes of funds reserved under [section 6362(b)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6362/b/1/D&num=0&edition=prelim) to carry out this section, the National Institute for Literacy shall administer such funds in accordance with [section 9252(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9252/b&num=0&edition=prelim) (relating to the establishment and administration of the National Institute for Literacy).
+**(d) National Institute for Literacy** For purposes of funds reserved under [section 6362(b)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6362/b/1/D&num=0&edition=prelim) to carry out this section, the National Institute for Literacy shall administer such funds in accordance with section 9252(b) 11 See References in Text note below. of this title (relating to the establishment and administration of the National Institute for Literacy).
 
 ### Statutory Notes
 
@@ -3689,7 +3676,9 @@ The Head Start Act, referred to in subsec. (b)(1), is subchapter B (§§ 635–6
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (b)(1), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (b)(1), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
+
+[Section 9252 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9252&num=0&edition=prelim), referred to in subsec. (d), was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015.
 
 #### Prior Provisions
 A prior section 6367, Pub. L. 89–10, title I, § 1207, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3582; amended Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1604(k)], Dec. 21, 2000, 114 Stat. 2763, 2763A–332, related to applications for Even Start subgrants, prior to the general amendment of this subchapter by Pub. L. 107–110. See [section 6381f of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6381f).
@@ -3883,7 +3872,7 @@ A prior section 1221 of Pub. L. 89–10 was classified to [section 2791 of this 
 
 (10) such other information as the Secretary may require.
 
-**(c) Approval of local applications** The Secretary shall select applicants for funding under this subpart based on the quality of the applications and the recommendations of a peer review panel convened under [section 6363(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6363/c/2&num=0&edition=prelim), that includes, at a minimum, three individuals, selected from the entities described in clauses (ii), (iii), and (iv) of [section 6363(c)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6363/c/2/A&num=0&edition=prelim), who are experts in early reading development and early childhood development.
+**(c) Approval of local applications** The Secretary shall select applicants for funding under this subpart based on the quality of the applications and the recommendations of a peer review panel convened under [section 6363(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6363/c/2&num=0&edition=prelim), that includes, at a minimum, three individuals, selected from the entities described in clauses (ii), (iii), and (iv) of section 6363(c)(2)(A) 11 See References in Text note below. of this title, who are experts in early reading development and early childhood development.
 
 **(d) Authorized activities** An eligible applicant that receives a grant under this subpart shall use the funds provided under the grant to carry out the following activities:
 
@@ -3908,6 +3897,9 @@ A prior section 1221 of Pub. L. 89–10 was classified to [section 2791 of this 
 **(e) Award amounts** The Secretary may establish a maximum award amount, or ranges of award amounts, for grants under this subpart.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 6363(c)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6363/c/2/A&num=0&edition=prelim), referred to in subsec. (c), was amended by Pub. L. 113–128, title V, § 512(i)(1), July 22, 2014, 128 Stat. 1708, by repealing cl. (ii) and redesignating cls. (iii) and (iv) as (ii) and (iii), respectively.
 
 #### Prior Provisions
 A prior section 1222 of Pub. L. 89–10 was classified to [section 2792 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2792&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
@@ -4041,7 +4033,7 @@ It is the purpose of this subpart to help break the cycle of poverty and illiter
 
   (A) *In general* — For any fiscal year for which at least one State educational agency applies and submits an application that meets the requirements and goals of this subsection and for which the amount appropriated under [section 6302(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6302/b/3&num=0&edition=prelim) exceeds the amount appropriated under that section for the preceding fiscal year, the Secretary shall reserve, from the amount of the excess remaining after the application of subsection (b)(2) of this section, the amount of the remainder or $1,000,000, whichever is less, to award grants, on a competitive basis, to State educational agencies to enable them to plan and implement statewide family literacy initiatives to coordinate and, where appropriate, integrate existing Federal, State, and local literacy resources consistent with the purposes of this subpart.
 
-  (B) *Coordination and integration* — The coordination and integration described in subparagraph (A) shall include coordination and integration of funds available under the Adult Education and Family Literacy Act [[20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.], the Head Start Act [[42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.], this subpart, part A of this subchapter, and part A of title IV of the Social Security Act [[42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.].
+  (B) *Coordination and integration* — The coordination and integration described in subparagraph (A) shall include coordination and integration of funds available under the Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.], the Head Start Act [[42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.], this subpart, part A of this subchapter, and part A of title IV of the Social Security Act [[42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.].
 
   (C) *Restriction* — No State educational agency may receive more than one grant under this subsection.
 
@@ -4053,7 +4045,7 @@ It is the purpose of this subpart to help break the cycle of poverty and illiter
 
     (ii) The Head Start Act [[42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.].
 
-    (iii) The Adult Education and Family Literacy Act [[20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.].
+    (iii) The Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.].
 
     (iv) All other State-funded preschool programs and programs providing literacy services to adults.
 
@@ -4094,7 +4086,7 @@ It is the purpose of this subpart to help break the cycle of poverty and illiter
 ### Statutory Notes
 
 #### References in Text
-The Adult Education and Family Literacy Act, referred to in subsec. (c)(1)(B), (2)(A)(iii), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (c)(1)(B), (2)(A)(iii), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Head Start Act, referred to in subsec. (c)(1)(B), (2)(A)(ii), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
@@ -4216,7 +4208,7 @@ Each program assisted under this subpart shall—
 
   (A) other programs assisted under this chapter;
 
-  (B) any relevant programs under the Adult Education and Family Literacy Act [[20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.], the Individuals with Disabilities Education Act [[20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.], and title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.]; and
+  (B) any relevant programs under the Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.], the Individuals with Disabilities Education Act [[20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.], and title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.]; and
 
   (C) the Head Start program, volunteer literacy programs, and other relevant programs;
 
@@ -4234,21 +4226,18 @@ Each program assisted under this subpart shall—
 
 ### Statutory Notes
 
-#### Amendment of Paragraph (9)(B)
-Pub. L. 113–128, title V, §§ 506, 512(i)(2), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (9)(B) of this section is amended by striking “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Investment Act of 1998” and inserting “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
 #### References in Text
-The Adult Education and Family Literacy Act, referred to in par. (9)(B), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Adult Education and Family Literacy Act, referred to in par. (9)(B), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Individuals with Disabilities Education Act, referred to in par. (9)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
-The Workforce Investment Act of 1998, referred to in par. (9)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in par. (9)(B), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Par. (9)(B). Pub. L. 113–128 substituted “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Innovation and Opportunity Act” for “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Investment Act of 1998”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-6381j"></a>
@@ -4257,7 +4246,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 (1) a parent or parents—
 
-  (A) who are eligible for participation in adult education and literacy activities under the Adult Education and Family Literacy Act [[20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.]; or
+  (A) who are eligible for participation in adult education and literacy activities under the Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.]; or
 
   (B) who are within the State’s compulsory school attendance age range, so long as a local educational agency provides (or ensures the availability of) the basic education component required under this subpart, or who are attending secondary school; and
 
@@ -4278,7 +4267,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 ### Statutory Notes
 
 #### References in Text
-The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(A), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(A), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-6381k"></a>
@@ -4436,7 +4425,7 @@ Each State educational agency receiving funds under this subpart shall develop, 
 ## § 6393. Research
 **(a) In general** The Secretary shall carry out, through grant or contract, research into the components of successful family literacy services, in order to—
 
-(1) improve the quality of existing programs assisted under this subpart or other family literacy programs carried out under this chapter or the Adult Education and Family Literacy Act [[20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.]; and
+(1) improve the quality of existing programs assisted under this subpart or other family literacy programs carried out under this chapter or the Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.]; and
 
 (2) develop models for new programs to be carried out under this chapter or the Adult Education and Family Literacy Act.
 
@@ -4459,7 +4448,7 @@ Each State educational agency receiving funds under this subpart shall develop, 
 ### Statutory Notes
 
 #### References in Text
-The Adult Education and Family Literacy Act, referred to in subsec. (a), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (a), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 1241 of Pub. L. 89–10 was classified to [section 2801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2801&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
@@ -4827,7 +4816,7 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 (8) as appropriate, a description of how the program will involve parents in efforts to improve the educational achievement of their children, assist in dropout prevention activities, and prevent the involvement of their children in delinquent activities;
 
-(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.] and vocational and technical education programs serving at-risk children and youth;
+(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.] and vocational and technical education programs serving at-risk children and youth;
 
 (10) a description of how the program will be coordinated with programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 [[42 U.S.C. 5601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) et seq.] and other comparable programs, if applicable;
 
@@ -4839,11 +4828,8 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 ### Statutory Notes
 
-#### Amendment of Paragraph (9)
-Pub. L. 113–128, title V, §§ 506, 512(i)(3), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (9) of this section is amended by striking “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220” and inserting “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
 #### References in Text
-Pub. L. 105–220, referred to in par. (9), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
 
@@ -4854,7 +4840,7 @@ A prior section 6453, Pub. L. 89–10, title I, § 1423, as added Pub. L. 103–
 2014—Par. (9). Pub. L. 113–128 substituted “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act” for “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-6431"></a>
@@ -5193,7 +5179,7 @@ A prior section 6433, Pub. L. 89–10, title I, § 1413, as added Pub. L. 103–
 
 (7) includes data showing that the State agency has maintained the fiscal effort required of a local educational agency, in accordance with [section 7901 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7901);
 
-(8) describes how the programs will be coordinated with other appropriate State and Federal programs, such as programs under title I of Public Law 105–220 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.], vocational and technical education programs, State and local dropout prevention programs, and special education programs;
+(8) describes how the programs will be coordinated with other appropriate State and Federal programs, such as programs under title I of Public Law 105–220,11 See References in Text note below. vocational and technical education programs, State and local dropout prevention programs, and special education programs;
 
 (9) describes how the State agency will encourage correctional facilities receiving funds under this subpart to coordinate with local educational agencies or alternative education programs attended by incarcerated children and youth prior to their incarceration to ensure that student assessments and appropriate academic records are shared jointly between the correctional facility and the local educational agency or alternative education program;
 
@@ -5224,7 +5210,7 @@ A prior section 6433, Pub. L. 89–10, title I, § 1413, as added Pub. L. 103–
 ### Statutory Notes
 
 #### References in Text
-Pub. L. 105–220, referred to in subsec. (c)(8), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+Pub. L. 105–220, referred to in subsec. (c)(8), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, known as the Workforce Investment Act of 1998, which was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former § 2801 et seq.) of Title 29, Labor. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3101&num=0&edition=prelim) and Tables.
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c)(19), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
 
@@ -5407,7 +5393,7 @@ Each correctional facility entering into an agreement with a local educational a
 
 (8) where feasible, involve parents in efforts to improve the educational achievement of their children and prevent the further involvement of such children in delinquent activities;
 
-(9) coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.], and vocational and technical education funds;
+(9) coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.], and vocational and technical education funds;
 
 (10) coordinate programs operated under this subpart with activities funded under the Juvenile Justice and Delinquency Prevention Act of 1974 [[42 U.S.C. 5601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) et seq.] and other comparable programs, if applicable; and
 
@@ -5415,13 +5401,10 @@ Each correctional facility entering into an agreement with a local educational a
 
 ### Statutory Notes
 
-#### Amendment of Paragraph (9)
-Pub. L. 113–128, title V, §§ 506, 512(i)(4), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (9) of this section is amended by striking “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220,” and inserting “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act,”. See 2014 Amendment note below.
-
 #### References in Text
 The Individuals with Disabilities Education Act, referred to in par. (1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
-Pub. L. 105–220, referred to in par. (9), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subtitle I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
 
@@ -5432,7 +5415,7 @@ A prior section 6455, Pub. L. 89–10, title I, § 1425, as added Pub. L. 103–
 2014—Par. (9). Pub. L. 113–128 substituted “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act,” for “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220,”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-6493"></a>
@@ -6735,7 +6718,7 @@ Section 6650, Pub. L. 89–10, title II, § 2210, as added Pub. L. 103–382, ti
 
       (II) another public or private entity that provides such professional development;
 
-    (ii) one or more public agencies ( 11 So in original. There is no closing parenthesis. including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 [[42 U.S.C. 9857](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857&num=0&edition=prelim) et seq.], Head Start agencies, or private organizations; and
+    (ii) one or more public agencies ( 11 So in original. There is no closing parenthesis. including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858&num=0&edition=prelim) 22 See References in Text note below. et seq.), Head Start agencies, or private organizations; and
 
     (iii) to the extent feasible, an entity with demonstrated experience in providing training to educators in early childhood education programs concerning identifying and preventing behavior problems or working with children identified as or suspected to be victims of abuse.
 
@@ -8380,7 +8363,7 @@ For the effective date of the No Child Left Behind Act of 2001, referred to in s
 
   (A) to maximize the utilization of quality educational programming by preschool and elementary school children, and make such programming widely available to federally funded programs serving such populations; and
 
-  (B) to coordinate activities with Federal programs that have major training components for early childhood development, including programs under the Head Start Act ([42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.) and Even Start, and State training activities funded under the Child Care and Development Block Grant Act of 1990 [[42 U.S.C. 9857](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857&num=0&edition=prelim) et seq.], regarding the availability and utilization of materials developed under paragraph (1)(E) to enhance parent and child care provider skills in early childhood development and education.
+  (B) to coordinate activities with Federal programs that have major training components for early childhood development, including programs under the Head Start Act ([42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.) and Even Start, and State training activities funded under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858&num=0&edition=prelim) 11 See References in Text note below. et seq.), regarding the availability and utilization of materials developed under paragraph (1)(E) to enhance parent and child care provider skills in early childhood development and education.
 
 **(b) Applications** To be eligible to receive a grant, contract, or cooperative agreement under subsection (a) of this section, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
@@ -18494,7 +18477,7 @@ Congress finds the following:
 
   (G) the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act ([20 U.S.C. 4401](./chapter-056-american-indian-alaska-native-and-native-hawaiian-culture-and-art-development.md#section-4401) et seq.);
 
-  (H) the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.); and
+  (H) the Workforce Innovation and Opportunity Act; and
 
   (I) the Older Americans Act of 1965 ([42 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) et seq.).
 
@@ -18550,9 +18533,6 @@ Congress finds the following:
 
 ### Statutory Notes
 
-#### Amendment of Paragraph (13)(H)
-Pub. L. 113–128, title V, §§ 506, 512(i)(5), July 22, 2014, 128 Stat. 1703, 1709, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (13)(H) of this section is amended by striking “the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
 #### References in Text
 Public Law 103–150, referred to in par. (5), is Pub. L. 103–150, Nov. 23, 1993, 107 Stat. 1510, which is not classified to the Code.
 
@@ -18576,7 +18556,7 @@ The Native American Languages Act, referred to in par. (13)(F), is title I of Pu
 
 The American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act, referred to in par. (13)(G), is title XV of Pub. L. 99–498, Oct. 17, 1986, 100 Stat. 1600, which is classified generally to chapter 56 (§ 4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4401 of this title](./chapter-056-american-indian-alaska-native-and-native-hawaiian-culture-and-art-development.md#section-4401) and Tables.
 
-The Workforce Investment Act of 1998, referred to in par. (13)(H), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in par. (13)(H), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Older Americans Act of 1965, referred to in par. (13)(I), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
 
@@ -18593,7 +18573,7 @@ Par. (13)(H). Pub. L. 113–128 substituted “the Workforce Innovation and Oppo
 2010—Par. (16)(E). Pub. L. 111–256 substituted “mild intellectual disabilities,” for “mild mental retardation,”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Definitions
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).

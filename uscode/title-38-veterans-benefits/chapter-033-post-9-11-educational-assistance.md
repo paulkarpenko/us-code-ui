@@ -1063,7 +1063,7 @@ Amendment by section 201(b) of Pub. L. 111–377 effective Aug. 1, 2011, and app
 ### Statutory Notes
 
 #### Amendments
-2014—Subsec. (b)(4). Pub. L. 113–146 substituted “a child” for “an individual” and in two places “such child’s” for “such individual’s”.
+2014—Subsec. (b)(4). Pub. L. 113–146 substituted “a child” for “an individual” and, in two places, “such child’s” for “such individual’s”.
 
 2010—Subsec. (b)(2). Pub. L. 111–275 substituted “[section 3312 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3312)” for “3312”.
 

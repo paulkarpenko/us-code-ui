@@ -147,7 +147,7 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 707], Sept. 30, 199
 
 (2) programs and activities under the Head Start Act ([42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.) (including programs and activities under subparagraphs (H)(vii) and (J)(iii) of section 641(d)(2) of such Act) ([42 U.S.C. 9836(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9836/d/2&num=0&edition=prelim));
 
-(3) activities under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.) (including activities under section 134(c) of such Act) ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)); and
+(3) activities under the Workforce Innovation and Opportunity Act [[29 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) et seq.] (including activities under section 121(e) of such Act [[29 U.S.C. 3151(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)])); 11 So in original. The second closing parenthesis probably should not appear. and
 
 (4) Federal programs and activities that increase the capacity of libraries and museums to act as partners in economic and community development, education and research, improving digital literacy skills, and disseminating health information.
 
@@ -177,15 +177,12 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 707], Sept. 30, 199
 
 ### Statutory Notes
 
-#### Amendment of Subsection (f)(3)
-Pub. L. 113–128, title V, §§ 506, 512(t)(1), July 22, 2014, 128 Stat. 1703, 1712, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (f)(3) of this section is amended by striking “activities under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.) (including activities under section 134(c) of such Act) ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim))” and inserting “activities under the Workforce Innovation and Opportunity Act (including activities under section 121(e) of such Act))”. See 2014 Amendment note below.
-
 #### References in Text
 This chapter, referred to in subsec. (e)(2) and the second place it appears in subsec. (i)(2), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
 
 The Head Start Act, referred to in subsec. (f)(2), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (f)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 204 of Pub. L. 94–462 was classified to [section 963 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section963&num=0&edition=prelim) prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
@@ -204,7 +201,7 @@ Subsecs. (h), (i). Pub. L. 111–340, § 102(2), redesignated subsecs. (f) and (
 Subsecs. (f), (g). Pub. L. 108–81, § 103(2), added subsecs. (f) and (g).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Service of Individuals Serving on September 30, 1996
 Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 705], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, which provided that the individual who was appointed to the position of Director of the Institute of Museum Services and was serving in such position on the day before Sept. 30, 1996, would serve, at the pleasure of the President, as the first Director of the Institute of Museum and Library Services, was repealed by Pub. L. 108–81, title V, § 505(b), Sept. 25, 2003, 117 Stat. 1004.
@@ -819,9 +816,9 @@ Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L.
 
   (C) workforce development, including coordination with—
 
-    (i) the activities carried out by the State workforce investment board under [section 2821(d) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821/d&num=0&edition=prelim); and
+    (i) the activities carried out by the State workforce development board under [section 3111 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim); and
 
-    (ii) the State’s one-stop delivery system established under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim); and
+    (ii) the State’s one-stop delivery system established under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim); and
 
   (D) other Federal programs and activities that relate to library services, including economic and community development and health information;
 
@@ -932,15 +929,6 @@ Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L.
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(6)(C)
-Pub. L. 113–128, title V, §§ 506, 512(t)(2), July 22, 2014, 128 Stat. 1703, 1712, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (b)(6)(C) of this section is amended as follows:
-
-(1) in clause (i), by striking “the activities carried out by the State workforce investment board under [section 2821(d) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821/d&num=0&edition=prelim)” and inserting “the activities carried out by the State workforce development board under [section 3111 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim)”; and
-
-(2) in clause (ii), by striking “the State’s one-stop delivery system established under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)” and inserting “the State’s one-stop delivery system established under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)”.
-
-See 2014 Amendment notes below.
-
 #### References in Text
 For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see § 1(a)(4) [div. B, title XVII, § 1712(b)] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
@@ -972,7 +960,7 @@ Subsec. (f)(7)(D). Pub. L. 108–81, § 205(2)(C)(ii), substituted “applicable
 Subsec. (f). Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(a)(2)], added subsec. (f).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that: “The amendment made by this section [amending this section] shall take effect 120 days after the date of the enactment of this Act [Dec. 21, 2000].”

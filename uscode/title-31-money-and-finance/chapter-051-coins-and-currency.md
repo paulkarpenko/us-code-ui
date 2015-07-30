@@ -206,6 +206,8 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 114–5, Mar. 7, 2015, 129 Stat. 78, recognizing Foot Soldiers who participated in Bloody Sunday, Turnaround Tuesday, or the final Selma to Montgomery Voting Rights March in March, 1965.
+
 Pub. L. 113–210, Dec. 16, 2014, 128 Stat. 2077, recognizing Jack Nicklaus.
 
 Pub. L. 113–120, June 10, 2014, 128 Stat. 1187, recognizing the 65th Infantry Regiment of the United States Army, known as the “Borinqueneers”.
@@ -1261,6 +1263,8 @@ Pub. L. 99–185, § 2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: “The S
 #### Commemorative Coins
 Provisions authorizing commemorative coins were contained in the following acts:
 
+Pub. L. 114–30, July 6, 2015, 129 Stat. 424.—Boys Town Centennial.
+
 Pub. L. 113–291, div. B, title XXX, § 3055, Dec. 19, 2014, 128 Stat. 3808.—National Park Service 100th anniversary.
 
 Pub. L. 113–212, Dec. 16, 2014, 128 Stat. 2082.—World War I American Veterans Centennial.
@@ -1382,7 +1386,7 @@ Pub. L. 99–61, title I, July 9, 1985, 99 Stat. 113.—Statue of Liberty and El
 Pub. L. 97–220, July 22, 1982, 96 Stat. 222.—1984 Olympic Games.
 
 #### Possession of Gold Coins and Bullion
-The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under [section 95a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section95a&num=0&edition=prelim), Banks and Banking.
+The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under [section 5 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section5&num=0&edition=prelim), Appendix, War and National Defense.
 
 
 <a id="section-5113"></a>

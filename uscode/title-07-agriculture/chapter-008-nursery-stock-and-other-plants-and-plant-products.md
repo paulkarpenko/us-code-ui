@@ -103,7 +103,7 @@ Section, act May 16, 1928, ch. 572, 45 Stat. 565, provided that the functions of
 ### Statutory Notes
 
 #### Codification
-Section, act Mar. 4, 1915, ch. 144, 38 Stat. 1113, as amended, which related to transmission by the Postal Service of packages containing plants or plant products for States inspection, was transferred to [section 7760 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7760&num=0&edition=prelim).
+Section, act Mar. 4, 1915, ch. 144, 38 Stat. 1113, as amended, which related to transmission by the Postal Service of packages containing plants or plant products for States inspection, was transferred to [section 7760 of this title](./chapter-104-plant-protection.md#section-7760).
 
 
 <a id="section-167"></a>

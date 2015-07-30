@@ -273,7 +273,7 @@ For dissolution and abolishment of Home Owners’ Loan Corporation, by act June 
 
   (A) the financial subsidiary engages only in—
 
-    (i) activities that are financial in nature or incidental to a financial activity pursuant to subsection (b) of this section; and
+    (i) activities that are financial in nature or incidental to a financial activity pursuant to subsection (b); and
 
     (ii) activities that are permitted for national banks to engage in directly (subject to the same terms and conditions that govern the conduct of the activities by a national bank);
 
@@ -303,7 +303,7 @@ For dissolution and abolishment of Home Owners’ Loan Corporation, by act June 
 
   (B) *Consolidated total assets* — For purposes of this paragraph, the size of an insured bank shall be determined on the basis of the consolidated total assets of the bank as of the end of each calendar year.
 
-(4) **Financial agency subsidiary** — The requirement in paragraph (2)(E) shall not apply with respect to the ownership or control of a financial subsidiary that engages in activities described in subsection (b)(1) of this section solely as agent and not directly or indirectly as principal.
+(4) **Financial agency subsidiary** — The requirement in paragraph (2)(E) shall not apply with respect to the ownership or control of a financial subsidiary that engages in activities described in subsection (b)(1) solely as agent and not directly or indirectly as principal.
 
 (5) **Regulations required** — Before the end of the 270-day period beginning on November 12, 1999, the Comptroller of the Currency shall, by regulation, prescribe procedures to implement this section.
 
@@ -379,9 +379,9 @@ For dissolution and abolishment of Home Owners’ Loan Corporation, by act June 
 
 **(e) Provisions applicable to national banks that fail to continue to meet certain requirements**
 
-(1) **In general** — If a national bank or insured depository institution affiliate does not continue to meet the requirements of subsection (a)(2)(C) of this section or subsection (d) of this section, the Comptroller of the Currency shall promptly give notice to the national bank to that effect describing the conditions giving rise to the notice.
+(1) **In general** — If a national bank or insured depository institution affiliate does not continue to meet the requirements of subsection (a)(2)(C) or subsection (d), the Comptroller of the Currency shall promptly give notice to the national bank to that effect describing the conditions giving rise to the notice.
 
-(2) **Agreement to correct conditions** — Not later than 45 days after the date of receipt by a national bank of a notice given under paragraph (1) (or such additional period as the Comptroller of the Currency may permit), the national bank shall execute an agreement with the Comptroller of the Currency and any relevant insured depository institution affiliate shall execute an agreement with its appropriate Federal banking agency to comply with the requirements of subsection (a)(2)(C) of this section and subsection (d) of this section.
+(2) **Agreement to correct conditions** — Not later than 45 days after the date of receipt by a national bank of a notice given under paragraph (1) (or such additional period as the Comptroller of the Currency may permit), the national bank shall execute an agreement with the Comptroller of the Currency and any relevant insured depository institution affiliate shall execute an agreement with its appropriate Federal banking agency to comply with the requirements of subsection (a)(2)(C) and subsection (d).
 
 (3) **Imposition of conditions** — Until the conditions described in a notice under paragraph (1) are corrected—
 
@@ -395,7 +395,7 @@ For dissolution and abolishment of Home Owners’ Loan Corporation, by act June 
 
 **(f) Failure to meet standards of credit-worthiness meet 22 So in original. Probably should be “or meet”. applicable criteria**
 
-(1) **In general** — A national bank that does not continue to meet standards of credit-worthiness established by the Comptroller of the Currency or other requirement of subsection (a)(2)(E) of this section after acquiring or establishing a financial subsidiary shall not, directly or through a subsidiary, purchase or acquire any additional equity capital of any financial subsidiary until the bank meets such requirements.
+(1) **In general** — A national bank that does not continue to meet standards of credit-worthiness established by the Comptroller of the Currency or other requirement of subsection (a)(2)(E) after acquiring or establishing a financial subsidiary shall not, directly or through a subsidiary, purchase or acquire any additional equity capital of any financial subsidiary until the bank meets such requirements.
 
 (2) **Equity capital** — For purposes of this subsection, the term “equity capital” includes, in addition to any equity instrument, any debt instrument issued by a financial subsidiary, if the instrument qualifies as capital of the subsidiary under any Federal or State law, regulation, or interpretation applicable to the subsidiary.
 
@@ -486,9 +486,9 @@ Section, act July 1, 1922, ch. 257, § 2, 42 Stat. 767, repealed all acts extend
 
 **(b) Use of banking premises prohibited** A national bank may not permit—
 
-(1) the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a) of this section, or
+(1) the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a), or
 
-(2) direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a) of this section.
+(2) direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a).
 
 **(c) Definitions** As used in this section—
 
@@ -713,7 +713,7 @@ R.S. § 5137 derived from act June 3, 1864, ch. 106, § 28, 13 Stat. 107, which 
 
 **(d) Retention of “Federal” in name of converted Federal savings association**
 
-(1) **In general** — Notwithstanding subsection (a) of this section or any other provision of law, any depository institution, the charter of which is converted from that of a Federal savings association to a national bank or a State bank after November 12, 1999, may retain the term “Federal” in the name of such institution if such institution remains an insured depository institution.
+(1) **In general** — Notwithstanding subsection (a) or any other provision of law, any depository institution, the charter of which is converted from that of a Federal savings association to a national bank or a State bank after November 12, 1999, may retain the term “Federal” in the name of such institution if such institution remains an insured depository institution.
 
 (2) **Definitions** — For purposes of this subsection, the terms “depository institution”, “insured depository institution”, “national bank”, and “State bank” have the meanings given those terms in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
 
@@ -837,13 +837,13 @@ The conditions upon which a national banking association may retain or establish
 
 **(c) New branches** A national banking association may, with the approval of the Comptroller of the Currency, establish and operate new branches: (1) Within the limits of the city, town or village in which said association is situated, if such establishment and operation are at the time expressly authorized to State banks by the law of the State in question; and (2) at any point within the State in which said association is situated, if such establishment and operation are at the time authorized to State banks by the statute law of the State in question by language specifically granting such authority affirmatively and not merely by implication or recognition, and subject to the restrictions as to location imposed by the law of the State on State banks. In any State in which State banks are permitted by statute law to maintain branches within county or greater limits, if no bank is located and doing business in the place where the proposed agency is to be located, any national banking association situated in such State may, with the approval of the Comptroller of the Currency, establish and operate, without regard to the capital requirements of this section, a seasonal agency in any resort community within the limits of the county in which the main office of such association is located, for the purpose of receiving and paying out deposits, issuing and cashing checks and drafts, and doing business incident thereto: Provided, That any permit issued under this sentence shall be revoked upon the opening of a State or national bank in such community. Except as provided in the immediately preceding sentence, no such association shall establish a branch outside of the city, town, or village in which it is situated unless it has a combined capital stock and surplus equal to the combined amount of capital stock and surplus, if any, required by the law of the State in which such association is situated for the establishment of such branches by State banks, or, if the law of such State requires only a minimum capital stock for the establishment of such branches by State banks, unless such association has not less than an equal amount of capital stock.
 
-**(d) Branches resulting from interstate merger transactions** A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) 11 See References in Text note below. of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B) of this section) of such bank in accordance with [section 1831u of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1831u).
+**(d) Branches resulting from interstate merger transactions** A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) 11 See References in Text note below. of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B)) of such bank in accordance with [section 1831u of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1831u).
 
 **(e) Exclusive authority for additional branches**
 
-(1) **In general** — Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank’s home State (as defined in subsection (g)(3)(B) of this section) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorized under this section or section 1823(f), 1823(k), or 1831u of this title.
+(1) **In general** — Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank’s home State (as defined in subsection (g)(3)(B)) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorized under this section or section 1823(f), 1823(k), or 1831u of this title.
 
-(2) **Retention of branches** — In the case of a national bank which relocates the main office of such bank from 1 State to another State after May 31, 1997, the bank may retain and operate branches within the State which was the bank’s home State (as defined in subsection (g)(3)(B) of this section) before the relocation of such office only to the extent the bank would be authorized, under this section or any other provision of law referred to in paragraph (1), to acquire, establish, or commence to operate a branch in such State if—
+(2) **Retention of branches** — In the case of a national bank which relocates the main office of such bank from 1 State to another State after May 31, 1997, the bank may retain and operate branches within the State which was the bank’s home State (as defined in subsection (g)(3)(B)) before the relocation of such office only to the extent the bank would be authorized, under this section or any other provision of law referred to in paragraph (1), to acquire, establish, or commence to operate a branch in such State if—
 
   (A) the bank had no branches in such State; or
 
@@ -1057,7 +1057,7 @@ The provisions of all Acts of Congress relating to national banks shall apply in
 
 (2) **Judicial, legislative, or intragovernmental materials** — This section shall not apply with respect to materials prepared for use in judicial proceedings or submission to Congress or a Member of Congress, or for intragovernmental use.
 
-(3) **Emergency** — The appropriate Federal banking agency may make exceptions to subsection (a) of this section if—
+(3) **Emergency** — The appropriate Federal banking agency may make exceptions to subsection (a) if—
 
   (A) the agency determines in writing that the exception is necessary to avoid a serious and imminent threat to the safety and soundness of any national bank; or
 
@@ -1614,7 +1614,7 @@ R.S. § 5201 derived from act June 3, 1864, ch. 106, § 35, 13 Stat. 110, which 
 
 (3) the term “derivative transaction” includes any transaction that is a contract, agreement, swap, warrant, note, or option that is based, in whole or in part, on the value of, any interest in, or any quantitative measure or the occurrence of any event relating to, one or more commodities, securities, currencies, interest or other rates, indices, or other assets.
 
-**(c) Exceptions** The limitations contained in subsection (a) of this section shall be subject to the following exceptions:
+**(c) Exceptions** The limitations contained in subsection (a) shall be subject to the following exceptions:
 
 (1) Loans or extensions of credit arising from the discount of commercial or business paper evidencing an obligation to the person negotiating it with recourse shall not be subject to any limitation based on capital and surplus.
 
@@ -1632,15 +1632,15 @@ R.S. § 5201 derived from act June 3, 1864, ch. 106, § 35, 13 Stat. 110, which 
 
 (8)
 
-  (A) Loans and extensions of credit arising from the discount of negotiable or nonnegotiable installment consumer paper which carries a full recourse endorsement or unconditional guarantee by the person transferring the paper shall be subject under this section to a maximum limitation equal to 25 per centum of such capital and surplus, notwithstanding the collateral requirements set forth in subsection (a)(2) of this section.
+  (A) Loans and extensions of credit arising from the discount of negotiable or nonnegotiable installment consumer paper which carries a full recourse endorsement or unconditional guarantee by the person transferring the paper shall be subject under this section to a maximum limitation equal to 25 per centum of such capital and surplus, notwithstanding the collateral requirements set forth in subsection (a)(2).
 
   (B) If the bank’s files or the knowledge of its officers of the financial condition of each maker of such consumer paper is reasonably adequate, and an officer of the bank designated for that purpose by the board of directors of the bank certifies in writing that the bank is relying primarily upon the responsibility of each maker for payment of such loans or extensions of credit and not upon any full or partial recourse endorsement or guarantee by the transferor, the limitations of this section as to the loans or extensions of credit of each such maker shall be the sole applicable loan limitations.
 
 (9)
 
-  (A) Loans and extensions of credit secured by shipping documents or instruments transferring or securing title covering livestock or giving a lien on livestock when the market value of the livestock securing the obligation is not at any time less than 115 per centum of the face amount of the note covered, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2) of this section, to a maximum limitation equal to 25 per centum of such capital and surplus.
+  (A) Loans and extensions of credit secured by shipping documents or instruments transferring or securing title covering livestock or giving a lien on livestock when the market value of the livestock securing the obligation is not at any time less than 115 per centum of the face amount of the note covered, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2), to a maximum limitation equal to 25 per centum of such capital and surplus.
 
-  (B) Loans and extensions of credit which arise from the discount by dealers in dairy cattle of paper given in payment for dairy cattle, which paper carries a full recourse endorsement or unconditional guarantee of the seller, and which are secured by the cattle being sold, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2) of this section, to a limitation of 25 per centum of such capital and surplus.
+  (B) Loans and extensions of credit which arise from the discount by dealers in dairy cattle of paper given in payment for dairy cattle, which paper carries a full recourse endorsement or unconditional guarantee of the seller, and which are secured by the cattle being sold, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2), to a limitation of 25 per centum of such capital and surplus.
 
 (10) Loans or extensions of credit to the Student Loan Marketing Association shall not be subject to any limitation based on capital and surplus.
 
@@ -2749,11 +2749,11 @@ shall be subject to a penalty of not more than $2,000 for each day during which 
 (1) fails to make, obtain, transmit, or publish any report or information required by the Comptroller of the Currency under [section 161 of this title](./chapter-002-national-banks.md#section-161), within the period of time specified by the Comptroller; or
 
 (2) submits or publishes any false or misleading report or information,
-in a manner not described in subsection (a) of this section shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected.
+in a manner not described in subsection (a) shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected.
 
-**(c) Third tier** Notwithstanding subsections (a) and (b) of this section, if any association knowingly or with reckless disregard for the accuracy of any information or report described in subsection (b) of this section submits or publishes any false or misleading report or information, the Comptroller may assess a penalty of not more than $1,000,000 or 1 percent of total assets of the association, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected.
+**(c) Third tier** Notwithstanding subsections (a) and (b), if any association knowingly or with reckless disregard for the accuracy of any information or report described in subsection (b) submits or publishes any false or misleading report or information, the Comptroller may assess a penalty of not more than $1,000,000 or 1 percent of total assets of the association, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected.
 
-**(d) Assessment; etc.** Any penalty imposed under subsection (a), (b), or (c) of this section shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of [section 1818(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/i/2&num=0&edition=prelim) (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section.
+**(d) Assessment; etc.** Any penalty imposed under subsection (a), (b), or (c) shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of [section 1818(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/i/2&num=0&edition=prelim) (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section.
 
 **(e) Hearing** Any association against which any penalty is assessed under this subsection 11 So in original. Probably should be “section”. shall be afforded an agency hearing if such association submits a request for such hearing within 20 days after the issuance of the notice of assessment. [Section 1818(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/h&num=0&edition=prelim) shall apply to any proceeding under this section.
 
@@ -3151,7 +3151,7 @@ The appointment of a conservator pursuant to this subsection shall not be subjec
 
 **(d) Exclusive authority** The Comptroller shall have exclusive power and jurisdiction to appoint a conservator for a bank. Whenever the Comptroller appoints a conservator for any bank, the Comptroller may appoint the Federal Deposit Insurance Corporation conservator for such bank. The Federal Deposit Insurance Corporation, as such conservator, shall have all the powers granted under the Federal Deposit Insurance Act [[12 U.S.C. 1811](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) et seq.], and (when not inconsistent therewith) any other rights, powers, and privileges possessed by conservators of banks under this Act and any other provision of law. The Comptroller may also appoint another person as conservator, who shall be subject to the provisions of this Act.
 
-**(e) Replacement of conservator** The Comptroller may, without notice or hearing, replace a conservator with another conservator. Such replacement shall not affect the bank’s right under subsection (b) of this section to obtain judicial review of the Comptroller’s original decision to appoint a conservator.
+**(e) Replacement of conservator** The Comptroller may, without notice or hearing, replace a conservator with another conservator. Such replacement shall not affect the bank’s right under subsection (b) to obtain judicial review of the Comptroller’s original decision to appoint a conservator.
 
 ### Statutory Notes
 
@@ -3201,11 +3201,11 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 **(b) Other grounds for termination** The Comptroller also may terminate the conservatorship upon the appointment of a receiver pursuant to [section 191 of this title](./chapter-002-national-banks.md#section-191).
 
-**(c) Enforcement under Federal Deposit Insurance Act** Such terms, conditions, and limitations as may be prescribed under subsection (a)(1) of this section shall be enforceable under the provisions of section 8(i) of the Federal Deposit Insurance Act [[12 U.S.C. 1818(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/i&num=0&edition=prelim)], to the same extent as an order issued pursuant to section 8(b) of the Federal Deposit Insurance Act [[12 U.S.C. 1818(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/b&num=0&edition=prelim)] which has become final. The bank may bring an action in the United States district court for the judicial district in which the home office of such bank is located or in the United States District Court for the District of Columbia for an order requiring the Comptroller to terminate the order. An action for judicial review of the terms, conditions, and limitations may not be commenced later than 20 days from the date of the termination of the conservatorship or the imposition of the order, whichever is later.
+**(c) Enforcement under Federal Deposit Insurance Act** Such terms, conditions, and limitations as may be prescribed under subsection (a)(1) shall be enforceable under the provisions of section 8(i) of the Federal Deposit Insurance Act [[12 U.S.C. 1818(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/i&num=0&edition=prelim)], to the same extent as an order issued pursuant to section 8(b) of the Federal Deposit Insurance Act [[12 U.S.C. 1818(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/b&num=0&edition=prelim)] which has become final. The bank may bring an action in the United States district court for the judicial district in which the home office of such bank is located or in the United States District Court for the District of Columbia for an order requiring the Comptroller to terminate the order. An action for judicial review of the terms, conditions, and limitations may not be commenced later than 20 days from the date of the termination of the conservatorship or the imposition of the order, whichever is later.
 
 **(d) Action upon termination**
 
-(1) **In general** — Upon termination of the conservatorship under subsection (a)(2) of this section, the Federal Deposit Insurance Corporation, as conservator, or when another person is appointed conservator, such other person, shall conclude the affairs of the conservatorship in accordance with paragraph (2).
+(1) **In general** — Upon termination of the conservatorship under subsection (a)(2), the Federal Deposit Insurance Corporation, as conservator, or when another person is appointed conservator, such other person, shall conclude the affairs of the conservatorship in accordance with paragraph (2).
 
 (2) **Deposit and distribution of proceeds**
 
@@ -3260,7 +3260,7 @@ Section 208, act Mar. 9, 1933, ch. 1, title II, § 208, 48 Stat. 4, made the pro
 ## § 209. Liability protection
 **(a) Federal agency and employees** In any case in which the conservator is a Federal agency or an employee of the Government, the provisions of chapters 161 and 171 of title 28 shall apply with respect to such conservator’s liability for acts or omissions performed pursuant to and in the course of the duties and responsibilities of the conservatorship.
 
-**(b) Other conservators** In any case where the conservator is not a conservator described in subsection (a) of this section, the conservator shall not be liable for damages in tort or otherwise for acts or omissions performed pursuant to and in the course of the duties and responsibilities of the conservatorship, unless such acts or omissions constitute gross negligence, including any similar conduct or any form of intentional tortious conduct, as determined by a court.
+**(b) Other conservators** In any case where the conservator is not a conservator described in subsection (a), the conservator shall not be liable for damages in tort or otherwise for acts or omissions performed pursuant to and in the course of the duties and responsibilities of the conservatorship, unless such acts or omissions constitute gross negligence, including any similar conduct or any form of intentional tortious conduct, as determined by a court.
 
 **(c) Indemnification** The Comptroller 11 So in original. Probably should be “Comptroller of the Currency”. shall have authority to indemnify the conservator on such terms as the Comptroller deems proper.
 
@@ -3471,7 +3471,7 @@ Subsec. (f). Pub. L. 112–231, § 2(b)(2)(B)(ii), substituted “or receiver”
 ## § 215a–1. Interstate consolidations and mergers
 **(a) In general** A national bank may engage in a consolidation or merger under this subchapter with an out-of-State bank if the consolidation or merger is approved pursuant to [section 1831u of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1831u).
 
-**(b) Scope of application** Subsection (a) of this section shall not apply with respect to any consolidation or merger before June 1, 1997, unless the home State of each bank involved in the transaction has in effect a law described in [section 1831u(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831u/a/3&num=0&edition=prelim).
+**(b) Scope of application** Subsection (a) shall not apply with respect to any consolidation or merger before June 1, 1997, unless the home State of each bank involved in the transaction has in effect a law described in [section 1831u(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831u/a/3&num=0&edition=prelim).
 
 **(c) Definitions** The terms “home State” and “out-of-State bank” have the same meaning as in section 1831u(f) 11 See References in Text note below. of this title.
 
@@ -3485,7 +3485,7 @@ Subsec. (f). Pub. L. 112–231, § 2(b)(2)(B)(ii), substituted “or receiver”
 ## § 215a–2. Expedited procedures for certain reorganizations
 **(a) In general** A national bank may, with the approval of the Comptroller, pursuant to rules and regulations promulgated by the Comptroller, and upon the affirmative vote of the shareholders of such bank owning at least two-thirds of its capital stock outstanding, reorganize so as to become a subsidiary of a bank holding company or of a company that will, upon consummation of such reorganization, become a bank holding company.
 
-**(b) Reorganization plan** A reorganization authorized under subsection (a) of this section shall be carried out in accordance with a reorganization plan that—
+**(b) Reorganization plan** A reorganization authorized under subsection (a) shall be carried out in accordance with a reorganization plan that—
 
 (1) specifies the manner in which the reorganization shall be carried out;
 
@@ -3501,11 +3501,11 @@ Subsec. (f). Pub. L. 112–231, § 2(b)(2)(B)(ii), substituted “or receiver”
 
 (4) is submitted to the shareholders of the reorganizing bank at a meeting to be held on the call of the directors in accordance with the procedures prescribed in connection with a merger of a national bank under [section 215a of this title](./chapter-002-national-banks.md#section-215a).
 
-**(c) Rights of dissenting shareholders** If, pursuant to this section, a reorganization plan has been approved by the shareholders and the Comptroller, any shareholder of the bank who has voted against the reorganization at the meeting referred to in subsection (b)(4) of this section, or has given notice in writing at or prior to that meeting to the presiding officer that the shareholder dissents from the reorganization plan, shall be entitled to receive the value of his or her shares, as provided by [section 215a of this title](./chapter-002-national-banks.md#section-215a) for the merger of a national bank.
+**(c) Rights of dissenting shareholders** If, pursuant to this section, a reorganization plan has been approved by the shareholders and the Comptroller, any shareholder of the bank who has voted against the reorganization at the meeting referred to in subsection (b)(4), or has given notice in writing at or prior to that meeting to the presiding officer that the shareholder dissents from the reorganization plan, shall be entitled to receive the value of his or her shares, as provided by [section 215a of this title](./chapter-002-national-banks.md#section-215a) for the merger of a national bank.
 
 **(d) Effect of reorganization** The corporate existence of a national bank that reorganizes in accordance with this section shall not be deemed to have been affected in any way by reason of such reorganization.
 
-**(e) Approval under the Bank Holding Company Act** This section does not affect in any way the applicability of the Bank Holding Company Act of 1956 [[12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841) et seq.] to a transaction described in subsection (a) of this section.
+**(e) Approval under the Bank Holding Company Act** This section does not affect in any way the applicability of the Bank Holding Company Act of 1956 [[12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841) et seq.] to a transaction described in subsection (a).
 
 ### Statutory Notes
 

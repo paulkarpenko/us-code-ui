@@ -2819,17 +2819,7 @@ A prior section 3839aa–1, Pub. L. 99–198, title XII, § 1240A, as added Pub.
 2008—Pub. L. 110–246, § 2502, amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.(ii) by striking subparagraph (B) and inserting the following new subparagraph:
-
-(B) Advance payments
-
-(i) In general
-
-Not more than 50 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting.
-
-(ii) Return of funds
-
-If funds provided in advance are not expended during the 90-day period beginning on the date of receipt of the funds, the funds shall be returned within a reasonable timeframe, as determined by the Secretary.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-3839aa-2"></a>
@@ -3613,7 +3603,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (1) **Authorization of appropriations** — There is authorized to be appropriated to the Secretary to carry out subsection (c) $25,000,000, to remain available until expended.
 
-(2) **Commodity Credit Corporation** — As soon as practicable after February 7, 2014, the Secretary shall transfer to the ‘Bureau of Reclamation—Water and Related Resources’ account $150,000,000 from the funds of the Commodity Credit Corporation to carry out subsection (d), to remain available until expended.
+(2) **Commodity Credit Corporation** — As soon as practicable after February 7, 2014, the Secretary shall transfer to the “Bureau of Reclamation—Water and Related Resources” account $150,000,000 from the funds of the Commodity Credit Corporation to carry out subsection (d), to remain available until expended.
 
 ### Statutory Notes
 
@@ -4280,7 +4270,7 @@ Subsec. (d). Pub. L. 113–79, § 2606(2), inserted “, VII, and VIII” before
 
 Subsec. (f)(1)(A). Pub. L. 113–79, § 2301(b)(2)(A)(i), substituted “conservation reserve program established under subpart B of part I of subchapter IV and wetland reserve easements under [section 3865c of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3865c)” for “programs administered under subparts B and C of part I of subchapter IV”.
 
-Subsec. (f)(1)(B). Pub. L. 113–79, § 2606(3)(A), substituteed “county” for “country”.
+Subsec. (f)(1)(B). Pub. L. 113–79, § 2606(3)(A), substituted “county” for “country”.
 
 Pub. L. 113–79, § 2301(b)(2)(A)(ii), substituted “a wetland reserve easement under [section 3865c of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3865c)” for “an easement acquired under subpart C of part I of subchapter IV”.
 
@@ -4359,10 +4349,6 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 A prior section 3845, Pub. L. 99–198, title XII, § 1245, Dec. 23, 1985, 99 Stat. 1516; Pub. L. 101–624, title XIV, § 1443, Nov. 28, 1990, 104 Stat. 3602; Pub. L. 102–552, title V, § 516(b)(1), Oct. 28, 1992, 106 Stat. 4137, related to authorization of appropriations, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
-A prior section 3846, Pub. L. 99–198, title XII, § 1246, as added Pub. L. 101–624, title XIV, § 1444, Nov. 28, 1990, 104 Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, § 1011(a), Dec. 21, 1995, 109 Stat. 709.
-
-A prior section 3847, Pub. L. 99–198, title XII, § 1247, as added Pub. L. 101–624, title XIV, § 1445, Nov. 28, 1990, 104 Stat. 3603; amended Pub. L. 102–237, title II, § 204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
-
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
@@ -4383,6 +4369,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### References in Text
 This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former [section 2005a of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2005a) and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under [section 1981 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1981&num=0&edition=prelim).
+
+#### Prior Provisions
+A prior section 3846, Pub. L. 99–198, title XII, § 1246, as added Pub. L. 101–624, title XIV, § 1444, Nov. 28, 1990, 104 Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, § 1011(a), Dec. 21, 1995, 109 Stat. 709.
+
+A prior section 3847, Pub. L. 99–198, title XII, § 1247, as added Pub. L. 101–624, title XIV, § 1445, Nov. 28, 1990, 104 Stat. 3603; amended Pub. L. 102–237, title II, § 204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
 
 
 <a id="section-3851"></a>
@@ -4421,7 +4412,7 @@ The Community Service Senior Opportunities Act, referred to in subsec. (b)(1), i
 This chapter, referred to in subsec. (c)(1), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former [section 2005a of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2005a) and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under [section 1981 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1981&num=0&edition=prelim).
 
 #### Codification
-Pub. L. 110–234, § 2710, and Pub. L. 110–246, § 2710, which directed the amendment of subtitle F of title XII of the Food Security Act of 1985 by inserting this section after section 1251, was executed by inserting this section between subtitles E and G of title XII of that Act to reflect the probable intent of Congress, because subtitle F and section 1251 ([16 U.S.C. 2005a](./chapter-040-soil-and-water-resources-conservation.md#section-2005a)) of title XII of the Food Security Act of l985 were repealed by Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007.
+Pub. L. 110–234, § 2710, and Pub. L. 110–246, § 2710, which directed the amendment of subtitle F of title XII of the Food Security Act of 1985 by inserting this section after section 1251, was executed by inserting this section between subtitles E and G of title XII of that Act to reflect the probable intent of Congress, because subtitle F and section 1251 ([16 U.S.C. 2005a](./chapter-040-soil-and-water-resources-conservation.md#section-2005a)) of title XII of the Food Security Act of 1985 were repealed by Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007.
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
@@ -5038,7 +5029,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-Agricultural Act of 2014, referred to in subsec. (d)(2), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitle H of title II of the Act, is subtitle H (§§ 2701–2713) of title II of Pub. L. 113–79. For complete classification of subtitle H to the Code, see Tables.
+The Agricultural Act of 2014, referred to in subsec. (d)(2), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitle H of title II of the Act, is subtitle H (§§ 2701–2713) of title II of Pub. L. 113–79. For complete classification of subtitle H to the Code, see Tables.
 
 
 <a id="section-3871"></a>

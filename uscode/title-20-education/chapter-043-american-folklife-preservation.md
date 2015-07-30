@@ -212,9 +212,6 @@ The National Foundation on the Arts and the Humanities Act of 1965, referred to 
 
 ### Statutory Notes
 
-#### References in Text
-For Federal property disposal statutes, referred to in subsec. (a)(2), see, generally, subtitle I of Title 40, Public Buildings, Property, and Works.
-
 #### Codification
 In subsec. (a)(7), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes, as amended ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

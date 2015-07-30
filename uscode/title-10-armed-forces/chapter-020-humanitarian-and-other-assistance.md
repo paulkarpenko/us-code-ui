@@ -399,7 +399,7 @@ Pub. L. 105–261, div. A, title XII, § 1231(b), Oct. 17, 1998, 112 Stat. 2155,
 ### Statutory Notes
 
 #### Amendments
-2014—Subsec. (a)(3)(A). Pub. L. 113–291, § 1071(f)(5), struck out the comma after “applicable”.
+2014—Subsec. (a)(3)(A). Pub. L. 113–291, § 1071(f)(5), struck out comma after “as applicable”.
 
 Subsec. (d)(3). Pub. L. 113–291, § 1041(a), inserted “or insufficient funding” after “such activities”.
 

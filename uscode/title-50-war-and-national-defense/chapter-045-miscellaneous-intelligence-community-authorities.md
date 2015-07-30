@@ -120,7 +120,7 @@ Subsec. (b)(3). Pub. L. 111–259, § 809(2)(C), substituted “Director of the 
 Subsec. (b)(2). Pub. L. 108–177, § 314(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, substituted “7-day period” for “21-day period”, and added subpar. (B).
 
 #### Definitions
-Pub. L. 103–359, title VI, § 604, Oct. 14, 1994, 108 Stat. 3433, provided that: “As used in this title [enacting this section and [section 3302 of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3302)]: “(1) Intelligence committees.—The term ‘intelligence committees’ means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. “(2) Intelligence community.—The term ‘intelligence community’ has the same meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)).”
+Pub. L. 103–359, title VI, § 604, Oct. 14, 1994, 108 Stat. 3433, provided that: “As used in this title [enacting this section and [section 3302 of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3302)]: “(1) Intelligence committees.—The term ‘intelligence committees’ means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. “(2) Intelligence community.—The term ‘intelligence community’ has the same meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim) [now [50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)]) .”
 
 
 <a id="section-3305"></a>
@@ -609,9 +609,6 @@ Pub. L. 112–87, title III, § 309, Jan. 3, 2012, 125 Stat. 1883, provided that
 
 ### Statutory Notes
 
-#### References in Text
-Section 941 of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (e), is section 941 of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 1889, which is set out as a note under [section 2224 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2224&num=0&edition=prelim), Armed Forces.
-
 #### Definitions
 For definitions of “intelligence community” and “congressional intelligence committees”, referred to in text, see section 2 of Pub. L. 113–126, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
@@ -668,7 +665,7 @@ For definitions of “intelligence community” and “congressional intelligenc
 
 (9) **Access determination.—** — The term “access determination” means the determination regarding whether an employee—
 
-  (A) is eligible for access to classified information in accordance with Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information), or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with industry), or any successor thereto; and
+  (A) is eligible for access to classified information in accordance with Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information), or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with 22 So in original. Probably should be “within”. industry), or any successor thereto; and
 
   (B) possesses a need to know under such an Order.
 
@@ -901,7 +898,7 @@ Subsec. (j). Pub. L. 113–126, § 602(b), added subsec. (j).
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Construction
-Pub. L. 113–126, title VI, § 602(e), July 7, 2014, 128 Stat. 1419, provided that: “Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3341)), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information) [[50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with industry) [[50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act [[50 U.S.C. 3341(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341/b/7&num=0&edition=prelim)], as added by this section.”
+Pub. L. 113–126, title VI, § 602(e), July 7, 2014, 128 Stat. 1419, provided that: “Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3341)), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information) [[50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with[in] industry) [[50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act [[50 U.S.C. 3341(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341/b/7&num=0&edition=prelim)], as added by this section.”
 
 #### Required Elements of Policies and Procedures
 Pub. L. 113–126, title VI, § 602(a)(2), July 7, 2014, 128 Stat. 1416, provided that: “The policies and procedures for appeal developed under paragraph (7) of section 3001(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 [[50 U.S.C. 3341(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341/b/7&num=0&edition=prelim)], as added by subsection (a), shall provide for the Inspector General of the Intelligence Community, or the inspector general of the employing agency, to conduct fact-finding and report to the agency head or the designee of the agency head within 180 days unless the employee and the agency agree to an extension or the investigating inspector general determines in writing that a greater period of time is required. To the fullest extent possible, such fact-finding shall include an opportunity for the employee to present relevant evidence such as witness testimony.”

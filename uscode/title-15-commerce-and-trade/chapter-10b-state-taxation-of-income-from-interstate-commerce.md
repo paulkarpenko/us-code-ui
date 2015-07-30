@@ -14,13 +14,13 @@ source: >-
 
 (2) the solicitation of orders by such person, or his representative, in such State in the name of or for the benefit of a prospective customer of such person, if orders by such customer to such person to enable such customer to fill orders resulting from such solicitation are orders described in paragraph (1).
 
-**(b) Domestic corporations; persons domiciled in or residents of a State** The provisions of subsection (a) of this section shall not apply to the imposition of a net income tax by any State, or political subdivision thereof, with respect to—
+**(b) Domestic corporations; persons domiciled in or residents of a State** The provisions of subsection (a) shall not apply to the imposition of a net income tax by any State, or political subdivision thereof, with respect to—
 
 (1) any corporation which is incorporated under the laws of such State; or
 
 (2) any individual who, under the laws of such State, is domiciled in, or a resident of, such State.
 
-**(c) Sales or solicitation of orders for sales by independent contractors** For purposes of subsection (a) of this section, a person shall not be considered to have engaged in business activities within a State during any taxable year merely by reason of sales in such State, or the solicitation of orders for sales in such State, of tangible personal property on behalf of such person by one or more independent contractors, or by reason of the maintenance, of an office in such State by one or more independent contractors whose activities on behalf of such person in such State consist solely of making sales, or soliciting orders for sales, or tangible personal property.
+**(c) Sales or solicitation of orders for sales by independent contractors** For purposes of subsection (a), a person shall not be considered to have engaged in business activities within a State during any taxable year merely by reason of sales in such State, or the solicitation of orders for sales in such State, of tangible personal property on behalf of such person by one or more independent contractors, or by reason of the maintenance, of an office in such State by one or more independent contractors whose activities on behalf of such person in such State consist solely of making sales, or soliciting orders for sales, or tangible personal property.
 
 **(d) Definitions** For purposes of this section—
 
@@ -38,7 +38,7 @@ Title II of Pub. L. 86–272, as amended by Pub. L. 87–17, Apr. 7, 1961, 75 St
 ## § 382. Assessment of net income taxes
 **(a) Limitations** No State, or political subdivision thereof, shall have power to assess, after September 14, 1959, any net income tax which was imposed by such State or political subdivision, as the case may be, for any taxable year ending on or before such date, on the income derived within such State by any person from interstate commerce, if the imposition of such tax for a taxable year ending after such date is prohibited by [section 381 of this title](./chapter-10b-state-taxation-of-income-from-interstate-commerce.md#section-381).
 
-**(b) Collections** The provisions of subsection (a) of this section shall not be construed—
+**(b) Collections** The provisions of subsection (a) shall not be construed—
 
 (1) to invalidate the collection, on or before September 14, 1959, of any net income tax imposed for a taxable year ending on or before such date, or
 

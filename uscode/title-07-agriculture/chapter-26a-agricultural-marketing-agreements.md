@@ -39,7 +39,7 @@ The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 
 1948—Act July 3, 1948, designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1948 Amendment
-Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as a note under [section 1301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1301&num=0&edition=prelim).
+Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as a note under [section 1301 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1301).
 
 
 <a id="section-673"></a>

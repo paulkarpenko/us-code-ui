@@ -91,15 +91,15 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 
 **(g) Excavation or removal by Indian tribes or tribe members; excavation or removal of resources located on Indian lands**
 
-(1) No permit shall be required under this section or under the Act of June 8, 1906, for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
+(1) No permit shall be required under this section or under the Act of June 8, 1906,11 See References in Text note below. for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
 
-(2) In the case of any permits for the excavation or removal of any archaelogical 11 So in original. Probably should be “archaeological”. resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
+(2) In the case of any permits for the excavation or removal of any archaelogical 22 So in original. Probably should be “archaeological”. resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
 
 **(h) Permits issued under chapter 3203 of title 54**
 
-(1) No permit or other permission shall be required under chapter 3203 of title 54,22 So in original. The comma probably should not appear. for any activity for which a permit is issued under this section.
+(1) No permit or other permission shall be required under chapter 3203 of title 54,33 So in original. The comma probably should not appear. for any activity for which a permit is issued under this section.
 
-(2) Any permit issued under chapter 3203 of title 54,2 shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54,2 before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
+(2) Any permit issued under chapter 3203 of title 54,3 shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54,3 before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
 
 **(i) Compliance with provisions relating to undertakings on property listed in the National Register not required** Issuance of a permit in accordance with this section and applicable regulations shall not require compliance with [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim).
 
@@ -108,7 +108,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 ### Statutory Notes
 
 #### References in Text
-The Antiquities Act of 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, also known as the National Monument Act, which was classified generally to sections 431, 432, and 433 of Title 16, Conservation, prior to the enactment of Title 54, National Park Service and Related Programs by Pub. L. 113–287, Dec. 19, 2014, 128 Stat. 3094. See chapter 3203 of Title 54.
+The Act of June 8, 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which was classified generally to sections 431, 432, and 433 of this title. The Act was repealed and restated as [section 1866(b) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/b&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 320301(a) to (c), 320302, and 320303 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
 
@@ -228,7 +228,7 @@ the Federal land manager concerned shall provide to the Governor information con
 ### Statutory Notes
 
 #### Amendments
-2014—Subsec. (a)(1). Pub. L. 113–287 Sec. 5(d)(8), which directed substitution of “chapter 3125 of title 54” for “the Act of June 27, 1960 ([16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim))” in subsec. (a)(2), was executed by making the substitution in subsec. (a)(1), to reflect the probable intent of Congress.
+2014—Subsec. (a)(1). Pub. L. 113–287, which directed substitution of “chapter 3125 of title 54” for “the Act of June 27, 1960 ([16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim))” in subsec. (a)(2), was executed by making the substitution in subsec. (a)(1), to reflect the probable intent of Congress.
 
 
 <a id="section-470ii"></a>

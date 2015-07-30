@@ -529,7 +529,7 @@ Pub. L. 108–177, title I, § 105(b), Dec. 13, 2003, 117 Stat. 2603, as amended
 
 **(c) Delegation.—** To the extent that any authorities, powers, and responsibilities over enforcement matters delegated to the Undersecretary for Terrorism and Financial Crimes, or the positions of Assistant Secretary for Terrorism and Financial Crimes, Assistant Secretary for Enforcement and Operations, or Deputy Assistant Secretary for Terrorist Financing and Financial Crimes, have not been transferred to the Department of Homeland Security, the Department of Justice, or the Assistant Secretary for Tax Policy (related to the customs revenue functions of the Bureau of Alcohol and Tobacco Tax and Trade), those remaining authorities, powers, and responsibilities are delegated to the Undersecretary for Terrorism and Financial Crimes.
 
-**(d) Designation as Enforcement Organization.—** The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of [section 9703 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703&num=0&edition=prelim), United States Code, and other relevant authorities.
+**(d) Designation as Enforcement Organization.—** The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of [section 9705 of title 31](./chapter-097-miscellaneous.md#section-9705), United States Code, and other relevant authorities.
 
 **(e) Use of Existing Resources.—** The Secretary may employ personnel, facilities, and other Department of the Treasury resources available to the Secretary on the date of enactment of this section in carrying out this section, except as otherwise prohibited by law.
 
@@ -544,12 +544,12 @@ For the Bank Secrecy Act, referred to in subsec. (a)(4)(A), see Short Title note
 
 Section 105 of the Intelligence Authorization Act for Fiscal Year 2004, referred to in subsec. (b)(4)(A), is section 105 of Pub. L. 108–177, title I, Dec. 13, 2003, 117 Stat. 2603, which enacted [section 311 of this title](./chapter-003-department-of-the-treasury.md#section-311). For complete classification of section 105 to the Code, see Tables.
 
-[Section 9703 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703&num=0&edition=prelim), referred to in subsec. (d), probably means the [section 9703 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703&num=0&edition=prelim) added by section 638(b)(1) of Pub. L. 102–393.
-
 #### Prior Provisions
 A prior section 312 was renumbered [section 315 of this title](./chapter-003-department-of-the-treasury.md#section-315).
 
 #### Amendments
+2015—Subsec. (d). Pub. L. 114–22 substituted “section 9705” for “section 9703”.
+
 2010—Pub. L. 111–203 renumbered [section 313 of this title](./chapter-003-department-of-the-treasury.md#section-313) as this section.
 
 #### Change of Name

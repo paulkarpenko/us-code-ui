@@ -1231,7 +1231,7 @@ For effective date and applicability of repeal, see section 10001 of Pub. L. 103
 
 **(g) Chief Human Capital Officers.—** With respect to each agency with a Chief Human Capital Officer, the Chief Human Capital Officer shall prepare that portion of the annual performance plan described under subsection (b)(5)(A).
 
-**(h) Definitions.—** For purposes of this section and sections 1116 through 1125, and sections 9703 11 See References in Text note below. and 9704, the term—
+**(h) Definitions.—** For purposes of this section and sections 1116 through 1125, and sections 9703 and 9704, the term—
 
 (1) “agency” has the same meaning as such term is defined under [section 306(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306/f&num=0&edition=prelim);
 
@@ -1258,9 +1258,6 @@ For effective date and applicability of repeal, see section 10001 of Pub. L. 103
 (12) “program evaluation” means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
 
 ### Statutory Notes
-
-#### References in Text
-Section 9703, referred to in subsec. (h), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
 
 #### Prior Provisions
 A prior section 1115, added Pub. L. 103–62, § 4(b), Aug. 3, 1993, 107 Stat. 287; amended Pub. L. 107–296, title XIII, § 1311(a), Nov. 25, 2002, 116 Stat. 2289; Pub. L. 108–136, div. A, title XIV, § 1421(b), Nov. 24, 2003, 117 Stat. 1667, related to performance plans, prior to repeal by Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867.
@@ -1441,7 +1438,7 @@ George W. Bush.
 
   (C) if the performance goal is impractical or infeasible, why that is the case and what action is recommended;
 
-(4) describe the use and assess the effectiveness in achieving performance goals of any waiver under section 9703 11 See References in Text note below. of this title;
+(4) describe the use and assess the effectiveness in achieving performance goals of any waiver under [section 9703 of this title](./chapter-097-miscellaneous.md#section-9703);
 
 (5) include a review of the performance goals and evaluation of the performance plan relative to the agency’s strategic human capital management;
 
@@ -1495,9 +1492,6 @@ George W. Bush.
 
 ### Statutory Notes
 
-#### References in Text
-Section 9703, referred to in subsec. (c)(4), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
-
 #### Prior Provisions
 A prior section 1116, added Pub. L. 103–62, § 4(b), Aug. 3, 1993, 107 Stat. 288; amended Pub. L. 106–531, § 5(a)(1), (b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 107–296, title XIII, § 1311(b), Nov. 25, 2002, 116 Stat. 2290, related to program performance reports, prior to repeal by Pub. L. 111–352, § 4, Jan. 4, 2011, 124 Stat. 3871.
 
@@ -1528,14 +1522,12 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 (2) identify any significant difficulties experienced by the pilot agencies in preparing plans and reports; and
 
-(3) set forth any recommended changes in the requirements of the provisions of Government Performance and Results Act of 1993, [section 306 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), sections 1105, 1115, 1116, 1117, 1119 and 9703 11 See References in Text note below. of this title, and this section.
+(3) set forth any recommended changes in the requirements of the provisions of Government Performance and Results Act of 1993, [section 306 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), sections 1105, 1115, 1116, 1117, 1119 and 9703 of this title, and this section.
 
 ### Statutory Notes
 
 #### References in Text
 The Government Performance and Results Act of 1993, referred to in subsec. (c)(1), (3), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted sections 1115 to 1119, 9703, and 9704 of this title, [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1105), and enacted provisions set out as notes under sections 1101 and 1115 of this title. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101) and Tables.
-
-Section 9703, referred to in subsec. (c)(3), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
 
 #### Construction
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101).
@@ -1557,7 +1549,7 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 (3) recommend whether legislation requiring performance budgets should be proposed and the general provisions of any legislation; and
 
-(4) set forth any recommended changes in the other requirements of the Government Performance and Results Act of 1993, [section 306 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), sections 1105, 1115, 1116, 1117, and 9703 11 See References in Text note below. of this title, and this section.
+(4) set forth any recommended changes in the other requirements of the Government Performance and Results Act of 1993, [section 306 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), sections 1105, 1115, 1116, 1117, and 9703 of this title, and this section.
 
 **(e)** After receipt of the report required under subsection (d), the Congress may specify that a performance budget be submitted as part of the annual budget submitted under section 1105.
 
@@ -1565,8 +1557,6 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 #### References in Text
 The Government Performance and Results Act of 1993, referred to in subsec. (d)(4), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted sections 1115 to 1119, 9703, and 9704 of this title, [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1105), and enacted provisions set out as notes under sections 1101 and 1115 of this title. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101) and Tables.
-
-Section 9703, referred to in subsec. (d)(4), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
 
 #### Construction
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101).

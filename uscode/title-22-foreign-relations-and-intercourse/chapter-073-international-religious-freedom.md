@@ -97,7 +97,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(2), is Pub. L. 87
 The International Financial Institutions Act of 1977, referred to in subsec. (b)(2), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, as amended, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–12, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 261 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-261) and Tables.
 
 #### Amendments
-2014—Subsec. (a)(4). Pub. L. 113–154 inserted “desecration of cemeteries,” after “confiscations of property,” in fourth sentence.
+2014—Subsec. (a)(4). Pub. L. 113–154 inserted “desecration of cemeteries,” after “confiscations of property,”.
 
 #### Short Title of 2011 Amendment
 Pub. L. 112–75, § 1, Dec. 23, 2011, 125 Stat. 1272, provided that: “This Act [amending sections 6431, 6432b, 6435, 6435a, and 6436 of this title and enacting provisions set out as a note under [section 6432b of this title](./chapter-073-international-religious-freedom.md#section-6432b)] may be cited as the ‘United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011’.”
@@ -548,7 +548,7 @@ A prior section 206 of Pub. L. 105–292 was renumbered section 209 and is class
 1999—Subsec. (a). Pub. L. 106–55, § 1(b)(4), substituted “to carry out the provisions of this subchapter” for “for each of the fiscal years 1999 and 2000 to carry out the provisions of this subchapter.”
 
 #### Effective Date of 2014 Amendment
-Pub. L. 113–271, § 2, Dec. 18, 2014, 128 Stat. 2951, provided that: “The amendments made by this Act [amending sections 6435 and 6436 of this title] shall take effect as if enacted on December 10, 2014.”
+Pub. L. 113–271, § 2, Dec. 18, 2014, 128 Stat. 2951, provided that: “The amendments made by this Act [amending this section and [section 6436 of this title](./chapter-073-international-religious-freedom.md#section-6436)] shall take effect as if enacted on December 10, 2014.”
 
 
 <a id="section-6441"></a>

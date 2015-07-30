@@ -192,7 +192,7 @@ For effective date of Pub. L. 92–328, see Effective Date of 1972 Amendment not
 
 
 <a id="section-5302a"></a>
-## § 5302A. 11 So in original. Probably should be followed by a period. Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone
+## § 5302A. . 11 So in original. Probably should be followed by a period. Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone
 **(a) Limitation on Authority.—** The Secretary may not collect all or any part of an amount owed to the United States by a member of the Armed Forces or veteran described in subsection (b) under any program under the laws administered by the Secretary, other than a program referred to in subsection (c), if the Secretary determines that termination of collection is in the best interest of the United States.
 
 **(b) Covered Individuals.—** A member of the Armed Forces or veteran described in this subsection is any member or veteran who dies as a result of an injury incurred or aggravated in the line of duty while serving in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) in a war or in combat against a hostile force during a period of hostilities (as that term is defined in section 1712A(a)(2)(B) 22 See References in Text note below. of this title) after September 11, 2001.

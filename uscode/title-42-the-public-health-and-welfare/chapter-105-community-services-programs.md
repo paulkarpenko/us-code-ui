@@ -174,7 +174,7 @@ The purpose of this part is to establish special programs of assistance to nonpr
 
 (2) community physical development programs, including industrial parks and housing activities, which contribute to an improved environment and which create new training, employment and ownership opportunities for residents of such area;
 
-(3) training and public service employment programs and related services for unemployed or low-income persons which support and complement community development programs financed under this part, including, without limitation, activities such as the activities described in title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.]; and
+(3) training and public service employment programs and related services for unemployed or low-income persons which support and complement community development programs financed under this part, including, without limitation, activities such as the activities described in title I of the Workforce Investment Act of 1998; 11 See References in Text note below. and
 
 (4) social service programs which support and complement community business and commercial development programs financed under this part, including child care, educational services, health services, credit counseling, energy conservation, recreation services, and programs for the maintenance of housing facilities.
 
@@ -183,7 +183,7 @@ The purpose of this part is to establish special programs of assistance to nonpr
 ### Statutory Notes
 
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsec. (a)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former § 2801 et seq.) of Title 29, Labor. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-037-community-facilities-and-advance-land-acquisition.md#section-3101) and Tables.
 
 #### Amendments
 1998—Subsec. (a)(3). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(31)], struck out “the Job Training Partnership Act or” after “activities described in”.

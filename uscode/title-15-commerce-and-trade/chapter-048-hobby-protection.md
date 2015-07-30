@@ -49,7 +49,7 @@ Pub. L. 93–167, § 1, Nov. 29, 1973, 87 Stat. 686, provided: “That this Act 
 ### Statutory Notes
 
 #### References in Text
-The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051) and Tables. See also [section 2106(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2106/9&num=0&edition=prelim).
+The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051) and Tables.
 
 #### Amendments
 2014—Pub. L. 113–288 designated existing provisions as subsec. (a), inserted heading, substituted “, has an agent, transacts business, or wherever venue is proper under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim)” for “or has an agent”, and added subsec. (b).
@@ -110,4 +110,4 @@ The Federal Trade Commission Act, referred to in par. (5), is act Sept. 26, 1914
 The Trademark Act of 1946, referred to in par. (9), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051) and Tables.
 
 #### Amendments
-2014—Pars. (8), (9). Pub. L. 113–288, § 2(3), added pars. (8) and (9).
+2014—Pars. (8), (9). Pub. L. 113–288 added pars. (8) and (9).

@@ -2,77 +2,64 @@
 title: 6
 chapter: '1'
 heading: HOMELAND SECURITY ORGANIZATION
-section_count: 291
+section_count: 297
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6&num=0&edition=prelim
 ---
 <a id="section-101"></a>
-## § 101. CFATS regulations
-**(a) General authority** The Secretary may, in accordance with chapter 5 of title 5, promulgate regulations or amend existing CFATS regulations to implement the provisions under this subchapter.
+## § 101. Training for Department personnel to identify human trafficking
+**(a) In general** Not later than 180 days after May 29, 2015, the Secretary shall implement a program to—
 
-**(b) Existing CFATS regulations**
+(1) train and periodically retrain relevant Transportation Security Administration, U.S. Customs and Border Protection, and other Department personnel that the Secretary considers appropriate, with respect to how to effectively deter, detect, and disrupt human trafficking, and, where appropriate, interdict a suspected perpetrator of human trafficking, during the course of their primary roles and responsibilities; and
 
-(1) **In general** — Notwithstanding section 4(b) of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014, each existing CFATS regulation shall remain in effect unless the Secretary amends, consolidates, or repeals the regulation.
+(2) ensure that the personnel referred to in paragraph (1) regularly receive current information on matters related to the detection of human trafficking, including information that becomes available outside of the Department’s initial or periodic retraining schedule, to the extent relevant to their official duties and consistent with applicable information and privacy laws.
 
-(2) **Repeal** — Not later than 30 days after December 18, 2014, the Secretary shall repeal any existing CFATS regulation that the Secretary determines is duplicative of, or conflicts with, this subchapter.
+**(b) Training described** The training referred to in subsection (a) may be conducted through in-class or virtual learning capabilities, and shall include—
 
-**(c) Authority** The Secretary shall exclusively rely upon authority provided under this subchapter in—
+(1) methods for identifying suspected victims of human trafficking and, where appropriate, perpetrators of human trafficking;
 
-(1) determining compliance with this subchapter;
+(2) for appropriate personnel, methods to approach a suspected victim of human trafficking, where appropriate, in a manner that is sensitive to the suspected victim and is not likely to alert a suspected perpetrator of human trafficking;
 
-(2) identifying chemicals of interest; and
+(3) training that is most appropriate for a particular location or environment in which the personnel receiving such training perform their official duties;
 
-(3) determining security risk associated with a chemical facility.
+(4) other topics determined by the Secretary to be appropriate; and
+
+(5) a post-training evaluation for personnel receiving the training.
+
+**(c) Training curriculum review** The Secretary shall annually reassess the training program established under subsection (a) to ensure it is consistent with current techniques, patterns, and trends associated with human trafficking.
 
 ### Statutory Notes
 
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
-
-#### References in Text
-Section 4(b) of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014, referred to in subsec. (b)(1), is section 4(b) of Pub. L. 113–254, Dec. 18, 2014, 128 Stat. 2919, which repealed section 550 of Pub. L. 109–295, formerly set out as a Regulations note under [section 121 of this title](./chapter-001-homeland-security-organization.md#section-121), effective as of the date that is 30 days after Dec. 18, 2014.
-
-#### Effective and Termination Dates
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 4 years after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
+#### Codification
+Section was enacted as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 
 <a id="section-102"></a>
-## § 102. Small covered chemical facilities
-**(a) Definition** In this section, the term “small covered chemical facility” means a covered chemical facility that—
+## § 102. Certification and report to Congress
+**(a) Certification** Not later than 1 year after May 29, 2015, the Secretary shall certify to Congress that all personnel referred to in section 402(a) 11 See References in Text note below. have successfully completed the training required under that section.
 
-(1) has fewer than 100 employees employed at the covered chemical facility; and
-
-(2) is owned and operated by a small business concern (as defined in [section 632 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).
-
-**(b) Assistance to facilities** The Secretary may provide guidance and, as appropriate, tools, methodologies, or computer software, to assist small covered chemical facilities in developing the physical security, cybersecurity, recordkeeping, and reporting procedures required under this subchapter.
-
-**(c) Report** The Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives a report on best practices that may assist small covered chemical facilities in development of physical security best practices.
+**(b) Report to Congress** Not later than 1 year after May 29, 2015, and annually thereafter, the Secretary shall report to Congress with respect to the overall effectiveness of the program required by this subchapter, the number of cases reported by Department personnel in which human trafficking was suspected, and, of those cases, the number of cases that were confirmed cases of human trafficking.
 
 ### Statutory Notes
 
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
+#### References in Text
+Section 402(a), referred to in subsec. (a), probably should be a reference to section 902(a), meaning section 902(a) of Pub. L. 114–22, which is classified to [section 642(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section642/a&num=0&edition=prelim). Section 402 of Pub. L. 114–22, which is classified to [section 14043h of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section14043h&num=0&edition=prelim), does not contain a subsec. (a) and does not relate to the training of personnel.
 
-#### Effective and Termination Dates
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 4 years after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
+This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title IX of Pub. L. 114–22, which is classified principally to this subchapter. For complete classification of title IX to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 
 <a id="section-103"></a>
-## § 103. Outreach to chemical facilities of interest
+## § 103. Assistance to non-Federal entities
 
-Not later than 90 days after December 18, 2014, the Secretary shall establish an outreach implementation plan, in coordination with the heads of other appropriate Federal and State agencies, relevant business associations, and public and private labor organizations, to—
-
-(1) identify chemical facilities of interest; and
-
-(2) make available compliance assistance materials and information on education and training.
+The Secretary may provide training curricula to any State, local, or tribal government or private organization to assist the government or organization in establishing a program of training to identify human trafficking, upon request from the government or organization.
 
 ### Statutory Notes
 
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
-
-#### Effective and Termination Dates
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 4 years after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
+#### Codification
+Section was enacted as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 
 <a id="section-111"></a>
@@ -162,6 +149,9 @@ Pub. L. 109–295 inserted “fire,” after “safety,”.
 
 #### Effective Date
 Pub. L. 107–296, § 4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act [see Tables for classification] shall take effect 60 days after the date of enactment [Nov. 25, 2002].”
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–22, title III, § 301, May 29, 2015, 129 Stat. 251, provided that: “This title [enacting [section 473 of this title](./chapter-001-homeland-security-organization.md#section-473) and [section 2421 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2421&num=0&edition=prelim), Crimes and Criminal Procedure, amending [section 187 of this title](./chapter-001-homeland-security-organization.md#section-187), repealing former [section 2421 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2421&num=0&edition=prelim), and enacting provisions set out as a note under [section 473 of this title](./chapter-001-homeland-security-organization.md#section-473)] may be cited as the ‘Human Exploitation Rescue Operations Act of 2015’ or the ‘HERO Act of 2015’.”
 
 #### Short Title of 2014 Amendment
 Pub. L. 113–284, § 1, Dec. 18, 2014, 128 Stat. 3089, provided that: “This Act [amending sections 468 and 612 of this title, enacting provisions set out as a note under [section 612 of this title](./chapter-001-homeland-security-organization.md#section-612), and amending provisions set out as a note under [section 70101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70101&num=0&edition=prelim), Shipping] may be cited as the ‘DHS OIG Mandates Revision Act of 2014’.”
@@ -1042,7 +1032,7 @@ Pub. L. 111–259, title III, § 336, Oct. 7, 2010, 124 Stat. 2689, provided tha
 Pub. L. 110–53, title V, § 531(c), Aug. 3, 2007, 121 Stat. 335, provided that: “The individual administratively performing the duties of the Under Secretary for Intelligence and Analysis as of the date of the enactment of this Act [Aug. 3, 2007] may continue to perform such duties after the date on which the President nominates an individual to serve as the Under Secretary pursuant to section 201 of the Homeland Security Act of 2002 [[6 U.S.C. 121](./chapter-001-homeland-security-organization.md#section-121)], as amended by this section, and until the individual so appointed assumes the duties of the position.”
 
 #### Reports To Be Submitted to Certain Committees
-Pub. L. 110–53, title XXIV, § 2403, Aug. 3, 2007, 121 Stat. 547, provided that: “The Committee on Commerce, Science, and Transportation of the Senate shall receive the reports required by the following provisions of law in the same manner and to the same extent that the reports are to be received by the Committee on Homeland Security and Governmental Affairs of the Senate: “(1) Section 1016(j)(1) of the Intelligence Reform and Terrorist [Terrorism] Prevention Act of 2004 ([6 U.S.C. 485(j)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section485/j/1&num=0&edition=prelim)). “(2) Section 511(d) of this Act [121 Stat. 323]. “(3) [Former] Subsection (a)(3)(D) of section 2022 of the Homeland Security Act of 2002 [former [6 U.S.C. 612(a)(3)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section612/a/3/D&num=0&edition=prelim)], as added by section 101 of this Act. “(4) Section 7215(d) of the Intelligence Reform and Terrorism Prevention Act of 2004 ([6 U.S.C. 123(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section123/d&num=0&edition=prelim)). “(5) Section 7209(b)(1)(C) of the Intelligence Reform and Terrorism Prevention Act of 2004 [Pub. L. 108–458] ([8 U.S.C. 1185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1185&num=0&edition=prelim) note). “(6) Section 804(c) of this Act [[42 U.S.C. 2000ee–3(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000ee–3/c&num=0&edition=prelim)]. “(7) Section 901(b) of this Act [121 Stat. 370]. “(8) Section 1002(a) of this Act [amending this section]. “(9) Title III of this Act [enacting sections 579 and 580 of this title and amending sections 194 and 572 of this title].”
+Pub. L. 110–53, title XXIV, § 2403, Aug. 3, 2007, 121 Stat. 547, provided that: “The Committee on Commerce, Science, and Transportation of the Senate shall receive the reports required by the following provisions of law in the same manner and to the same extent that the reports are to be received by the Committee on Homeland Security and Governmental Affairs of the Senate: “(1) Section 1016(j)(1) of the Intelligence Reform and Terrorist [Terrorism] Prevention Act of 2004 ([6 U.S.C. 485(j)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section485/j/1&num=0&edition=prelim)). “(2) Section 511(d) of this Act [121 Stat. 323]. “(3) [Former] [s]ubsection (a)(3)(D) of section 2022 of the Homeland Security Act of 2002 [former [6 U.S.C. 612(a)(3)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section612/a/3/D&num=0&edition=prelim)], as added by section 101 of this Act. “(4) Section 7215(d) of the Intelligence Reform and Terrorism Prevention Act of 2004 ([6 U.S.C. 123(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section123/d&num=0&edition=prelim)). “(5) Section 7209(b)(1)(C) of the Intelligence Reform and Terrorism Prevention Act of 2004 [Pub. L. 108–458] ([8 U.S.C. 1185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1185&num=0&edition=prelim) note). “(6) Section 804(c) of this Act [[42 U.S.C. 2000ee–3(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000ee–3/c&num=0&edition=prelim)]. “(7) Section 901(b) of this Act [121 Stat. 370]. “(8) Section 1002(a) of this Act [amending this section]. “(9) Title III of this Act [enacting sections 579 and 580 of this title and amending sections 194 and 572 of this title].”
 
 #### Security Management Systems Demonstration Project
 Pub. L. 110–53, title XXIV, § 2404, Aug. 3, 2007, 121 Stat. 548, provided that: “(a) Demonstration Project Required.—Not later than 120 days after the date of enactment of this Act [Aug. 3, 2007], the Secretary of Homeland Security shall—“(1) establish a demonstration project to conduct demonstrations of security management systems that—“(A) shall use a management system standards approach; and “(B) may be integrated into quality, safety, environmental and other internationally adopted management systems; and “(2) enter into one or more agreements with a private sector entity to conduct such demonstrations of security management systems. “(b) Security Management System Defined.—In this section, the term ‘security management system’ means a set of guidelines that address the security assessment needs of critical infrastructure and key resources that are consistent with a set of generally accepted management standards ratified and adopted by a standards making body.”
@@ -1281,6 +1271,77 @@ Barack Obama.
 
 #### Executive Order No. 13650
 Ex. Ord. No. 13650, Aug. 1, 2013, 78 F.R. 48029, was transferred to a note set out under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
+
+#### Ex. Ord. No. 13691. Promoting Private Sector Cybersecurity Information Sharing
+Ex. Ord. No. 13691, Feb. 13, 2015, 80 F.R. 9349, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. In order to address cyber threats to public health and safety, national security, and economic security of the United States, private companies, nonprofit organizations, executive departments and agencies (agencies), and other entities must be able to share information related to cybersecurity risks and incidents and collaborate to respond in as close to real time as possible.
+
+Organizations engaged in the sharing of information related to cybersecurity risks and incidents play an invaluable role in the collective cybersecurity of the United States. The purpose of this order is to encourage the voluntary formation of such organizations, to establish mechanisms to continually improve the capabilities and functions of these organizations, and to better allow these organizations to partner with the Federal Government on a voluntary basis.
+
+Such information sharing must be conducted in a manner that protects the privacy and civil liberties of individuals, that preserves business confidentiality, that safeguards the information being shared, and that protects the ability of the Government to detect, investigate, prevent, and respond to cyber threats to the public health and safety, national security, and economic security of the United States.
+
+This order builds upon the foundation established by Executive Order 13636 of February 12, 2013 (Improving Critical Infrastructure Cybersecurity), and Presidential Policy Directive–21 (PPD–21) of February 12, 2013 (Critical Infrastructure Security and Resilience).
+
+Policy coordination, guidance, dispute resolution, and periodic in-progress reviews for the functions and programs described and assigned herein shall be provided through the interagency process established in Presidential Policy Directive–l [sic] (PPD–l [PPD–1]) of February 13, 2009 (Organization of the National Security Council System), or any successor.
+
+Sec. 2. Information Sharing and Analysis Organizations. (a) The Secretary of Homeland Security (Secretary) shall strongly encourage the development and formation of Information Sharing and Analysis Organizations (ISAOs).
+
+(b) ISAOs may be organized on the basis of sector, sub-sector, region, or any other affinity, including in response to particular emerging threats or vulnerabilities. ISAO membership may be drawn from the public or private sectors, or consist of a combination of public and private sector organizations. ISAOs may be formed as for-profit or nonprofit entities.
+
+(c) The National Cybersecurity and Communications Integration Center (NCCIC), established under section 226(b) of the Homeland Security Act of 2002 (the “Act”), shall engage in continuous, collaborative, and inclusive coordination with ISAOs on the sharing of information related to cybersecurity risks and incidents, addressing such risks and incidents, and strengthening information security systems consistent with sections 212 and 226 of the Act.
+
+(d) In promoting the formation of ISAOs, the Secretary shall consult with other Federal entities responsible for conducting cybersecurity activities, including Sector-Specific Agencies, independent regulatory agencies at their discretion, and national security and law enforcement agencies.
+
+Sec. 3. ISAO Standards Organization. (a) The Secretary, in consultation with other Federal entities responsible for conducting cybersecurity and related activities, shall, through an open and competitive process, enter into an agreement with a nongovernmental organization to serve as the ISAO Standards Organization (SO), which shall identify a common set of voluntary standards or guidelines for the creation and functioning of ISAOs under this order. The standards shall further the goal of creating robust information sharing related to cybersecurity risks and incidents with ISAOs and among ISAOs to create deeper and broader networks of information sharing nationally, and to foster the development and adoption of automated mechanisms for the sharing of information. The standards will address the baseline capabilities that ISAOs under this order should possess and be able to demonstrate. These standards shall address, but not be limited to, contractual agreements, business processes, operating procedures, technical means, and privacy protections, such as minimization, for ISAO operation and ISAO member participation.
+
+(b) To be selected, the SO must demonstrate the ability to engage and work across the broad community of organizations engaged in sharing information related to cybersecurity risks and incidents, including ISAOs, and associations and private companies engaged in information sharing in support of their customers.
+
+(c) The agreement referenced in section 3(a) shall require that the SO engage in an open public review and comment process for the development of the standards referenced above, soliciting the viewpoints of existing entities engaged in sharing information related to cybersecurity risks and incidents, owners and operators of critical infrastructure, relevant agencies, and other public and private sector stakeholders.
+
+(d) The Secretary shall support the development of these standards and, in carrying out the requirements set forth in this section, shall consult with the Office of Management and Budget, the National Institute of Standards and Technology in the Department of Commerce, Department of Justice, the Information Security Oversight Office in the National Archives and Records Administration, the Office of the Director of National Intelligence, Sector-Specific Agencies, and other interested Federal entities. All standards shall be consistent with voluntary international standards when such international standards will advance the objectives of this order, and shall meet the requirements of the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113), and OMB Circular A–119, as revised.
+
+Sec. 4. Critical Infrastructure Protection Program. (a) Pursuant to sections 213 and 214(h) of the Critical Infrastructure Information Act of 2002, I hereby designate the NCCIC as a critical infrastructure protection program and delegate to it authority to enter into voluntary agreements with ISAOs in order to promote critical infrastructure security with respect to cybersecurity.
+
+(b) Other Federal entities responsible for conducting cybersecurity and related activities to address threats to the public health and safety, national security, and economic security, consistent with the objectives of this order, may participate in activities under these agreements.
+
+(c) The Secretary will determine the eligibility of ISAOs and their members for any necessary facility or personnel security clearances associated with voluntary agreements in accordance with Executive Order 13549 of August 18, 2010 (Classified National Security Information Programs for State, Local, Tribal, and Private Sector Entities), and Executive Order 12829 of January 6, 1993 (National Industrial Security Program), as amended, including as amended by this order.
+
+Sec. 5. Privacy and Civil Liberties Protections. (a) Agencies shall coordinate their activities under this order with their senior agency officials for privacy and civil liberties and ensure that appropriate protections for privacy and civil liberties are incorporated into such activities. Such protections shall be based upon the Fair Information Practice Principles and other privacy and civil liberties policies, principles, and frameworks as they apply to each agency’s activities.
+
+(b) Senior privacy and civil liberties officials for agencies engaged in activities under this order shall conduct assessments of their agency’s activities and provide those assessments to the Department of Homeland Security (DHS) Chief Privacy Officer and the DHS Office for Civil Rights and Civil Liberties for consideration and inclusion in the Privacy and Civil Liberties Assessment report required under Executive Order 13636.
+
+Sec. 6. National Industrial Security Program. [Amended Ex. Ord. No. 12829, set out as a note under [section 3161 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim), War and National Defense.]
+
+Sec. 7. Definitions. (a) “Critical infrastructure information” has the meaning given the term in section 212(3) of the Critical Infrastructure Information Act of 2002.
+
+(b) “Critical infrastructure protection program” has the meaning given the term in section 212(4) of the Critical Infrastructure Information Act of 2002.
+
+(c) “Cybersecurity risk” has the meaning given the term in section 226(a)(1) of the Homeland Security Act of 2002 (as amended by the National Cybersecurity Protection Act of 2014).
+
+(d) “Fair Information Practice Principles” means the eight principles set forth in Appendix A of the National Strategy for Trusted Identities in Cyberspace.
+
+(e) “Incident” has the meaning given the term in section 226(a)(2) of the Homeland Security Act of 2002 (as amended by the National Cybersecurity Protection Act of 2014).
+
+(f) “Information Sharing and Analysis Organization” has the meaning given the term in section 212(5) of the Critical Infrastrucure Information Act of 2002.
+
+(g) “Sector-Specific Agency” has the meaning given the term in PPD–21, or any successor.
+
+Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law or Executive Order to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations. Nothing in this order shall be construed to alter or limit any authority or responsibility of an agency under existing law including those activities conducted with the private sector relating to criminal and national security threats. Nothing in this order shall be construed to provide an agency with authority for regulating the security of critical infrastructure in addition to or to a greater extent than the authority the agency has under existing law.
+
+(c) All actions taken pursuant to this order shall be consistent with requirements and authorities to protect intelligence and law enforcement sources and methods.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
 
 
 <a id="section-124"></a>
@@ -2702,7 +2763,7 @@ Another section 226 of Pub. L. 107–296 is classified to [section 148 of this t
 Another section 226 of Pub. L. 107–296 is classified to [section 147 of this title](./chapter-001-homeland-security-organization.md#section-147).
 
 #### Rules of Construction
-Pub. L. 113–282, § 8, Dec. 18, 2014, 128 Stat. 3072, provided that: “(a) Prohibition on New Regulatory Authority.—Nothing in this Act [see section 1 of Pub. L. 113–282, set out as a Short Title of 2014 Amendment note under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101)] or the amendments made by this Act shall be construed to grant the Secretary any authority to promulgate regulations or set standards relating to the cybersecurity of private sector critical infrastructure that was not in effect on the day before the date of enactment of this Act [Dec. 18, 2014]. “(b) Private Entities.—Nothing in this Act or the amendments made by this Act shall be construed to require any private entity—“(1) to request assistance from the Secretary; or “(2) that requested such assistance from the Secretary to implement any measure or recommendation suggested by the Secretary.”
+Pub. L. 113–282, § 8, Dec. 18, 2014, 128 Stat. 3072, provided that: “(a) Prohibition on New Regulatory Authority.—Nothing in this Act [see section 1 of Pub. L. 113–282, set out as a Short Title of 2014 Amendment note under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101)] or the amendments made by this Act shall be construed to grant the Secretary [of Homeland Security] any authority to promulgate regulations or set standards relating to the cybersecurity of private sector critical infrastructure that was not in effect on the day before the date of enactment of this Act [Dec. 18, 2014]. “(b) Private Entities.—Nothing in this Act or the amendments made by this Act shall be construed to require any private entity—“(1) to request assistance from the Secretary; or “(2) that requested such assistance from the Secretary to implement any measure or recommendation suggested by the Secretary.”
 
 #### Definitions
 Pub. L. 113–282, § 2, Dec. 18, 2014, 128 Stat. 3066, provided that: “In this Act [see section 1 of Pub. L. 113–282, set out as a Short Title of 2014 Amendment note under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101)]— “(1) the term ‘Center’ means the national cybersecurity and communications integration center under section 226 of the Homeland Security Act of 2002 [[6 U.S.C. 148](./chapter-001-homeland-security-organization.md#section-148)], as added by section 3; “(2) the term ‘critical infrastructure’ has the meaning given that term in section 2 of the Homeland Security Act of 2002 ([6 U.S.C. 101](./chapter-001-homeland-security-organization.md#section-101)); “(3) the term ‘cybersecurity risk’ has the meaning given that term in section 226 of the Homeland Security Act of 2002, as added by section 3; “(4) the term ‘information sharing and analysis organization’ has the meaning given that term in section 212(5) of the Homeland Security Act of 2002 ([6 U.S.C. 131(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section131/5&num=0&edition=prelim)); “(5) the term ‘information system’ has the meaning given that term in [section 3502(8) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/8&num=0&edition=prelim), United States Code; and “(6) the term ‘Secretary’ means the Secretary of Homeland Security.”
@@ -3024,9 +3085,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
   (A) support basic and applied homeland security research to promote revolutionary changes in technologies that would promote homeland security;
 
-  (B) advance the development, testing and evaluation, and deployment of critical homeland security technologies; and
+  (B) advance the development, testing and evaluation, and deployment of critical homeland security technologies;
 
-  (C) accelerate the prototyping and deployment of technologies that would address homeland security vulnerabilities.
+  (C) accelerate the prototyping and deployment of technologies that would address homeland security vulnerabilities; and
+
+  (D) conduct research and development for the purpose of advancing technology for the investigation of child exploitation crimes, including child victim identification, trafficking in persons, and child pornography, and for advanced forensics.
 
 (4) **Targeted competitions** — The Director may solicit proposals to address specific vulnerabilities identified by the Director.
 
@@ -3043,6 +3106,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 (2) **Authorization of appropriations** — There are authorized to be appropriated $500,000,000 to the Fund for fiscal year 2003 and such sums as may be necessary thereafter.
 
 (3) **Coast Guard** — Of the funds authorized to be appropriated under paragraph (2), not less than 10 percent of such funds for each fiscal year through fiscal year 2005 shall be authorized only for the Under Secretary, through joint agreement with the Commandant of the Coast Guard, to carry out research and development of improved ports, waterways and coastal security surveillance and perimeter protection capabilities for the purpose of minimizing the possibility that Coast Guard cutters, aircraft, helicopters, and personnel will be diverted from non-homeland security missions to the ports, waterways and coastal security mission.
+
+### Statutory Notes
+
+#### Amendments
+2015—Subsec. (b)(3)(D). Pub. L. 114–22 added subpar. (D).
 
 
 <a id="section-191"></a>
@@ -3473,6 +3541,9 @@ Pub. L. 108–458, title VII, § 7308, Dec. 17, 2004, 118 Stat. 3849, provided t
 #### Transfer of Functions
 For transfer of the SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards, to the Director for Emergency Communications, see [section 571(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section571/d/1&num=0&edition=prelim).
 
+#### Department of Homeland Security Interoperable Communications
+Pub. L. 114–29, July 6, 2015, 129 Stat. 421, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Department of Homeland Security Interoperable Communications Act’ or the ‘DHS Interoperable Communications Act’. “SEC. 2. DEFINITIONS.“In this Act—“(1) the term ‘Department’ means the Department of Homeland Security; “(2) the term ‘interoperable communications’ has the meaning given that term in section 701(d) of the Homeland Security Act of 2002, as added by section 3 [[6 U.S.C. 341(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section341/d&num=0&edition=prelim)]; and “(3) the term ‘Under Secretary for Management’ means the Under Secretary for Management of the Department of Homeland Security. “SEC. 3. INCLUSION OF INTEROPERABLE COMMUNICATIONS CAPABILITIES IN RESPONSIBILITIES OF UNDER SECRETARY FOR MANAGEMENT. [Amended section 341(a)(4), (d) of this title.] “SEC. 4. STRATEGY.“(a) In General.—Not later than 180 days after the date of enactment of this Act [July 6, 2015], the Under Secretary for Management shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a strategy, which shall be updated as necessary, for achieving and maintaining interoperable communications among the components of the Department, including for daily operations, planned events, and emergencies, with corresponding milestones, that includes the following:“(1) An assessment of interoperability gaps in radio communications among the components of the Department, as of the date of enactment of this Act. “(2) Information on efforts and activities, including current and planned policies, directives, and training, of the Department since November 1, 2012, to achieve and maintain interoperable communications among the components of the Department, and planned efforts and activities of the Department to achieve and maintain such interoperable communications. “(3) An assessment of obstacles and challenges to achieving and maintaining interoperable communications among the components of the Department. “(4) Information on, and an assessment of, the adequacy of mechanisms available to the Under Secretary for Management to enforce and compel compliance with interoperable communications policies and directives of the Department. “(5) Guidance provided to the components of the Department to implement interoperable communications policies and directives of the Department. “(6) The total amount of funds expended by the Department since November 1, 2012, and projected future expenditures, to achieve interoperable communications, including on equipment, infrastructure, and maintenance. “(7) Dates upon which Department-wide interoperability is projected to be achieved for voice, data, and video communications, respectively, and interim milestones that correspond to the achievement of each such mode of communication. “(b) Supplementary Material.—Together with the strategy required under subsection (a), the Under Secretary for Management shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate information on—“(1) any intra-agency effort or task force that has been delegated certain responsibilities by the Under Secretary for Management relating to achieving and maintaining interoperable communications among the components of the Department by the dates referred to in subsection (a)(7); and “(2) who, within each such component, is responsible for implementing policies and directives issued by the Under Secretary for Management to so achieve and maintain such interoperable communications. “SEC. 5. REPORT.“Not later than 100 days after the date on which the strategy required under section 4(a) is submitted, and every 2 years thereafter for 6 years, the Under Secretary for Management shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the status of efforts to implement the strategy required under section 4(a), including the following:“(1) Progress on each interim milestone referred to in section 4(a)(7) toward achieving and maintaining interoperable communications among the components of the Department. “(2) Information on any policies, directives, guidance, and training established by the Under Secretary for Management. “(3) An assessment of the level of compliance, adoption, and participation among the components of the Department with the policies, directives, guidance, and training established by the Under Secretary for Management to achieve and maintain interoperable communications among the components. “(4) Information on any additional resources or authorities needed by the Under Secretary for Management. “SEC. 6. APPLICABILITY.“Sections 4 and 5 shall only apply with respect to the interoperable communications capabilities within the Department and components of the Department to communicate within the Department.”
+
 #### Cross Border Interoperability Reports
 Pub. L. 110–53, title XXII, § 2203, Aug. 3, 2007, 121 Stat. 541, provided that: “(a) In General.—Not later than 90 days after the date of enactment of this Act [Aug. 3, 2007], the Federal Communications Commission, in consultation with the Department of Homeland Security’s Office of Emergency Communications, the Office of Management of [sic] Budget, and the Department of State shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce on—“(1) the status of the mechanism established by the President under section 7303(c) of the Intelligence Reform and Terrorism Prevention Act of 2004 ([6 U.S.C. 194(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section194/c&num=0&edition=prelim)) for coordinating cross border interoperability issues between—“(A) the United States and Canada; and “(B) the United States and Mexico; “(2) the status of treaty negotiations with Canada and Mexico regarding the coordination of the re-banding of 800 megahertz radios, as required under the final rule of the Federal Communication Commission in the ‘Private Land Mobile Services; 800 MHz Public Safety Interface Proceeding’ (WT Docket No. 02–55; ET Docket No. 00–258; ET Docket No. 95–18, RM–9498; RM–10024; FCC 04–168) including the status of any outstanding issues in the negotiations between—“(A) the United States and Canada; and “(B) the United States and Mexico; “(3) communications between the Commission and the Department of State over possible amendments to the bilateral legal agreements and protocols that govern the coordination process for license applications seeking to use channels and frequencies above Line A; “(4) the annual rejection rate for the last 5 years by the United States of applications for new channels and frequencies by Canadian private and public entities; and “(5) any additional procedures and mechanisms that can be taken by the Commission to decrease the rejection rate for applications by United States private and public entities seeking licenses to use channels and frequencies above Line A. “(b) Updated Reports to Be Filed on the Status of Treaty of [sic] Negotiations.—The Federal Communications Commission, in conjunction with the Department of Homeland Security, the Office of Management of Budget, and the Department of State shall continually provide updated reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives on the status of treaty negotiations under subsection (a)(2) until the appropriate United States treaty has been revised with each of—“(1) Canada; and “(2) Mexico. “(c) International Negotiations To Remedy Situation.—Not later than 90 days after the date of enactment of this Act [Aug. 3, 2007], the Secretary of the Department of State shall report to Congress on—“(1) the current process for considering applications by Canada for frequencies and channels by United States communities above Line A; “(2) the status of current negotiations to reform and revise such process; “(3) the estimated date of conclusion for such negotiations; “(4) whether the current process allows for automatic denials or dismissals of initial applications by the Government of Canada, and whether such denials or dismissals are currently occurring; and “(5) communications between the Department of State and the Federal Communications Commission pursuant to subsection (a)(3).”
 
@@ -3834,7 +3905,9 @@ Section is comprised of section 411 of Pub. L. 107–296. Subsec. (b)(2) of sect
 Customs Service, referred to in subsecs. (a) and (b)(1), changed to Bureau of Customs and Border Protection by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under [section 542 of this title](./chapter-001-homeland-security-organization.md#section-542).
 
 #### Port of Entry Partnership Pilot Program
-Pub. L. 113–76, div. F, title V, § 559, Jan. 17, 2014, 128 Stat. 279, provided that: “(a) In General.—In addition to existing authorities, the Commissioner of U.S. Customs and Border Protection, in collaboration with the Administrator of General Services, is authorized to conduct a pilot program in accordance with this section to permit U.S. Customs and Border Protection to enter into partnerships with private sector and government entities at ports of entry for certain services and to accept certain donations. “(b) Rule of Construction.—Except as otherwise provided in this section, nothing in this section may be construed as affecting in any manner the responsibilities, duties, or authorities of U.S. Customs and Border Protection or the General Services Administration. “(c) Duration.—The pilot program described in subsection (a) shall be for five years. A partnership entered into during such pilot program may last as long as required to meet the terms of such partnership. At the end of such five year period, the Commissioner may request that such pilot program be made permanent. “(d) Coordination.—“(1) In general.—The Commissioner, in consultation with participating private sector and government entities in a partnership under subsection (a), shall provide the Administrator with information relating to U.S. Customs and Border Protection’s requirements for new facilities or upgrades to existing facilities at land ports of entry. “(2) Criteria.—The Commissioner and the Administrator shall establish criteria for entering into a partnership under subsection (a) that include the following:“(A) Selection and evaluation of potential partners. “(B) Identification and documentation of roles and responsibilities between U.S. Customs and Border Protection, General Services Administration, and private and government partners. “(C) Identification, allocation, and management of explicit and implicit risks of partnering between U.S. Customs and Border Protection, General Services Administration, and private and government partners. “(D) Decision-making and dispute resolution processes in partnering arrangements. “(E) Criteria and processes for U.S. Customs and Border Protection and General Services Administration to terminate agreements if private or government partners are not meeting the terms of such a partnership, including the security standards established by U.S. Customs and Border Protection. “(3) Evaluation plan.—The Commissioner, in collaboration with the Administrator, shall submit to the Committee on Homeland Security, the Committee on Transportation and Infrastructure, and the Committee on Appropriations of the House of Representatives and the Committee on Homeland Security and Governmental Affairs, the Committee on Environment and Public Works, and the Committee on Appropriations of the Senate, an evaluation plan for the pilot program described in subsection (a) that includes the following:“(A) Well-defined, clear, and measurable objectives. “(B) Performance criteria or standards for determining the performance of such pilot program. “(C) Clearly articulated evaluation methodology, including—“(i) sound sampling methods; “(ii) a determination of appropriate sample size for the evaluation design; “(iii) a strategy for tracking such pilot program’s performance; and “(iv) an evaluation of the final results. “(D) A plan detailing the type and source of data necessary to evaluate such pilot program, methods for data collection, and the timing and frequency of data collection. “(e) Authority to Enter Into Agreements for the Provision of Certain Services at Ports of Entry.—“(1) In general.—Notwithstanding section 13031(e) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section58c/e&num=0&edition=prelim)) and section 451 of the Tariff Act of 1930 ([19 U.S.C. 1451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1451&num=0&edition=prelim)), the Commissioner may, during the pilot program described in subsection (a) and upon the request of a private sector or government entity with which U.S. Customs and Border Protection has entered into a partnership, enter into a reimbursable fee agreement with such entity under which—“(A) U.S. Customs and Border Protection will provide services described in paragraph (2) at a port of entry; “(B) such entity will pay a fee imposed under paragraph (4) to reimburse U.S. Customs and Border Protection for the costs incurred in providing such services; and “(C) each facility at which U.S. Customs and Border Protection services are performed shall be provided, maintained, and equipped by such entity, without cost to the Federal Government, in accordance with U.S. Customs and Border Protection specifications. “(2) Services described.—Services described in this paragraph are any activities of any employee or contractor of U.S. Customs and Border Protection pertaining to customs, agricultural processing, border security, and immigration inspection-related matters at ports of entry. “(3) Limitations.—“(A) Impacts of services.—The Commissioner may not enter into a reimbursable fee agreement under this subsection if such agreement would unduly and permanently impact services funded in this or any other appropriations Act, or provided from any account in the Treasury of the United States derived by the collection of fees. “(B) For certain costs.—The authority found in this subsection may not be used at U.S. Customs and Border Protection-serviced air ports of entry to enter into reimbursable fee agreements for costs other than payment of overtime. “(C) The authority found in this subsection may not be used to enter into new preclearance agreements or begin to provide U.S. Customs and Border Protection services outside of the United States. “(D) The authority found in this subsection shall be limited with respect to U.S. Customs and Border Protection-serviced air ports of entry to five pilots per year. “(4) Fee.—“(A) In general.—The amount of the fee to be charged pursuant to an agreement authorized under paragraph (1) shall be paid by each private sector and government entity requesting U.S. Customs and Border Protection services, and shall include the salaries and expenses of individuals employed by U.S. Customs and Border Protection to provide such services and other costs incurred by U.S. Customs and Border Protection relating to such services, such as temporary placement or permanent relocation of such individuals. “(B) Oversight of fees.—The Commissioner shall develop a process to oversee the activities reimbursed by the fees charged pursuant to an agreement authorized under paragraph (1) that includes the following:“(i) A determination and report on the full costs of providing services, including direct and indirect costs, including a process for increasing such fees as necessary. “(ii) Establishment of a monthly remittance schedule to reimburse appropriations. “(iii) Identification of overtime costs to be reimbursed by such fees. “(5) Deposit of funds.—Funds collected pursuant to any agreement entered into under paragraph (1) shall be deposited as offsetting collections and remain available until expended, without fiscal year limitation, and shall directly reimburse each appropriation for the amount paid out of that appropriation for any expenses incurred by U.S. Customs and Border Protection in providing U.S. Customs and Border Protection services and any other costs incurred by U.S. Customs and Border Protection relating to such services. “(6) Termination.—The Commissioner shall terminate the provision of services pursuant to an agreement entered into under paragraph (1) with a private sector or government entity that, after receiving notice from the Commissioner that a fee imposed under paragraph (4) is due, fails to pay such fee in a timely manner. In the event of such termination, all costs incurred by U.S. Customs and Border Protection, which have not been reimbursed, will become immediately due and payable. Interest on unpaid fees will accrue based on current Treasury borrowing rates. Additionally, any private sector or government entity that, after notice and demand for payment of any fee charged under paragraph (4), fails to pay such fee in a timely manner shall be liable for a penalty or liquidated damage equal to two times the amount of such fee. Any amount collected pursuant to any agreement entered into under paragraph (1) shall be deposited into the account specified under paragraph (5) and shall be available as described therein. “(7) Notification.—The Commissioner shall notify the Congress 15 days prior to entering into any agreement under paragraph (1) and shall provide a copy of such agreement. “(f) Donations.—“(1) In general.—Subject to paragraph (2), the Commissioner and the Administrator may, during the pilot program described in subsection (a), accept a donation of real or personal property (including monetary donations) or nonpersonal services from any private sector or government entity with which U.S. Customs and Border Protection has entered into a partnership. “(2) Allowable uses of donations.—The Commissioner and the Administrator, with respect to any donation provided pursuant to paragraph (1), may—“(A) use such donation for necessary activities related to the construction, alteration, operation, or maintenance of an existing port of entry facility under the jurisdiction, custody, and control of the Commissioner, including expenses related to—“(i) land acquisition, design, construction, repair and alteration; “(ii) furniture, fixtures, and equipment; “(iii) the deployment of technology and equipment; and “(iv) operations and maintenance; or “(B) transfer such property or services to the Administrator for necessary activities described in subparagraph (A) related to a new or existing port of entry under the jurisdiction, custody, and control of the Administrator, subject to chapter 33 of title 40, United States Code. “(3) Consultation and budget.—“(A) With the private sector or government entity.—To accept a donation described in paragraph (1), the Commissioner and the Administrator shall—“(i) consult with the appropriate stakeholders and the private sector or government entity that is providing the donation and provide such entity with a description of the intended use of such donation; and “(ii) submit to the Committee on Appropriations, the Committee on Homeland Security, and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Appropriations, the Committee on Homeland Security and Governmental Affairs, and the Committee on Environment and Public Works of the Senate a report not later than one year after the date of enactment of this Act [Jan. 17, 2014], and annually thereafter, that describes— “(I) the accepted donations received under this subsection; “(II) the ports of entry that received such donations; and “(III) how each donation helped facilitate the construction, alternation [sic], operation, or maintenance of a new or existing land port of entry. “(B) Savings provision.—Nothing in this paragraph may be construed to—“(i) create any right or liability of the parties referred to in subparagraph (A); or “(ii) affect any consultation requirement under any other law. “(4) Evaluation procedures.—Not later than 180 days after the date of the enactment of this Act, the Commissioner, in consultation with the Administrator, shall establish procedures for evaluating a proposal submitted by a private sector or government entity to make a donation of real or personal property (including monetary donations) or nonpersonal services under paragraph (1) relating to a port of entry under the jurisdiction, custody and control of the Commissioner or the Administrator and make any such evaluation criteria publicly available. “(5) Considerations.—In determining whether or not to approve a proposal referred to in paragraph (4), the Commissioner or the Administrator shall consider—“(A) the impact of such proposal on the port of entry at issue and other ports of entry on the same border; “(B) the potential of such proposal to increase trade and travel efficiency through added capacity; “(C) the potential of such proposal to enhance the security of the port of entry at issue; “(D) the funding available to complete the intended use of a donation under this subsection, if such donation is real property; “(E) the costs of maintaining and operating such donation; “(F) whether such donation, if real property, satisfies the requirements of such proposal, or whether additional real property would be required; “(G) an explanation of how such donation, if real property, was secured, including if eminent domain was used; “(H) the impact of such proposal on staffing requirements; and “(I) other factors that the Commissioner or Administrator determines to be relevant. “(6) Unconditional monetary donations.—A monetary donation shall be made unconditionally, although the donor may specify—“(A) the port of entry facility or facilities to be benefitted from such donation; and “(B) the timeframe during which such donation shall be used. “(7) Supplemental funding.—Real or personal property (including monetary donations) or nonpersonal services donated pursuant to paragraph (1) may be used in addition to any other funding (including appropriated funds), property, or services made available for the same purpose. “(8) Return of donations.—If the Commissioner or the Administrator does not use the real property or monetary donation donated pursuant to paragraph (1) for the specific port of entry facility or facilities designated by the donor or within the timeframe specified by the donor, such donated real property or money may be returned to the donor. No interest shall be owed to the donor with respect to any donation of funding provided under such paragraph (1) that is returned pursuant to this paragraph. “(9) Savings provision.—Nothing in this subsection may be construed to affect or alter the existing authority of the Commissioner or the Administrator to construct, alter, operate, and maintain port of entry facilities. “(g) Annual Reports.—The Commissioner, in collaboration with the Administrator, shall annually submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Environment and Public Works of the Senate a report on the pilot program and activities undertaken pursuant thereto in accordance with this Act [div. F of Pub. L. 113–76, see Tables for classification]. “(h) Definitions.—In this section—“(1) the term ‘private sector entity’ means any corporation, partnership, trust, association, or any other private entity, or any officer, employee, or agent thereof; “(2) the term ‘Commissioner’ means the Commissioner of U.S. Customs and Border Protection; and “(3) the term ‘Administrator’ means the Administrator of General Services. “(i) Role of General Services Administration.—Under this section, collaboration with the Administrator of General Services is required only with respect to partnerships at land ports of entry.”
+Pub. L. 113–76, div. F, title V, § 559, Jan. 17, 2014, 128 Stat. 279, as amended by Pub. L. 114–4, title V, § 552(a), Mar. 4, 2015, 129 Stat. 71, provided that: “(a) In General.—In addition to existing authorities, the Commissioner of U.S. Customs and Border Protection, in collaboration with the Administrator of General Services, is authorized to conduct a pilot program in accordance with this section to permit U.S. Customs and Border Protection to enter into partnerships with private sector and government entities at ports of entry for certain services and to accept certain donations. “(b) Rule of Construction.—Except as otherwise provided in this section, nothing in this section may be construed as affecting in any manner the responsibilities, duties, or authorities of U.S. Customs and Border Protection or the General Services Administration. “(c) Duration.—The pilot program described in subsection (a) shall be for five years. A partnership entered into during such pilot program may last as long as required to meet the terms of such partnership. At the end of such five year period, the Commissioner may request that such pilot program be made permanent. “(d) Coordination.—“(1) In general.—The Commissioner, in consultation with participating private sector and government entities in a partnership under subsection (a), shall provide the Administrator with information relating to U.S. Customs and Border Protection’s requirements for new facilities or upgrades to existing facilities at land ports of entry. “(2) Criteria.—The Commissioner and the Administrator shall establish criteria for entering into a partnership under subsection (a) that include the following:“(A) Selection and evaluation of potential partners. “(B) Identification and documentation of roles and responsibilities between U.S. Customs and Border Protection, General Services Administration, and private and government partners. “(C) Identification, allocation, and management of explicit and implicit risks of partnering between U.S. Customs and Border Protection, General Services Administration, and private and government partners. “(D) Decision-making and dispute resolution processes in partnering arrangements. “(E) Criteria and processes for U.S. Customs and Border Protection and General Services Administration to terminate agreements if private or government partners are not meeting the terms of such a partnership, including the security standards established by U.S. Customs and Border Protection. “(3) Evaluation plan.—The Commissioner, in collaboration with the Administrator, shall submit to the Committee on Homeland Security, the Committee on Transportation and Infrastructure, and the Committee on Appropriations of the House of Representatives and the Committee on Homeland Security and Governmental Affairs, the Committee on Environment and Public Works, and the Committee on Appropriations of the Senate, an evaluation plan for the pilot program described in subsection (a) that includes the following:“(A) Well-defined, clear, and measurable objectives. “(B) Performance criteria or standards for determining the performance of such pilot program. “(C) Clearly articulated evaluation methodology, including—“(i) sound sampling methods; “(ii) a determination of appropriate sample size for the evaluation design; “(iii) a strategy for tracking such pilot program’s performance; and “(iv) an evaluation of the final results. “(D) A plan detailing the type and source of data necessary to evaluate such pilot program, methods for data collection, and the timing and frequency of data collection. “(e) Authority to Enter Into Agreements for the Provision of Certain Services at Ports of Entry.—“(1) In general.—Notwithstanding section 13031(e) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section58c/e&num=0&edition=prelim)) and section 451 of the Tariff Act of 1930 ([19 U.S.C. 1451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1451&num=0&edition=prelim)), the Commissioner may, during the pilot program described in subsection (a) and upon the request of a private sector or government entity with which U.S. Customs and Border Protection has entered into a partnership, enter into a reimbursable fee agreement with such entity under which—“(A) U.S. Customs and Border Protection will provide services described in paragraph (2) at a port of entry; “(B) such entity will pay a fee imposed under paragraph (4) to reimburse U.S. Customs and Border Protection for the costs incurred in providing such services; and “(C) each facility at which U.S. Customs and Border Protection services are performed shall be provided, maintained, and equipped by such entity, without cost to the Federal Government, in accordance with U.S. Customs and Border Protection specifications. “(2) Services described.—Services described in this paragraph are any activities of any employee or contractor of U.S. Customs and Border Protection pertaining to customs, agricultural processing, border security, and immigration inspection-related matters at ports of entry. “(3) Limitations.—“(A) Impacts of services.—The Commissioner may not enter into a reimbursable fee agreement under this subsection if such agreement would unduly and permanently impact services funded in this or any other appropriations Act, or provided from any account in the Treasury of the United States derived by the collection of fees. “(B) For certain costs.—The authority found in this subsection may not be used at U.S. Customs and Border Protection-serviced air ports of entry to enter into reimbursable fee agreements for costs other than payment of overtime and the salaries, training and benefits of individuals employed by U.S. Customs and Border Protection to support U.S. Customs and Border Protection officers in performing law enforcement functions at ports of entry, including primary and secondary processing of passengers. “(C) The authority found in this subsection may not be used to enter into new preclearance agreements or begin to provide U.S. Customs and Border Protection services outside of the United States. “(D) The authority found in this subsection shall be limited with respect to U.S. Customs and Border Protection-serviced air ports of entry to five pilots per year. “(4) Fee.—“(A) In general.—The amount of the fee to be charged pursuant to an agreement authorized under paragraph (1) shall be paid by each private sector and government entity requesting U.S. Customs and Border Protection services, and shall include the salaries and expenses of individuals employed by U.S. Customs and Border Protection to provide such services and other costs incurred by U.S. Customs and Border Protection relating to such services, such as temporary placement or permanent relocation of such individuals. “(B) Oversight of fees.—The Commissioner shall develop a process to oversee the activities reimbursed by the fees charged pursuant to an agreement authorized under paragraph (1) that includes the following:“(i) A determination and report on the full costs of providing services, including direct and indirect costs, including a process for increasing such fees as necessary. “(ii) Establishment of a monthly remittance schedule to reimburse appropriations. “(iii) Identification of overtime costs to be reimbursed by such fees. “(5) Deposit of funds.—Funds collected pursuant to any agreement entered into under paragraph (1) shall be deposited as offsetting collections and remain available until expended, without fiscal year limitation, and shall directly reimburse each appropriation for the amount paid out of that appropriation for any expenses incurred by U.S. Customs and Border Protection in providing U.S. Customs and Border Protection services and any other costs incurred by U.S. Customs and Border Protection relating to such services. “(6) Termination.—The Commissioner shall terminate the provision of services pursuant to an agreement entered into under paragraph (1) with a private sector or government entity that, after receiving notice from the Commissioner that a fee imposed under paragraph (4) is due, fails to pay such fee in a timely manner. In the event of such termination, all costs incurred by U.S. Customs and Border Protection, which have not been reimbursed, will become immediately due and payable. Interest on unpaid fees will accrue based on current Treasury borrowing rates. Additionally, any private sector or government entity that, after notice and demand for payment of any fee charged under paragraph (4), fails to pay such fee in a timely manner shall be liable for a penalty or liquidated damage equal to two times the amount of such fee. Any amount collected pursuant to any agreement entered into under paragraph (1) shall be deposited into the account specified under paragraph (5) and shall be available as described therein. “(7) Notification.—The Commissioner shall notify the Congress 15 days prior to entering into any agreement under paragraph (1) and shall provide a copy of such agreement. “(f) Donations.—“(1) In general.—Subject to paragraph (2), the Commissioner and the Administrator may, during the pilot program described in subsection (a), accept a donation of real or personal property (including monetary donations) or nonpersonal services from any private sector or government entity with which U.S. Customs and Border Protection has entered into a partnership. “(2) Allowable uses of donations.—The Commissioner and the Administrator, with respect to any donation provided pursuant to paragraph (1), may—“(A) use such donation for necessary activities related to the construction, alteration, operation, or maintenance of an existing port of entry facility under the jurisdiction, custody, and control of the Commissioner, including expenses related to—“(i) land acquisition, design, construction, repair and alteration; “(ii) furniture, fixtures, and equipment; “(iii) the deployment of technology and equipment; and “(iv) operations and maintenance; or “(B) transfer such property or services to the Administrator for necessary activities described in subparagraph (A) related to a new or existing port of entry under the jurisdiction, custody, and control of the Administrator, subject to chapter 33 of title 40, United States Code. Such transfer shall not be required for personal property, including furniture, fixtures, and equipment. “(3) Consultation and budget.—“(A) With the private sector or government entity.—To accept a donation described in paragraph (1), the Commissioner and the Administrator shall—“(i) consult with the appropriate stakeholders and the private sector or government entity that is providing the donation and provide such entity with a description of the intended use of such donation; and “(ii) submit to the Committee on Appropriations, the Committee on Homeland Security, and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Appropriations, the Committee on Homeland Security and Governmental Affairs, and the Committee on Environment and Public Works of the Senate a report not later than one year after the date of enactment of this Act [Jan. 17, 2014], and annually thereafter, that describes— “(I) the accepted donations received under this subsection; “(II) the ports of entry that received such donations; and “(III) how each donation helped facilitate the construction, alternation [sic], operation, or maintenance of a new or existing land port of entry. “(B) Savings provision.—Nothing in this paragraph may be construed to—“(i) create any right or liability of the parties referred to in subparagraph (A); or “(ii) affect any consultation requirement under any other law. “(4) Evaluation procedures.—Not later than 180 days after the date of the enactment of this Act, the Commissioner, in consultation with the Administrator, shall establish procedures for evaluating a proposal submitted by a private sector or government entity to make a donation of real or personal property (including monetary donations) or nonpersonal services under paragraph (1) relating to a port of entry under the jurisdiction, custody and control of the Commissioner or the Administrator and make any such evaluation criteria publicly available. “(5) Considerations.—In determining whether or not to approve a proposal referred to in paragraph (4), the Commissioner or the Administrator shall consider—“(A) the impact of such proposal on the port of entry at issue and other ports of entry on the same border; “(B) the potential of such proposal to increase trade and travel efficiency through added capacity; “(C) the potential of such proposal to enhance the security of the port of entry at issue; “(D) the funding available to complete the intended use of a donation under this subsection, if such donation is real property; “(E) the costs of maintaining and operating such donation; “(F) whether such donation, if real property, satisfies the requirements of such proposal, or whether additional real property would be required; “(G) an explanation of how such donation, if real property, was secured, including if eminent domain was used; “(H) the impact of such proposal on staffing requirements; and “(I) other factors that the Commissioner or Administrator determines to be relevant. “(6) Unconditional monetary donations.—A monetary donation shall be made unconditionally, although the donor may specify—“(A) the port of entry facility or facilities to be benefitted from such donation; and “(B) the timeframe during which such donation shall be used. “(7) Supplemental funding.—Real or personal property (including monetary donations) or nonpersonal services donated pursuant to paragraph (1) may be used in addition to any other funding (including appropriated funds), property, or services made available for the same purpose. “(8) Return of donations.—If the Commissioner or the Administrator does not use the real property or monetary donation donated pursuant to paragraph (1) for the specific port of entry facility or facilities designated by the donor or within the timeframe specified by the donor, such donated real property or money may be returned to the donor. No interest shall be owed to the donor with respect to any donation of funding provided under such paragraph (1) that is returned pursuant to this paragraph. “(9) Savings provision.—Nothing in this subsection may be construed to affect or alter the existing authority of the Commissioner or the Administrator to construct, alter, operate, and maintain port of entry facilities. “(g) Annual Reports.—The Commissioner, in collaboration with the Administrator, shall annually submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Environment and Public Works of the Senate a report on the pilot program and activities undertaken pursuant thereto in accordance with this Act [div. F of Pub. L. 113–76, see Tables for classification]. “(h) Definitions.—In this section—“(1) the term ‘private sector entity’ means any corporation, partnership, trust, association, or any other private entity, or any officer, employee, or agent thereof; “(2) the term ‘Commissioner’ means the Commissioner of U.S. Customs and Border Protection; and “(3) the term ‘Administrator’ means the Administrator of General Services. “(i) Role of General Services Administration.—Under this section, collaboration with the Administrator of General Services is required only with respect to partnerships at land ports of entry.”
+
+[Pub. L. 114–4, title V, § 552(a)(2), Mar. 4, 2015, 129 Stat. 71, which directed amendment of subsection “(e)(3)(b)” of section 559 of division F of Public Law 113–76, set out above, by inserting “and the salaries, training and benefits of individuals employed by U.S. Customs and Border Protection to support U.S. Customs and Border Protection officers in performing law enforcement functions at ports of entry, including primary and secondary processing of passengers” after “payment of overtime”, was executed by making the insertion in subsection (e)(3)(B) of section 559 of division F of Public Law 113–76, to reflect the probable intent of Congress.]
 
 #### Reducing Passenger Processing Times
 Pub. L. 113–76, div. F, title V, § 571, Jan. 17, 2014, 128 Stat. 287, provided that: “(a) The Commissioner of U.S. Customs and Border Protection shall develop metrics that support a goal of reducing passenger processing times at air, land, and sea ports of entry, taking into consideration the capacity of an air or land port’s physical infrastructure, airline arrival schedules, peak processing periods, and security requirements. “(b) Not later than 240 days after the date of enactment of this Act [Jan. 17, 2014], the Commissioner of U.S. Customs and Border Protection shall develop and implement operational work plans to meet the goals of subsection (a) at United States air, land, and sea ports with the highest passenger volume and longest wait times. In developing such plans, the Commissioner of U.S. Customs and Border Protection shall consult with appropriate stakeholders, including, but not limited to, airlines and airport operators, port authorities, and importers.”
@@ -6587,7 +6660,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 (3) Human resources and personnel.
 
-(4) Information technology and communications systems.
+(4) Information technology and communications systems, including policies and directives to achieve and maintain interoperable communications among the components of the Department.
 
 (5) Facilities, property, equipment, and other material resources.
 
@@ -6653,9 +6726,15 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 (3) be subject to an annual performance evaluation by the Secretary, who shall determine as part of each such evaluation whether the Under Secretary for Management has made satisfactory progress toward achieving the goals set out in the performance agreement required under paragraph (2).
 
+**(d) Interoperable communications defined** In this section, the term “interoperable communications” has the meaning given that term in [section 194(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section194/g&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(4). Pub. L. 114–29, § 3(1), inserted before period at end “, including policies and directives to achieve and maintain interoperable communications among the components of the Department”.
+
+Subsec. (d). Pub. L. 114–29, § 3(2), added subsec. (d).
+
 2007—Subsec. (a). Pub. L. 110–53, § 2405(a)(1), inserted in introductory provisions “The Under Secretary for Management shall serve as the Chief Management Officer and principal advisor to the Secretary on matters related to the management of the Department, including management integration and transformation in support of homeland security operations and programs.”
 
 Subsec. (a)(7). Pub. L. 110–53, § 2405(a)(2), added par. (7) and struck out former par. (7) which read as follows: “Identification and tracking of performance measures relating to the responsibilities of the Department.”
@@ -7119,7 +7198,7 @@ Pub. L. 112–10 substituted “2011” for “2010” in introductory provision
 
 <a id="section-394"></a>
 ## § 394. Research and development projects
-**(a) Authority** Until September 30, 2014, and subject to subsection (d), the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
+**(a) Authority** Until September 30, 2015, and subject to subsection (d), the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
 
 (1) **In general** — When the Secretary carries out basic, applied, and advanced research and development projects, including the expenditure of funds for such projects, the Secretary may exercise the same authority (subject to the same limitations and conditions) with respect to such research and projects as the Secretary of Defense may exercise under [section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) (except for subsections (b) and (f)), after making a determination that the use of a contract, grant, or cooperative agreement for such project is not feasible or appropriate. The annual report required under subsection (b) of this section, as applied to the Secretary by this paragraph, shall be submitted to the President of the Senate and the Speaker of the House of Representatives.
 
@@ -7133,7 +7212,7 @@ Pub. L. 112–10 substituted “2011” for “2010” in introductory provision
 
 **(c) Additional requirements**
 
-(1) **In general** — The authority of the Secretary under this section shall terminate September 30, 2014, unless before that date the Secretary—
+(1) **In general** — The authority of the Secretary under this section shall terminate September 30, 2015, unless before that date the Secretary—
 
   (A) issues policy guidance detailing the appropriate use of that authority; and
 
@@ -7149,6 +7228,10 @@ Pub. L. 112–10 substituted “2011” for “2010” in introductory provision
 Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is section 845 of Pub. L. 103–160, which is set out as a note under [section 2371 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim), Armed Forces.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–4, § 523(1), substituted “Until September 30, 2015,” for “Until September 30, 2014,” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 114–4, § 523(2), substituted “September 30, 2015,” for “September 30, 2014,” in introductory provisions.
+
 2014—Subsec. (a). Pub. L. 113–76, § 525(1), substituted “Until September 30, 2014,” for “Until September 30, 2013,” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 113–76, § 525(2), substituted “September 30, 2014,” for “September 30, 2013,” in introductory provisions.
@@ -8602,8 +8685,8 @@ Section was enacted as part of the Department of Homeland Security Appropriation
 2008—Pub. L. 110–329 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 
-<a id="section-481"></a>
-## § 481. Collection of fees from non-Federal participants in meetings
+<a id="section-472"></a>
+## § 472. Collection of fees from non-Federal participants in meetings
 
 For fiscal year 2010 and thereafter, the Secretary of Homeland Security may collect fees from any non-Federal participant in a conference, seminar, exhibition, symposium, or similar meeting conducted by the Department of Homeland Security in advance of the conference, either directly or by contract, and those fees shall be credited to the appropriation or account from which the costs of the conference, seminar, exhibition, symposium, or similar meeting are paid and shall be available to pay the costs of the Department of Homeland Security with respect to the conference or to reimburse the Department for costs incurred with respect to the conference: Provided, That in the event the total amount of fees collected with respect to a conference exceeds the actual costs of the Department of Homeland Security with respect to the conference, the amount of such excess shall be deposited into the Treasury as miscellaneous receipts: Provided further, That the Secretary shall provide a report to the Committees on Appropriations of the Senate and the House of Representatives not later than January 5, 2011, providing the level of collections and a summary by agency of the purposes and levels of expenditures for the prior fiscal year, and shall report annually thereafter.
 
@@ -8613,8 +8696,8 @@ For fiscal year 2010 and thereafter, the Secretary of Homeland Security may coll
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2010, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 
-<a id="section-482"></a>
-## § 482. Disclosures regarding homeland security grants
+<a id="section-473"></a>
+## § 473. Disclosures regarding homeland security grants
 **(a) Definitions** In this section:
 
 (1) **Homeland security grant** — The term “homeland security grant” means any grant made or administered by the Department, including—
@@ -8642,8 +8725,8 @@ Section was enacted as part of the Security and Accountability For Every Port Ac
 For definitions of “Department” and “Secretary” as used in this section, see [section 901 of this title](./chapter-003-security-and-accountability-for-every-port.md#section-901).
 
 
-<a id="section-483"></a>
-## § 483. Annual ammunition report
+<a id="section-481"></a>
+## § 481. Annual ammunition report
 **(a)** The Secretary of Homeland Security shall submit to Congress, 180 days after January 17, 2014, and annually thereafter beginning with the submission of the President’s budget proposal for fiscal year 2016 pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), a comprehensive report on the purchase and usage of ammunition, subdivided by ammunition type. The report shall include—
 
 (1) the quantity of ammunition in inventory at the end of the preceding calendar year, and the amount of ammunition expended and purchased, subdivided by ammunition type, during the year for each relevant component or agency in the Department of Homeland Security;
@@ -8658,6 +8741,176 @@ For definitions of “Department” and “Secretary” as used in this section,
 
 #### Codification
 Section was enacted as part of the appropriation act cited in the credit of this section, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+
+<a id="section-482"></a>
+## § 482. Annual weaponry report
+**(a)** The Secretary of Homeland Security shall submit to the Congress, not later than 180 days after March 4, 2015, and annually thereafter, beginning at the time the President’s budget proposal for fiscal year 2017 is submitted pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), a comprehensive report on the purchase and usage of weapons, subdivided by weapon type. The report shall include—
+
+(1) the quantity of weapons in inventory at the end of the preceding calendar year, and the amount of weapons, subdivided by weapon type, included in the budget request for each relevant component or agency in the Department of Homeland Security;
+
+(2) a description of how such quantity and purchase aligns to each component or agency’s mission requirements for certification, qualification, training, and operations; and
+
+(3) details on all contracting practices applied by the Department of Homeland Security, including comparative details regarding other contracting options with respect to cost and availability.
+
+**(b)** The reports required by subsection (a) shall be submitted in an appropriate format in order to ensure the safety of law enforcement personnel.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the appropriation act cited in the credit of this section, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+
+<a id="section-483"></a>
+## § 483. Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit
+**(a) Cyber Crimes Center**
+
+(1) **In general** — The Secretary shall operate, within United States Immigration and Customs Enforcement, a Cyber Crimes Center (referred to in this section as the “Center”).
+
+(2) **Purpose** — The purpose of the Center shall be to provide investigative assistance, training, and equipment to support United States Immigration and Customs Enforcement’s domestic and international investigations of cyber-related crimes.
+
+**(b) Child Exploitation Investigations Unit**
+
+(1) **In general** — The Secretary shall operate, within the Center, a Child Exploitation Investigations Unit (referred to in this subsection as the “CEIU”).
+
+(2) **Functions** — The CEIU—
+
+  (A) shall coordinate all United States Immigration and Customs Enforcement child exploitation initiatives, including investigations into—
+
+    (i) child exploitation;
+
+    (ii) child pornography;
+
+    (iii) child victim identification;
+
+    (iv) traveling child sex offenders; and
+
+    (v) forced child labor, including the sexual exploitation of minors;
+
+  (B) shall, among other things, focus on—
+
+    (i) child exploitation prevention;
+
+    (ii) investigative capacity building;
+
+    (iii) enforcement operations; and
+
+    (iv) training for Federal, State, local, tribal, and foreign law enforcement agency personnel, upon request;
+
+  (C) shall provide training, technical expertise, support, or coordination of child exploitation investigations, as needed, to cooperating law enforcement agencies and personnel;
+
+  (D) shall provide psychological support and counseling services for United States Immigration and Customs Enforcement personnel engaged in child exploitation prevention initiatives, including making available other existing services to assist employees who are exposed to child exploitation material during investigations;
+
+  (E) is authorized to collaborate with the Department of Defense and the National Association to Protect Children for the purpose of the recruiting, training, equipping and hiring of wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program; and
+
+  (F) shall collaborate with other governmental, nongovernmental, and nonprofit entities approved by the Secretary for the sponsorship of, and participation in, outreach and training activities.
+
+(3) **Data collection** — The CEIU shall collect and maintain data concerning—
+
+  (A) the total number of suspects identified by United States Immigration and Customs Enforcement;
+
+  (B) the number of arrests by United States Immigration and Customs Enforcement, disaggregated by type, including—
+
+    (i) the number of victims identified through investigations carried out by United States Immigration and Customs Enforcement; and
+
+    (ii) the number of suspects arrested who were in positions of trust or authority over children;
+
+  (C) the number of cases opened for investigation by United States Immigration and Customs Enforcement; and
+
+  (D) the number of cases resulting in a Federal, State, foreign, or military prosecution.
+
+(4) **Availability of data to Congress** — In addition to submitting the reports required under paragraph (7), the CEIU shall make the data collected and maintained under paragraph (3) available to the committees of Congress described in paragraph (7).
+
+(5) **Cooperative agreements** — The CEIU is authorized to enter into cooperative agreements to accomplish the functions set forth in paragraphs (2) and (3).
+
+(6) **Acceptance of gifts**
+
+  (A) *In general* — The Secretary is authorized to accept monies and in-kind donations from the Virtual Global Taskforce, national laboratories, Federal agencies, not-for-profit organizations, and educational institutions to create and expand public awareness campaigns in support of the functions of the CEIU.
+
+  (B) *Exemption from Federal Acquisition Regulation* — Gifts authorized under subparagraph (A) shall not be subject to the Federal Acquisition Regulation for competition when the services provided by the entities referred to in such subparagraph are donated or of minimal cost to the Department.
+
+(7) **Reports** — Not later than 1 year after May 29, 2015, and annually for the following 4 years, the CEIU shall—
+
+  (A) submit a report containing a summary of the data collected pursuant to paragraph (3) during the previous year to—
+
+    (i) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+    (ii) the Committee on the Judiciary of the Senate;
+
+    (iii) the Committee on Appropriations of the Senate;
+
+    (iv) the Committee on Homeland Security of the House of Representatives;
+
+    (v) the Committee on the Judiciary of the House of Representatives; and
+
+    (vi) the Committee on Appropriations of the House of Representatives; and
+
+  (B) make a copy of each report submitted under subparagraph (A) publicly available on the website of the Department.
+
+**(c) Computer Forensics Unit**
+
+(1) **In general** — The Secretary shall operate, within the Center, a Computer Forensics Unit (referred to in this subsection as the “CFU”).
+
+(2) **Functions** — The CFU—
+
+  (A) shall provide training and technical support in digital forensics to—
+
+    (i) United States Immigration and Customs Enforcement personnel; and
+
+    (ii) Federal, State, local, tribal, military, and foreign law enforcement agency personnel engaged in the investigation of crimes within their respective jurisdictions, upon request and subject to the availability of funds;
+
+  (B) shall provide computer hardware, software, and forensic licenses for all computer forensics personnel within United States Immigration and Customs Enforcement;
+
+  (C) shall participate in research and development in the area of digital forensics, in coordination with appropriate components of the Department; and
+
+  (D) is authorized to collaborate with the Department of Defense and the National Association to Protect Children for the purpose of recruiting, training, equipping, and hiring wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program.
+
+(3) **Cooperative agreements** — The CFU is authorized to enter into cooperative agreements to accomplish the functions set forth in paragraph (2).
+
+(4) **Acceptance of gifts**
+
+  (A) *In general* — The Secretary is authorized to accept monies and in-kind donations from the Virtual Global Task Force, national laboratories, Federal agencies, not-for-profit organizations, and educational institutions to create and expand public awareness campaigns in support of the functions of the CFU.
+
+  (B) *Exemption from Federal Acquisition Regulation* — Gifts authorized under subparagraph (A) shall not be subject to the Federal Acquisition Regulation for competition when the services provided by the entities referred to in such subparagraph are donated or of minimal cost to the Department.
+
+**(d) Cyber Crimes Unit**
+
+(1) **In general** — The Secretary shall operate, within the Center, a Cyber Crimes Unit (referred to in this subsection as the “CCU”).
+
+(2) **Functions** — The CCU—
+
+  (A) shall oversee the cyber security strategy and cyber-related operations and programs for United States Immigration and Customs Enforcement;
+
+  (B) shall enhance United States Immigration and Customs Enforcement’s ability to combat criminal enterprises operating on or through the Internet, with specific focus in the areas of—
+
+    (i) cyber economic crime;
+
+    (ii) digital theft of intellectual property;
+
+    (iii) illicit e-commerce (including hidden marketplaces);
+
+    (iv) Internet-facilitated proliferation of arms and strategic technology; and
+
+    (v) cyber-enabled smuggling and money laundering;
+
+  (C) shall provide training and technical support in cyber investigations to—
+
+    (i) United States Immigration and Customs Enforcement personnel; and
+
+    (ii) Federal, State, local, tribal, military, and foreign law enforcement agency personnel engaged in the investigation of crimes within their respective jurisdictions, upon request and subject to the availability of funds;
+
+  (D) shall participate in research and development in the area of cyber investigations, in coordination with appropriate components of the Department; and
+
+  (E) is authorized to recruit participants of the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program for investigative and forensic positions in support of the functions of the CCU.
+
+(3) **Cooperative agreements** — The CCU is authorized to enter into cooperative agreements to accomplish the functions set forth in paragraph (2).
+
+**(e) Authorization of appropriations** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section.
+
+### Statutory Notes
+
+#### Findings
+Pub. L. 114–22, title III, § 302(a), May 29, 2015, 129 Stat. 251, provided that: “Congress finds the following: “(1) The illegal market for the production and distribution of child abuse imagery is a growing threat to children in the United States. International demand for this material creates a powerful incentive for the rape, abuse, and torture of children within the United States. “(2) The targeting of United States children by international criminal networks is a threat to the homeland security of the United States. This threat must be fought with trained personnel and highly specialized counter-child-exploitation strategies and technologies. “(3) The United States Immigration and Customs Enforcement of the Department of Homeland Security serves a critical national security role in protecting the United States from the growing international threat of child exploitation and human trafficking. “(4) The Cyber Crimes Center of the United States Immigration and Customs Enforcement is a vital national resource in the effort to combat international child exploitation, providing advanced expertise and assistance in investigations, computer forensics, and victim identification. “(5) The returning military heroes of the United States possess unique and valuable skills that can assist law enforcement in combating global sexual and child exploitation, and the Department of Homeland Security should use this national resource to the maximum extent possible. “(6) Through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program, the returning military heroes of the United States are trained and hired to investigate crimes of child exploitation in order to target predators and rescue children from sexual abuse and slavery.”
 
 
 <a id="section-484"></a>
@@ -10504,7 +10757,7 @@ Pub. L. 113–245, § 3(c), Dec. 18, 2014, 128 Stat. 2877, provided that: “Not
 
 **(c) Approval** The Administrator may not publish the Plan under subsection (a)(2) until it has been approved by the Secretary.
 
-**(d) Contents of plan** The Plan shall include—
+**(d) Contents of Plan** The Plan shall include—
 
 (1) an analysis of transportation security risks and the associated capability gaps that would be best addressed by security-related technology, including consideration of the most recent quadrennial homeland security review under [section 347 of this title](./chapter-001-homeland-security-organization.md#section-347);
 
@@ -12173,9 +12426,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 Section 2(h) of the Improper Payments Elimination and Recovery Act of 2010, referred to in subsec. (a)(5), is section 2(h) of Pub. L. 111–204, which is set out as a note under [section 3321 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3321&num=0&edition=prelim), Money and Finance.
 
 #### Amendments
-2014—Subsec. (a)(3). Pub. L. 113–284, § 2(c)(1), (2)(A), redesignated par. (4) as (3) and struck out former par. (3) which related to Office of Inspector General performance audits.
-
-Subsec. (a)(4) to (7). Pub. L. 113–284, § 2(c)(2), redesignated pars. (4) to (7) as (3) to (6), respectively, and, in par. (4), substituted “paragraph (2)” for “paragraphs (2) and (3)” and “paragraph (3)” for “paragraph (4)”.
+Subsec. (a)(3) to (7). Pub. L. 113–284 redesignated pars. (4) to (7) as (3) to (6), respectively, substituted, in par. (4), “paragraph (2)” for “paragraphs (2) and (3)” and “paragraph (3)” for “paragraph (4)”, and struck out former par. (3) which related to Office of Inspector General performance audits.
 
 2010—Subsec. (a)(6). Pub. L. 111–204 substituted “under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 ([31 U.S.C. 3321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3321&num=0&edition=prelim) note)” for “(as that term is defined by the Director of the Office of Management and Budget under [section 3561 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3561&num=0&edition=prelim))”.
 
@@ -12891,7 +13142,7 @@ Section effective on the date that is 30 days after Dec. 18, 2014, and authority
 
 (2) **Non-reporting chemical facilities of interest** — Any owner of a chemical facility of interest who fails to comply with, or knowingly submits false information under, this subchapter or the CFATS regulations shall be liable for a civil penalty under [section 70119(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70119/a&num=0&edition=prelim).
 
-**(c) Emergency Orders**
+**(c) Emergency orders**
 
 (1) **In general** — Notwithstanding subsection (a) or any site security plan or alternative security program approved under this subchapter, if the Secretary determines that there is an imminent threat of death, serious illness, or severe personal injury, due to a violation of this subchapter or the risk of a terrorist incident that may affect a chemical facility of interest, the Secretary—
 
@@ -13016,3 +13267,92 @@ For termination of section by section 5 of Pub. L. 113–254, see Effective and 
 
 #### Effective and Termination Dates
 Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 4 years after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
+
+
+<a id="section-641"></a>
+## § 641. CFATS regulations
+**(a) General authority** The Secretary may, in accordance with chapter 5 of title 5, promulgate regulations or amend existing CFATS regulations to implement the provisions under this subchapter.
+
+**(b) Existing CFATS regulations**
+
+(1) **In general** — Notwithstanding section 4(b) of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014, each existing CFATS regulation shall remain in effect unless the Secretary amends, consolidates, or repeals the regulation.
+
+(2) **Repeal** — Not later than 30 days after December 18, 2014, the Secretary shall repeal any existing CFATS regulation that the Secretary determines is duplicative of, or conflicts with, this subchapter.
+
+**(c) Authority** The Secretary shall exclusively rely upon authority provided under this subchapter in—
+
+(1) determining compliance with this subchapter;
+
+(2) identifying chemicals of interest; and
+
+(3) determining security risk associated with a chemical facility.
+
+### Statutory Notes
+
+#### Termination of Section
+For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
+
+#### References in Text
+Section 4(b) of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014, referred to in subsec. (b)(1), is section 4(b) of Pub. L. 113–254, Dec. 18, 2014, 128 Stat. 2919, which repealed section 550 of Pub. L. 109–295, formerly set out as a Regulations note under [section 121 of this title](./chapter-001-homeland-security-organization.md#section-121), effective as of the date that is 30 days after Dec. 18, 2014.
+
+#### Effective and Termination Dates
+Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 4 years after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
+
+
+<a id="section-642"></a>
+## § 642. Small covered chemical facilities
+**(a) Definition** In this section, the term “small covered chemical facility” means a covered chemical facility that—
+
+(1) has fewer than 100 employees employed at the covered chemical facility; and
+
+(2) is owned and operated by a small business concern (as defined in [section 632 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).
+
+**(b) Assistance to facilities** The Secretary may provide guidance and, as appropriate, tools, methodologies, or computer software, to assist small covered chemical facilities in developing the physical security, cybersecurity, recordkeeping, and reporting procedures required under this subchapter.
+
+**(c) Report** The Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives a report on best practices that may assist small covered chemical facilities in development of physical security best practices.
+
+### Statutory Notes
+
+#### Termination of Section
+For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
+
+#### Effective and Termination Dates
+Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 4 years after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
+
+
+<a id="section-643"></a>
+## § 643. Outreach to chemical facilities of interest
+
+Not later than 90 days after December 18, 2014, the Secretary shall establish an outreach implementation plan, in coordination with the heads of other appropriate Federal and State agencies, relevant business associations, and public and private labor organizations, to—
+
+(1) identify chemical facilities of interest; and
+
+(2) make available compliance assistance materials and information on education and training.
+
+### Statutory Notes
+
+#### Termination of Section
+For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
+
+#### Effective and Termination Dates
+Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 4 years after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
+
+
+<a id="section-644"></a>
+## § 644. Definitions
+
+In this subchapter:
+
+(1) **Department** — The term “Department” means the Department of Homeland Security.
+
+(2) **Human trafficking** — The term “human trafficking” means an act or practice described in paragraph (9) or (10) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim).
+
+(3) **Secretary** — The term “Secretary” means the Secretary of Homeland Security.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 114–22, which is classified principally to this subchapter. For complete classification of title IX to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Homeland Security Act of 2002 which comprises this chapter.

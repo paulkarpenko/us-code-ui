@@ -101,7 +101,7 @@ It is the policy of the United States to further assist the Government of Ukrain
 
 **(c) Sanctions described** The sanctions the President may impose with respect to a foreign person under subsection (a) or (b) are the following:
 
-(1) **Export-import bank assistance** — The President may direct the Export-Import Bank of the United States not to approve the issuance of any guarantee, insurance, extension of credit, or participation in the extension of credit in connection with the export of any goods or services to the foreign person.
+(1) **Export-Import Bank assistance** — The President may direct the Export-Import Bank of the United States not to approve the issuance of any guarantee, insurance, extension of credit, or participation in the extension of credit in connection with the export of any goods or services to the foreign person.
 
 (2) **Procurement sanction** — The President may prohibit the head of any executive agency (as defined in [section 133 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section133&num=0&edition=prelim)) from entering into any contract for the procurement of any goods or services from the foreign person.
 
@@ -246,7 +246,7 @@ The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) 
 
 (2) **Penalties** — The penalties provided for in subsections (b) and (c) of [section 1705 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim) shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, subsection (a) or (b) of this section, or an order or regulation prescribed under either such subsection, to the same extent that such penalties apply to a person that commits an unlawful act described in [section 1705(a) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705/a&num=0&edition=prelim).
 
-**(f) Termination** This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in section 8923(h)of this title.
+**(f) Termination** This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in [section 8923(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8923/h&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -412,7 +412,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 ## § 8927. Expanded broadcasting in countries of the former Soviet Union
 **(a) In general** Not later than 90 days after December 18, 2014, the Chairman of the Broadcasting Board of Governors shall submit to Congress a plan, including a cost estimate, for immediately and substantially increasing, and maintaining through fiscal year 2017, the quantity of Russian-language broadcasting into the countries of the former Soviet Union funded by the United States in order to counter Russian Federation propaganda.
 
-**(b) Prioritization of Broadcasting Into Ukraine, Georgia, and Moldova** The plan required by subsection (a) shall prioritize broadcasting into Ukraine, Georgia, and Moldova by the Voice of America and Radio Free Europe/Radio Liberty.
+**(b) Prioritization of broadcasting into Ukraine, Georgia, and Moldova** The plan required by subsection (a) shall prioritize broadcasting into Ukraine, Georgia, and Moldova by the Voice of America and Radio Free Europe/Radio Liberty.
 
 **(c) Additional priorities** In developing the plan required by subsection (a), the Chairman shall consider—
 
@@ -495,4 +495,4 @@ Nothing in this chapter shall be construed as an authorization for the use of mi
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act or an amendment made by this Act”, meaning Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which enacted this chapter. Pub. L. 113–272 did not make any amendments.
+This chapter, referred to in text, was in the original “this Act or an amendment made by this Act”, meaning Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which enacted this chapter and provisions set out as a note under [section 8921 of this title](./chapter-96a-ukraine-freedom-support.md#section-8921). Pub. L. 113–272 did not make any amendments.

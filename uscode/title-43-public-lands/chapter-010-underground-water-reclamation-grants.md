@@ -39,7 +39,7 @@ Section, act Sept. 22, 1922, ch. 400, 42 Stat. 1012, extended time for developme
 Pub. L. 94–579, title VII, § 703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-357-to-360"></a>

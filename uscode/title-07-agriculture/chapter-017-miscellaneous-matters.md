@@ -14,7 +14,7 @@ source: >-
 #### Codification
 Section, act May 11, 1922, ch. 185, 42 Stat. 532, which provided that powers conferred prior to May 11, 1922, and the duties imposed by law on the Bureau of Markets, Bureau of Markets and Crop Estimates, and the Office of Farm Management and Farms Economics of the Department of Agriculture shall be exercised and performed by the Bureau of Agricultural Economics, was omitted from the Code as executed and obsolete.
 
-All functions of all officers, agencies and employees of the Department of Agriculture were transferred, with certain exceptions, to the Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+All functions of all officers, agencies and employees of the Department of Agriculture were transferred, with certain exceptions, to the Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 Functions of the Bureau of Agricultural Economics were transferred to other units of the Department of Agriculture by Secretary’s memorandum of November 2, 1953.
 
@@ -266,7 +266,7 @@ There is hereby authorized to be appropriated for expenditure by the Secretary o
 ### Statutory Notes
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 Functions of Bureau of Agricultural Economics transferred to other units of Department of Agriculture by Secretary’s memorandum of Nov. 2, 1953.
 
@@ -349,7 +349,7 @@ The Act of Congress of March second, eighteen hundred and eighty-seven, referred
 The Act of May eighth, nineteen hundred and fourteen, referred to in text, is act May 8, 1914, ch. 79, 38 Stat. 372, as amended, known as the “Smith-Lever Act”, and also known as the “Agricultural Work Extension Act”, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 341 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-341) and Tables.
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-419"></a>
@@ -419,7 +419,7 @@ The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 
 The Standard Container Act, referred to in text, is act Aug. 31, 1916, ch. 426, 39 Stat. 673, as amended, which was classified generally to subchapter VII (§ 251 et seq.) of chapter 6 of Title 15, Commerce and Trade, and was repealed by Pub. L. 90–628, § 1(a), Oct. 22, 1968, 82 Stat. 1320. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 Functions of Bureau of Agricultural Economics transferred to other units of Department of Agriculture by Secretary’s memorandum of Nov. 2, 1953.
 
@@ -549,7 +549,7 @@ Sections 427a to 427h and 427j of this title, referred to in text, were repealed
 The Federal Nonnuclear Energy Research and Development Act of 1974, as amended, referred to in text, is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
 
 #### Codification
-Another section 1446 of Pub. L. 95–113 is classified to [section 3222a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3222a&num=0&edition=prelim).
+Another section 1446 of Pub. L. 95–113 is classified to [section 3222a of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3222a).
 
 #### Amendments
 1980—Pub. L. 96–294 inserted provisions relating to applied research to develop agricultural, forestry, and rural energy conservation and biomass energy production and use.
@@ -559,13 +559,13 @@ Another section 1446 of Pub. L. 95–113 is classified to [section 3222a of this
 1946—Act Aug. 14, 1946, amended section generally to provide for a greatly augmented research program in order to enable agriculture to attain a position in research comparable to that of other industries.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Short Title
 Act June 29, 1935, as amended, which enacted sections 343c, 343d (now 329), 343d–1, and 427–427j of this title, is popularly known as the “Agricultural Research Act” and also as the “Bankhead-Jones Act”.
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 #### Ex. Ord. No. 9310. Transferring Nutrition Functions of Office of Defense Health and Welfare Services to Department of Agriculture
 Ex. Ord. No. 9310, Mar. 6, 1943, 8 F.R. 2913, provided:
@@ -647,7 +647,7 @@ In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “sec
 1954—Subsec. (e). Act July 23, 1954, added subsec. (e).
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-427j"></a>
@@ -865,7 +865,7 @@ For the purpose of assuring their operation for the production of products from 
 The Surplus Property Act of 1944, referred to in text, is act Oct. 3, 1944, ch. 479, 58 Stat. 765, which was classified principally to sections 1611 to 1646 of Title 50, Appendix, War and National Defense, and was repealed effective July 1, 1949, with the exception of sections 1622, 1631, 1637, and 1641 of Title 50, Appendix, by act June 30, 1949, ch. 288, title VI, § 602(a)(1), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583. Sections 1622 and 1641 were partially repealed by the 1949 act, and section 1622 is still set out in part in Title 50, Appendix. Section 1622(g) was repealed and reenacted as sections 47151 to 47153 of Title 49, Transportation, by Pub. L. 103–272, §§ 1(e), 7(b), July 5, 1994, 108 Stat. 1278–1280, 1379. Section 1631 was repealed by act June 7, 1939, ch. 190, § 6(e), as added by act July 23, 1946, ch. 590, 60 Stat. 599, and is covered by sections 98 et seq. of Title 50. Section 1637 was repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948, and is covered by [section 3287 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3287&num=0&edition=prelim), Crimes and Criminal Procedure. Provisions of section 1641 not repealed by the 1949 act were repealed by Pub. L. 87–256, § 111(a)(1), Sept. 21, 1961, 75 Stat. 538, and are covered by chapter 33 (§ 2451 et seq.) of Title 22, Foreign Relations and Intercourse. The provisions of the Surplus Property Act of 1944 originally repealed by the 1949 act are covered by provisions of the 1949 act which were classified to chapter 10 (§ 471 et seq.) of former Title 40, Public Buildings, Property, and Works, and which were repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 Functions, property, records, etc., of War Assets Administration transferred to Administrator of General Services and War Assets Administration abolished by act June 30, 1949, ch. 288, title I, § 105, 63 Stat. 381.
 
@@ -886,7 +886,7 @@ Such plants may be operated in the furtherance of any authorized activities of t
 ### Statutory Notes
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-439b"></a>
@@ -926,7 +926,7 @@ On and after June 29, 1949, appropriations available for classing or grading any
 ### Statutory Notes
 
 #### Exceptions From Transfer of Functions
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of the said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of the said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-441"></a>
@@ -1080,7 +1080,7 @@ Section was formerly classified to [section 516e of Title 5](https://uscode.hous
 ### Statutory Notes
 
 #### Codification
-Section, act July 24, 1919, ch. 26, 41 Stat. 270, as amended, was transferred to [section 2220 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2220&num=0&edition=prelim).
+Section, act July 24, 1919, ch. 26, 41 Stat. 270, as amended, was transferred to [section 2220 of this title](./chapter-055-department-of-agriculture.md#section-2220).
 
 Section was formerly classified to sections 67 and 564 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
@@ -1095,7 +1095,7 @@ Section was formerly classified to sections 67 and 564 of Title 5 prior to the g
 
 **(b) Agriculture and food research initiative**
 
-(1) **Establishment** — There is established in the Department of Agriculture an Agriculture and Food Research Initiative under which the Secretary of Agriculture (referred to in this subsection as “the Secretary”) may make competitive grants for fundamental and applied research, extension, and education to address food and agricultural sciences (as defined under [section 3103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3103&num=0&edition=prelim)).
+(1) **Establishment** — There is established in the Department of Agriculture an Agriculture and Food Research Initiative under which the Secretary of Agriculture (referred to in this subsection as “the Secretary”) may make competitive grants for fundamental and applied research, extension, and education to address food and agricultural sciences (as defined under [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)).
 
 (2) **Priority areas** — The competitive grants program established under this subsection shall address the following areas:
 
@@ -1201,7 +1201,7 @@ Section was formerly classified to sections 67 and 564 of Title 5 prior to the g
 
   (A) seek and accept proposals for grants;
 
-  (B) determine the relevance and merit of proposals through a system of peer and merit review in accordance with [section 7613 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7613&num=0&edition=prelim);
+  (B) determine the relevance and merit of proposals through a system of peer and merit review in accordance with [section 7613 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7613);
 
   (C) award grants on the basis of merit, quality, and relevance;
 
@@ -1213,13 +1213,13 @@ Section was formerly classified to sections 67 and 564 of Title 5 prior to the g
 
 (5) **Allocation of funds** — In making grants under this subsection, the Secretary shall allocate funds to the Agriculture and Food Research Initiative to ensure that, of funds allocated for research activities—
 
-  (A) not less than 60 percent is made available to make grants for fundamental research (as defined in subsection (f)(1) of [section 6971 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6971&num=0&edition=prelim)), of which—
+  (A) not less than 60 percent is made available to make grants for fundamental research (as defined in subsection (f)(1) of [section 6971 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6971)), of which—
 
     (i) not less than 30 percent is made available to make grants for research to be conducted by multidisciplinary teams; and
 
     (ii) not more than 2 percent is used for equipment grants under paragraph (6)(A); and
 
-  (B) not less than 40 percent is made available to make grants for applied research (as defined in subsection (f)(1) of [section 6971 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6971&num=0&edition=prelim)).
+  (B) not less than 40 percent is made available to make grants for applied research (as defined in subsection (f)(1) of [section 6971 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6971)).
 
 (6) **Special considerations** — In making grants under this subsection, the Secretary may assist in the development of capabilities in the agricultural, food, and environmental sciences by providing grants—
 
@@ -1229,7 +1229,7 @@ Section was formerly classified to sections 67 and 564 of Title 5 prior to the g
 
   (C) to ensure that the faculty of small, mid-sized, and minority-serving institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants;
 
-  (D) to improve research, extension, and education capabilities in States (as defined in [section 3103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3103&num=0&edition=prelim)) in which institutions have been less successful in receiving funding under this subsection, based on a 3-year rolling average of funding levels; and
+  (D) to improve research, extension, and education capabilities in States (as defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)) in which institutions have been less successful in receiving funding under this subsection, based on a 3-year rolling average of funding levels; and
 
   (E) to eligible entities to carry out the specific proposals submitted under procedures established under paragraph (4)(F) only if such specific proposals are consistent with a priority area specified in paragraph (2).
 
@@ -1263,7 +1263,7 @@ Section was formerly classified to sections 67 and 564 of Title 5 prior to the g
 
     (ii) *Waiver* — The Secretary may waive all or part of the matching requirement under clause (i) in the case of a college, university, or research foundation maintained by a college or university that ranks in the lowest ⅓ of such colleges, universities, and research foundations on the basis of Federal research funds received, if the equipment to be acquired using funds from the grant costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.
 
-    (iii) *Exemption* — The matching funds requirement under [section 3371 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3371&num=0&edition=prelim) shall not apply in the case of a grant made under paragraph (6)(A).
+    (iii) *Exemption* — The matching funds requirement under [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371) shall not apply in the case of a grant made under paragraph (6)(A).
 
   (B) *Contribution requirement for commodity promotion grants*
 
@@ -1281,15 +1281,15 @@ Section was formerly classified to sections 67 and 564 of Title 5 prior to the g
 
       (V) *Indirect costs* — The indirect cost rate applicable to appropriated funds for a grant funded under paragraph (6)(E) shall apply to amounts contributed by an entity under clause (i).
 
-    (iii) *Other matching funds requirements* — The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by [section 3371 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3371&num=0&edition=prelim).
+    (iii) *Other matching funds requirements* — The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371).
 
-(10) **Program administration** — To the maximum extent practicable, the Director of the National Institute of Food and Agriculture, in coordination with the Under Secretary for Research, Education, and Economics, shall allocate grants under this subsection to high-priority research, taking into consideration, when available, the determinations made by the National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under [section 3123 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3123&num=0&edition=prelim)).
+(10) **Program administration** — To the maximum extent practicable, the Director of the National Institute of Food and Agriculture, in coordination with the Under Secretary for Research, Education, and Economics, shall allocate grants under this subsection to high-priority research, taking into consideration, when available, the determinations made by the National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under [section 3123 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3123)).
 
 (11) **Authorization of appropriations**
 
   (A) *In general* — There is authorized to be appropriated to carry out this subsection $700,000,000 for each of fiscal years 2008 through 2018, of which—
 
-    (i) not less than 30 percent shall be made available for integrated research pursuant to [section 7626 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7626&num=0&edition=prelim); and
+    (i) not less than 30 percent shall be made available for integrated research pursuant to [section 7626 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7626); and
 
     (ii) not more than 4 percent may be retained by the Secretary to pay administrative costs incurred by the Secretary in carrying out this subsection.
 
@@ -1351,7 +1351,7 @@ Section was formerly classified to sections 67 and 564 of Title 5 prior to the g
 
 (1) The Secretary of Agriculture shall establish an Inter-Regional Research Project Number 4 (hereinafter referred to in this subsection as the “IR–4 Program”) to assist in the collection of residue and efficacy data in support of—
 
-  (A) the registration or reregistration of pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1621&num=0&edition=prelim) note)), under the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136) et seq.); and
+  (A) the registration or reregistration of pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) note)), under the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136) et seq.); and
 
   (B) tolerances for residues of minor use chemicals in or on raw agricultural commodities under sections 346a and 348 of title 21.
 
@@ -1401,22 +1401,22 @@ Section was formerly classified to sections 67 and 564 of Title 5 prior to the g
 
 **(i) Rules** The Secretary of Agriculture may issue such rules and regulations as the Secretary deems necessary to carry out this section.
 
-**(j) Application of other laws** The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2281&num=0&edition=prelim) et seq.) shall not apply to a panel or board created for the purpose of reviewing applications or proposals submitted under this section.
+**(j) Application of other laws** The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.) shall not apply to a panel or board created for the purpose of reviewing applications or proposals submitted under this section.
 
-**(k) Emphasis on sustainable agriculture** The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in [section 3103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3103&num=0&edition=prelim).
+**(k) Emphasis on sustainable agriculture** The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103).
 
 ### Statutory Notes
 
 #### References in Text
 Act of October 10, 1962, referred to in subsec. (c)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 582a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section582a&num=0&edition=prelim) and Tables.
 
-Section 3 of the Specialty Crops Competitiveness Act of 2004, referred to in subsec. (e)(1)(A), is section 3 of Pub. L. 108–465, which is set out as a note under [section 1621 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1621&num=0&edition=prelim).
+Section 3 of the Specialty Crops Competitiveness Act of 2004, referred to in subsec. (e)(1)(A), is section 3 of Pub. L. 108–465, which is set out as a note under [section 1621 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621).
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136) and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Food and Agriculture Act of 1977, referred to in subsec. (j), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim) and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (j), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -1446,7 +1446,7 @@ Pub. L. 113–79, § 7128(b)(4)(B), struck out subpar. (B) which related to appl
 
 Subsec. (b)(11)(A). Pub. L. 113–79, § 7404(a), substituted “2018” for “2012” in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 113–79, § 7404(g)(1), substituted “pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1621&num=0&edition=prelim) note)),” for “minor use pesticides”.
+Subsec. (e)(1)(A). Pub. L. 113–79, § 7404(g)(1), substituted “pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) note)),” for “minor use pesticides”.
 
 Subsec. (e)(4)(A). Pub. L. 113–79, § 7404(g)(2)(A), inserted “and for use on specialty crops” after “minor agricultural use”.
 
@@ -1468,7 +1468,7 @@ Subsec. (b)(10). Pub. L. 107–171, § 7136, substituted “2007” for “2002�
 
 Subsec. (b)(10)(C). Pub. L. 107–76, § 775(2), substituted “, (F), and (G) of paragraph (3) for” for “and (F) of paragraph (3) for awarding grants in”.
 
-1998—Subsec. (b)(1). Pub. L. 105–185, §§ 211(1), 606(h)(1), in first sentence, inserted “national laboratories,” after “Federal agencies,” and in second sentence, substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under [section 3123 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3123&num=0&edition=prelim))” for “Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board”.
+1998—Subsec. (b)(1). Pub. L. 105–185, §§ 211(1), 606(h)(1), in first sentence, inserted “national laboratories,” after “Federal agencies,” and in second sentence, substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under [section 3123 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3123))” for “Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board”.
 
 Subsec. (b)(2). Pub. L. 105–185, § 211(2), substituted “multistate” for “regional” in introductory provisions.
 
@@ -1579,11 +1579,11 @@ Subsec. (d). Pub. L. 97–98, § 1415(c), in provision preceding par. (1) substi
 1977—Pub. L. 95–113 designated existing provisions as subsec. (e) and a part of subsec. (b) and added the remainder of subsec. (b) and subsecs. (a), (c), (d), (f), (g), and (h).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
-Pub. L. 110–234, title VII, § 7406(c), May 22, 2008, 122 Stat. 1251, and Pub. L. 110–246, § 4(a), title VII, § 7406(c), June 18, 2008, 122 Stat. 1664, 2013, provided that: “The amendments made by this section [amending this section and sections 3319, 5924, and 5925b of this title and repealing [section 7621 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7621&num=0&edition=prelim)] shall not apply to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before the date of enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title VII, § 7406(c), May 22, 2008, 122 Stat. 1251, and Pub. L. 110–246, § 4(a), title VII, § 7406(c), June 18, 2008, 122 Stat. 1664, 2013, provided that: “The amendments made by this section [amending this section and sections 3319, 5924, and 5925b of this title and repealing [section 7621 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7621)] shall not apply to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before the date of enactment of this Act [June 18, 2008].”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
 #### Effective Date of 1985 Amendment
 Pub. L. 99–198, title XIV, § 1409(a)(3), Dec. 23, 1985, 99 Stat. 1547, provided that the amendment made by section 1409(a)(3) of Pub. L. 99–198 is effective Oct. 1, 1985.
@@ -1591,10 +1591,10 @@ Pub. L. 99–198, title XIV, § 1409(a)(3), Dec. 23, 1985, 99 Stat. 1547, provid
 Pub. L. 99–198, title XIV, § 1409(b)(2), Dec. 23, 1985, 99 Stat. 1547, provided that the amendment made by section 1409(b)(2) of Pub. L. 99–198 is effective Oct. 1, 1985.
 
 #### Effective Date of 1981 Amendment
-Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4301&num=0&edition=prelim).
+Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-450j"></a>
@@ -1625,7 +1625,7 @@ Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525
 1970—Pub. L. 91–524 inserted “and manufacturers of dairy products who have been directed since November 30, 1970, to remove their dairy products,” after “milk”, in first sentence, and substituted “Any indemnity payment to any farmer shall continue” for “Such indemnity payments shall continue to each dairy farmer” in second sentence.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-450k"></a>
@@ -1657,7 +1657,7 @@ The authority granted under sections 450j to 450l of this title shall expire on 
 ### Statutory Notes
 
 #### Codification
-The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -1694,13 +1694,13 @@ Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525
 1970—Pub. L. 91–524 substituted “1973” for “1970”.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date of 1990 Amendment
-Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under [section 1421 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim).
+Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421).
 
 #### Effective Date of 1981 Amendment
-Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4301&num=0&edition=prelim).
+Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).

@@ -33,7 +33,7 @@ source: >-
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 
 <a id="section-382"></a>
@@ -55,7 +55,7 @@ Section effective on the later of the date that is 1 year after Dec. 18, 2012, o
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 
 <a id="section-383"></a>
@@ -80,7 +80,7 @@ In addition to any requirements pursuant to chapter 16, the international design
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 
 <a id="section-384"></a>
@@ -92,7 +92,7 @@ Section effective on the later of the date that is 1 year after Dec. 18, 2012, o
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 
 <a id="section-385"></a>
@@ -103,7 +103,7 @@ An international design application designating the United States shall have the
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 
 <a id="section-386"></a>
@@ -117,7 +117,7 @@ Section effective on the later of the date that is 1 year after Dec. 18, 2012, o
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 
 <a id="section-387"></a>
@@ -128,7 +128,7 @@ An applicant’s failure to act within prescribed time limits in connection with
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 
 <a id="section-388"></a>
@@ -139,7 +139,7 @@ Subject to sections 384 and 387, if an international design application designat
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 
 <a id="section-389"></a>
@@ -155,7 +155,7 @@ Section effective on the later of the date that is 1 year after Dec. 18, 2012, o
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 
 <a id="section-390"></a>
@@ -166,4 +166,4 @@ The publication under the treaty of an international design application designat
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as an Effective Date of 2012 Amendment note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).

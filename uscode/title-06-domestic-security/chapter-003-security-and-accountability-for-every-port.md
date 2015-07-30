@@ -231,7 +231,7 @@ Not later than 1 year after October 13, 2006, the Secretary, acting through the 
 <a id="section-925"></a>
 ## § 925. Threat assessment screening of port truck drivers
 
-Not later than 90 days after October 13, 2006, the Secretary shall implement a threat assessment screening, including name-based checks against terrorist watch lists and immigration status check, for all port truck drivers with access to secure areas of a port who have a commercial driver’s license but do not have a current and valid hazardous materials endorsement issued in accordance with [section 1572 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1572&num=0&edition=prelim), Code of Federal Regulations, that is the same as the threat assessment screening required for facility employees and longshoremen by the Commandant of the Coast Guard under Coast Guard Notice USCG–2006–24189 (Federal Register, Vol. 71, No. 82, Friday, April 28, 2006).
+Not later than 90 days after October 13, 2006, the Secretary shall implement a threat assessment screening, including name-based checks against terrorist watch lists and immigration status check, for all port truck drivers with access to secure areas of a port who have a commercial driver’s license but do not have a current and valid hazardous materials endorsement issued in accordance with section 1572 11 So in original. Probably should be “part 1572”. of title 49, Code of Federal Regulations, that is the same as the threat assessment screening required for facility employees and longshoremen by the Commandant of the Coast Guard under Coast Guard Notice USCG–2006–24189 (Federal Register, Vol. 71, No. 82, Friday, April 28, 2006).
 
 
 <a id="section-926"></a>

@@ -332,8 +332,21 @@ Subsec. (e). Pub. L. 104–134, § 101(c) [title III, § 330(4)], added subsec. 
 
 ### Statutory Notes
 
-#### Codification
-Section is based on sections 3 (in part), 413, 414, and 1912(d) of Title 16, Conservation, which were repealed and restated as this section by Pub. L. 113–287, §§ 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3260, 3272.
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 1865(a) | [16 U.S.C. 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3&num=0&edition=prelim) (1st sentence words after “National Park Service”) | Aug. 25, 1916, ch. 408, § 3 (1st sentence words after “National Park Service”), 39 Stat. 535; June 2, 1920, ch. 218, § 5 (last sentence words after “for other purposes’ ” and before proviso), 41 Stat. 732. |
+| 1865(b) | [16 U.S.C. 1912(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1912/d&num=0&edition=prelim) | Pub. L. 94–429, § 13(d), Sept. 28, 1976, 90 Stat. 1345. |
+| 1865(c) | [16 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section413&num=0&edition=prelim) | Mar. 3, 1897, ch. 372, §§ 1, 2, 5, 29 Stat. 621, 622. |
+| 1865(d) | [16 U.S.C. 414](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section414&num=0&edition=prelim). |  |
+
+In subsection (a), the words “fined under this title” are substituted for “punished by a fine of not more than $500” for consistency with chapter 227.
+
+In subsection (b), the words “fined under this title” are substituted for “fined not more than $2,500” for consistency with chapter 227.
+
+In subsection (c), the words “fined under this title but not less than $10” are substituted for “deemed guilty of a misdemeanor, punishable by a fine of not less than $10 nor more than $1,000” for consistency with chapter 227.
+
+In subsection (d), the words “fined under this title” are substituted for “guilty of a misdemeanor, punishable by a fine of not more than $1,000” for consistency with chapter 227.
 
 
 <a id="section-1866"></a>
@@ -344,5 +357,12 @@ Section is based on sections 3 (in part), 413, 414, and 1912(d) of Title 16, Con
 
 ### Statutory Notes
 
-#### Codification
-Section is based on sections 433 and 462(k) (in part) of Title 16, Conservation, which were repealed and restated as this section by Pub. L. 113–287, §§ 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3261, 3272.
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 1866(a) | [16 U.S.C. 462(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section462/k&num=0&edition=prelim) (last sentence) | Aug. 21, 1935, ch. 593, § 2(k) (last sentence), 49 Stat. 667. |
+| 1866(b) | [16 U.S.C. 433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section433&num=0&edition=prelim) | June 8, 1906, ch. 3060, § 1, 34 Stat. 225. |
+
+In subsection (a), the provision is transferred to title 18 to make clear that it is a criminal penalty. The words “fined under this title” are substituted for “punished by a fine of not more than $500” for consistency with chapter 227.
+
+In subsection (b), the words “fined under this title” are substituted for “fined in a sum of not more than $500” for consistency with chapter 227.

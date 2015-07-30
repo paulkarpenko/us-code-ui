@@ -407,6 +407,8 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 #### References in Text
 [Section 6805 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6805), referred to in subsec. (a)(6)(B), was in the original a reference to section 6, and was translated as meaning section 806 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
+The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497. Title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by Pub. L. 108–447, div. J, title VIII, § 813(d)(2), Dec. 8, 2004, 118 Stat. 3391. For complete classification of this Act to the Code, see Tables.
+
 #### Codification
 In subsec. (f), “[section 100904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim)” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 

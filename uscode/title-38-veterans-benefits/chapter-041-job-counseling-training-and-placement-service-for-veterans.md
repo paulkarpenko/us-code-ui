@@ -62,17 +62,14 @@ For the purposes of this chapter—
 
 (8) The term “Secretary” means the Secretary of Labor.
 
-(9) The term “intensive services” means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998.
+(9) The term “career services” means local employment and training services of the type described in section 134(c)(2) of the Workforce Innovation and Opportunity Act.
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (9)
-Pub. L. 113–128, title V, §§ 506, 512(gg)(1), July 22, 2014, 128 Stat. 1703, 1719, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (9) of this section is amended by striking “The term ‘intensive services’ means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998” and inserting “The term ‘career services’ means local employment and training services of the type described in section 134(c)(2) of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
 #### References in Text
 The Wagner-Peyser Act, referred to in par. (7), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49&num=0&edition=prelim) and Tables.
 
-Section 134(d)(3) of the Workforce Investment Act of 1998, referred to in par. (9), is classified to [section 2864(d)(3) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/d/3&num=0&edition=prelim), Labor.
+Section 134(c)(2) of the Workforce Innovation and Opportunity Act, referred to in par. (9), is classified to [section 3174(c)(2) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3174/c/2&num=0&edition=prelim), Labor.
 
 #### Prior Provisions
 Prior section 4101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, § 101, Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, § 201, Aug. 2, 1973, 87 Stat. 187; Pub. L. 94–581, title II, §§ 205(a), 209(a)(1), (3), 210(c)(1), Oct. 21, 1976, 90 Stat. 2857, 2860, 2863; Pub. L. 96–330, title I, § 105(a), title III, § 302, title IV, § 408, Aug. 26, 1980, 94 Stat. 1036, 1048, 1053; Pub. L. 97–295, § 4(80), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–528, title I, § 104, Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, § 202, Dec. 3, 1985, 99 Stat. 950; Pub. L. 100–322, title I, § 135, May 20, 1988, 102 Stat. 507; Pub. L. 100–687, div. B, title XV, § 1506(a), Nov. 18, 1988, 102 Stat. 4135, related to functions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7301 to 7303, 7314, 7315, 7317, and 7425 of this title.
@@ -105,7 +102,7 @@ Par. (6). Pub. L. 96–466, §§ 503(2), 801(h)(2), redesignated former par. (3)
 1966—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–288, § 5(a)(2), Nov. 7, 2002, 116 Stat. 2044, provided that: “The amendments made by paragraph (1) [amending this section and sections 4102, 4106, 4107, and 4109 of this title] shall take effect on the date of the enactment of this Act [Nov. 7, 2002].”
@@ -130,7 +127,7 @@ Pub. L. 87–675, § 1(e), Sept. 19, 1962, 76 Stat. 559, provided that: “Claim
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Employment Assistance and Services for Veterans Ineligible for Assistance
-Pub. L. 96–466, title V, § 512, Oct. 17, 1980, 94 Stat. 2207, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(28), (f)(20)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432, provided that: “The Secretary of Labor shall assure that any veteran who is made ineligible for employment assistance under chapter 41 of title 38, United States Code, by virtue of the amendments made by section 503(1) of this Act [amending this section] shall be provided with the employment assistance and services made available under the provisions of the Act entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 (commonly referred to as the ‘Wagner-Peyser Act’), ([29 U.S.C. 49–49k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49–49k&num=0&edition=prelim)), title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.], and other applicable provisions of law.”
+Pub. L. 96–466, title V, § 512, Oct. 17, 1980, 94 Stat. 2207, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(28), (f)(20)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432, provided that: “The Secretary of Labor shall assure that any veteran who is made ineligible for employment assistance under chapter 41 of title 38, United States Code, by virtue of the amendments made by section 503(1) of this Act [amending this section] shall be provided with the employment assistance and services made available under the provisions of the Act entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 (commonly referred to as the ‘Wagner-Peyser Act’), ([29 U.S.C. 49–49k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49–49k&num=0&edition=prelim)), title I of the Workforce Investment Act of 1998 [former [29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.], and other applicable provisions of law.”
 
 
 <a id="section-4102"></a>
@@ -289,7 +286,7 @@ Pub. L. 93–567, title I, § 104, Dec. 31, 1974, 88 Stat. 1848, as amended by P
 
   (B) on an annual basis, to notify the Secretary of, and provide supporting rationale for, each nonveteran who is employed as a disabled veterans’ outreach program specialist and local veterans’ employment representative for a period in excess of 6 months.
 
-(6) Each State shall coordinate employment, training, and placement services furnished to veterans and eligible persons under this chapter with such services furnished with respect to such veterans and persons under the Workforce Investment Act of 1998 and the Wagner-Peyser Act.
+(6) Each State shall coordinate employment, training, and placement services furnished to veterans and eligible persons under this chapter with such services furnished with respect to such veterans and persons under the Workforce Investment Act of 1998 11 See References in Text note below. and the Wagner-Peyser Act.
 
 (7) Of the amount of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title for any program year, one percent shall be for the purposes of making cash awards under the program of performance incentive awards described in [section 4112 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4112) in the State.
 
@@ -313,7 +310,7 @@ Pub. L. 93–567, title I, § 104, Dec. 31, 1974, 88 Stat. 1848, as amended by P
 
       (II) A description of the standard practices of the State for evaluating training received by veterans while serving on active duty in the Armed Forces and evaluating the documented work experience of such veterans during such service for purposes of approving or denying a certification or license described in subparagraph (B).
 
-      (III) Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).” 11 So in original. The quotation marks probably should not appear.
+      (III) Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).” 22 So in original. The quotation marks probably should not appear.
 
   (B) A certification or license described in this subparagraph is any of the following:
 
@@ -331,7 +328,7 @@ Pub. L. 93–567, title I, § 104, Dec. 31, 1974, 88 Stat. 1848, as amended by P
 
     (ii) any information the Secretary receives from a State pursuant to subparagraph (A).
 
-**(d) Participation in Other Federally Funded Job Training Programs.—** The Assistant Secretary of Labor for Veterans’ Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998 and other federally funded employment and training programs.
+**(d) Participation in Other Federally Funded Job Training Programs.—** The Assistant Secretary of Labor for Veterans’ Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act and other federally funded employment and training programs.
 
 **(e) Regional Administrators.—**
 
@@ -345,7 +342,7 @@ Pub. L. 93–567, title I, § 104, Dec. 31, 1974, 88 Stat. 1848, as amended by P
 
 (2) Such standards and measures shall—
 
-  (A) be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998; and
+  (A) be consistent with State performance accountability measures applicable under section 116(b) of the Workforce Innovation and Opportunity Act; and
 
   (B) be appropriately weighted to provide special consideration for placement of (i) veterans requiring intensive services (as defined in [section 4101(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4101/9&num=0&edition=prelim)), such as special disabled veterans and disabled veterans, and (ii) veterans who enroll in readjustment counseling under [section 1712A of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712a).
 
@@ -363,21 +360,14 @@ Pub. L. 93–567, title I, § 104, Dec. 31, 1974, 88 Stat. 1848, as amended by P
 
 ### Statutory Notes
 
-#### Amendment of Subsections (d) and(f)(2)(A)
-Pub. L. 113–128, title V, §§ 506, 512(gg)(2), July 22, 2014, 128 Stat. 1703, 1719, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
-
-(1) in subsection (d), by striking “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998” and inserting “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act”; and
-
-(2) in subsection (f)(2)(A), by striking “be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998” and inserting “be consistent with State performance accountability measures applicable under section 116(b) of the Workforce Innovation and Opportunity Act”.
-
-See 2014 Amendment notes below.
-
 #### References in Text
 The Jobs for Veterans Act, referred to in subsec. (c)(2)(B)(ii), is Pub. L. 107–288, Nov. 7, 2002, 116 Stat. 2033. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under [section 101 of this title](./chapter-001-general.md#section-101) and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsecs. (c)(6) and (d), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. Section 136(b) of the Act is classified to [section 2871(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871/b&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(6), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3101) and Tables.
 
 The Wagner-Peyser Act, referred to in subsec. (c)(6), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49&num=0&edition=prelim) and Tables.
+
+The Workforce Innovation and Opportunity Act, referred to in subsec. (d), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Section 116(b) of the Act is classified to [section 3141(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/b&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (d). Pub. L. 113–128, § 512(gg)(2)(A), substituted “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act” for “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998”.
@@ -457,7 +447,7 @@ Subsecs. (b) to (e). Pub. L. 100–323, § 2(a), added subsecs. (b) to (e).
 1980—Pub. L. 96–466 struck out “Deputy” before “Assistant Secretary” in section catchline and text.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title V, § 544(b), Jan. 2, 2013, 126 Stat. 1738, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a program year beginning on or after the date of the enactment of this Act [Jan. 2, 2013].”
@@ -835,7 +825,7 @@ Pub. L. 104–275, title III, § 303, Oct. 9, 1996, 110 Stat. 3332, as amended b
 
   (A) the appropriate disabled veterans’ outreach specialists (in carrying out the functions described in section 4103A(a)) and the appropriate local veterans’ employment representatives (in carrying out the functions described in section 4104); and
 
-  (B) the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))) for the areas to be served by recipients of the grants; and
+  (B) the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act) for the areas to be served by recipients of the grants; and
 
 (2) based on the collaboration, facilitate the placement of the veterans that complete the training in meaningful employment that leads to economic self-sufficiency.
 
@@ -843,7 +833,7 @@ Pub. L. 104–275, title III, § 303, Oct. 9, 1996, 110 Stat. 3332, as amended b
 
 (1) information describing how the organization will—
 
-  (A) collaborate with disabled veterans’ outreach specialists and local veterans’ employment representatives and the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)));
+  (A) collaborate with disabled veterans’ outreach specialists and local veterans’ employment representatives and the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act);
 
   (B) based on the collaboration, provide training that facilitates the placement described in subsection (b)(2); and
 
@@ -891,10 +881,9 @@ Pub. L. 104–275, title III, § 303, Oct. 9, 1996, 110 Stat. 3332, as amended b
 
 ### Statutory Notes
 
-#### Amendment of Subsections (b)(1)(B) and (c)(1)(A)
-Pub. L. 113–128, title V, §§ 506, 512(gg)(3), July 22, 2014, 128 Stat. 1703, 1719, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsections (b)(1)(B) and (c)(1)(A) of this section are amended by striking “the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)))” and inserting “the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act)”. See 2014 Amendment note below.
-
 #### References in Text
+Section 3 of the Workforce Innovation and Opportunity Act, referred to in subsecs. (b)(1)(B) and (c)(1)(A), is classified to [section 3102 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim), Labor.
+
 The date of enactment of the VOW to Hire Heroes Act of 2011, referred to in subsec. (d), is the date of enactment of Pub. L. 112–56, which was approved Nov. 21, 2011.
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2), is classified to [section 501 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501&num=0&edition=prelim), Internal Revenue Code.
@@ -906,7 +895,7 @@ A prior section 4104A, added Pub. L. 100–323, § 4(a)(1), May 20, 1988, 102 St
 2014—Subsecs. (b)(1)(B), (c)(1)(A). Pub. L. 113–128 substituted “the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act)” for “the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)))”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-4105"></a>
@@ -918,7 +907,7 @@ Amendment by Pub. L. 113—128 effective on the first day of the first full prog
 ### Statutory Notes
 
 #### References in Text
-The Veterans’ Job Training Act, referred to in subsec. (b), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under [section 2913 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2913&num=0&edition=prelim), Labor. For complete classification of this Act to the Code, see Tables.
+The Veterans’ Job Training Act, referred to in subsec. (b), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, which is set out as a note under [section 3171 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3171&num=0&edition=prelim), Labor. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 Prior section 4105, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1244; Pub. L. 87–574, § 4(1), Aug. 6, 1962, 76 Stat. 308; Pub. L. 89–785, title I, § 105, Nov. 7, 1966, 80 Stat. 1369; Pub. L. 94–123, § 5(b), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, § 110(4), title II, §§ 205(e), 209(a)(1), (2), (4), (c)(2), Oct. 21, 1976, 90 Stat. 2848, 2859, 2860, 2861; Pub. L. 95–201, § 4(a)(1), Nov. 23, 1977, 91 Stat. 1430; Pub. L. 96–151, title III, § 302(b), Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, § 4(81), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–160, title II, § 202, Nov. 21, 1983, 97 Stat. 1000, related to qualifications of appointees to positions in Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See [section 7402 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7402).
@@ -1026,7 +1015,7 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 (1) specification, by State and by age group, of the numbers of eligible veterans, disabled veterans, special disabled veterans, eligible persons, recently separated veterans (as defined in [section 4211(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4211/6&num=0&edition=prelim)), and servicemembers transitioning to civilian careers who registered for assistance with, or who are identified as veterans by, the public employment service system and, for each of such categories, the numbers referred to and placed in permanent and other jobs, the numbers referred to and placed in jobs and job training programs supported by the Federal Government, the number who received intensive services, and the number who received some, and the number who received no, reportable service;
 
-(2) a comparison of the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998) for each of the categories of veterans and persons described in paragraph (1) of this subsection with such rate of entered employment (as so determined) for nonveterans of the same age groups registered for assistance with the public employment system in each State;
+(2) a comparison of the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b) 11 See References in Text note below. of the Workforce Investment Act of 1998) for each of the categories of veterans and persons described in paragraph (1) of this subsection with such rate of entered employment (as so determined) for nonveterans of the same age groups registered for assistance with the public employment system in each State;
 
 (3) any determination made by the Secretary during the preceding fiscal year under [section 4106 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4106) or subsection (a)(2) of this section and a statement of the reasons for such determination;
 
@@ -1051,7 +1040,7 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 ### Statutory Notes
 
 #### References in Text
-Section 136(b) of the Workforce Investment Act of 1998, referred to in subsec. (c)(2), is classified to [section 2871(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871/b&num=0&edition=prelim), Labor.
+Section 136(b) of the Workforce Investment Act of 1998, referred to in subsec. (c)(2), was classified to [section 2871(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871/b&num=0&edition=prelim), Labor, prior to repeal by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For corresponding provision, see section 116 of Pub. L. 113–128, which is classified to [section 3141 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141&num=0&edition=prelim).
 
 #### Prior Provisions
 Prior section 4107, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1245; Pub. L. 86–568, title I, § 114(f), July 1, 1960, 74 Stat. 301; Pub. L. 87–793, § 802, Oct. 11, 1962, 76 Stat. 860; Pub. L. 88–426, title I, § 118, Aug. 14, 1964, 78 Stat. 410; Pub. L. 89–301, § 7, Oct. 29, 1965, 79 Stat. 1117; Pub. L. 89–504, title I, § 105, July 18, 1966, 80 Stat. 291; Pub. L. 89–785, title I, § 107(a), Nov. 7, 1966, 80 Stat. 1370; Pub. L. 90–206, title II, § 208, Dec. 16, 1967, 81 Stat. 631; Pub. L. 91–496, § 2, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title II, § 203, Aug. 2, 1973, 87 Stat. 188; Pub. L. 94–123, §§ 2(b), 5(d), Oct. 22, 1975, 89 Stat. 669, 675; Pub. L. 94–581, title I, § 110(6), title II, §§ 209(a)(1), (2), (b)(2), (c)(3), 210(c)(4), Oct. 21, 1976, 90 Stat. 2848, 2860, 2861, 2863; Pub. L. 95–201, § 5(a)(1), (2), Nov. 23, 1977, 91 Stat. 1432; Pub. L. 96–22, title V, § 504, June 13, 1979, 93 Stat. 65; Pub. L. 96–330, title I, §§ 105(c), 111, 112, Aug. 26, 1980, 94 Stat. 1036, 1037; Pub. L. 96–385, title V, § 508(a), Oct. 7, 1980, 94 Stat. 1538; Pub. L. 97–251, § 2(a)–(c), Sept. 8, 1982, 96 Stat. 711, 712; Pub. L. 97–295, § 4(82), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–160, title II, § 204, Nov. 21, 1983, 97 Stat. 1001; Pub. L. 98–528, title I, §§ 101(b), 109, Oct. 19, 1984, 98 Stat. 2688, 2691; Pub. L. 99–576, title VII, § 701(87), Oct. 28, 1986, 100 Stat. 3299; Pub. L. 100–322, title II, §§ 211(b), 212(b), 213, 214(a), (b), 217, May 20, 1988, 102 Stat. 514, 516, 530; Pub. L. 100–687, div. B, title XV, § 1506(b)(2), Nov. 18, 1988, 102 Stat. 4136; Pub. L. 101–237, title II, §§ 204, 205(a), Dec. 18, 1989, 103 Stat. 2067; Pub. L. 101–366, title I, §§ 101(c), 102(c), 103, Aug. 15, 1990, 104 Stat. 430, 436, 437, related to grades and pay scales of positions in Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7404, 7426, and 7453 to 7457 of this title.
@@ -1441,15 +1430,12 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (b) 
 <a id="section-4110b"></a>
 ## § 4110B. Coordination and nonduplication
 
-In carrying out this chapter, the Secretary shall require that an appropriate administrative entity in each State enter into an agreement with the Secretary regarding the implementation of the Workforce Investment Act of 1998 that includes the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2822/b&num=0&edition=prelim)).
+In carrying out this chapter, the Secretary shall require that an appropriate administrative entity in each State enter into an agreement with the Secretary regarding the implementation of the Workforce Innovation and Opportunity Act that includes the descriptions described in sections 102(b)(2)(B)(ii) and 103(b)(3)(A) of the Workforce Innovation and Opportunity Act and a description of how the State board will carry out the activities described in section 101(d)(3)(F) of such Act.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(gg)(4), July 22, 2014, 128 Stat. 1703, 1719, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended by striking “enter into an agreement with the Secretary regarding the implementation of the Workforce Investment Act of 1998 that includes the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2822/b&num=0&edition=prelim))” and inserting “enter into an agreement with the Secretary regarding the implementation of the Workforce Innovation and Opportunity Act that includes the descriptions described in sections 102(b)(2)(B)(ii) and 103(b)(3)(A) of the Workforce Innovation and Opportunity Act and a description of how the State board will carry out the activities described in section 101(d)(3)(F) of such Act”. See 2014 Amendment note below.
-
 #### References in Text
-The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Sections 101(d)(3)(F), 102(b)(2)(B)(ii), and 103(b)(3)(A) of the Act are classified to sections 3111(d)(3)(F), 3112(b)(2)(B)(ii), and 3113(b)(3)(A), respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Pub. L. 113–128 substituted “enter into an agreement with the Secretary regarding the implementation of the Workforce Innovation and Opportunity Act that includes the descriptions described in sections 102(b)(2)(B)(ii) and 103(b)(3)(A) of the Workforce Innovation and Opportunity Act and a description of how the State board will carry out the activities described in section 101(d)(3)(F) of such Act” for “enter into an agreement with the Secretary regarding the implementation of the Workforce Investment Act of 1998 that includes the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2822/b&num=0&edition=prelim))”.
@@ -1457,7 +1443,7 @@ The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220,
 2006—Pub. L. 109–233 substituted “implementation of the Workforce Investment Act of 1998” for “implementation of this Act” and inserted “([29 U.S.C. 2822(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2822/b&num=0&edition=prelim))” before period at end.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-4111"></a>
@@ -1481,7 +1467,7 @@ Prior section 4111, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87�
 
   (B) recognize eligible employees and employment service offices for excellence in the provision of such services or for having made demonstrable improvements in the provision of such services.
 
-(2) The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 consistent with the performance measures established under [section 4102A(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4102A/b/7&num=0&edition=prelim).
+(2) The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 11 See References in Text note below. consistent with the performance measures established under [section 4102A(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4102A/b/7&num=0&edition=prelim).
 
 **(b) Form of Awards.—** Under the criteria established by the Secretary for performance incentive awards to be administered by States, an award under such criteria may be a cash award or such other nonfinancial awards as the Secretary may specify.
 
@@ -1499,12 +1485,12 @@ Prior section 4111, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87�
 
 (2) A local veterans’ employment representative.
 
-(3) An individual providing employment, training, and placement services to veterans under the Workforce Investment Act of 1998 or through an employment service delivery system (as defined in [section 4101(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4101/7&num=0&edition=prelim)).
+(3) An individual providing employment, training, and placement services to veterans under the Workforce Investment Act of 1998 1 or through an employment service delivery system (as defined in [section 4101(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4101/7&num=0&edition=prelim)).
 
 ### Statutory Notes
 
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (d)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (d)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3101) and Tables.
 
 #### Prior Provisions
 A prior section 4112, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89–785, title I, § 109(a), Nov. 7, 1966, 80 Stat. 1370; Pub. L. 93–82, title II, § 205(b), Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, § 110(8), title II, §§ 209(b)(3), 210(c)(6), Oct. 21, 1976, 90 Stat. 2849, 2861, 2864; Pub. L. 96–151, title III, § 305, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 96–330, title I, § 115, Aug. 26, 1980, 94 Stat. 1039; Pub. L. 98–223, title II, § 209, Mar. 2, 1984, 98 Stat. 44; Pub. L. 100–322, title II, § 224, May 20, 1988, 102 Stat. 532, related to special medical advisory group and other advisory bodies, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7312 and 7313 of this title.

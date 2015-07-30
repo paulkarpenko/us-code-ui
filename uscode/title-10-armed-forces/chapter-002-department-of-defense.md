@@ -2243,7 +2243,7 @@ Pub. L. 105–261, div. A, title III, § 373(b), (c), Oct. 17, 1998, 112 Stat. 1
 
 (10) **Termination.—** — The Panel for a quadrennial defense review shall terminate 45 days after the date on which the Panel submits its final report on the quadrennial defense review under paragraph (7).
 
-**(g)** Repealed. Pub. L. 113–291, div. A, title X, § 1071(f)(1), Dec. 19, 2014, 128 Stat. 3510]
+**(g)** Repealed. Pub. L. 113–291, div. A, title X, § 1071(f)(1), Dec. 19, 2014, 128 Stat. 3510.]
 
 **(h) Relationship to Budget.—** Nothing in this section shall be construed to affect [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
 
@@ -2441,7 +2441,7 @@ Subsec. (d)(14), (15). Pub. L. 107–314, § 923, added par. (14) and redesignat
 2001—Subsec. (e). Pub. L. 107–107 designated the first sentence of existing provisions as par. (1), the second and third sentences of existing provisions as par. (3), and added par. (2).
 
 #### Effective Date of 2014 Amendment
-Pub. L. 113–291, div. A, title X, § 1072(c), Dec. 19, 2014, 128 Stat. 3517, provided that: “Section 118 of such title, as amended by subsection (a), and the amendments made by this section [amending this section and repealing [section 118b of this title](./chapter-002-department-of-defense.md#section-118b)], shall take effect on October 1, 2015.”
+Pub. L. 113–291, div. A, title X, § 1072(c), Dec. 19, 2014, 128 Stat. 3517, provided that: “Section 118 of such title [meaning title 10, United States Code], as amended by subsection (a), and the amendments made by this section [amending this section and repealing [section 118b of this title](./chapter-002-department-of-defense.md#section-118b)], shall take effect on October 1, 2015.”
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -2568,7 +2568,7 @@ Pub. L. 107–314, div. A, title V, § 581(b), Dec. 2, 2002, 116 Stat. 2561, dir
 Pub. L. 113–291, div. A, title X, § 1072(b)(1), (c), Dec. 19, 2014, 128 Stat. 3516, 3517, provided that, effective Oct. 1, 2015, this section is repealed.
 
 #### Effective Date of Repeal
-Repeal of section effective Oct. 1, 2015, see section 1072(c) of Pub. L. 113–291, set out as an Effective Date of 2014 Amendment note under [section 118 of this title](./chapter-002-department-of-defense.md#section-118).
+Repeal effective Oct. 1, 2015, see section 1072(c) of Pub. L. 113–291, set out as an Effective Date of 2014 Amendment note under [section 118 of this title](./chapter-002-department-of-defense.md#section-118).
 
 #### Inclusion of Assessment of Joint Military Training and Force Allocations in Quadrennial Defense Review and National Military Strategy
 Pub. L. 112–81, div. A, title III, § 348, Dec. 31, 2011, 125 Stat. 1375, provided that: “The assessments of the National Military Strategy conducted by the Chairman of the Joint Chiefs of Staff under [section 153(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section153/b&num=0&edition=prelim) [sic; probably means Title 10, Armed Forces], and the quadrennial roles and missions review pursuant to [section 118b of this title](./chapter-002-department-of-defense.md#section-118b) [sic], shall include an assessment of joint military training and force allocations to determine— “(1) the compliance of the military departments with the joint training, doctrine, and resource allocation recommendations promulgated by the Joint Chiefs of Staff; and “(2) the effectiveness of the Joint Staff in carrying out the missions of planning and experimentation formerly accomplished by Joint Forces Command.”

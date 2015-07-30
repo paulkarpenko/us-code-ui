@@ -130,7 +130,7 @@ the personal holding company tax for such year may be assessed, or a proceeding 
 
 (3) **Certain set-asides described in section 4942(g)(2)** — In the case of a deficiency attributable to the failure of an amount set aside by a private foundation for a specific project to be treated as a qualifying distribution under the provisions of section 4942(g)(2)(B)(ii), such deficiency may be assessed at any time before the expiration of 2 years after the expiration of the period within which a deficiency may be assessed for the taxable year to which the amount set aside relates.
 
-**(m) Deficiencies attributable to election of certain credits** The period for assessing a deficiency attributable to any election under 11 So in original. Probably should be followed by “section”. 30B(h)(9), 30C(e)(5), 30D(e)(4), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
+**(m) Deficiencies attributable to election of certain credits** The period for assessing a deficiency attributable to any election under 11 So in original. Probably should be followed by “section”. 30B(h)(9), 30C(e)(5), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
 
 **(n) Cross references**
 
@@ -143,6 +143,8 @@ the personal holding company tax for such year may be assessed, or a proceeding 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (m). Pub. L. 114–27 inserted “, 35(g)(11)” after “30D(e)(4)”.
+
 2014—Subsec. (m). Pub. L. 113–295 struck out “section 30(e)(6),” before “30B(h)(9),”.
 
 2010—Subsec. (b)(1). Pub. L. 111–147, § 501(c)(2), inserted “4,” after “chapter 3,”.
@@ -372,6 +374,9 @@ Subsec. (d). Pub. L. 85–866, § 80(a), (b), substituted in first sentence “s
 Subsec. (g)(2). Pub. L. 85–866, § 81(a), substituted “organization” for “corporation” wherever appearing.
 
 Subsecs. (h), (i). Pub. L. 85–866, § 81(b), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–27 applicable to coverage months in taxable years beginning after Dec. 31, 2013, see section 407(f) of Pub. L. 114–27, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).

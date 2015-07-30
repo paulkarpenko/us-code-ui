@@ -208,7 +208,7 @@ Subsecs. (v) to (aa). Pub. L. 94–582, § 3(h), added subsecs. (v) to (aa).
 Pub. L. 103–156, § 16, Nov. 24, 1993, 107 Stat. 1530, provided that: “(a) In General.—Except as provided in subsection (b), the amendments made by this Act [amending this section and sections 75a to 77, 79 to 79b, 79d, 84 to 87e, 87f, 87f–1, 87h, 87j, and 87k of this title and repealing provisions set out as a note under [section 79 of this title](./chapter-003-grain-standards.md#section-79)] shall take effect on the date of the enactment of this Act [Nov. 24, 1993]. “(b) Special Effective Date for Certain Provisions.—The amendments made by sections 2, 3, and 13(a) [amending sections 79d and 87h of this title and repealing provisions set out as a note under [section 79 of this title](./chapter-003-grain-standards.md#section-79)] shall take effect as of September 30, 1993.”
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -303,7 +303,7 @@ Subsec. (b). Pub. L. 94–582, § 5(b), substituted “Administrator” for “S
 1968—Pub. L. 90–487 substituted provisions authorizing Secretary to establish, amend, and revoke standards for provisions making the use of official standards compulsory, setting out exceptions, and providing for the right of appeal.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -367,7 +367,7 @@ Subsec. (b). Pub. L. 94–582 added subsec. (b).
 1968—Pub. L. 90–487 substituted provisions requiring an official inspection for export grains but authorizing the waiver of such requirements when official inspection is impracticable for provisions prohibiting misrepresentation respecting grade shipped or delivered for shipment, allowing reexamination, requiring hearing in the event of a false or misleading description, and allowing publication of findings.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -394,7 +394,7 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 1958—Pub. L. 85–509 authorized payment of employees assigned to perform appeal inspection for all overtime, night, or holiday work, and permitted acceptance of reimbursement for any sums paid for such work.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -583,7 +583,7 @@ Pub. L. 97–98, title XI, § 1113(b), Dec. 22, 1981, 95 Stat. 1268, provided th
 Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -701,7 +701,7 @@ That part of section 2 of Pub. L. 100–518 which provided that the amendment ma
 Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -729,7 +729,7 @@ Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–58
 Subsec. (c). Pub. L. 95–113, § 1604(f)(3), substituted “shall use for the purposes of this chapter” for “shall use”.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -848,7 +848,7 @@ Subsecs. (e) to (g). Pub. L. 94–582 added subsecs. (e) to (g).
 1968—Pub. L. 90–487 substituted provisions for the licensing and examination and reexamination of inspectors for provisions authorizing the Secretary of Agriculture to promulgate rules and regulations.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -970,7 +970,7 @@ Subsecs. (b), (c). Pub. L. 94–582, § 13(c), added subsecs. (b) and (c).
 1968—Pub. L. 90–487 substituted provisions prohibiting a conflict of interest on the part of inspectors who are interested financially in a grain elevator or in grain merchandising, for provisions covering the separability of provisions of this chapter.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1018,7 +1018,7 @@ Subsec. (c). Pub. L. 94–582 substituted “Every official agency and every per
 Subsec. (d). Pub. L. 94–582 added subsec. (d).
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1195,7 +1195,7 @@ Subsec. (b)(2). Pub. L. 94–582, § 15(b), substituted “inspection or weighin
 Pub. L. 99–641, title III, § 303(b), Nov. 10, 1986, 100 Stat. 3565, provided that: “The amendments made by this section [amending this section] shall become effective on May 1, 1987.”
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1321,7 +1321,7 @@ Subsec. (f). Pub. L. 95–113, § 1604(k)(2), struck out “additional” before
 Subsecs. (b) to (f). Pub. L. 94–582 added subsecs. (b) to (f).
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1445,7 +1445,7 @@ Subsec. (c). Pub. L. 103–156, § 12(p)(2), substituted “the person” for �
 1977—Subsec. (b)(1). Pub. L. 95–113 substituted “All persons required to register” for “All persons registered” in provisions preceding subpar. (A).
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1476,7 +1476,7 @@ Subsec. (b). Pub. L. 95–113, §§ 1604(m), 1606(i), substituted “Committee o
 Subsec. (c). Pub. L. 95–113, § 1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1540,7 +1540,7 @@ Pub. L. 98–469, § 2, Oct. 11, 1984, 98 Stat. 1831, provided that the amendmen
 Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).

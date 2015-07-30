@@ -182,7 +182,7 @@ Act Sept. 1, 1954, ch. 1213, title VI, § 601, 68 Stat. 1141, provided that: “
 
 **(b) Other property not reserved** All other property, real and personal, owned by the United States in Guam, not reserved by the President of the United States within ninety days after August 1, 1950, is placed under the control of the government of Guam, to be administered for the benefit of the people of Guam, and the legislature shall have authority, subject to such limitations as may be imposed upon its acts by this chapter or subsequent Act of the Congress, to legislate with respect to such property, real and personal, in such manner as it may deem desirable.
 
-**(c) Secretary of the Interior; sale or lease** All property owned by the United States in Guam, the title to which is not transferred to the government of Guam by subsection (a) of this section, or which is not placed under the control of the government of Guam by subsection (b) of this section, is transferred to the administrative supervision of the Secretary of the Interior, except as the President may from time to time otherwise prescribe: Provided, That the Secretary of the Interior shall be authorized to lease or to sell, on such terms as he may deem in the public interest, any property, real and personal, of the United States under his administrative supervision in Guam not needed for public purposes.
+**(c) Secretary of the Interior; sale or lease** All property owned by the United States in Guam, the title to which is not transferred to the government of Guam by subsection (a) hereof, or which is not placed under the control of the government of Guam by subsection (b) hereof, is transferred to the administrative supervision of the Secretary of the Interior, except as the President may from time to time otherwise prescribe: Provided, That the Secretary of the Interior shall be authorized to lease or to sell, on such terms as he may deem in the public interest, any property, real and personal, of the United States under his administrative supervision in Guam not needed for public purposes.
 
 ### Statutory Notes
 
@@ -709,7 +709,7 @@ Amendment by Pub. L. 90–497 necessary to authorize the holding of an election 
 
 (2) The authority to report to the Secretary of the Interior and the Governor of Guam all failures to collect amounts due the government, and expenditures of funds or uses of property which are irregular or not pursuant to law.
 
-**(b) Scope of authority transferred** The authority granted in paragraph (a) of this section shall extend to all activities of the government of Guam, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 (92 Stat. 1101), as amended.
+**(b) Scope of authority transferred** The authority granted in paragraph (a) shall extend to all activities of the government of Guam, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 (92 Stat. 1101), as amended.
 
 **(c) Transfer of personnel, assets, etc., of office of government comptroller for Guam to Office of Inspector General, Department of the Interior** In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for Guam related to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 
@@ -973,7 +973,7 @@ Sept. 6, 1950, ch. 896, Ch. VII, title I, 64 Stat. 694.
 
 **(b) Jurisdiction** The District Court of Guam shall have the jurisdiction of a district court of the United States, including, but not limited to, the diversity jurisdiction provided for in [section 1332 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1332&num=0&edition=prelim), and that of a bankruptcy court of the United States.
 
-**(c) Original jurisdiction** In addition to the jurisdiction described in subsection (b) of this section, the District Court of Guam shall have original jurisdiction in all other causes in Guam, jurisdiction over which is not then vested by the legislature in another court or other courts established by it. In causes brought in the district court solely on the basis of this subsection, the district court shall be considered a court established by the laws of Guam for the purpose of determining the requirements of indictment by grand jury or trial by jury.
+**(c) Original jurisdiction** In addition to the jurisdiction described in subsection (b), the District Court of Guam shall have original jurisdiction in all other causes in Guam, jurisdiction over which is not then vested by the legislature in another court or other courts established by it. In causes brought in the district court solely on the basis of this subsection, the district court shall be considered a court established by the laws of Guam for the purpose of determining the requirements of indictment by grand jury or trial by jury.
 
 ### Statutory Notes
 
@@ -1259,7 +1259,7 @@ Section, acts Apr. 23, 1949, ch. 89, § 2(b), 63 Stat. 58; June 30, 1953, ch. 17
 ## § 1428. Authorization of appropriations
 **(a)** For the purpose of promoting economic development in the territory of Guam, there is authorized to be appropriated to the Secretary of the Interior to be paid to the government of Guam for the purposes of this subchapter the sum of $5,000,000.
 
-**(b)** In addition to the appropriations authorized in subsection (a) of this section, $1,000,000 is authorized to be appropriated to the Secretary of the Interior to be paid to the government of Guam annually for five fiscal years commencing in fiscal year 1978 to carry out the purposes of this subchapter.
+**(b)** In addition to the appropriations authorized in subsection (a), $1,000,000 is authorized to be appropriated to the Secretary of the Interior to be paid to the government of Guam annually for five fiscal years commencing in fiscal year 1978 to carry out the purposes of this subchapter.
 
 ### Statutory Notes
 

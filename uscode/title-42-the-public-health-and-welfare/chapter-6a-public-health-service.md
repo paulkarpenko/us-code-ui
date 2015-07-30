@@ -12372,7 +12372,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
   (D) $2,200,000,000 for fiscal year 2014; and
 
-  (E) $3,600,000,000 for fiscal year 2015; and
+  (E) $3,600,000,000 for each of fiscal years 2015 through 2017; and
 
 (2) to be transferred to the Secretary of Health and Human Services to provide enhanced funding for the National Health Service Corps—
 
@@ -12384,7 +12384,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
   (D) $305,000,000 for fiscal year 2014; and
 
-  (E) $310,000,000 for fiscal year 2015.
+  (E) $310,000,000 for each of fiscal years 2015 through 2017.
 
 **(c) Construction** There is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,500,000,000 to be available for fiscal years 2011 through 2015 to be used by the Secretary of Health and Human Services for the construction and renovation of community health centers.
 
@@ -12398,6 +12398,8 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
+2015—Subsec. (b)(1)(E), (2)(E). Pub. L. 114–10 substituted “for each of fiscal years 2015 through 2017” for “for fiscal year 2015”.
+
 2010—Subsec. (b)(1)(A). Pub. L. 111–152, § 2303(1), substituted “1,000,000,000” for “700,000,000”.
 
 Subsec. (b)(1)(B). Pub. L. 111–152, § 2303(2), substituted “1,200,000,000” for “800,000,000”.
@@ -13190,11 +13192,13 @@ Pub. L. 111–148, title V, § 5208(a), Mar. 23, 2010, 124 Stat. 612, provided t
 
   (B) $100,000,000 for fiscal year 2003; and
 
-  (C) $150,000,000 for each of fiscal years 2004 through 2015.
+  (C) $150,000,000 for each of fiscal years 2004 through 2017.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (b)(2)(C). Pub. L. 114–10 substituted “2017” for “2015”.
+
 2014—Subsec. (b)(2)(C). Pub. L. 113–93 substituted “2015” for “2014”.
 
 2013—Subsec. (b)(2)(C). Pub. L. 112–240 substituted “2014” for “2013”.
@@ -13246,7 +13250,7 @@ Pub. L. 105–33, title IV, § 4923, Aug. 5, 1997, 111 Stat. 574, as amended by 
 
   (B) $100,000,000 for fiscal year 2003; and
 
-  (C) $150,000,000 for each of fiscal years 2004 through 2015.
+  (C) $150,000,000 for each of fiscal years 2004 through 2017.
 
 ### Statutory Notes
 
@@ -13256,6 +13260,8 @@ The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of 
 The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (c)(2)(C). Pub. L. 114–10 substituted “2017” for “2015”.
+
 2014—Subsec. (c)(2)(C). Pub. L. 113–93 substituted “2015” for “2014”.
 
 2013—Subsec. (c)(2)(C). Pub. L. 112–240 substituted “2014” for “2013”.
@@ -17161,7 +17167,7 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 **(f) Reconciliation** The Secretary shall determine any changes to the number of residents reported by a hospital in the application of the hospital for the current fiscal year to determine the final amount payable to the hospital for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpayments made to pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395oo of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) 22 See References in Text note below. of this title is subject to review under such section.
 
-**(g) Funding** To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015.
+**(g) Funding** To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015 and $60,000,000 for each of fiscal years 2016 and 2017.
 
 **(h) Annual reporting required**
 
@@ -17216,6 +17222,9 @@ Section 4410 of the Balanced Budget Act of 1997, referred to in subsec. (c)(2)(A
 
 #### Codification
 Another section 340H of act July 1, 1944, ch. 373, as added by Pub. L. 111–148, title X, § 10333, March 23, 2010, 124 Stat. 970, is classified to [section 256i of this title](./chapter-6a-public-health-service.md#section-256i).
+
+#### Amendments
+2015—Subsec. (g). Pub. L. 114–10 inserted “and $60,000,000 for each of fiscal years 2016 and 2017” before period at end.
 
 
 <a id="section-256i"></a>
@@ -22455,7 +22464,7 @@ Appendix 2 of title 5, referred to in subsec. (e), probably means the Federal Ad
 
 (3) have documented community activity and experience with community health workers.
 
-**(e) Collaboration with academic institutions and the one-stop delivery system** The Secretary shall encourage community health worker programs receiving funds under this section to collaborate with academic institutions and one-stop delivery systems under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim). Nothing in this section shall be construed to require such collaboration.
+**(e) Collaboration with academic institutions and the one-stop delivery system** The Secretary shall encourage community health worker programs receiving funds under this section to collaborate with academic institutions and one-stop delivery systems under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim). Nothing in this section shall be construed to require such collaboration.
 
 **(f) Evidence-based interventions** The Secretary shall encourage community health worker programs receiving funding under this section to implement a process or an outcome-based payment system that rewards community health workers for connecting underserved populations with the most appropriate services at the most appropriate time. Nothing in this section shall be construed to require such a payment.
 
@@ -22497,9 +22506,6 @@ Appendix 2 of title 5, referred to in subsec. (e), probably means the Federal Ad
 
 ### Statutory Notes
 
-#### Amendment of Subsection (e)
-Pub. L. 113–128, title V, §§ 506, 512(z)(1), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (e) of this section is amended by striking “one-stop delivery systems under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)” and inserting “one-stop delivery systems under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)”. See 2014 Amendment note below.
-
 #### References in Text
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
@@ -22511,7 +22517,7 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 Subsec. (k)(1). Pub. L. 111–148, § 10501(c)(2), struck out “, as defined by the Department of Labor as Standard Occupational Classification [21–1094]” before “means” in introductory provisions.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-280g-12"></a>
@@ -42008,7 +42014,7 @@ A prior section 750 of act July 1, 1944, was classified to [section 293n of this
 
 (1) **Required activities** — An eligible entity shall use amounts awarded under a grant under subsection (a)(1) or (a)(2) to carry out the following activities:
 
-  (A) Develop and implement strategies, in coordination with the applicable one-stop delivery system under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim), to recruit individuals from underrepresented minority populations or from disadvantaged or rural backgrounds into health professions, and support such individuals in attaining such careers.
+  (A) Develop and implement strategies, in coordination with the applicable one-stop delivery system under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim), to recruit individuals from underrepresented minority populations or from disadvantaged or rural backgrounds into health professions, and support such individuals in attaining such careers.
 
   (B) Develop and implement strategies to foster and provide community-based training and education to individuals seeking careers in health professions within underserved areas for the purpose of developing and maintaining a diverse health care workforce that is prepared to deliver high-quality care, with an emphasis on primary care, in underserved areas or for health disparity populations, in collaboration with other Federal and State health care workforce development programs, the State workforce agency, and local workforce investment boards, and in health care safety net sites.
 
@@ -42096,9 +42102,6 @@ A prior section 750 of act July 1, 1944, was classified to [section 293n of this
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)(1)(A)
-Pub. L. 113–128, title V, §§ 506, 512(z)(2), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(1)(A) of this section is amended by striking “the applicable one-stop delivery system under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim),” and inserting “the applicable one-stop delivery system under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim),”. See 2014 Amendment note below.
-
 #### Prior Provisions
 A prior section 294a, act July 1, 1944, ch. 373, title VII, § 762, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2046, authorized grants and contracts for public health special projects, prior to the general amendment of this part by Pub. L. 105–392.
 
@@ -42118,7 +42121,7 @@ Another prior section 751 of act July 1, 1944, was classified to [section 294t o
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Waiver of Requirements
 Pub. L. 113–235, div. G, title II, Dec. 16, 2014, 128 Stat. 2467, provided in part: “That for any program operating under section 751 of the PHS [Public Health Service] Act [[42 U.S.C. 294a](./chapter-6a-public-health-service.md#section-294a)] on or before January 1, 2009, the Secretary may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section”.
@@ -43065,7 +43068,7 @@ Another prior section 763 of act July 1, 1944, was classified to [section 295b o
 
   (C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act ([42 U.S.C. 292](./chapter-6a-public-health-service.md#section-292) et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq[., [42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.]);
 
-  (D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act ([42 U.S.C. 292](./chapter-6a-public-health-service.md#section-292) et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.), the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.[, [42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.]), and any other Federal health care workforce programs;
+  (D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act ([42 U.S.C. 292](./chapter-6a-public-health-service.md#section-292) et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act, the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.), the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.[, [42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.]), and any other Federal health care workforce programs;
 
   (E) the health care workforce needs of special populations, such as minorities, rural populations, medically underserved populations, gender specific needs, individuals with disabilities, and geriatric and pediatric populations with recommendations for new and existing Federal policies to meet the needs of these special populations; and
 
@@ -43177,9 +43180,6 @@ Another prior section 763 of act July 1, 1944, was classified to [section 295b o
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)(3)(D)
-Pub. L. 113–128, title V, §§ 506, 512(y), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (d)(3)(D) of this section is amended by striking “other health care workforce programs, including those supported through the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.),” and inserting “other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act,”. See 2014 Amendment note below.
-
 #### References in Text
 Section 5 of the Federal Advisory Committee Act, referred to in subsec. (c)(1), is section 5 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -43189,7 +43189,7 @@ The Public Health Service Act, referred to in subsec. (d)(3)(C), (D), is act Jul
 
 The Higher Education Act of 1965, referred to in subsec. (d)(3)(C), (D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified principally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
-The Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.), referred to in subsec. (d)(3)(D), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (d)(3)(D), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (d)(3)(D), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) and Tables.
 
@@ -43223,13 +43223,13 @@ Subsec. (d)(4)(A)(iv), (v). Pub. L. 111–148, § 10501(a)(2), added cl. (iv) an
 Subsec. (i)(2)(A), (C). Pub. L. 111–148, § 10501(a)(3), which directed insertion of “optometrists, ophthalmologists,” after “occupational therapists,” in subpar. (B) of subsec. (i)(2), was executed by making the insertion in subpars. (A) and (C). The words “occupational therapists,” do not appear in subpar. (B).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Purpose
 Pub. L. 111–148, title V, § 5001, Mar. 23, 2010, 124 Stat. 588, provided that: “The purpose of this title [see Tables for classification] is to improve access to and the delivery of health care services for all individuals, particularly low income, underserved, uninsured, minority, health disparity, and rural populations by— “(1) gathering and assessing comprehensive data in order for the health care workforce to meet the health care needs of individuals, including research on the supply, demand, distribution, diversity, and skills needs of the health care workforce; “(2) increasing the supply of a qualified health care workforce to improve access to and the delivery of health care services for all individuals; “(3) enhancing health care workforce education and training to improve access to and the delivery of health care services for all individuals; and “(4) providing support to the existing health care workforce to improve access to and the delivery of health care services for all individuals.”
 
 #### Definitions
-Pub. L. 111–148, title V, § 5002(a), Mar. 23, 2010, 124 Stat. 588, provided that: “In this title [see Tables for classification]: “(1) Allied health professional.—The term ‘allied health professional’ means an allied health professional as defined in section 799B(5) of the Public Heath Service Act ([42 U.S.C. 295p(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section295p/5&num=0&edition=prelim)) who—“(A) has graduated and received an allied health professions degree or certificate from an institution of higher education; and “(B) is employed with a Federal, State, local or tribal public health agency, or in a setting where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences, and other settings located in health professional shortage areas, medically underserved areas, or medically underserved populations, as recognized by the Secretary of Health and Human Services. “(2) Health care career pathway.—The term ‘healthcare career pathway’ means a rigorous, engaging, and high quality set of courses and services that—“(A) includes an articulated sequence of academic and career courses, including 21st century skills; “(B) is aligned with the needs of healthcare industries in a region or State; “(C) prepares students for entry into the full range of postsecondary education options, including registered apprenticeships, and careers; “(D) provides academic and career counseling in student-to-counselor ratios that allow students to make informed decisions about academic and career options; “(E) meets State academic standards, State requirements for secondary school graduation and is aligned with requirements for entry into postsecondary education, and applicable industry standards; and “(F) leads to 2 or more credentials, including—“(i) a secondary school diploma; and “(ii) a postsecondary degree, an apprenticeship or other occupational certification, a certificate, or a license. “(3) Institution of higher education.—The term ‘institution of higher education’ has the meaning given the term in sections 101 and 102 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and 1002). “(4) Low income individual, state workforce investment board, and local workforce investment board.—“(A) Low-income individual.—The term ‘low-income individual’ has the meaning given that term in section 101 of the Workforce investment [sic] Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)). “(B) State workforce investment board; local workforce investment board.—The terms ‘State workforce investment board’ and ‘local workforce investment board’, [sic] refer to a State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821&num=0&edition=prelim)) and a local workforce investment board established under section 117 of such Act ([29 U.S.C. 2832](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim)), respectively. “(5) Postsecondary education.—The term ‘postsecondary education’ means—“(A) a 4-year program of instruction, or not less than a 1-year program of instruction that is acceptable for credit toward an associate or a baccalaureate degree, offered by an institution of higher education; or “(B) a certificate or registered apprenticeship program at the postsecondary level offered by an institution of higher education or a non-profit educational institution. “(6) Registered apprenticeship program.—The term ‘registered apprenticeship program’ means an industry skills training program at the postsecondary level that combines technical and theoretical training through structure on the job learning with related instruction (in a classroom or through distance learning) while an individual is employed, working under the direction of qualified personnel or a mentor, and earning incremental wage increases aligned to enhance job proficiency, resulting in the acquisition of a nationally recognized and portable certificate, under a plan approved by the Office of Apprenticeship or a State agency recognized by the Department of Labor.”
+Pub. L. 111–148, title V, § 5002(a), Mar. 23, 2010, 124 Stat. 588, provided that: “In this title [see Tables for classification]: “(1) Allied health professional.—The term ‘allied health professional’ means an allied health professional as defined in section 799B(5) of the Public Heath Service Act ([42 U.S.C. 295p(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section295p/5&num=0&edition=prelim)) who—“(A) has graduated and received an allied health professions degree or certificate from an institution of higher education; and “(B) is employed with a Federal, State, local or tribal public health agency, or in a setting where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences, and other settings located in health professional shortage areas, medically underserved areas, or medically underserved populations, as recognized by the Secretary of Health and Human Services. “(2) Health care career pathway.—The term ‘healthcare career pathway’ means a rigorous, engaging, and high quality set of courses and services that—“(A) includes an articulated sequence of academic and career courses, including 21st century skills; “(B) is aligned with the needs of healthcare industries in a region or State; “(C) prepares students for entry into the full range of postsecondary education options, including registered apprenticeships, and careers; “(D) provides academic and career counseling in student-to-counselor ratios that allow students to make informed decisions about academic and career options; “(E) meets State academic standards, State requirements for secondary school graduation and is aligned with requirements for entry into postsecondary education, and applicable industry standards; and “(F) leads to 2 or more credentials, including—“(i) a secondary school diploma; and “(ii) a postsecondary degree, an apprenticeship or other occupational certification, a certificate, or a license. “(3) Institution of higher education.—The term ‘institution of higher education’ has the meaning given the term in sections 101 and 102 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and 1002). “(4) Low income individual, state workforce investment board, and local workforce investment board.—“(A) Low-income individual.—The term ‘low-income individual’ has the meaning given that term in section 101 of the Workforce investment [sic] Act of 1998 ([former] [29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)). “(B) State workforce investment board; local workforce investment board.—The terms ‘State workforce investment board’ and ‘local workforce investment board’, [sic] refer to a State workforce investment board established under [former] section 111 of the Workforce Investment Act of 1998 ([former] [29 U.S.C. 2821](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821&num=0&edition=prelim)) and a local workforce investment board established under [former] section 117 of such Act ([former] [29 U.S.C. 2832](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim)), respectively. “(5) Postsecondary education.—The term ‘postsecondary education’ means—“(A) a 4-year program of instruction, or not less than a 1-year program of instruction that is acceptable for credit toward an associate or a baccalaureate degree, offered by an institution of higher education; or “(B) a certificate or registered apprenticeship program at the postsecondary level offered by an institution of higher education or a non-profit educational institution. “(6) Registered apprenticeship program.—The term ‘registered apprenticeship program’ means an industry skills training program at the postsecondary level that combines technical and theoretical training through structure on the job learning with related instruction (in a classroom or through distance learning) while an individual is employed, working under the direction of qualified personnel or a mentor, and earning incremental wage increases aligned to enhance job proficiency, resulting in the acquisition of a nationally recognized and portable certificate, under a plan approved by the Office of Apprenticeship or a State agency recognized by the Department of Labor.”
 
 
 <a id="section-294r"></a>
@@ -44346,7 +44346,7 @@ For purposes of this subchapter:
 
 (22) **Mental health service professional.—** — The term “mental health service professional” means an individual with a graduate or postgraduate degree from an accredited institution of higher education in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing, social work, school social work, substance abuse disorder prevention and treatment, marriage and family counseling, school counseling, or professional counseling.
 
-(23) **One-stop delivery system center.—** — The term “one-stop delivery system” means a one-stop delivery system described in [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim).
+(23) **One-stop delivery system center.—** — The term “one-stop delivery system” means a one-stop delivery system described in [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim).
 
 (24) **Paraprofessional child and adolescent mental health worker.—** — The term “paraprofessional child and adolescent mental health worker” means an individual who is not a mental or behavioral health service professional, but who works at the first stage of contact with children and families who are seeking mental or behavioral health services, including substance abuse prevention and treatment services.
 
@@ -44355,9 +44355,6 @@ For purposes of this subchapter:
 (26) **Rural health clinic.—** — The term “rural health clinic” has the meaning given that term in [section 1395x(aa) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (23)
-Pub. L. 113–128, title V, §§ 506, 512(z)(3), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (23) of this section is amended by striking “one-stop delivery system described in [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)” and inserting “one-stop delivery system described in [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)”. See 2014 Amendment note below.
 
 #### References in Text
 The reference to [section 254b of this title](./chapter-6a-public-health-service.md#section-254b) the first place appearing and the reference to [section 254c of this title](./chapter-6a-public-health-service.md#section-254c), referred to in par. (6)(B), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, § 2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
@@ -44392,7 +44389,7 @@ Par. (6)(D). Pub. L. 105–392, § 108(c), added subpar. (D).
 Par. (11). Pub. L. 105–392, § 108(e), added par. (11).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under [section 254b of this title](./chapter-6a-public-health-service.md#section-254b).
@@ -49970,7 +49967,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under [section 162 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section162&num=0&edition=prelim), Internal Revenue Code.
 
 #### Construction of 2002 Amendment
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor.
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under [section 35 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section35&num=0&edition=prelim), Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -62368,7 +62365,7 @@ Section applicable with respect to health insurance coverage offered, sold, issu
 2006—Pub. L. 109–172 amended section generally, substituting provisions relating to relief for high risk pools for provisions relating to promotion of qualified high risk pools.
 
 #### Construction
-Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor.
+Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under [section 35 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section35&num=0&edition=prelim), Internal Revenue Code.
 
 
 <a id="section-300gg-5"></a>

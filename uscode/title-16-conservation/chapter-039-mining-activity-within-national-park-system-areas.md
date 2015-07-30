@@ -27,6 +27,8 @@ Section, Pub. L. 94–429, § 2, Sept. 28, 1976, 90 Stat. 1342, related to prese
 
 ### Statutory Notes
 
+Sections 1903 to 1906 had been omitted from the Code prior to repeal by Pub. L. 113–287.
+
 Section 1903, Pub. L. 94–429, § 4, Sept. 28, 1976, 90 Stat. 1343, provided for a 4-year cessation of certain mining operations within the boundaries of Death Valley National Monument, Mount McKinley National Park, and Organ Pipe Cactus National Monument, subject to exceptions.
 
 Section 1904, Pub. L. 94–429, § 5, Sept. 28, 1976, 90 Stat. 1343, provided for inapplicability of requirements for annual expenditures on mining claims to mining operations during the 4-year period under section 1903.
@@ -49,7 +51,7 @@ Section, Pub. L. 94–429, § 8, Sept. 28, 1976, 90 Stat. 1343, related to recor
 
 ### Statutory Notes
 
-Section, Pub. L. 94–429, § 9, Sept. 28, 1976, 90 Stat. 1343, related to damage to natural and historical landmarks and procedures for determination and enforcement of abatement of damaging activities. See [section 100734 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100734&num=0&edition=prelim), National Park Service and Related Programs.
+Section, Pub. L. 94–429, § 9, Sept. 28, 1976, 90 Stat. 1343, related to damage to natural and historical landmarks and procedures for determination and enforcement of abatement of damaging activities. Subsec. (a) was repealed and restated in [section 100734 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100734&num=0&edition=prelim), National Park Service and Related Programs. Subsec. (b), which required a report on the effect of surface mining activities on natural and historical landmarks and had been omitted from the Code, was repealed as obsolete.
 
 
 <a id="section-1909"></a>
@@ -81,4 +83,4 @@ Section, Pub. L. 94–429, § 12, Sept. 28, 1976, 90 Stat. 1344, related to acqu
 
 ### Statutory Notes
 
-Section, Pub. L. 94–429, § 13, Sept. 28, 1976, 90 Stat. 1344, related to financial disclosure by officer or employee of Secretary. See [section 100737 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100737&num=0&edition=prelim), National Park Service and Related Programs, and [section 1865 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865&num=0&edition=prelim), Crimes and Criminal Procedure.
+Section, Pub. L. 94–429, § 13, Sept. 28, 1976, 90 Stat. 1344, related to financial disclosure by officer or employee of Secretary. See [section 1865(b) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/b&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100737(a) to (c) of Title 54, National Park Service and Related Programs.

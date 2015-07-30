@@ -2,7 +2,7 @@
 title: 15
 heading: COMMERCE AND TRADE
 positive_law: false
-sections: 2396
+sections: 2394
 chapters: 137
 ---
 # Title 15. COMMERCE AND TRADE

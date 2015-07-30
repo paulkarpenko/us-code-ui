@@ -12,7 +12,7 @@ source: >-
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 103–451, § 2, Nov. 2, 1994, 108 Stat. 4769, related to findings, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by Pub. L. 113–287.
+Section, Pub. L. 103–451, § 2, Nov. 2, 1994, 108 Stat. 4769, which related to congressional findings, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by Pub. L. 113–287.
 
 
 <a id="section-5402"></a>
@@ -44,7 +44,7 @@ Section, Pub. L. 103–451, § 5, Nov. 2, 1994, 108 Stat. 4774, related to Natio
 
 ### Statutory Notes
 
-Section, Pub. L. 103–451, § 6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, § 1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, § 1 [div. C, title XXXV, § 3502(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, § 3514, Jan. 28, 2008, 122 Stat. 594; Pub. L. 111–84, div. C, title XXXV, § 3509, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, § 1075(n), Jan. 7, 2011, 124 Stat. 4378, related to funding. See [section 308704 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308704&num=0&edition=prelim).
+Section, Pub. L. 103–451, § 6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, § 1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, § 1 [div. C, title XXXV, § 3502(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, § 3514, Jan. 28, 2008, 122 Stat. 594; Pub. L. 111–84, div. C, title XXXV, § 3509, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, § 1075(n), Jan. 7, 2011, 124 Stat. 4378, related to funding. See [section 308704 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308704&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-5406"></a>
@@ -52,7 +52,7 @@ Section, Pub. L. 103–451, § 6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85
 
 ### Statutory Notes
 
-Section, Pub. L. 103–451, § 7, Nov. 2, 1994, 108 Stat. 4777, related to definitions. See [section 308702 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308702&num=0&edition=prelim), National Park Service and Related Programs.
+Section, Pub. L. 103–451, § 7, Nov. 2, 1994, 108 Stat. 4777, provided definitions for this chapter. See [section 308702 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308702&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-5407"></a>

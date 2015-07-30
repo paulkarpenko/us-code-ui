@@ -494,7 +494,7 @@ Section was formerly set out as a note under [section 552a of Title 5](https://u
 
     (iv) trade secrets (as that term is defined in [section 1839 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1839&num=0&edition=prelim)).
 
-  (B) *Availability* — Any annex described in clause (i)—
+  (B) *Availability* — Any annex described in clause (i)— 33 So in original. Probably should be “subparagraph (A)—”.
 
     (i) shall be available, as appropriate, and consistent with the National Security Act of 1947 [[50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) et seq.], to the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Financial Services of the House of Representatives; and
 

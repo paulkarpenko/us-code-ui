@@ -14,5 +14,9 @@ source: >-
 
 ### Statutory Notes
 
-#### Codification
-Section is based on [section 457 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section457&num=0&edition=prelim), Conservation, which was repealed and restated as this section by Pub. L. 113–287, §§ 4(b)(1), 7, Dec. 19, 2014, 128 Stat. 3261, 3272.
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5001 | [16 U.S.C. 457](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section457&num=0&edition=prelim) | Feb. 1, 1928, ch. 15, 45 Stat. 54. |
+
+In subsection (a), the words “civil action” are substituted for “action” for consistency in the revised title and with other titles of the United States Code.

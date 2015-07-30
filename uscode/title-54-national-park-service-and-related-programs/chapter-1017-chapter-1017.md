@@ -20,6 +20,9 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment Not Shown in Text
+This section was derived from [section 1f of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1f&num=0&edition=prelim), Conservation, which was amended by Pub. L. 113–40, § 10(c), Oct. 2, 2013, 127 Stat. 546. For applicability of that amendment to this section, see section 6(b) of Pub. L. 113–287, set out as a Transitional and Savings Provisions note preceding [section 100101 of this title](./chapter-1001-chapter-1001.md#section-100101). Former [section 1f of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1f&num=0&edition=prelim), which consisted of pars. (1) to (3) [restated in this section as subsecs. (a) to (c)], was amended by Pub. L. 113–40 by adding at the end the following new paragraphs: “(4) Available funds.—Out of any amounts in the Treasury not otherwise appropriated, $20,000,000 shall be made available to the Secretary of the Interior for fiscal year 2018, and $30,000,000 shall be made available to the Secretary of the Interior for fiscal year 2019, without further appropriation and to remain available until expended, to pay the Federal funding share of challenge cost-share agreements for deferred maintenance projects and to correct deficiencies in National Park Service infrastructure. “(5) Cost-share requirement.—Not less than 50 percent of the total cost of project for funds made available under paragraph (4) to pay the Federal funding share shall be derived from non-Federal sources, including in-kind contribution of goods and services fairly valued.”
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |

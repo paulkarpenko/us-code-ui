@@ -188,7 +188,7 @@ Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, pr
 ### Statutory Notes
 
 #### References in Text
-The Central Intelligence Agency Act of 1949, referred to in subsec. (e)(2)(B), is act June 20, 1949, ch. 227, 63 Stat. 208, which is classified generally to chapter 46 (§ 3501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Central Intelligence Agency Act of 1949, referred to in subsec. (e)(2)(B), is act June 20, 1949, ch. 227, 63 Stat. 208, which is classified generally to chapter 46 (§ 3501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2014—Subsec. (b)(2). Pub. L. 113–291, § 1071(c)(7)(A), substituted “([50 U.S.C. 3515](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3515&num=0&edition=prelim))” for “([50 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim)o)”.

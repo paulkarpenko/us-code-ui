@@ -5362,9 +5362,6 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 ### Statutory Notes
 
-#### References in Text
-The provisions of law governing appointments in the competitive service, referred to in subsec. (a)(1), are classified generally to section 3301 et seq. of this title.
-
 #### Amendments
 2006—Subsec. (c)(4). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 

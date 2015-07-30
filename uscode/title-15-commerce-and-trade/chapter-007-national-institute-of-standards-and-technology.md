@@ -104,7 +104,7 @@ Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, tit
 
 (13) to coordinate Federal, State, and local technical standards activities and conformity assessment activities, with private sector technical standards activities and conformity assessment activities, with the goal of eliminating unnecessary duplication and complexity in the development and promulgation of conformity assessment requirements and measures.
 
-**(c) Implementation activities** In carrying out the functions specified in subsection (b) of this section, the Secretary, acting through the Director 11 So in original. Probably should be followed by a comma. may, among other things—
+**(c) Implementation activities** In carrying out the functions specified in subsection (b), the Secretary, acting through the Director 11 So in original. Probably should be followed by a comma. may, among other things—
 
 (1) construct physical standards;
 
@@ -808,7 +808,7 @@ Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The 
 
 (4) carry out the responsibilities described in paragraph (3) through the Computer Security Division.
 
-**(b) Minimum requirements for standards and guidelines** The standards and guidelines required by subsection (a) of this section shall include, at a minimum—
+**(b) Minimum requirements for standards and guidelines** The standards and guidelines required by subsection (a) shall include, at a minimum—
 
 (1)
 
@@ -822,7 +822,7 @@ Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The 
 
 (3) guidelines developed in coordination with the National Security Agency for identifying an information system as a national security system consistent with applicable requirements for national security systems, issued in accordance with law and as directed by the President.
 
-**(c) Development of standards and guidelines** In developing standards and guidelines required by subsections (a) and (b) of this section, the Institute shall—
+**(c) Development of standards and guidelines** In developing standards and guidelines required by subsections (a) and (b), the Institute shall—
 
 (1) consult with other agencies and offices (including, but not limited to, the Director of the Office of Management and Budget, the Departments of Defense and Energy, the National Security Agency, the Government Accountability Office, and the Secretary of Homeland Security) to assure—
 
@@ -834,11 +834,11 @@ Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The 
 
 (3) submit to the Director of the Office of Management and Budget for promulgation under [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim)—
 
-  (A) standards, as required under subsection (b)(1)(A) of this section, no later than 12 months after November 25, 2002; and
+  (A) standards, as required under subsection (b)(1)(A), no later than 12 months after November 25, 2002; and
 
-  (B) minimum information security requirements for each category, as required under subsection (b)(1)(C) of this section, no later than 36 months after November 25, 2002;
+  (B) minimum information security requirements for each category, as required under subsection (b)(1)(C), no later than 36 months after November 25, 2002;
 
-(4) issue guidelines as required under subsection (b)(1)(B) of this section, no later than 18 months after November 25, 2002;
+(4) issue guidelines as required under subsection (b)(1)(B), no later than 18 months after November 25, 2002;
 
 (5) ensure that such standards and guidelines do not require specific technological solutions or products, including any specific hardware or software security solutions;
 
@@ -848,11 +848,11 @@ Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The 
 
 **(d) Information security functions** The Institute shall—
 
-(1) submit standards developed pursuant to subsection (a) of this section, along with recommendations as to the extent to which these should be made compulsory and binding, to the Director of the Office of Management and Budget for promulgation under [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim);
+(1) submit standards developed pursuant to subsection (a), along with recommendations as to the extent to which these should be made compulsory and binding, to the Director of the Office of Management and Budget for promulgation under [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim);
 
 (2) provide assistance to agencies regarding—
 
-  (A) compliance with the standards and guidelines developed under subsection (a) of this section;
+  (A) compliance with the standards and guidelines developed under subsection (a);
 
   (B) detecting and handling information security incidents; and
 
@@ -868,7 +868,7 @@ Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The 
 
 (7) periodically assess the effectiveness of standards and guidelines developed under this section and undertake revisions as appropriate;
 
-(8) solicit and consider the recommendations of the Information Security and Privacy Advisory Board, established by [section 278g–4 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-4), regarding standards and guidelines developed under subsection (a) of this section and submit such recommendations to the Director of the Office of Management and Budget with such standards submitted to the Director; and
+(8) solicit and consider the recommendations of the Information Security and Privacy Advisory Board, established by [section 278g–4 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-4), regarding standards and guidelines developed under subsection (a) and submit such recommendations to the Director of the Office of Management and Budget with such standards submitted to the Director; and
 
 (9) prepare an annual public report on activities undertaken in the previous year, and planned for the coming year, to carry out responsibilities under this section.
 
@@ -901,7 +901,7 @@ Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The 
 ### Statutory Notes
 
 #### References in Text
-Section 3552(b)(5) of such title, referred to in subsec. (e)(5), probably should be [section 3552(b)(6) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552/b/6&num=0&edition=prelim).
+Section 3552(b)(5) of such title, referred to in subsec. (f)(5), probably should be [section 3552(b)(6) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552/b/6&num=0&edition=prelim).
 
 #### Codification
 November 25, 2002, referred to in subsec. (c)(3) and (4), was in the original “the date of the enactment of this section” in subsec. (c)(3) and “the date of the enactment of this Act” in subsec. (c)(4), which were translated as meaning the date of enactment of Pub. L. 107–296, which enacted the text of this section, to reflect the probable intent of Congress.
@@ -1259,7 +1259,7 @@ Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that: “SECTION. 1. S
 
 **(c) Awards; applications**
 
-(1) **In general** — The Director is authorized to award grants or cooperative agreements to institutions of higher education to carry out the program established under subsection (a) of this section. No funds made available under this section shall be made available directly to any for-profit partners.
+(1) **In general** — The Director is authorized to award grants or cooperative agreements to institutions of higher education to carry out the program established under subsection (a). No funds made available under this section shall be made available directly to any for-profit partners.
 
 (2) **Eligibility** — To be eligible for an award under this section, an institution of higher education shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
 
@@ -1273,7 +1273,7 @@ Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that: “SECTION. 1. S
 
 **(d) Program operation**
 
-(1) **Management** — The program established under subsection (a) of this section shall be managed by individuals who shall have both expertise in research related to the security of computer systems and knowledge of the vulnerabilities of existing computer systems. The Director shall designate such individuals as program managers.
+(1) **Management** — The program established under subsection (a) shall be managed by individuals who shall have both expertise in research related to the security of computer systems and knowledge of the vulnerabilities of existing computer systems. The Director shall designate such individuals as program managers.
 
 (2) **Managers may be employees** — Program managers designated under paragraph (1) may be new or existing employees of the Institute or individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 [[42 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) et seq.], except that individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 shall not directly manage such employees.
 
@@ -1293,17 +1293,17 @@ Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that: “SECTION. 1. S
 
     (iv) the nature of the participation by for-profit entities and the extent to which the proposed projects address the concerns of industry; and
 
-    (v) other criteria determined by the Director, based on information specified for inclusion in applications under subsection (c) of this section; and
+    (v) other criteria determined by the Director, based on information specified for inclusion in applications under subsection (c); and
 
   (D) monitoring the progress of research projects supported under the program.
 
-(4) **Reports** — The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use and responsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 [[42 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) et seq.] who are performing duties under subsection (d) of this section.
+(4) **Reports** — The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use and responsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 [[42 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) et seq.] who are performing duties under subsection (d).
 
 **(e) Review of program**
 
-(1) **Periodic review** — The Director shall periodically review the portfolio of research awards monitored by each program manager designated in accordance with subsection (d) of this section. In conducting those reviews, the Director shall seek the advice of the Computer System Security 1 and Privacy Advisory Board, established under [section 278g–4 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-4), on the appropriateness of the research goals and on the quality and utility of research projects managed by program managers in accordance with subsection (d) of this section.
+(1) **Periodic review** — The Director shall periodically review the portfolio of research awards monitored by each program manager designated in accordance with subsection (d). In conducting those reviews, the Director shall seek the advice of the Computer System Security 1 and Privacy Advisory Board, established under [section 278g–4 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-4), on the appropriateness of the research goals and on the quality and utility of research projects managed by program managers in accordance with subsection (d).
 
-(2) **Comprehensive 5-year review** — The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) of this section during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A) of this section, and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph no later than 6 years after the initiation of the program.
+(2) **Comprehensive 5-year review** — The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A), and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph no later than 6 years after the initiation of the program.
 
 **(f) Definitions** In this section:
 
@@ -1358,7 +1358,7 @@ The Director may periodically contract with the National Research Council for ad
 
 <a id="section-278k"></a>
 ## § 278k. Regional centers for the transfer of manufacturing technology
-**(a) Creation and support of Centers; affiliations; merit review in determining awards; objectives** The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the “Centers”). Such centers 11 So in original. Probably should be capitalized. shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2) of this section. Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
+**(a) Creation and support of Centers; affiliations; merit review in determining awards; objectives** The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the “Centers”). Such centers 11 So in original. Probably should be capitalized. shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2). Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
 
 (1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
@@ -1382,7 +1382,7 @@ The Director may periodically contract with the National Research Council for ad
 
 **(c) Duration and amount of support; program descriptions; applications; merit review; evaluations of assistance; applicability of patent law; report; modification of requirements**
 
-(1) The Secretary may provide financial support to any Center created under subsection (a) of this section for a period not to exceed six years. The Secretary may not provide to a Center more than 50 percent of the capital and annual operating and maintenance funds required to create and maintain such Center.
+(1) The Secretary may provide financial support to any Center created under subsection (a) for a period not to exceed six years. The Secretary may not provide to a Center more than 50 percent of the capital and annual operating and maintenance funds required to create and maintain such Center.
 
 (2) The Secretary shall publish in the Federal Register, within 90 days after August 23, 1988, a draft description of a program for establishing Centers, including—
 
@@ -1942,7 +1942,7 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
 (1) **In general** — The Secretary shall establish within the Institute a program to be known as the “Network for Manufacturing Innovation Program” (referred to in this section as the “Program”).
 
-(2) **Purposes of program** — The purposes of the Program are—
+(2) **Purposes of Program** — The purposes of the Program are—
 
   (A) to improve the competitiveness of United States manufacturing and to increase the production of goods manufactured predominantly within the United States;
 
@@ -1974,7 +1974,7 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
 (2) **Designation** — The network established under paragraph (1) shall be known as the “Network for Manufacturing Innovation” (referred to in this section as the “Network”).
 
-**(c) Centers for Manufacturing Innovation**
+**(c) Centers for manufacturing innovation**
 
 (1) **In general** — For purposes of this section, a “center for manufacturing innovation” is a center that—
 
@@ -2010,7 +2010,7 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
   (B) *Network participation* — A manufacturing center that is substantially similar to those established under this subsection but that does not receive financial assistance under subsection (d) may, upon request of the center, be recognized as a center for manufacturing innovation by the Secretary for purposes of participation in the Network.
 
-**(d) Financial Assistance to Establish and Support Centers for Manufacturing Innovation**
+**(d) Financial assistance to establish and support centers for manufacturing innovation**
 
 (1) **In general** — In carrying out the Program, the Secretary shall award financial assistance to a person or group of persons to assist the organization in planning, establishing, or supporting a center for manufacturing innovation.
 
@@ -2108,15 +2108,15 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
 (3) **Recommendations** — In developing and updating the strategic plan under paragraph (2)(C), the Secretary shall solicit recommendations and advice from a wide range of stakeholders, including industry, small and medium-sized manufacturing enterprises, research universities, community colleges, and other relevant organizations and institutions on an ongoing basis.
 
-(4) **Report to congress** — Upon completion, the Secretary shall transmit the strategic plan required under paragraph (2)(C) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+(4) **Report to Congress** — Upon completion, the Secretary shall transmit the strategic plan required under paragraph (2)(C) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
-(5) **Hollings manufacturing extension partnership** — The Secretary shall ensure that the National Program Office incorporates the Hollings Manufacturing Extension Partnership into Program planning to ensure that the results of the Program reach small and medium-sized entities.
+(5) **Hollings Manufacturing Extension Partnership** — The Secretary shall ensure that the National Program Office incorporates the Hollings Manufacturing Extension Partnership into Program planning to ensure that the results of the Program reach small and medium-sized entities.
 
 (6) **Detailees** — Any Federal Government employee may be detailed to the National Program Office without reimbursement. Such detail shall be without interruption or loss of civil service status or privilege.
 
-**(g) Reporting and Auditing**
+**(g) Reporting and auditing**
 
-(1) **Annual reports to the secretary**
+(1) **Annual reports to the Secretary**
 
   (A) *In general* — The Secretary shall require each recipient of financial assistance under subsection (d)(1) to annually submit a report to the Secretary that describes the finances and performance of the center for manufacturing innovation for which such assistance was awarded.
 
@@ -2130,7 +2130,7 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
       (II) how the center for manufacturing innovation has furthered the purposes described in subsection (a)(2).
 
-(2) **Annual reports to congress**
+(2) **Annual reports to Congress**
 
   (A) *In general* — Not less frequently than once each year until December 31, 2024, the Secretary shall submit a report to Congress that describes the performance of the Program during the most recent 1-year period.
 
@@ -2144,7 +2144,7 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
     (iv) an assessment of the Program with respect to meeting the purposes described in subsection (a)(2).
 
-(3) **Assessments by gao**
+(3) **Assessments by GAO**
 
   (A) *Assessments* — Not less frequently than once every 2 years, the Comptroller General shall submit to Congress an assessment of the operation of the Program during the most recent 2-year period.
 
@@ -2160,7 +2160,7 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
     (iv) an assessment as to whether any prior recommendations for improvement made by the Comptroller General have been implemented or adopted.
 
-**(h) Additional Authorities**
+**(h) Additional authorities**
 
 (1) **Appointment of personnel and contracts** — The Secretary may appoint such personnel and enter into such contracts, financial assistance agreements, and other agreements as the Secretary considers necessary or appropriate to carry out the Program, including support for research and development activities involving a center for manufacturing innovation.
 
@@ -2179,7 +2179,7 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 ### Statutory Notes
 
 #### References in Text
-The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec.(e)(1), is title VII of div. B. of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2220. For complete classification of this Act to the Code, see Short Title note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271) and Tables.
+The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec. (e)(1), is title VII of div. B. of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2220. For complete classification of this Act to the Code, see Short Title note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271) and Tables.
 
 #### Prior Provisions
 A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and is set out as a Short Title note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271).

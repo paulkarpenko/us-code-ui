@@ -245,7 +245,7 @@ Pub. L. 90–576, title I, § 103, Oct. 16, 1968, 82 Stat. 1091, provided that t
 
 (2) The authority to report to the Secretary of the Interior and the Governor of American Samoa all failures to collect amounts due the government, and expenditures of funds or uses or property which are irregular or not pursuant to law.
 
-**(c) Scope of authority transferred** The authority granted in paragraph (b) of this section shall extend to all activities of the government of American Samoa, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 (92 Stat. 1101), as amended.
+**(c) Scope of authority transferred** The authority granted in paragraph (b) shall extend to all activities of the government of American Samoa, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 (92 Stat. 1101), as amended.
 
 **(d) Transfer of personnel, assets, etc., of office of government comptroller for American Samoa to Office of Inspector General, Department of the Interior** In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for American Samoa relating to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 

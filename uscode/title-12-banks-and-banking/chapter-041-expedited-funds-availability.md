@@ -112,7 +112,7 @@ If any provision of Pub. L. 100–86 or the application thereof to any person or
 ## § 4002. Expedited funds availability schedules
 **(a) Next business day availability for certain deposits**
 
-(1) **Cash deposits; wire transfers** — Except as provided in subsection (e) of this section and in [section 4003 of this title](./chapter-041-expedited-funds-availability.md#section-4003), in any case in which—
+(1) **Cash deposits; wire transfers** — Except as provided in subsection (e) and in [section 4003 of this title](./chapter-041-expedited-funds-availability.md#section-4003), in any case in which—
 
   (A) any cash is deposited in an account at a receiving depository institution staffed by individuals employed by such institution, or
 
@@ -167,11 +167,11 @@ If any provision of Pub. L. 100–86 or the application thereof to any person or
 
 (3) **Time period adjustments for cash withdrawal of certain checks**
 
-  (A) *In general* — Except as provided in subparagraph (B), funds deposited in an account in a depository institution by check (other than a check described in subsection (a)(2) of this section) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under paragraph (1) or (2).
+  (A) *In general* — Except as provided in subparagraph (B), funds deposited in an account in a depository institution by check (other than a check described in subsection (a)(2)) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under paragraph (1) or (2).
 
   (B) *5 p.m. cash availability* — Not more than $400 (or the maximum amount allowable in the case of a withdrawal from an automated teller machine but not more than $400) of funds deposited by one or more checks to which this paragraph applies shall be available for cash withdrawal not later than 5 o’clock post meridian of the business day on which such funds are available under paragraph (1) or (2). If funds deposited by checks described in both paragraph (1) and paragraph (2) become available for cash withdrawal under this paragraph on the same business day, the limitation contained in this subparagraph shall apply to the aggregate amount of such funds.
 
-  (C) *$200 availability* — Any amount available for withdrawal under this paragraph shall be in addition to the amount available under subsection (a)(2)(D) of this section.
+  (C) *$200 availability* — Any amount available for withdrawal under this paragraph shall be in addition to the amount available under subsection (a)(2)(D).
 
 (4) **Applicability** — This subsection shall apply with respect to funds deposited by check in an account at a depository institution on or after September 1, 1990, except that the Board may, by regulation, make this subsection or any part of this subsection applicable earlier than September 1, 1990.
 
@@ -183,21 +183,21 @@ If any provision of Pub. L. 100–86 or the application thereof to any person or
 
   (B) *Time period adjustment for cash withdrawal of certain checks*
 
-    (i) *In general* — Except as provided in clause (ii), funds deposited in an account in a depository institution by check drawn on a local depository institution that is not a participant in the same check clearinghouse association as the receiving depository institution (other than a check described in subsection (a)(2) of this section) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under subparagraph (A).
+    (i) *In general* — Except as provided in clause (ii), funds deposited in an account in a depository institution by check drawn on a local depository institution that is not a participant in the same check clearinghouse association as the receiving depository institution (other than a check described in subsection (a)(2)) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under subparagraph (A).
 
     (ii) *5 p.m. cash availability* — Not more than $400 (or the maximum amount allowable in the case of a withdrawal from an automated teller machine but not more than $400) of funds deposited by one or more checks to which this subparagraph applies shall be available for cash withdrawal not later than 5 o’clock post meridian of the business day on which such funds are available under subparagraph (A).
 
-    (iii) *$200 availability* — Any amount available for withdrawal under this subparagraph shall be in addition to the amount available under subsection (a)(2)(D) of this section.
+    (iii) *$200 availability* — Any amount available for withdrawal under this subparagraph shall be in addition to the amount available under subsection (a)(2)(D).
 
 (2) **Availability of nonlocal checks** — Subject to subsections (a)(2), (d), and (e) of this section and [section 4003 of this title](./chapter-041-expedited-funds-availability.md#section-4003), not more than 6 business days shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a nonlocal originating depository institution and the business day on which such funds are available for withdrawal.
 
-(3) **Applicability** — This subsection shall apply with respect to funds deposited by check in an account at a depository institution after August 31, 1988, and before September 1, 1990, except as may be otherwise provided under subsection (b)(4) of this section.
+(3) **Applicability** — This subsection shall apply with respect to funds deposited by check in an account at a depository institution after August 31, 1988, and before September 1, 1990, except as may be otherwise provided under subsection (b)(4).
 
 **(d) Time period adjustments**
 
-(1) **Reduction generally** — Notwithstanding any other provision of law, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) of this section to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
+(1) **Reduction generally** — Notwithstanding any other provision of law, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
 
-(2) **Extension for certain deposits in noncontiguous States or territories** — Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) of this section shall be extended by 1 business day in the case of any deposit which is both—
+(2) **Extension for certain deposits in noncontiguous States or territories** — Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) shall be extended by 1 business day in the case of any deposit which is both—
 
   (A) deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, or the Virgin Islands; and
 
@@ -213,13 +213,13 @@ If any provision of Pub. L. 100–86 or the application thereof to any person or
 
     (i) a cash deposit;
 
-    (ii) a deposit made by a check described in subsection (a)(2) of this section;
+    (ii) a deposit made by a check described in subsection (a)(2);
 
-    (iii) a deposit made by a check drawn on a local originating depository institution (other than a check described in subsection (a)(2) of this section); or
+    (iii) a deposit made by a check drawn on a local originating depository institution (other than a check described in subsection (a)(2)); or
 
-    (iv) a deposit made by a check drawn on a nonlocal originating depository institution (other than a check described in subsection (a)(2) of this section).
+    (iv) a deposit made by a check drawn on a nonlocal originating depository institution (other than a check described in subsection (a)(2)).
 
-(2) **Proprietary ATM—temporary and permanent schedules** — The provisions of subsections (a), (b), and (c) of this section shall apply with respect to any funds deposited at a proprietary automated teller machine for deposit in an account at a depository institution.
+(2) **Proprietary ATM—temporary and permanent schedules** — The provisions of subsections (a), (b), and (c) shall apply with respect to any funds deposited at a proprietary automated teller machine for deposit in an account at a depository institution.
 
 (3) **Study and report on ATM’s** — The Board shall, either directly or through the Consumer Advisory Council, establish and maintain a dialogue with depository institutions and their suppliers on the computer software and hardware available for use by automated teller machines, and shall, not later than September 1 of each of the first 3 calendar years beginning after August 10, 1987, report to the Congress regarding such software and hardware and regarding the potential for improving the processing of automated teller machine deposits.
 
@@ -227,7 +227,7 @@ If any provision of Pub. L. 100–86 or the application thereof to any person or
 
 (1) such checks be physically returned to such depository institution; or
 
-(2) any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) of this section or in the regulations issued under any such subsection.
+(2) any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) or in the regulations issued under any such subsection.
 
 ### Statutory Notes
 
@@ -290,19 +290,19 @@ Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out
 
 **(c) Reasonable cause exception**
 
-(1) **In general** — In accordance with regulations which the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, subsections (a)(2), (b), (c), and (e) of [section 4002 of this title](./chapter-041-expedited-funds-availability.md#section-4002) shall not apply with respect to any check deposited in an account at a depository institution if the receiving depository institution has reasonable cause to believe that the check is uncollectible from the originating depository institution. For purposes of the preceding sentence, reasonable cause to believe requires the existence of facts which would cause a well-grounded belief in the mind of a reasonable person. Such reasons shall be included in the notice required under subsection (f) of this section.
+(1) **In general** — In accordance with regulations which the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, subsections (a)(2), (b), (c), and (e) of [section 4002 of this title](./chapter-041-expedited-funds-availability.md#section-4002) shall not apply with respect to any check deposited in an account at a depository institution if the receiving depository institution has reasonable cause to believe that the check is uncollectible from the originating depository institution. For purposes of the preceding sentence, reasonable cause to believe requires the existence of facts which would cause a well-grounded belief in the mind of a reasonable person. Such reasons shall be included in the notice required under subsection (f).
 
 (2) **Basis for determination** — No determination under this subsection may be based on any class of checks or persons.
 
 (3) **Overdraft fees** — If the receiving depository institution determines that a check deposited in an account is a check described in paragraph (1), the receiving depository institution shall not assess any fee for any subsequent overdraft with respect to such account, if—
 
-  (A) the depositor was not provided with the written notice required under subsection (f) of this section (with respect to such determination) at the time the deposit was made;
+  (A) the depositor was not provided with the written notice required under subsection (f) (with respect to such determination) at the time the deposit was made;
 
   (B) the overdraft would not have occurred but for the fact that the funds so deposited are not available; and
 
   (C) the amount of the check is collected from the originating depository institution.
 
-(4) **Compliance** — Each agency referred to in [section 4009(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4009/a&num=0&edition=prelim) shall monitor compliance with the requirements of this subsection in each regular examination of a depository institution and shall describe in each report to the Congress the extent to which this subsection is being complied with. For the purpose of this paragraph, each depository institution shall retain a record of each notice provided under subsection (f) of this section as a result of the application of this subsection.
+(4) **Compliance** — Each agency referred to in [section 4009(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4009/a&num=0&edition=prelim) shall monitor compliance with the requirements of this subsection in each regular examination of a depository institution and shall describe in each report to the Congress the extent to which this subsection is being complied with. For the purpose of this paragraph, each depository institution shall retain a record of each notice provided under subsection (f) as a result of the application of this subsection.
 
 **(d) Emergency conditions** Subject to such regulations as the Board, jointly with the Director of the Bureau of Consumer Financial Protection, may prescribe, subsections (a)(2), (b), (c), and (e) of [section 4002 of this title](./chapter-041-expedited-funds-availability.md#section-4002) shall not apply to funds deposited by check in any receiving depository institution in the case of—
 
@@ -339,7 +339,7 @@ if the receiving depository institution exercises such diligence as the circumst
 
 **(f) Notice of exception; availability within reasonable time**
 
-(1) **In general** — If any exception contained in this section (other than subsection (a) of this section) applies with respect to funds deposited in an account at a depository institution—
+(1) **In general** — If any exception contained in this section (other than subsection (a)) applies with respect to funds deposited in an account at a depository institution—
 
   (A) the depository institution shall provide notice in the manner provided in paragraph (2) of—
 
@@ -355,13 +355,13 @@ if the receiving depository institution exercises such diligence as the circumst
 
   (B) In the case of any other deposit (other than a deposit described in subparagraph (C)), the receiving depository institution shall mail the notice to the depositor not later than the close of the next business day following the business day on which the deposit is received.
 
-  (C) In the case of a deposit to which subsection (d) or (e) of this section applies, notice shall be provided by the depository institution in accordance with regulations of the Board, jointly with the Director of the Bureau of Consumer Financial Protection.
+  (C) In the case of a deposit to which subsection (d) or (e) applies, notice shall be provided by the depository institution in accordance with regulations of the Board, jointly with the Director of the Bureau of Consumer Financial Protection.
 
-  (D) In the case of a deposit to which subsection (b)(1) or (b)(2) of this section applies, the depository institution may, for nonconsumer accounts and other classes of accounts, as defined by the Board, that generally have a large number of such deposits, provide notice at or before the time it first determines that the subsection applies.
+  (D) In the case of a deposit to which subsection (b)(1) or (b)(2) applies, the depository institution may, for nonconsumer accounts and other classes of accounts, as defined by the Board, that generally have a large number of such deposits, provide notice at or before the time it first determines that the subsection applies.
 
-  (E) In the case of a deposit to which subsection (b)(3) of this section applies, the depository institution may, subject to regulations of the Board, provide notice at the beginning of each time period it determines that the subsection applies. In addition to the requirements contained in paragraph (1)(A), the notice shall specify the time period for which the exception will apply.
+  (E) In the case of a deposit to which subsection (b)(3) applies, the depository institution may, subject to regulations of the Board, provide notice at the beginning of each time period it determines that the subsection applies. In addition to the requirements contained in paragraph (1)(A), the notice shall specify the time period for which the exception will apply.
 
-(3) **Subsequent determinations** — If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) of this section to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
+(3) **Subsequent determinations** — If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
 
 ### Statutory Notes
 
@@ -412,7 +412,7 @@ Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out
 
 (2) **General notice at automated teller machines** — In the case of any automated teller machine at which any funds are received for deposit in an account at any depository institution, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, by regulations, that the owner or operator of such automated teller machine shall post or provide a general notice that funds deposited in such machine may not be immediately available for withdrawal.
 
-**(e) Notice of interest payment policy** If a depository institution described in [section 4005(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4005/b&num=0&edition=prelim) begins the accrual of interest or dividends at a later date than the date described in [section 4005(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4005/a&num=0&edition=prelim) with respect to all funds, including cash, deposited in an interest-bearing account at such depository institution, any notice required to be provided under subsections (a) and (c) of this section shall contain a written description of the time at which such depository institution begins to accrue interest or dividends on such funds.
+**(e) Notice of interest payment policy** If a depository institution described in [section 4005(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4005/b&num=0&edition=prelim) begins the accrual of interest or dividends at a later date than the date described in [section 4005(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4005/a&num=0&edition=prelim) with respect to all funds, including cash, deposited in an interest-bearing account at such depository institution, any notice required to be provided under subsections (a) and (c) shall contain a written description of the time at which such depository institution begins to accrue interest or dividends on such funds.
 
 **(f) Model disclosure forms**
 
@@ -455,11 +455,11 @@ Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out
 
 <a id="section-4005"></a>
 ## § 4005. Payment of interest
-**(a) In general** Except as provided in subsection (b) or (c) of this section and notwithstanding any other provision of law, interest shall accrue on funds deposited in an interest-bearing account at a depository institution beginning not later than the business day on which the depository institution receives provisional credit for such funds.
+**(a) In general** Except as provided in subsection (b) or (c) and notwithstanding any other provision of law, interest shall accrue on funds deposited in an interest-bearing account at a depository institution beginning not later than the business day on which the depository institution receives provisional credit for such funds.
 
-**(b) Special rule for credit unions** Subsection (a) of this section shall not apply to an account at a depository institution described in [section 461(b)(1)(A)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section461/b/1/A/iv&num=0&edition=prelim) if the depository institution—
+**(b) Special rule for credit unions** Subsection (a) shall not apply to an account at a depository institution described in [section 461(b)(1)(A)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section461/b/1/A/iv&num=0&edition=prelim) if the depository institution—
 
-(1) begins the accrual of interest or dividends at a later date than the date described in subsection (a) of this section with respect to all funds, including cash, deposited in such account; and
+(1) begins the accrual of interest or dividends at a later date than the date described in subsection (a) with respect to all funds, including cash, deposited in such account; and
 
 (2) provides notice of the interest payment policy in the manner required under [section 4004(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4004/e&num=0&edition=prelim).
 
@@ -521,7 +521,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 (2) apply to all federally insured depository institutions located within such State.
 
-**(b) Override of certain State laws** Except as provided in subsection (a) of this section, this chapter and regulations prescribed under this chapter shall supersede any provision of the law of any State, including the Uniform Commercial Code as in effect in such State, which is inconsistent with this chapter or such regulations.
+**(b) Override of certain State laws** Except as provided in subsection (a), this chapter and regulations prescribed under this chapter shall supersede any provision of the law of any State, including the Uniform Commercial Code as in effect in such State, which is inconsistent with this chapter or such regulations.
 
 
 <a id="section-4008"></a>
@@ -562,7 +562,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 (7) regardless of where a check is cleared initially, all returned checks be eligible to be returned through the Federal Reserve System;
 
-(8) Federal Reserve banks and depository institutions participate in the development and implementation of an electronic clearinghouse process to the extent the Board determines, pursuant to the study under subsection (f) of this section, that such a process is feasible; and
+(8) Federal Reserve banks and depository institutions participate in the development and implementation of an electronic clearinghouse process to the extent the Board determines, pursuant to the study under subsection (f), that such a process is feasible; and
 
 (9) originating depository institutions be permitted to return unpaid checks directly to, and obtain reimbursement for such checks directly from, the receiving depository institution.
 
@@ -662,7 +662,7 @@ The terms used in paragraph (1) that are not defined in this chapter or otherwis
 
 (2) **Additional remedy** — If the Board determines that—
 
-  (A) any depository institution which is not a depository institution described in subsection (a) of this section, or
+  (A) any depository institution which is not a depository institution described in subsection (a), or
 
   (B) any other person subject to the authority of the Board under this chapter, including any person subject to the authority of the Board under section 4004(d)(2) or 4008(c) of this title,
   has failed to comply with any requirement imposed by this chapter or by the Board under this chapter, the Board may issue an order prohibiting any depository institution, any Federal Reserve bank, or any other person subject to the authority of the Board from engaging in any activity or transaction which directly or indirectly involves such noncomplying depository institution or person (including any activity or transaction involving the receipt, payment, collection, and clearing of checks and any related function of the payment system with respect to checks).

@@ -2,7 +2,7 @@
 title: 29
 chapter: '32'
 heading: WORKFORCE INNOVATION AND OPPORTUNITY
-section_count: 89
+section_count: 93
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29&num=0&edition=prelim
 ---
@@ -17,7 +17,7 @@ In order to simplify reporting requirements and reduce reporting burdens, the Se
 This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3102"></a>
@@ -40,7 +40,7 @@ The Wagner-Peyser Act, referred to in subsec. (b), is act June 6, 1933, ch. 49, 
 The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of this title and was amended extensively by title IV of Pub. L. 113–128. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3111"></a>
@@ -66,52 +66,20 @@ The purposes of this Act are the following:
 This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Effective Date
-Pub. L. 113–128, title V, § 506, July 22, 2014, 128 Stat. 1703, provided that:
+Pub. L. 113–128, title V, § 506, July 22, 2014, 128 Stat. 1703, provided that: “(a) In General.—Except as otherwise provided in this Act, this Act [see Tables for classification], including the amendments made by this Act, shall take effect on the first day of the first full program year after the date of enactment of this Act [July 22, 2014]. “(b) Application Date for Workforce Development Performance Accountability System.—“(1) In general.—Section 136 of the Workforce Investment Act of 1998 ([29 U.S.C. 2871](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871&num=0&edition=prelim)), as in effect on the day before the date of enactment of this Act, shall apply in lieu of section 116 of this Act [[29 U.S.C. 3141](./chapter-032-workforce-innovation-and-opportunity.md#section-3141)], for the first full program year after the date of enactment of this Act. “(2) Special provisions.—For purposes of the application described in paragraph (1)—“(A) except as otherwise specified, a reference in section 136 of the Workforce Investment Act of 1998 to a provision in such Act ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.), other than to a provision in such section or section 112 of such Act [[29 U.S.C. 2822](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2822&num=0&edition=prelim)], shall be deemed to refer to the corresponding provision of this Act; “(B) the terms ‘local area’, ‘local board’, ‘one-stop partner’, and ‘State board’ have the meanings given the terms in section 3 of this Act [[29 U.S.C. 3102](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)]; “(C) except as provided in subparagraph (B), terms used in such section 136 shall have the meanings given the terms in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801)); “(D) any agreement negotiated and reached under section 136(c)(2) of the Workforce Investment Act of 1998 ([29 U.S.C. 2871(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871/c/2&num=0&edition=prelim)) shall remain in effect, until a new agreement is so negotiated and reached, for that first full program year; “(E) if a State or local area fails to meet levels of performance under subsection (g) or (h), respectively, of section 136 of the Workforce Investment Act of 1998 [[29 U.S.C. 2871(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871/g&num=0&edition=prelim), (h)] during that first full program year, the sanctions provided under such subsection shall apply during the second full program year [probably means beginning July 1, 2016] after the date of enactment of this Act; and “(F) the Secretary shall use an amount retained, as a result of a reduction in an allotment to a State made under section 136(g)(1)(B) of such Act ([29 U.S.C. 2871(g)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871/g/1/B&num=0&edition=prelim)), to provide technical assistance as described in subsections (f)(1) and (g)(1) of section 116 of this Act [[29 U.S.C. 3141(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/f/1&num=0&edition=prelim), (g)(1)], in lieu of incentive grants under section 503 of the Workforce Investment Act of 1998 ([20 U.S.C. 9273](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9273&num=0&edition=prelim)) as provided in section 136(g)(2) of such Act ([29 U.S.C. 2871(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871/g/2&num=0&edition=prelim)). “(c) Application Date for State and Local Plan Provisions.—“(1) Implementation.—Sections 112 and 118 of the Workforce Investment Act of 1998 ([29 U.S.C. 2822](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2822&num=0&edition=prelim), 2833), as in effect on the day before the date of enactment of this Act, shall apply to implementation of State and local plans, in lieu of sections 102 and 103, and section 108, respectively, of this Act [[29 U.S.C. 3112](./chapter-032-workforce-innovation-and-opportunity.md#section-3112), 3113, 3123], for the first full program year after the date of enactment of this Act. “(2) Special provisions.—For purposes of the application described in paragraph (1)—“(A) except as otherwise specified, a reference in section 112 or 118 of the Workforce Investment Act of 1998 to a provision in such Act ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.), other than to a provision in or to either such section or to section 136 of such Act, shall be deemed to refer to the corresponding provision of this Act; “(B) the terms ‘local area’, ‘local board’, ‘one-stop partner’, and ‘State board’ have the meanings given the terms in section 3 of this Act; “(C) except as provided in subparagraph (B), terms used in such section 112 or 118 shall have the meanings given the terms in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801)); and “(D) section 112(b)(18)(D) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)(18)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2822/b/18/D&num=0&edition=prelim)) shall not apply. “(3) Submission.—Sections 102, 103, and 108 of this Act shall apply to plans for the second full program year after the date of enactment, including the development, submission, and approval of such plans during the first full program year after such date. “(d) Disability Provisions.—Except as otherwise provided in title IV of this Act, title IV [see Tables for classification], and the amendments made by title IV, shall take effect on the date of enactment of this Act.”
 
-(a) In general.—Except as otherwise provided in this Act, this Act [see Tables for classification], including the amendments made by this Act, shall take effect on the first day of the first full program year after the date of enactment of this Act [July 22, 2014].
+[The first full program year after the date of enactment of Pub. L. 113–128, referred to in section 506 of Pub. L. 113–128, set out above, begins on July 1, 2015, based on section 189(g)(1)(A) of Pub. L. 113–128, which is classified to [section 3249(g)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3249/g/1/A&num=0&edition=prelim).]
 
-(b) Application date for workforce development performance accountability system
-
-(1) In general.—Section 136 of the Workforce Investment Act of 1998 ([29 U.S.C. 2871](./chapter-030-workforce-investment-systems.md#section-2871)), as in effect on the day before the date of enactment of this Act, shall apply in lieu of section 116 of this Act [[29 U.S.C. 3141](./chapter-032-workforce-innovation-and-opportunity.md#section-3141)], for the first full program year after the date of enactment of this Act.
-
-(2) Special provisions.—For purposes of the application described in paragraph (1)—
-
-(A) except as otherwise specified, a reference in section 136 of the Workforce Investment Act of 1998 to a provision in such Act ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.), other than to a provision in such section or section 112 of such Act [[29 U.S.C. 2822](./chapter-030-workforce-investment-systems.md#section-2822)], shall be deemed to refer to the corresponding provision of this Act;
-
-(B) the terms “local area”, “local board”, “one-stop partner”, and “State board” have the meanings given the terms in section 3 of this Act [[29 U.S.C. 3102](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)];
-
-(C) except as provided in subparagraph (B), terms used in such section 136 shall have the meanings given the terms in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801));
-
-(D) any agreement negotiated and reached under section 136(c)(2) of the Workforce Investment Act of 1998 ([29 U.S.C. 2871(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871/c/2&num=0&edition=prelim)) shall remain in effect, until a new agreement is so negotiated and reached, for that first full program year;
-
-(E) if a State or local area fails to meet levels of performance under subsection (g) or (h), respectively, of section 136 of the Workforce Investment Act of 1998 [[29 U.S.C. 2871(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871/g&num=0&edition=prelim), (h)] during that first full program year, the sanctions provided under such subsection shall apply during the second full program year [probably means beginning July 1, 2016] after the date of enactment of this Act; and
-
-(F) the Secretary shall use an amount retained, as a result of a reduction in an allotment to a State made under section 136(g)(1)(B) of such Act ([29 U.S.C. 2871(g)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871/g/1/B&num=0&edition=prelim)), to provide technical assistance as described in subsections (f)(1) and (g)(1) of section 116 of this Act [[29 U.S.C. 3141(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/f/1&num=0&edition=prelim), (g)(1)], in lieu of incentive grants under section 503 of the Workforce Investment Act of 1998 ([20 U.S.C. 9273](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9273&num=0&edition=prelim)) as provided in section 136(g)(2) of such Act ([29 U.S.C. 2871(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2871/g/2&num=0&edition=prelim)).
-
-(c) Application date for State and local plan provisions
-
-(1) Implementation.—Sections 112 and 118 of the Workforce Investment Act of 1998 ([29 U.S.C. 2822](./chapter-030-workforce-investment-systems.md#section-2822), 2833), as in effect on the day before the date of enactment of this Act, shall apply to implementation of State and local plans, in lieu of sections 102 and 103, and section 108, respectively, of this Act [[29 U.S.C. 3112](./chapter-032-workforce-innovation-and-opportunity.md#section-3112), 3113, 3123], for the first full program year after the date of enactment of this Act.
-
-(2) Special provisions.—For purposes of the application described in paragraph (1)—
-
-(A) except as otherwise specified, a reference in section 112 or 118 of the Workforce Investment Act of 1998 to a provision in such Act ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.), other than to a provision in or to either such section or to section 136 of such Act, shall be deemed to refer to the corresponding provision of this Act;
-
-(B) the terms “local area”, “local board”, “one-stop partner”, and “State board” have the meanings given the terms in section 3 of this Act;
-
-(C) except as provided in subparagraph (B), terms used in such section 112 or 118 shall have the meanings given the terms in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801)); and
-
-(D) section 112(b)(18)(D) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)(18)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2822/b/18/D&num=0&edition=prelim)) shall not apply.
-
-(3) Submission.—Sections 102, 103, and 108 of this Act shall apply to plans for the second full program year after the date of enactment, including the development, submission, and approval of such plans during the first full program year after such date.
-
-(d) Disability provisions.—Except as otherwise provided in title IV of this Act, title IV [see Tables for classification], and the amendments made by title IV, shall take effect on the date of enactment of this Act.
-
-[The first full program year after the date of enactment of Pub. L. 113–128, referred to in section 506 of Pub. L. 113–128, set out above, probably begins on July 1, 2015, based on section 189(g)(1)(A) of Pub. L. 113–128, which is classified to [section 3249(g)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3249/g/1/A&num=0&edition=prelim).]
+#### Short Title of 2015 Amendment
+Pub. L. 114–18, § 1, May 22, 2015, 129 Stat. 213, provided that: “This Act [amending sections 780, 3112, 3121, 3122, 3141, 3164, 3172, and 3174 of this title and enacting provisions set out as notes under sections 780 and 3112 of this title] may be cited as the ‘WIOA Technical Amendments Act’.”
 
 #### Short Title
 Pub. L. 113–128, § 1(a), July 22, 2014, 128 Stat. 1425, provided that: “This Act [see Tables for classification] may be cited as the ‘Workforce Innovation and Opportunity Act’.”
 
 Pub. L. 113–128, title II, § 201, July 22, 2014, 128 Stat. 1608, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Adult Education and Family Literacy Act’.”
+
+#### Declaration of Policy
+Pub. L. 102–367, title I, § 101(a), Sept. 7, 1992, 106 Stat. 1022, provided that: “In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to— “(1) provide financial assistance to States and local service delivery areas to meet the training needs of such low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment; “(2) increase the funds available for programs under title II of the Job Training Partnership Act ([former] [29 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1601&num=0&edition=prelim) et seq.) by not less than 10 percent of the baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and “(3) encourage the provision of longer, more comprehensive, education, training, and employment services to the eligible population, which also requires increased funding in order to maintain current service levels.”
 
 
 <a id="section-3112"></a>
@@ -495,7 +463,7 @@ The Food and Nutrition Act of 2008, referred to in par. (36)(A)(i), is Pub. L. 8
 The Richard B. Russell National School Lunch Act, referred to in par. (36)(A)(iv), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3113"></a>
@@ -600,7 +568,7 @@ Section effective on the first day of the first full program year after July 22,
 
 (7) the development of strategies for technological improvements to facilitate access to, and improve the quality of, services and activities provided through the one-stop delivery system, including such improvements to—
 
-  (A) enhance digital literacy skills (as defined in [section 9101 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9101&num=0&edition=prelim)); referred to in this Act as “digital literacy skills”);
+  (A) enhance digital literacy skills (as defined in [section 9101 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9101&num=0&edition=prelim); referred to in this Act as “digital literacy skills”);
 
   (B) accelerate the acquisition of skills and recognized postsecondary credentials by participants;
 
@@ -658,7 +626,7 @@ This Act, referred to in subsecs. (d)(7)(A) and (e)(2), is Pub. L. 113–128, Ju
 The Workforce Investment Act of 1998, referred to in subsec. (e)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3121"></a>
@@ -737,7 +705,7 @@ Section effective on the first day of the first full program year after July 22,
 
       (II) the local areas designated in the State, including the process used for designating local areas, and the process used for identifying any planning regions under [section 3121(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3121/a&num=0&edition=prelim), including a description of how the State consulted with the local boards and chief elected officials in determining the planning regions;
 
-      (III) the appeals process referred to in [section 3121(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3121/b/5&num=0&edition=prelim), relating to designation of local areas;
+      (III) the appeals process referred to in [section 3121(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3121/b/6&num=0&edition=prelim), relating to designation of local areas;
 
       (IV) the appeals process referred to in [section 3151(h)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/h/2/E&num=0&edition=prelim), relating to determinations for infrastructure funding; and
 
@@ -832,8 +800,14 @@ The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(iv), is act June 6, 1933
 
 This Act, referred to in subsec. (b)(2)(E)(v), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
+#### Amendments
+2015—Subsec. (b)(2)(D)(i)(III). Pub. L. 114–18 substituted “section 3121(b)(6)” for “section 3121(b)(5)”.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–18, § 2(f), May 22, 2015, 129 Stat. 214, provided that: “The amendments made by this section [amending this section and sections 3121, 3122, 3141, 3164, 3172, and 3174] shall take effect as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128].”
+
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3122"></a>
@@ -878,7 +852,7 @@ Section effective on the first day of the first full program year after July 22,
 
   (B) an assurance that the methods included an opportunity for the entities responsible for planning or administering the core programs and the other programs and activities to review and comment on all portions of the combined plan.
 
-**(c) Approval by the appropriate secretaries**
+**(c) Approval by the appropriate Secretaries**
 
 (1) **Jurisdiction** — The appropriate Secretary shall have the authority to approve the corresponding portion of a combined plan as described in subsection (d). On the approval of the appropriate Secretary, that portion of the combined plan, covering a program or activity, shall be implemented by the State pursuant to that portion of the combined plan, and the Federal law authorizing the program or activity.
 
@@ -888,7 +862,7 @@ Section effective on the first day of the first full program year after July 22,
 
   (A) *In general* — Except as provided in subparagraphs (B) and (C), a portion of the combined State plan covering the core programs or a program or activity described in subsection (a)(2) shall be considered to be approved by the appropriate Secretary at the end of the 90-day period beginning on the day the plan is submitted.
 
-  (B) *Plan approved by 3 or more appropriate secretaries* — If an appropriate Secretary other than the Secretary of Labor or the Secretary of Education has authority to approve a portion of a combined plan, that portion of the combined plan shall be considered to be approved by the appropriate Secretary at the end of the 120-day period beginning on the day the plan is submitted.
+  (B) *Plan approved by 3 or more appropriate Secretaries* — If an appropriate Secretary other than the Secretary of Labor or the Secretary of Education has authority to approve a portion of a combined plan, that portion of the combined plan shall be considered to be approved by the appropriate Secretary at the end of the 120-day period beginning on the day the plan is submitted.
 
   (C) *Disapproval* — The portion shall not be considered to be approved if the appropriate Secretary makes a written determination, during the 90-day period (or the 120-day period, for an appropriate Secretary covered by subparagraph (B)), that the portion is not consistent with the requirements of the Federal law authorizing or applicable to the program or activity involved, including the criteria for approval of a plan or application, if any, under such law, or the plan is not consistent with the requirements of this section.
 
@@ -914,7 +888,7 @@ The Older Americans Act of 1965, referred to in subsec. (a)(2)(H), is Pub. L. 89
 The Community Services Block Grant Act, referred to in subsec. (a)(2)(J), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9901&num=0&edition=prelim) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3123"></a>
@@ -961,9 +935,11 @@ Section effective on the first day of the first full program year after July 22,
 
 (4) **Designation on recommendation of State board** — The Governor may approve a request from any unit of general local government (including a combination of such units) for designation of an area as a local area if the State board determines, based on the considerations described in paragraph (1)(B), and recommends to the Governor, that such area should be so designated.
 
-(5) **Appeals** — A unit of general local government (including a combination of such units) or grant recipient that requests but is not granted designation of an area as a local area under paragraph (2) or (3) may submit an appeal to the State board under an appeal process established in the State plan. If the appeal does not result in such a designation, the Secretary of Labor, after receiving a request for review from the unit or grant recipient and on determining that the unit or grant recipient was not accorded procedural rights under the appeals process described in the State plan, as specified in [section 3112(b)(2)(D)(i)(III) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3112/b/2/D/i/III&num=0&edition=prelim), or that the area meets the requirements of paragraph (2) or (3), may require that the area be designated as a local area under such paragraph.
+(5) **Areas served by rural concentrated employment programs** — The Governor may approve, under paragraph (2) or (3), a request for designation as a local area from an area described in [section 3122(c)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122/c/1/C&num=0&edition=prelim).
 
-(6) **Redesignation assistance** — On the request of all of the local areas in a planning region, the State shall provide funding from funds made available under sections 3163(a) and 3173(a)(1) of this title to assist the local areas in carrying out activities to facilitate the redesignation of the local areas to a single local area.
+(6) **Appeals** — A unit of general local government (including a combination of such units) or grant recipient that requests but is not granted designation of an area as a local area under paragraph (2) or (3) may submit an appeal to the State board under an appeal process established in the State plan. If the appeal does not result in such a designation, the Secretary of Labor, after receiving a request for review from the unit or grant recipient and on determining that the unit or grant recipient was not accorded procedural rights under the appeals process described in the State plan, as specified in [section 3112(b)(2)(D)(i)(III) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3112/b/2/D/i/III&num=0&edition=prelim), or that the area meets the requirements of paragraph (2) or (3), may require that the area be designated as a local area under such paragraph.
+
+(7) **Redesignation assistance** — On the request of all of the local areas in a planning region, the State shall provide funding from funds made available under sections 3163(a) and 3173(a)(1) of this title to assist the local areas in carrying out activities to facilitate the redesignation of the local areas to a single local area.
 
 **(c) Regional coordination**
 
@@ -1014,8 +990,14 @@ The Workforce Investment Act of 1998, referred to in subsecs. (b)(2), (d)(1), an
 
 The effective date of such part B, referred to in subsec. (e)(2), is the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
+#### Amendments
+2015—Subsec. (b)(5) to (7). Pub. L. 114–18 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under [section 3112 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3112).
+
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3131"></a>
@@ -1302,7 +1284,7 @@ Section effective on the first day of the first full program year after July 22,
 
   (A) is established to serve the local area (or the service delivery area that most closely corresponds to the local area);
 
-  (B) was in existence on the day before July 22, 2014, pursuant to State law; and
+  (B) was in existence on the day before August 7, 1998, pursuant to State law; and
 
   (C) includes—
 
@@ -1327,8 +1309,14 @@ The Rehabilitation Act of 1973, referred to in subsecs. (b)(2)(D)(iii) and (d)(1
 
 The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(4)(A)(iii) and (d)(6)(A), (13), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2015—Subsec. (i)(1)(B). Pub. L. 114–18 substituted “August 7, 1998” for “July 22, 2014”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under [section 3112 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3112).
+
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3141"></a>
@@ -1449,7 +1437,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (b)(14), is Pub. L. 93–
 This Act, referred to in subsecs. (b)(21) and (e)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3151"></a>
@@ -1469,7 +1457,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3152"></a>
@@ -1516,7 +1504,7 @@ Section effective on the first day of the first full program year after July 22,
 
     (iii) *Indicator relating to credential* — For purposes of clause (i)(IV), or clause (ii)(III) with respect to clause (i)(IV), program participants who obtain a secondary school diploma or its recognized equivalent shall be included in the percentage counted as meeting the criterion under such clause only if such participants, in addition to obtaining such diploma or its recognized equivalent, have obtained or retained employment or are in an education or training program leading to a recognized postsecondary credential within 1 year after exit from the program.
 
-    (iv) *Indicator for services to employers* — Prior to the commencement of the second full program year after July 22, 2014, for purposes of clauses (i)(VI), or clause (ii)(III) with respect to clause (i)(IV), the Secretary of Labor and the Secretary of Education, after consultation with the representatives described in paragraph (4)(B), shall jointly develop and establish, for purposes of this subparagraph, 1 or more primary indicators of performance that indicate the effectiveness of the core programs in serving employers.
+    (iv) *Indicator for services to employers* — Prior to the commencement of the second full program year after July 22, 2014, for purposes of clauses (i)(VI), or clause (ii)(III) with respect to clause (i)(VI), the Secretary of Labor and the Secretary of Education, after consultation with the representatives described in paragraph (4)(B), shall jointly develop and establish, for purposes of this subparagraph, 1 or more primary indicators of performance that indicate the effectiveness of the core programs in serving employers.
 
   (B) *Additional indicators* — A State may identify in the State plan additional performance accountability indicators.
 
@@ -1680,7 +1668,7 @@ Section effective on the first day of the first full program year after July 22,
 
 **(g) Sanctions for local area failure to meet local performance accountability measures**
 
-(1) **Technical assistance** — If a local area fails to meet local performance accountability measures established under subsection (c) for the youth, adult, or dislocated worker program authorized under subpart 2 or 3 of part B for a program described in subsection (d)(2)(A) for any program year, the Governor, or upon request by the Governor, the Secretary of Labor, shall provide technical assistance, which may include assistance in the development of a performance improvement plan or the development of a modified local plan (or regional plan).
+(1) **Technical assistance** — If a local area fails to meet local performance accountability measures established under subsection (c) for the youth, adult, or dislocated worker program authorized under subpart 2 or 3 of part B for any program year, the Governor, or upon request by the Governor, the Secretary of Labor, shall provide technical assistance, which may include assistance in the development of a performance improvement plan or the development of a modified local plan (or regional plan).
 
 (2) **Corrective actions**
 
@@ -1721,8 +1709,16 @@ The Government Performance and Results Act of 1993, referred to in subsec. (b)(3
 
 This Act, referred to in subsec. (i)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
+#### Amendments
+2015—Subsec. (b)(2)(A)(iv). Pub. L. 114–18, § 2(c)(1), substituted “clause (i)(VI)” for “clause (i)(IV)”.
+
+Subsec. (g)(1). Pub. L. 114–18, § 2(c)(2), struck out “for a program described in subsection (d)(2)(A)” after “part B”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under [section 3112 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3112).
+
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3153"></a>
@@ -1759,7 +1755,7 @@ Section effective on the first day of the first full program year after July 22,
 
     (iii) adult education and literacy activities authorized under subchapter II;
 
-    (iv) programs authorized under title I of the Rehabilitation Act of 1973 ([29 U.S.C. 720](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-720) et seq.) (other than section 112 or part C of title I of such Act ([29 U.S.C. 732](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-732), 741);
+    (iv) programs authorized under title I of the Rehabilitation Act of 1973 ([29 U.S.C. 720](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-720) et seq.) (other than section 112 or part C of title I of such Act ([29 U.S.C. 732](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-732), 741); 11 So in original. Another closing parenthesis probably should precede the semicolon.
 
     (v) activities authorized under title V of the Older Americans Act of 1965 ([42 U.S.C. 3056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056&num=0&edition=prelim) et seq.);
 
@@ -1979,7 +1975,7 @@ Section effective on the first day of the first full program year after July 22,
 
     (ii) *Cap on required contributions* — For local areas in a State that are not covered by paragraph (1)(A)(i)(I), the following rules shall apply:
 
-      (I) *Wia formula programs and employment service* — The portion of funds required to be contributed under this paragraph from a program authorized under subpart 2 or 3, or the Wagner-Peyser Act ([29 U.S.C. 49](./chapter-4b-federal-employment-service.md#section-49) et seq.) shall not exceed 3 percent of the amount of Federal funds provided to carry out that program in the State for a fiscal year.
+      (I) *WIA formula programs and employment service* — The portion of funds required to be contributed under this paragraph from a program authorized under subpart 2 or 3, or the Wagner-Peyser Act ([29 U.S.C. 49](./chapter-4b-federal-employment-service.md#section-49) et seq.) shall not exceed 3 percent of the amount of Federal funds provided to carry out that program in the State for a fiscal year.
 
       (II) *Other one-stop partners* — The portion of funds required to be contributed under this paragraph from a program described in subsection (b)(1) other than the programs described in subclause (I) shall not exceed 1.5 percent of the amount of Federal funds provided to carry out that program in the State for a fiscal year.
 
@@ -1993,7 +1989,7 @@ Section effective on the first day of the first full program year after July 22,
 
         (dd) 1.5 percent of the amount provided to carry out such program in the State for the fifth and each succeeding full program year that begins after such date.
 
-    (iii) *Federal direct spending programs* — For local areas in a State that are not covered by paragraph (1)(A)(i)(I), an entity administering a program funded with direct spending as defined in [section 900(c)(8) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900/c/8&num=0&edition=prelim), as in effect on February 15, 2014 11 So in original. Probably should be “2014,”. shall not be required to provide, for purposes of this paragraph, an amount in excess of the amount determined under subparagraph (C)(i) to be equivalent to the cost of the proportionate use of the one-stop centers for the one-stop partner for such program in the State.
+    (iii) *Federal direct spending programs* — For local areas in a State that are not covered by paragraph (1)(A)(i)(I), an entity administering a program funded with direct spending as defined in [section 900(c)(8) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900/c/8&num=0&edition=prelim), as in effect on February 15, 2014 22 So in original. Probably should be “2014,”. shall not be required to provide, for purposes of this paragraph, an amount in excess of the amount determined under subparagraph (C)(i) to be equivalent to the cost of the proportionate use of the one-stop centers for the one-stop partner for such program in the State.
 
     (iv) *Native American programs* — One-stop partners for Native American programs established under [section 3221 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3221) shall not be subject to the provisions of this subsection (other than this clause) or subsection (i). For purposes of subsection (c)(2)(A)(ii)(II), the method for determining the appropriate portion of funds to be provided by such partners to pay for the costs of infrastructure of a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum.
 
@@ -2022,7 +2018,7 @@ The Wagner-Peyser Act, referred to in subsecs. (b)(1)(B)(ii), (d)(2)(B)(ii), (e)
 
 The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) and Tables.
 
-The Older Americans Act of 1965, referred to in subsecs. (b)(1)(B)(v) and (h)(2)(D)(i)(II), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (b)(1)(B)(v) and (h)(2)(D)(i)(II), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(1)(B)(vi) and (h)(2)(C)(ii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) and Tables.
 
@@ -2039,7 +2035,7 @@ The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)
 The Americans with Disabilities Act of 1990, referred to in subsec. (g)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3161"></a>
@@ -2112,7 +2108,7 @@ Section effective on the first day of the first full program year after July 22,
 
   (A) *Purpose* — The purpose of this paragraph is to enable the providers of programs carried out under subpart 3 to offer the highest quality training services and be responsive to in-demand and emerging industries by providing training services for those industries.
 
-  (B) *Initial eligibility* — Providers may seek initial eligibility under this paragraph as providers of training services and may receive that initial eligibility for only 1 fiscal year for a particular program. The criteria and information requirements established by the Governor under this paragraph shall require that a provider who has not previously been an eligible provider of training services under this section (or section 122 of the Workforce Investment Act of 1998 [[29 U.S.C. 2842](./chapter-030-workforce-investment-systems.md#section-2842)], as in effect on the day before July 22, 2014) provide the information described in subparagraph (C).
+  (B) *Initial eligibility* — Providers may seek initial eligibility under this paragraph as providers of training services and may receive that initial eligibility for only 1 fiscal year for a particular program. The criteria and information requirements established by the Governor under this paragraph shall require that a provider who has not previously been an eligible provider of training services under this section (or section 122 of the Workforce Investment Act of 1998 [[29 U.S.C. 2842](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2842&num=0&edition=prelim)], as in effect on the day before July 22, 2014) provide the information described in subparagraph (C).
 
   (C) *Information* — The provider shall provide verifiable program-specific performance information based on criteria established by the State as described in subparagraph (D) that supports the provider’s ability to serve participants under this part.
 
@@ -2158,11 +2154,11 @@ Section effective on the first day of the first full program year after July 22,
 
 (1) **In general** — The procedures established under this section shall provide the following:
 
-  (A) *Intentionally supplying inaccurate information* — Upon a determination, by an individual or entity specified in the procedures, that a provider of training services, or individual providing information on behalf of the provider, violated this section (or section 122 of the Workforce Investment Act of 1998 [[29 U.S.C. 2842](./chapter-030-workforce-investment-systems.md#section-2842)], as in effect on the day before July 22, 2014) by intentionally supplying inaccurate information under this section, the eligibility of such provider to receive funds under subpart 3 shall be terminated for a period of time that is not less than 2 years.
+  (A) *Intentionally supplying inaccurate information* — Upon a determination, by an individual or entity specified in the procedures, that a provider of training services, or individual providing information on behalf of the provider, violated this section (or section 122 of the Workforce Investment Act of 1998 [[29 U.S.C. 2842](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2842&num=0&edition=prelim)], as in effect on the day before July 22, 2014) by intentionally supplying inaccurate information under this section, the eligibility of such provider to receive funds under subpart 3 shall be terminated for a period of time that is not less than 2 years.
 
   (B) *Substantial violations* — Upon a determination, by an individual or entity specified in the procedures, that a provider of training services substantially violated any requirement under this subchapter (or title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.], as in effect on the day before July 22, 2014), the eligibility of such provider to receive funds under subpart 3 for the program involved shall be terminated for a period of not less than 2 years.
 
-  (C) *Repayment* — A provider of training services whose eligibility is terminated under subparagraph (A) or (B) shall be liable for the repayment of funds received under chapter 5 of subtitle B of title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2861](./chapter-030-workforce-investment-systems.md#section-2861) et seq.], as in effect on the day before July 22, 2014, or subpart 3 of this part during a period of violation described in such subparagraph.
+  (C) *Repayment* — A provider of training services whose eligibility is terminated under subparagraph (A) or (B) shall be liable for the repayment of funds received under chapter 5 of subtitle B of title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2861](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2861&num=0&edition=prelim) et seq.], as in effect on the day before July 22, 2014, or subpart 3 of this part during a period of violation described in such subparagraph.
 
 (2) **Construction** — Paragraph (1) shall be construed to provide remedies and penalties that supplement, but shall not supplant, civil and criminal remedies and penalties specified in other provisions of law.
 
@@ -2174,7 +2170,7 @@ Section effective on the first day of the first full program year after July 22,
 
 (2) **Collection and dissemination of information** — A one-stop operator in a local area shall collect such performance information from providers of on-the-job training, customized training, incumbent worker training, internships, paid or unpaid work experience opportunities, and transitional employment as the Governor may require, and use the information to determine whether the providers meet such performance criteria as the Governor may require. The one-stop operator shall disseminate information identifying such providers that meet the criteria as eligible providers, and the performance information, through the one-stop delivery system. Providers determined to meet the criteria shall be considered to be identified as eligible providers of training services.
 
-**(i) Transition period for implementation** The Governor and local boards shall implement the requirements of this section not later than 12 months after July 22, 2014. In order to facilitate early implementation of this section, the Governor may establish transition procedures under which providers eligible to provide training services under chapter 5 of subtitle B of title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2861](./chapter-030-workforce-investment-systems.md#section-2861) et seq.], as such chapter was in effect on the day before July 22, 2014, may continue to be eligible to provide such services until December 31, 2015, or until such earlier date as the Governor determines to be appropriate.
+**(i) Transition period for implementation** The Governor and local boards shall implement the requirements of this section not later than 12 months after July 22, 2014. In order to facilitate early implementation of this section, the Governor may establish transition procedures under which providers eligible to provide training services under chapter 5 of subtitle B of title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2861](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2861&num=0&edition=prelim) et seq.], as such chapter was in effect on the day before July 22, 2014, may continue to be eligible to provide such services until December 31, 2015, or until such earlier date as the Governor determines to be appropriate.
 
 ### Statutory Notes
 
@@ -2184,7 +2180,7 @@ The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is act Aug. 1
 The Workforce Investment Act of 1998, referred to in subsecs. (f)(1)(B), (C), and (i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to chapter 30 (§ 2801 et seq.) of this title. Chapter 5 of subtitle B of title I of the Act was classified generally to part E (§ 2861 et seq.) of subchapter II of chapter 30 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3162"></a>
@@ -2196,7 +2192,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3163"></a>
@@ -2207,7 +2203,7 @@ The Secretary shall make an allotment under [section 3162(b)(1)(C) of this title
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3164"></a>
@@ -2314,7 +2310,7 @@ Section effective on the first day of the first full program year after July 22,
 The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3171"></a>
@@ -2389,7 +2385,7 @@ Section effective on the first day of the first full program year after July 22,
 The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3172"></a>
@@ -2488,7 +2484,7 @@ Section effective on the first day of the first full program year after July 22,
 
   (B) disseminating a list of eligible providers of youth workforce investment activities, as determined under [section 3153 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3153);
 
-  (C) providing assistance to local areas as described in subsections (b)(6) and (c)(2) of [section 3121 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3121), for local coordination of activities carried out under this subchapter;
+  (C) providing assistance to local areas as described in subsections (b)(7) and (c)(2) of [section 3121 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3121), for local coordination of activities carried out under this subchapter;
 
   (D) operating a fiscal and management accountability information system under [section 3141(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/i&num=0&edition=prelim);
 
@@ -2615,8 +2611,14 @@ Section effective on the first day of the first full program year after July 22,
 #### References in Text
 This Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
+#### Amendments
+2015—Subsec. (b)(1)(C). Pub. L. 114–18 substituted “subsections (b)(7) and (c)(2) of [section 3121 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3121)” for “subsections (b)(6) and (c)(2) of [section 3121 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3121)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under [section 3112 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3112).
+
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3173"></a>
@@ -2627,7 +2629,27 @@ The Secretary shall make allotments under paragraphs (1)(B) and (2)(B) of [secti
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
+#### Veterans Energy-Related Employment Program
+Pub. L. 111–275, title I, § 106, Oct. 13, 2010, 124 Stat. 2870, provided that: “(a) Establishment of Pilot Program.—To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veterans Workforce Investment Program, shall carry out a pilot program to be known as the ‘Veterans Energy-Related Employment Program’. Under the pilot program, the Secretary shall award competitive grants to not more than three States for the establishment and administration of a State program to make grants to energy employers that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a ‘State Energy-Related Employment Program’. “(b) Eligibility for Grants.—To be eligible to receive a grant under the pilot program, a State shall submit to the Secretary an application that includes each of the following:“(1) A proposal for the expenditure of grant funds to establish and administer a public-private partnership program designed to provide covered training, on-job training, apprenticeships, and certification classes to a significant number of eligible veterans and ensure lasting and sustainable employment in well-paying jobs in the energy industry. “(2) Evidence that the State has—“(A) a population of eligible veterans of an appropriate size to carry out the State program; “(B) a robust and diverse energy industry; and “(C) the ability to carry out the State program described in the proposal under paragraph (1). “(3) Such other information and assurances as the Secretary may require. “(c) Use of Funds.—A State that is the recipient of a grant under this section shall use the grant for the following purposes:“(1) Making grants to energy employers to reimburse such employers for the cost of providing covered training, on-job training, apprenticeships, and certification classes to eligible veterans who are first hired by the employer on or after November 1, 2010. “(2) Conducting outreach to inform energy employers and veterans, including veterans in rural areas, of their eligibility or potential eligibility for participation in the State program. “(d) Conditions.—Under the pilot program, each grant to a State shall be subject to the following conditions:“(1) The State shall repay to the Secretary, on such date as shall be determined by the Secretary, any amount received under the pilot program that is not used for the purposes described in subsection (c). “(2) The State shall submit to the Secretary, at such times and containing such information as the Secretary shall require, reports on the use of grant funds. “(e) Employer Requirements.—In order to receive a grant made by a State under the pilot program, an energy employer shall—“(1) submit to the administrator of the State Energy-Related Employment Program an application that includes—“(A) the rate of pay, during and after training, for each eligible veteran proposed to be trained using grant funds; “(B) the average rate of pay for an individual employed by the energy employer in a similar position who is not an eligible veteran; and “(C) such other information and assurances as the administrator may require; and “(2) agree to submit to the administrator, for each quarter, a report containing such information as the Secretary may specify. “(f) Limitation.—None of the funds made available to an energy employer through a grant under the pilot program may be used to provide training of any kind to—“(1) a person who is not an eligible veteran; or “(2) an eligible veteran for whom the employer has received a grant, credit, or subsidy under any other provision of law. “(g) Report to Congress.—Together with the report required to be submitted annually under [section 4107(c) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4107/c&num=0&edition=prelim), United States Code, the Secretary shall submit to Congress a report on the pilot program for the year covered by such report. The report on the pilot program shall include a detailed description of activities carried out under this section and an evaluation of the program. “(h) Administrative and Reporting Costs.—Of the amounts appropriated pursuant to the authorization of appropriations under subsection (j), two percent shall be made available to the Secretary for administrative costs associated with implementing and evaluating the pilot program under this section and for preparing and submitting the report required under subsection (f). The Secretary shall determine the appropriate maximum amount of each grant awarded under this section that may be used by the recipient for administrative and reporting costs. “(i) Definitions.—For purposes of this section:“(1) The term ‘covered training, on-job training, apprenticeships, and certification classes’ means training, on-job training, apprenticeships, and certification classes that are—“(A) designed to provide the veteran with skills that are particular to an energy industry and not directly transferable to employment in another industry; and “(B) approved as provided in paragraph (1) or (2), as appropriate, of subsection (a) of [section 3687 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3687&num=0&edition=prelim), United States Code. “(2) The term ‘eligible veteran’ means a veteran, as that term is defined in [section 101(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/2&num=0&edition=prelim), United States Code, who is employed by an energy employer and enrolled or participating in a covered training, on-job training, apprenticeship, or certification class. “(3) The term ‘energy employer’ means an entity that employs individuals in a trade or business in an energy industry. “(4) The term ‘energy industry’ means any of the following industries:“(A) The energy-efficient building, construction, or retrofits industry. “(B) The renewable electric power industry, including the wind and solar energy industries. “(C) The biofuels industry. “(D) The energy efficiency assessment industry that serves the residential, commercial, or industrial sectors. “(E) The oil and natural gas industry. “(F) The nuclear industry. “(j) Appropriations.—There is authorized to be appropriated to the Secretary $1,500,000 for each of fiscal years 2012 through 2014, for the purpose of carrying out the pilot program under this section.”
+
+#### Coordination of Information and Assistance
+Pub. L. 100–689, title IV, § 402, Nov. 18, 1988, 100 Stat. 4178, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(24), (f)(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that: “(a) Purpose.—It is the purpose of this section to ensure that veterans who are dislocated workers eligible for assistance under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.] or are otherwise unemployed receive, to the extent feasible, assistance (including information on vocational guidance or vocational counseling, or information on both vocational guidance or vocational counseling), including information on counseling, needed by such veterans—“(1) to apply for services and benefits for which they are eligible as veterans, dislocated workers, or unemployed persons; “(2) to obtain resolution of questions and problems relating to such services and benefit[s]; and “(3) to initiate any authorized administrative appeals of determinations or other actions relating to such services and benefits. “(b) Memorandum of Understanding.—(1) Not later than one year after the date of the enactment of this Act [Nov. 18, 1988], the Secretary of Labor and the Administrator of Veterans’ Affairs shall enter into a memorandum of understanding to carry out the purpose of this section. The memorandum shall include provisions that define the relationships and responsibilities of the Veterans’ Administration, the Department of Labor, and State and local agencies with respect to the provision of the following information, forms, and assistance:“(A) Information on services and benefits referred to in subsection (d). “(B) All application forms and related forms necessary for individuals to apply for such services and to claim such benefits. “(C) Assistance in resolving questions and problems relating to receipt of such services and benefits. “(D) Assistance in contacting other Federal Government offices and State offices where such services or benefits are provided or administered. “(2) The memorandum of understanding entered into pursuant to paragraph (1) shall include a provision for the periodic evaluation, by the Secretary of Labor and the Administrator of Veterans’ Affairs, of the implementation of their respective responsibilities under such memorandum. “(c) Coordination of Department of Labor Activities.—The Assistant Secretary of Labor for Veterans’ Employment and Training, in consultation with the unit or office designated or created under section 322(b) of the Job Training Partnership Act [former [29 U.S.C. 1662a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1662a/b&num=0&edition=prelim)] or any successor to such unit or office under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.], shall, except as the Secretary of Labor may otherwise direct, coordinate the activities of the components of the Department of Labor performing the responsibilities of the Secretary of Labor under this section. “(d) Covered Services and Benefits.—This section applies with respect to the following services and benefits:“(1) Employment assistance under—“(A) title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.]; and “(B) the Veterans’ Job Training Act (97 Stat. 443; [29 U.S.C. 1721](./chapter-019-job-training-partnership.md#section-1721) note [now set out below]). “(2) Employment and training activities for dislocated workers under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.]. “(3) Employment assistance and unemployment compensation under the trade adjustment assistance program provided in chapter 2 of title II of the Trade Act of 1974 (29 [19] U.S.C. 2271 et seq.) and under any other program administered by the Employment and Training Administration of the Department of Labor. “(4) Educational assistance under—“(A) the Adult Education Act ([former] [20 U.S.C. 1201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1201&num=0&edition=prelim) et seq.); and “(B) chapters 30, 31, 32, 34, and 35 of title 38, United States Code, and chapter 106 of title 10, United States Code. “(5) Certification of a veteran as a member of a targeted group eligible for the targeted jobs credit determined under section 51 of the Internal Revenue Code of 1986 [[26 U.S.C. 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section51&num=0&edition=prelim)]. “(e) Definition.—In this section, the term ‘veteran’ has the meaning given such term in [section 101(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/2&num=0&edition=prelim), United States Code.”
+
+#### Veterans’ Job Training Act
+Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, § 704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, § 212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, § 4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, § 201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, § 901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, § 201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§ 11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(25), (f)(17)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that: “short title“Section 1. This Act may be cited as the ‘Veterans’ Job Training Act’. “purpose“Sec. 2. The purpose of this Act is to address the problem of severe and continuing unemployment among veterans by providing, in the form of payments to defray the costs of training, incentives to employers to hire and train certain wartime veterans who have been unemployed for long periods of time for stable and permanent positions that involve significant training. “definitions“Sec. 3. For the purposes of this Act:“(1) The term ‘Administrator’ means the Administrator of Veterans’ Affairs. “(2) The term ‘Secretary’ means the Secretary of Labor. “(3) The terms ‘veteran’, ‘Korean conflict’, ‘compensation’, ‘service-connected’, ‘State’, ‘active military, naval, or air service’, and ‘Vietnam era’, have the meanings given such terms in paragraphs (2), (9), (13), (16), (20), (24), and (29), respectively, of [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), United States Code. “establishment of program“Sec. 4. (a) The Administrator and, to the extent specifically provided by this Act, the Secretary shall carry out a program in accordance with this Act to assist eligible veterans in obtaining employment through training for employment in stable and permanent positions that involve significant training. The program shall be carried out through payments to employers who employ and train eligible veterans in such jobs in order to assist such employers in defraying the costs of necessary training. “(b) The Secretary shall carry out the Secretary’s responsibilities under this Act through the Assistant Secretary of Labor for Veterans’ Employment and Training established under [section 4102A of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4102A&num=0&edition=prelim), United States Code. “eligibility for program; duration of assistance“Sec. 5. (a)(1) To be eligible for participation in a job training program under this Act, a veteran must be a Korean conflict or Vietnam-era veteran who—“(A) is unemployed at the time of applying for participation in a program under this Act; and “(B) has been unemployed for at least 10 of the 15 weeks immediately preceding the date of such veteran’s application for participation in a program under this Act. “(2) For purposes of paragraph (1), the term ‘Korean conflict or Vietnam-era veteran’ means a veteran—“(A) who served in the active military, naval, or air service for a period of more than one hundred and eighty days, any part of which was during the Korean conflict or the Vietnam era; or “(B) who served in the active military, naval, or air service during the Korean conflict or the Vietnam era and—“(i) was discharged or released therefrom for a service-connected disability; or “(ii) is entitled to compensation (or but for the receipt of retirement pay would be entitled to compensation). “(3) For purposes of paragraph (1), a veteran shall be considered to be unemployed during any period the veteran is without a job and wants and is available for work. “(b)(1) A veteran who desires to participate in a program of job training under this Act shall submit to the Administrator an application for participation in such a program. Such an application—“(A) shall include a certification by the veteran that the veteran is unemployed and meets the other criteria for eligibility prescribed by subsection (a); and “(B) shall be in such form and contain such additional information as the Administrator may prescribe. “(2)(A) Subject to subparagraph (B), the Administrator shall approve an application by a veteran for participation in a program of job training under this Act unless the Administrator finds that the veteran is not eligible to participate in a program of job training under this Act. “(B) The Administrator may withhold approval of an application of a veteran under this Act if the Administrator determines that, because of limited funds available for the purpose of making payments to employers under this Act, it is necessary to limit the number of participants in programs under this Act. “(3)(A) Subject to section 14(c), the Administrator shall certify as eligible for participation under this Act a veteran whose application is approved under this subsection and shall furnish the veteran with a certificate of that veteran’s eligibility for presentation to an employer offering a program of job training under this Act. Any such certificate shall expire 90 days after it is furnished to the veteran. The date on which a certificate is furnished to a veteran under this paragraph shall be stated on the certificate. “(B) A certificate furnished under this paragraph may, upon the veteran’s application, be renewed in accordance with the terms and conditions of subparagraph (A). “(c) The maximum period of training for which assistance may be provided on behalf of a veteran under this Act is—“(1) fifteen months in the case of—“(A) a veteran with a service-connected disability rated at 30 percent or more; or “(B) a veteran with a service-connected disability rated at 10 percent or 20 percent who has been determined under [section 3106 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3106&num=0&edition=prelim), United States Code, to have a serious employment handicap; and “(2) nine months in the case of any other veteran. “employer job training programs“Sec. 6. (a)(1) Except as provided in paragraph (2), in order to be approved as a program of job training under this Act, a program of job training of an employer approved under section 7 must provide training for a period of not less than six months in an occupation in a growth industry, in an occupation requiring the use of new technological skills, or in an occupation for which demand for labor exceeds supply. “(2) A program of job training providing training for a period of at least three but less than six months may be approved if the Administrator determines (in accordance with standards which the Administrator shall prescribe) that the purpose of this Act would be met through that program. “(b) Subject to section 10 and the other provisions of this Act, a veteran who has been approved for participation in a program of job training under this Act and has a current certificate of eligibility for such participation may enter a program of job training that has been approved under section 7 and that is offered to the veteran by the employer. “approval of employer programs“Sec. 7. (a)(1) An employer may be paid assistance under section 8(a) on behalf of an eligible veteran employed by such employer and participating in a program of job training offered by that employer only if the program is approved under this section and in accordance with such procedures as the Administrator may by regulation prescribe. “(2) Except as provided in subsection (b), the Administrator shall approve a proposed program of job training of an employer unless the Administrator determines that the application does not contain a certification and other information meeting the requirements established under this Act or that withholding of approval is warranted under subsection (g). “(b) The Administrator may not approve a program of job training—“(1) for employment which consists of seasonal, intermittent, or temporary jobs; “(2) for employment under which commissions are the primary source of income; “(3) for employment which involves political or religious activities; “(4) for employment with any department, agency, instrumentality, or branch of the Federal Government (including the United States Postal Service and the Postal Rate Commission [Postal Regulatory Commission]); or “(5) if the training will not be carried out in a State. “(c) An employer offering a program of job training that the employer desires to have approved for the purposes of this Act shall submit to the Administrator a written application for such approval. Such application shall be in such form as the Administrator shall prescribe. “(d) An application under subsection (c) shall include a certification by the employer of the following:“(1) That the employer is planning that, upon a veteran’s completion of the program of job training, the employer will employ the veteran in a position for which the veteran has been trained and that the employer expects that such a position will be available on a stable and permanent basis to the veteran at the end of the training period. “(2) That the wages and benefits to be paid to a veteran participating in the employer’s program of job training will be not less than the wages and benefits normally paid to other employees participating in a comparable program of job training. “(3) That the employment of a veteran under the program—“(A) will not result in the displacement of currently employed workers (including partial displacement such as a reduction in the hours of nonovertime work, wages, or employment benefits); and “(B) will not be in a job (i) while any other individual is on layoff from the same or any substantially equivalent job, or (ii) the opening for which was created as a result of the employer having terminated the employment of any regular employee or otherwise having reduced its work force with the intention of hiring a veteran in such job under this Act. “(4) That the employer will not employ in the program of job training a veteran who is already qualified by training and experience for the job for which training is to be provided. “(5) That the job which is the objective of the training program is one that involves significant training. “(6) That the training content of the program is adequate, in light of the nature of the occupation for which training is to be provided and of comparable training opportunities in such occupation, to accomplish the training objective certified under clause (2) of subsection (e). “(7) That each participating veteran will be employed full time in the program of job training. “(8) That the training period under the proposed program is not longer than the training periods that employers in the community customarily require new employees to complete in order to become competent in the occupation or job for which training is to be provided. “(9) That there are in the training establishment or place of employment such space, equipment, instructional material, and instructor personnel as needed to accomplish the training objective certified under clause (2) of subsection (e). “(10) That the employer will keep records adequate to show the progress made by each veteran participating in the program and otherwise to demonstrate compliance with the requirements established under this Act. “(11) That the employer will furnish each participating veteran, before the veteran’s entry into training, with a copy of the employer’s certification under this subsection and will obtain and retain the veteran’s signed acknowledgment of having received such certification. “(12) That, as applicable, the employer will provide each participating veteran with the full opportunity to participate in a personal interview pursuant to section 14(b)(1)(A) during the veteran’s normal workday. “(13) That the program meets such other criteria as the Administrator may determine are essential for the effective implementation of the program established by this Act. “(e) A certification under subsection (d) shall include—“(1) a statement indicating (A) the total number of hours of participation in the program of job training to be offered a veteran, (B) the length of the program of job training, and (C) the starting rate of wages to be paid to a participant in the program; and “(2) a description of the training content of the program (including any agreement the employer has entered into with an educational institution under section 10) and of the objective of the training. “(f)(1) Except as specified in paragraph (2), each matter required to be certified to in paragraphs (1) through (11) of subsection (d) shall be considered to be a requirement established under this Act. “(2)(A) For the purposes of section 8(c), only matters required to be certified in paragraphs (1) through (10) of subsection (d) shall be so considered. “(B) For the purposes of section 11, a matter required to be certified under paragraph (12) of subsection (d) shall also be so considered. “(g) In accordance with regulations which the Administrator shall prescribe, the Administrator may withhold approval of an employer’s proposed program of job training pending the outcome of an investigation under section 12 and, based on the outcome of such an investigation, may disapprove such program. “(h) For the purposes of this section, approval of a program of apprenticeship or other on-job training for the purposes of [section 3687 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3687&num=0&edition=prelim), United States Code, shall be considered to meet all requirements established under the provisions of this Act (other than subsections (b) and (d)(3)) for approval of a program of job training. “payments to employers; overpayment“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section 9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period. “(2) The total amount that may be paid to an employer on behalf of a veteran participating in a program of job training under this Act is $10,000. “(3) In order to relieve financial burdens on business enterprises with relatively few numbers of employees, the Administrator may make payments under this Act on a monthly, rather than quarterly, basis to an employer with a number of employees less than a number which shall be specified in regulations which the Administrator shall prescribe for the purposes of this paragraph. “(b) Payment may not be made to an employer for a period of training under this Act on behalf of a veteran until the Administrator has received—“(1) from the veteran, a certification that the veteran was employed full time by the employer in a program of job training during such period; and “(2) from the employer, a certification—“(A) that the veteran was employed by the employer during that period and that the veteran’s performance and progress during such period were satisfactory; and “(B) of the number of hours worked by the veteran during that period. With respect to the first such certification by an employer with respect to a veteran, the certification shall indicate the date on which the employment of the veteran began and the starting hourly rate of wages paid to the veteran (without regard to overtime or premium pay). “(c)(1)(A) Whenever the Administrator finds that an overpayment under this Act has been made to an employer on behalf of a veteran as a result of a certification, or information contained in an application, submitted by an employer which was false in any material respect, the amount of such overpayment shall constitute a liability of the employer to the United States. “(B) Whenever the Administrator finds that an employer has failed in any substantial respect to comply for a period of time with a requirement established under this Act (unless the employer’s failure is the result of false or incomplete information provided by the veteran), each amount paid to the employer on behalf of a veteran for that period shall be considered to be an overpayment under this Act, and the amount of such overpayment shall constitute a liability of the employer to the United States. “(2) Whenever the Administrator finds that an overpayment under this Act has been made to an employer on behalf of a veteran as a result of a certification by the veteran, or as a result of information provided to an employer or contained in an application submitted by the veteran, which was willfully or negligently false in any material respect, the amount of such overpayment shall constitute a liability of the veteran to the United States. “(3) Any overpayment referred to in paragraph (1) or (2) may be recovered in the same manner as any other debt due the United States. Any overpayment recovered shall be credited to funds available to make payments under this Act. If there are no such funds, any overpayment recovered shall be deposited into the Treasury. “(4) Any overpayment referred to in paragraph (1) or (2) may be waived, in whole or in part, in accordance with the terms and conditions set forth in [section 5302 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5302&num=0&edition=prelim), United States Code. “entry into program of job training“Sec. 9. Notwithstanding any other provision of this Act, the Administrator may withhold or deny approval of a veteran’s entry into an approved program of job training if the Administrator determines that funds are not available to make payments under this Act on behalf of the veteran to the employer offering that program. Before the entry of a veteran into an approved program of job training of an employer for purposes of assistance under this Act, the employer shall notify the Administrator of the employer’s intention to employ that veteran. The veteran may begin such program of job training with the employer two weeks after the notice is transmitted to the Administrator unless within that time the employer has received notice from the Administrator that approval of the veteran’s entry into that program of job training must be withheld or denied in accordance with this section. “provision of training through educational institutions“Sec. 10. An employer may enter into an agreement with an educational institution that has been approved for the enrollment of veterans under chapter 34 of title 38, United States Code, in order that such institution may provide a program of job training (or a portion of such a program) under this Act. When such an agreement has been entered into, the application of the employer under section 7 shall so state and shall include a description of the training to be provided under the agreement. “discontinuance of approval of participation in certain employer programs“Sec. 11. (a) If the Administrator finds at any time that a program of job training previously approved by the Administrator for the purposes of this Act thereafter fails to meet any of the requirements established under this Act, the Administrator may immediately disapprove further participation by veterans in that program. The Administrator shall provide to the employer concerned, and to each veteran participating in the employer’s program, a statement of the reasons for, and an opportunity for a hearing with respect to, such disapproval. The employer and each such veteran shall be notified of such disapproval, the reasons for such disapproval, and the opportunity for a hearing. Notification shall be by a certified or registered letter, and a return receipt shall be secured. “(b)(1) If the Administrator determines that the rate of veterans’ successful completion of an employer’s programs of job training previously approved by the Administrator for the purposes of this Act is disproportionately low because of deficiencies in the quality of such programs, the Administrator shall disapprove participation in such programs on the part of veterans who had not begun such participation on the date that the employer is notified of the disapproval. In determining whether any such rate is disproportionately low because of such deficiencies, the Administrator shall take into account appropriate data, including—“(A) the quarterly data provided by the Secretary with respect to the number of veterans who receive counseling in connection with training under this Act, are referred to employers under this Act, participate in job training under this Act, complete such training or do not complete such training, and the reasons for noncompletion; and “(B) data compiled through the particular employer’s compliance surveys. “(2) With respect to a disapproval under paragraph (1), the Administrator shall provide to the employer concerned the kind of statement, opportunity for hearing, and notice described in subsection (a). “(3) A disapproval under paragraph (1) shall remain in effect until such time as the Administrator determines that adequate remedial action has been taken. “inspection of records; investigations“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other records that the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government. “(b) The Administrator may monitor employers and veterans participating in programs of job training under this Act to determine compliance with the requirements established under this Act. “(c) The Administrator may investigate any matter the Administrator considers necessary to determine compliance with the requirements established under this Act. The investigations authorized by this subsection may include examining records (including making certified copies of records), questioning employees, and entering into any premises or onto any site where any part of a program of job training is conducted under this Act, or where any of the records of the employer offering or providing such program are kept. “(d) The Administrator may administer functions under subsections (b) and (c) in accordance with an agreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b). “coordination with other programs“Sec. 13. (a)(1) Assistance may not be paid under this Act to an employer on behalf of a veteran for any period of time described in paragraph (2) and to such veteran under chapter 31, 32, 34, 35, or 36 of title 38, United States Code, for the same period of time. “(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the veteran enters into an approved program of job training of an employer for purposes of assistance under this Act and ending on the last date for which such assistance is payable. “(b) Assistance may not be paid under this Act to an employer on behalf of an eligible veteran for any period if the employer receives for that period any other form of assistance on account of the training or employment of the veteran, including assistance under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.] or a credit under section 44B of the Internal Revenue Code of 1954 ([26 U.S.C. 44B](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section44B&num=0&edition=prelim)) (relating to credit for employment of certain new employees). “(c) Assistance may not be paid under this Act on behalf of a veteran who has completed a program of job training under this Act. “counseling“Sec. 14. (a)(1) The Administrator and the Secretary may, upon request, provide employment counseling services to any veteran eligible to participate under this Act in order to assist such veteran in selecting a suitable program of job training under this Act. “(2) The Administrator shall, after consultation with the Secretary, provide a program of job-readiness skills development and counseling services designed to assist veterans in need of such assistance in finding, applying for, and successfully participating in a suitable program of job training under this Act. As part of providing such services, the Administrator shall coordinate activities, to the extent practicable, with the readjustment counseling program described in [section 1712A of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1712A&num=0&edition=prelim), United States Code. The Administrator shall advise veterans participating under this Act of the availability of such services and encourage them to request such services whenever appropriate. “(b)(1) The Secretary shall provide for a program under which—“(A) except as provided in paragraph (2), a disabled veteran’s outreach program specialist appointed under [section 4103A(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4103A/a&num=0&edition=prelim), United States Code, is assigned as a case manager for each veteran participating in a program of job training under this Act; “(B) the veteran has an in-person interview with the case manager not later than 60 days after entering into a program of training under this Act; and “(C) periodic (not less frequent than monthly) contact is maintained with each such veteran for the purpose of (i) avoiding unnecessary termination of employment, (ii) referring the veteran to appropriate counseling, if necessary, (iii) facilitating the veteran’s successful completion of such program, and (iv) following up with the employer and the veteran in order to determine the veteran’s progress in the program and the outcome regarding the veteran’s participation in and successful completion of the program. “(2) No case manager shall be assigned pursuant to paragraph (1)(A)—“(A) for a veteran if, on the basis of a recommendation made by a disabled veterans’ outreach program specialist, the Secretary determines that there is no need for a case manager for such veteran; or “(B) in the case of the employees of an employer, if the Secretary determines that—“(i) the employer has an appropriate and effective employee assistance program that is available to all veterans participating in the employer’s programs of job training under this Act; or “(ii) the rate of veterans’ successful completion of the employer’s programs of job training under this Act, either cumulatively or during the previous program year, is 60 percent or higher. “(3) The Secretary and the Administrator shall jointly provide, to the extent feasible—“(A) a program of counseling or other services (to be provided pursuant to subchapter IV of chapter 3 [see chapter 63] of title 38, United States Code, and sections 1712A, 4103A, and 4104 of such title) designed to resolve difficulties that may be encountered by veterans during their training under this Act; and “(B) a program of information services under which—“(i) each veteran who enters into a program of job training under this Act and each employer participating under this Act is informed of the supportive services and resources available to the veteran (I) under clauses (A) and (B), (II) through Veterans’ Administration counseling and career-development activities (especially, in the case of a Vietnam-era veteran, readjustment counseling services under section 1712A of such title) and under title I of the Workforce Investment Act of 1998 [former [29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.], and (III) through other appropriate agencies in the community; and “(ii) veterans and employers are encouraged to request such services whenever appropriate. “(c) Before a veteran who voluntarily terminates from a program of job training under this Act or is involuntarily terminated from such program by the employer may be eligible to be provided with a further certificate, or renewal of certification, of eligibility for participation under this Act, such veteran must be provided by the Secretary, after consultation with the Administrator, with a case manager. “(d) Payments made under this Act pursuant to contracts entered into for the provision of job-readiness skills development and counseling services under subsection (a)(2) may only be paid out of the same account used to make payments under [section 3104(a)(7) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104/a/7&num=0&edition=prelim), United States Code, and the amount paid out of such account in any fiscal year for such services shall not exceed an amount equal to 5 percent of the amount obligated to carry out this Act for such fiscal year, except that for fiscal year 1988 the amount shall not exceed 5 percent of the amount available to carry out this Act on October 1, 1987. “information and outreach; use of agency resources“Sec. 15. (a)(1) The Administrator and the Secretary shall jointly provide for an outreach and public information program—“(A) to inform veterans about the employment and job training opportunities available under this Act, under chapters 31, 34, 36, 41, and 42 of title 38, United States Code, and under other provisions of law; and “(B) to inform private industry and business concerns (including small business concerns), public agencies and organizations, educational institutions, trade associations, and labor unions about the job training opportunities available under, and the advantages of participating in, the program established by this Act. “(2) The Secretary, in consultation with the Administrator, shall promote the development of employment and job training opportunities for veterans by encouraging potential employers to make programs of job training under this Act available for eligible veterans, by advising other appropriate Federal departments and agencies of the program established by this Act, and by advising employers of applicable responsibilities under chapters 41 and 42 of title 38, United States Code, with respect to veterans. “(b) The Administrator and the Secretary shall coordinate the outreach and public information program under subsection (a)(1), and job development activities under subsection (a)(2), with job counseling, placement, job development, and other services provided for under chapters 41 and 42 of title 38, United States Code, and with other similar services offered by other public agencies and organizations. “(c)(1) The Administrator and the Secretary shall make available in regional and local offices of the Veterans’ Administration and the Department of Labor such personnel as are necessary to facilitate the effective implementation of this Act. “(2) In carrying out the responsibilities of the Secretary under this Act, the Secretary shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. The Secretary shall also use such resources as are available under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.]. To the extent that the Administrator withholds approval of veterans’ applications under this Act pursuant to section 5(b)(2)(B), the Secretary shall take steps to assist such veterans in taking advantage of opportunities that may be available to them under title I of the Workforce Investment Act of 1998 [former [29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.] or under any other program carried out with funds provided by the Secretary. “(d) The Secretary shall request and obtain from the Administrator of the Small Business Administration a list of small business concerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for veterans. “(e) The Administrator and the Secretary shall assist veterans and employers desiring to participate under this Act in making application and completing necessary certifications. “(f) The Secretary shall, on a not less frequent than quarterly basis, collect and compile from the heads of State employment services and Directors for Veterans’ Employment and Training for each State information available to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of veterans who receive counseling services pursuant to section 14, who are referred to employers participating under this Act, who participate in programs of job training under this Act, and who complete such programs, and the reasons for veterans’ noncompletion. “authorization of appropriations“Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of making payments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriated pursuant to this section shall remain available until September 30, 1991. “(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscal year which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for such purpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch. “time periods for application and initiation of training“Sec. 17. Assistance may not be paid to an employer under this Act—“(1) on behalf of a veteran who initially applies for a program of job training under this Act after September 30, 1989; or “(2) for any such program which begins after March 31, 1990. “expansion of targeted delimiting date extension“Sec. 18. (a) Subject to the limitation on the availability of funds set forth in subsection (b), an associate degree program which is predominantly vocational in content may be considered by the Administrator, for the purposes of [section 3462(a)(3) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3462/a/3&num=0&edition=prelim), United States Code, to be a course with an approved vocational objective if such degree program meets the requirements established in such title for approval of such program. “(b) Funds for the purpose of carrying out subsection (a) shall be derived only from amounts appropriated pursuant to the authorizations of appropriations in section 16. Not more than a total of $25,000,000 of amounts so appropriated for fiscal years 1984 and 1985 shall be available for that purpose. “effective date“Sec. 19. This Act shall take effect on October 1, 1983.”
+
+[Amendment of Pub. L. 98–77, set out above, by Pub. L. 100–323 effective on 60th day after May 20, 1988, see section 16(b)(2) of Pub. L. 100–323, set out as a note under [section 3104 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104&num=0&edition=prelim), Veterans’ Benefits.]
+
+[Pub. L. 99–238, title II, § 201(f), Jan. 13, 1986, 99 Stat. 1768, provided that:
+
+[“(1) Except as provided in paragraph (2), the amendments made by this section [amending Pub. L. 98–77 above] shall take effect on the date of the enactment of this Act [Jan. 13, 1986].
+
+[“(2) The amendment made by subsection (e)(2) [amending section 17(a)(1) of Pub. L. 98–77 above] shall take effect on February 1, 1986.”]
+
+#### Coordination With Programs Under Other Laws
+For provisions requiring coordination of programs under [section 3116(b) of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3116/b&num=0&edition=prelim), Veterans’ Benefits, with programs under the Veterans’ Job Training Act, Pub. L. 98–77, set out above, see section 202 of Pub. L. 99–238, set out as a note under [section 3116 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3116&num=0&edition=prelim).
 
 
 <a id="section-3174"></a>
@@ -2672,9 +2694,9 @@ Section effective on the first day of the first full program year after July 22,
 
     (iv) *Minimum and maximum percentages and minimum allotments* — In making allotments under this subparagraph, the Secretary shall ensure the following:
 
-      (I) *Minimum percentage and allotment* — Subject to subclause (IV), the Secretary shall ensure that no State shall receive an allotment for a fiscal year that is an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
+      (I) *Minimum percentage and allotment* — Subject to subclause (IV), the Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
 
-      (II) *Small state minimum allotment* — Subject to subclauses (I), (III), and (IV), the Secretary shall ensure that no State shall receive an allotment under this subparagraph that is less than the total of—
+      (II) *Small State minimum allotment* — Subject to subclauses (I), (III), and (IV), the Secretary shall ensure that no State shall receive an allotment under this subparagraph that is less than the total of—
 
         (aa) 3⁄10 of 1 percent of $960,000,000 of the remainder described in clause (i) for the fiscal year; and
 
@@ -2730,7 +2752,7 @@ Section effective on the first day of the first full program year after July 22,
 
     (iii) *Minimum and maximum percentages and minimum allotments* — In making allotments under this subparagraph, for fiscal year 2016 and each subsequent fiscal year, the Secretary shall ensure the following:
 
-      (I) *Minimum percentage and allotment* — The Secretary shall ensure that no State shall receive an allotment for a fiscal year that is an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
+      (I) *Minimum percentage and allotment* — The Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
 
       (II) *Maximum percentage* — Subject to subclause (I), the Secretary shall ensure that no State shall receive an allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
 
@@ -2761,8 +2783,14 @@ Section effective on the first day of the first full program year after July 22,
 #### References in Text
 The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
+#### Amendments
+2015—Subsec. (b)(1)(B)(iv)(I), (2)(B)(iii)(I). Pub. L. 114–18 inserted “less than” after “fiscal year that is”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under [section 3112 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3112).
+
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3181"></a>
@@ -2873,7 +2901,7 @@ Section effective on the first day of the first full program year after July 22,
 The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3191"></a>
@@ -2889,7 +2917,7 @@ Section effective on the first day of the first full program year after July 22,
     (i) shall be used to carry out the statewide employment and training activities described in paragraph (2)(B); and
 
     (ii) may be used to carry out any of the statewide employment and training activities described in paragraph (3),
-  regardless of whether the funds were allotted to the State under [section 3162(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3162/b/1&num=0&edition=prelim) or under paragraph (1) or (2) of [section 3172(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3172/b&num=0&edition=prelim).
+    regardless of whether the funds were allotted to the State under [section 3162(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3162/b/1&num=0&edition=prelim) or under paragraph (1) or (2) of [section 3172(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3172/b&num=0&edition=prelim).
 
 (2) **Required statewide employment and training activities**
 
@@ -2915,7 +2943,7 @@ Section effective on the first day of the first full program year after July 22,
 
       (IV) local areas, one-stop operators, one-stop partners, and eligible providers, including the development and training of staff, which may include the development and training of staff to provide opportunities for individuals with barriers to employment to enter in-demand industry sectors or occupations and nontraditional occupations, the development of exemplary program activities, and the provision of technical assistance to local areas that fail to meet local performance accountability measures described in [section 3141(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/c&num=0&edition=prelim);
 
-    (ii) providing assistance to local areas as described in [section 3121(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3121/b/6&num=0&edition=prelim);
+    (ii) providing assistance to local areas as described in [section 3121(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3121/b/7&num=0&edition=prelim);
 
     (iii) operating a fiscal and management accountability information system in accordance with [section 3141(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/i&num=0&edition=prelim);
 
@@ -3332,7 +3360,7 @@ Section effective on the first day of the first full program year after July 22,
 
   (D) *Non-Federal share*
 
-    (i) *Factors* — Subject to clause (ii), the local board shall establish the non-Federal share of such cost (taking into consideration such other factors as the number of employees participating in the training, the wage and benefit levels of the employees (at the beginning and anticipated upon completion of the training), the relationship of the training to the competitiveness of the employer and employees, and the availability of other employer-provided training and advancement opportunities.
+    (i) *Factors* — Subject to clause (ii), the local board shall establish the non-Federal share of such cost (taking into consideration such other factors as the number of employees participating in the training, the wage and benefit levels of the employees (at the beginning and anticipated upon completion of the training), the relationship of the training to the competitiveness of the employer and employees, and the availability of other employer-provided training and advancement opportunities.11 So in original. A closing parenthesis probably should precede the period.
 
     (ii) *Limits* — The non-Federal share shall not be less than—
 
@@ -3371,8 +3399,14 @@ The Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(A)(ix)(I), is 
 
 The Higher Education Act of 1965, referred to in subsec. (c)(3)(B)(i)(I), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2015—Subsec. (a)(2)(B)(ii). Pub. L. 114–18 substituted “section 3121(b)(7)” for “section 3121(b)(6)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under [section 3112 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3112).
+
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3192"></a>
@@ -3386,7 +3420,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3193"></a>
@@ -3413,11 +3447,11 @@ The purposes of this part are—
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3194"></a>
-## § 3194. Definitions
+<a id="section-3193a"></a>
+## § 3193a. Definitions
 
 In this part:
 
@@ -3435,9 +3469,9 @@ In this part:
 
 (5) **Graduate** — The term “graduate” means an individual who has voluntarily applied for, been selected for, and enrolled in the Job Corps program and who, as a result of participation in the Job Corps program, has received a secondary school diploma or recognized equivalent, or completed the requirements of a career and technical education and training program that prepares individuals for employment leading to economic self-sufficiency or entrance into postsecondary education or training.
 
-(6) **Job corps** — The term “Job Corps” means the Job Corps described in [section 3193 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3193).
+(6) **Job Corps** — The term “Job Corps” means the Job Corps described in [section 3193 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3193).
 
-(7) **Job corps center** — The term “Job Corps center” means a center described in [section 3197 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3197).
+(7) **Job Corps center** — The term “Job Corps center” means a center described in [section 3197 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3197).
 
 (8) **Operator** — The term “operator” means an entity selected under this part to operate a Job Corps center.
 
@@ -3448,18 +3482,36 @@ In this part:
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3195"></a>
-## § 3195. Establishment
+<a id="section-3194"></a>
+## § 3194. Establishment
 
 There shall be within the Department of Labor a “Job Corps”.
 
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
+
+<a id="section-3195"></a>
+## § 3195. Transfer of administration of Job Corps program to Employment and Training Administration
+
+The Secretary of Labor shall submit to the Committees on Appropriations of the House of Representatives and the Senate a plan for the transfer of the administration of the Job Corps program authorized under title I–C of the Workforce Investment Act of 1998 11 See References in Text note below. from the Office of the Secretary to the Employment and Training Administration. As of the date that is 30 days after the date of submission of such plan, the Secretary may transfer the administration and appropriated funds of the program from the Office of the Secretary and the provisions of [section 2883a of this title](./chapter-030-workforce-investment-systems.md#section-2883a) shall no longer be applicable.
+
+### Statutory Notes
+
+#### References in Text
+The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I–C of the Act probably means subtitle C of title I of Pub. L. 105–220, which was classified generally to subchapter III (former § 2881 et seq.) of former chapter 30 of this title. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
+
+[Section 2883a of this title](./chapter-030-workforce-investment-systems.md#section-2883a), referred to in text, was omitted from the Code pursuant to this section.
+
+#### Codification
+Section was enacted as part of the Department of Labor Appropriations Act, 2010, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2010, and the Consolidated Appropriations Act, 2010, and not as part of title I of the Workforce Innovation and Opportunity Act which comprises this subchapter.
+
+Section was formerly classified to [section 2883b of this title](./chapter-030-workforce-investment-systems.md#section-2883b).
 
 
 <a id="section-3196"></a>
@@ -3486,6 +3538,8 @@ Section effective on the first day of the first full program year after July 22,
 
   (E) An individual who requires additional education, career and technical education or training, or workforce preparation skills to be able to obtain and retain employment that leads to economic self-sufficiency.
 
+  (F) A victim of a severe form of trafficking in persons (as defined in [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)). Notwithstanding paragraph (2), an individual described in this subparagraph shall not be required to demonstrate eligibility under such paragraph.
+
 **(b) Special rule for veterans** Notwithstanding the requirement of subsection (a)(2), a veteran shall be eligible to become an enrollee under subsection (a) if the individual—
 
 (1) meets the requirements of paragraphs (1) and (3) of such subsection; and
@@ -3494,8 +3548,11 @@ Section effective on the first day of the first full program year after July 22,
 
 ### Statutory Notes
 
+#### Amendments
+2015—Subsec. (a)(3)(F). Pub. L. 114–22 added subpar. (F).
+
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3197"></a>
@@ -3577,7 +3634,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3198"></a>
@@ -3600,7 +3657,7 @@ Section effective on the first day of the first full program year after July 22,
 The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section451&num=0&edition=prelim), Appendix and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3199"></a>
@@ -3747,7 +3804,7 @@ The Workforce Investment Act of 1998, referred to in subsec. (a)(3)(C), is Pub. 
 The Fish and Wildlife Coordination Act, referred to in subsec. (d)(2), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3200"></a>
@@ -3787,7 +3844,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3201"></a>
@@ -3803,7 +3860,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3202"></a>
@@ -3817,7 +3874,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3203"></a>
@@ -3831,7 +3888,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3204"></a>
@@ -3859,7 +3916,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3205"></a>
@@ -3895,7 +3952,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3206"></a>
@@ -3943,7 +4000,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3207"></a>
@@ -3954,7 +4011,7 @@ The Secretary may establish and use advisory committees in connection with the o
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3208"></a>
@@ -3976,7 +4033,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3209"></a>
@@ -3991,7 +4048,7 @@ Section effective on the first day of the first full program year after July 22,
 
 (4) **Federal tort claims provisions** — For purposes of the Federal tort claims provisions in title 28, enrollees shall be considered to be employees of the Government.
 
-**(b) Adjustments and Settlements** Whenever the Secretary finds a claim for damages to a person or property resulting from the operation of the Job Corps to be a proper charge against the United States, and the claim is not cognizable under [section 2672 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2672&num=0&edition=prelim), the Secretary may adjust and settle the claim in an amount not exceeding $1,500.
+**(b) Adjustments and settlements** Whenever the Secretary finds a claim for damages to a person or property resulting from the operation of the Job Corps to be a proper charge against the United States, and the claim is not cognizable under [section 2672 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2672&num=0&edition=prelim), the Secretary may adjust and settle the claim in an amount not exceeding $1,500.
 
 **(c) Personnel of the uniformed services** Personnel of the uniformed services who are detailed or assigned to duty in the performance of agreements made by the Secretary for the support of the Job Corps shall not be counted in computing strength under any law limiting the strength of such services or in computing the percentage authorized by law for any grade in such services.
 
@@ -4001,7 +4058,7 @@ Section effective on the first day of the first full program year after July 22,
 The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3210"></a>
@@ -4030,7 +4087,7 @@ Section effective on the first day of the first full program year after July 22,
 This Act, referred to in subsec. (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3211"></a>
@@ -4169,7 +4226,7 @@ Section effective on the first day of the first full program year after July 22,
 The Occupational Safety and Health Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of this title](./chapter-015-occupational-safety-and-health.md#section-651) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3212"></a>
@@ -4194,7 +4251,7 @@ The Secretary is authorized to—
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3221"></a>
@@ -4234,7 +4291,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3222"></a>
@@ -4257,7 +4314,7 @@ There are authorized to be appropriated to carry out this part—
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3223"></a>
@@ -4414,7 +4471,7 @@ This Act, referred to in subsec. (g)(1), is Pub. L. 113–128, July 22, 2014, 12
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i)(4)(G), is section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3224"></a>
@@ -4486,11 +4543,11 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3225"></a>
-## § 3225. Technical assistance
+<a id="section-3224a"></a>
+## § 3224a. Technical assistance
 **(a) General technical assistance**
 
 (1) **In general** — The Secretary shall ensure that the Department has sufficient capacity to, and does, provide, coordinate, and support the development of, appropriate training, technical assistance, staff development, and other activities, including—
@@ -4537,11 +4594,11 @@ Section effective on the first day of the first full program year after July 22,
 This Act, referred to in subsecs. (a)(1)(E), (H) and (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3226"></a>
-## § 3226. Evaluations and research
+<a id="section-3225"></a>
+## § 3225. Evaluations and research
 **(a) Evaluations**
 
 (1) **Evaluations of programs and activities carried out under this subchapter**
@@ -4656,11 +4713,84 @@ Section effective on the first day of the first full program year after July 22,
 This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3227"></a>
-## § 3227. National dislocated worker grants
+<a id="section-3226"></a>
+## § 3226. Job training grants
+(1) **In general** — The Secretary of Labor shall use funds available under [section 1356(s)(2) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1356/s/2&num=0&edition=prelim) to award grants to eligible entities to provide job training and related activities for workers to assist them in obtaining or upgrading employment in industries and economic sectors identified pursuant to paragraph (4) that are projected to experience significant growth and ensure that job training and related activities funded by such grants are coordinated with the public workforce investment system.
+
+(2) **Use of funds**
+
+  (A) *Training provided* — Funds under this section may be used to provide job training services and related activities that are designed to assist workers (including unemployed and employed workers) in gaining the skills and competencies needed to obtain or upgrade career ladder employment positions in the industries and economic sectors identified pursuant to paragraph (4).
+
+  (B) *Enhanced training programs and information* — In order to facilitate the provision of job training services described in subparagraph (A), funds under this section may be used to assist in the development and implementation of model activities such as developing appropriate curricula to build core competencies and train workers, identifying and disseminating career and skill information, and increasing the integration of community and technical college activities with activities of businesses and the public workforce investment system to meet the training needs for the industries and economic sectors identified pursuant to paragraph (4).
+
+(3) **Eligible entities** — Grants under this section may be awarded to partnerships of private and public sector entities, which may include—
+
+  (A) businesses or business-related nonprofit organizations, such as trade associations;
+
+  (B) education and training providers, including community colleges and other community-based organizations; and
+
+  (C) entities involved in administering the workforce development system, as defined in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), and economic development agencies.
+
+(4) **High growth industries and economic sectors** — For purposes of this section, the Secretary of Labor, in consultation with State workforce investment boards, shall identify industries and economic sectors that are projected to experience significant growth, taking into account appropriate factors, such as the industries and sectors that—
+
+  (A) are projected to add substantial numbers of new jobs to the economy;
+
+  (B) are being transformed by technology and innovation requiring new skill sets for workers;
+
+  (C) are new and emerging businesses that are projected to grow; or
+
+  (D) have a significant impact on the economy overall or on the growth of other industries and economic sectors.
+
+(5) **Equitable distribution** — In awarding grants under this section, the Secretary of Labor shall ensure an equitable distribution of such grants across geographically diverse areas.
+
+(6) **Leveraging of resources and authority to require match**
+
+  (A) *Leveraging of resources* — In awarding grants under this section, the Secretary of Labor shall take into account, in addition to other factors the Secretary determines are appropriate—
+
+    (i) the extent to which resources other than the funds provided under this section will be made available by the eligible entities applying for grants to support the activities carried out under this section; and
+
+    (ii) the ability of such entities to continue to carry out and expand such activities after the expiration of the grants.
+
+  (B) *Authority to require match* — The Secretary of Labor may require the provision of specified levels of a matching share of cash or noncash resources from resources other than the funds provided under this section for projects funded under this section.
+
+(7) **Performance accountability** — The Secretary of Labor shall require grantees to report on the employment outcomes obtained by workers receiving training under this section using indicators of performance that are consistent with other indicators used for employment and training programs administered by the Secretary, such as entry into employment, retention in employment, and increases in earnings. The Secretary of Labor may also require grantees to participate in evaluations of projects carried out under this section.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 2916a of this title](./chapter-030-workforce-investment-systems.md#section-2916a) and set out as a note under [section 2916 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2916&num=0&edition=prelim).
+
+Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998 and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of title I of the Workforce Innovation and Opportunity Act which comprises this chapter.
+
+#### Amendments
+2014—Par. (3)(C). Pub. L. 113–128 substituted “entities involved in administering the workforce development system, as defined in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)” for “entities involved in administering the workforce investment system established under title I of the Workforce Investment Act of 1998”.
+
+2004—Pub. L. 108–447 amended section catchline and text generally, substituting provisions relating to job training grants for provisions relating to demonstration programs and projects to provide technical skills training for workers.
+
+2000—Pub. L. 106–313 amended section catchline and text generally. Prior to amendment, text read as follows:
+
+“(1) In general.—In establishing demonstration programs under [section 1732(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1732/c&num=0&edition=prelim), as in effect on October 21, 1998, or demonstration programs or projects under [section 2916(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2916/b&num=0&edition=prelim), the Secretary of Labor shall use funds available under [section 1356(s)(2) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1356/s/2&num=0&edition=prelim) to establish demonstration programs or projects to provide technical skills training for workers, including both employed and unemployed workers.
+
+“(2) Grants.—The Secretary of Labor shall award grants to carry out the programs and projects described in paragraph (1) to—
+
+“(A)(i) private industry councils established under [section 1512 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1512&num=0&edition=prelim), as in effect on October 21, 1998; or
+
+“(ii) local boards that will carry out such programs or projects through one-stop delivery systems established under [section 2841 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841&num=0&edition=prelim); or
+
+“(B) regional consortia of councils or local boards described in subparagraph (A).”
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
+#### Effective Date of 2004 Amendment
+Amendment by Pub. L. 108–447 effective 90 days after Dec. 8, 2004, see section 430(a) of Pub. L. 108–447, set out as a note under [section 1182 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&num=0&edition=prelim), Aliens and Nationality.
+
+
+<a id="section-3226a"></a>
+## § 3226a. National dislocated worker grants
 **(a) Definitions** In this section:
 
 (1) **Emergency or disaster** — The term “emergency or disaster” means—
@@ -4767,11 +4897,11 @@ Section effective on the first day of the first full program year after July 22,
 This Act, referred to in subsec. (d)(5), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3241"></a>
-## § 3241. YouthBuild program
+<a id="section-3227"></a>
+## § 3227. YouthBuild program
 **(a) Statement of purpose** The purposes of this section are—
 
 (1) to enable disadvantaged youth to obtain the education and employment skills necessary to achieve economic self-sufficiency in occupations in demand and postsecondary education and training opportunities;
@@ -5068,7 +5198,23 @@ Act of August 16, 1937, commonly known as the National Apprenticeship Act, refer
 The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
+#### Transfer of Functions and Savings Provisions
+Pub. L. 109–281, § 3, Sept. 22, 2006, 120 Stat. 1182, provided that: “(a) Definitions.—For purposes of this section, unless otherwise provided or indicated by the context—“(1) the term ‘Federal agency’ has the meaning given to the term ‘agency’ by [section 551(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/1&num=0&edition=prelim), United States Code; “(2) the term ‘function’ means any duty, obligation, power, authority, responsibility, right, privilege, activity, or program; and “(3) the term ‘office’ includes any office, administration, agency, institute, unit, organizational entity, or component thereof. “(b) Transfer of Functions.—There are transferred to the Department of Labor all functions which the Secretary of Housing and Urban Development exercised before the effective date of this section (including all related functions of any officer or employee of the Department of Housing and Urban Development) relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12899](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12899&num=0&edition=prelim) et seq.). “(c) Determinations of Certain Functions by the Office of Management and Budget.—If necessary, the Office of Management and Budget shall make any determination of the functions that are transferred under subsection (b). “(d) Personnel Provisions.—“(1) Appointments.—The Secretary of Labor may appoint and fix the compensation of such officers and employees, including investigators, attorneys, and administrative law judges, as may be necessary to carry out the respective functions transferred under this section. Except as otherwise provided by law, such officers and employees shall be appointed in accordance with the civil service laws and their compensation fixed in accordance with title 5, United States Code. “(2) Experts and consultants.—The Secretary of Labor may obtain the services of experts and consultants in accordance with [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), United States Code, and compensate such experts and consultants for each day (including traveltime) at rates not in excess of the rate of pay for level IV of the Executive Schedule under section 5315 of such title. The Secretary of Labor may pay experts and consultants who are serving away from their homes or regular place of business travel expenses and per diem in lieu of subsistence at rates authorized by sections 5702 and 5703 of such title for persons in Government service employed intermittently. “(e) Delegation and Assignment.—Except where otherwise expressly prohibited by law or otherwise provided by this section, the Secretary of Labor may delegate any of the functions transferred to the Secretary of Labor by this section and any function transferred or granted to the Secretary of Labor after the effective date of this section to such officers and employees of the Department of Labor as the Secretary of Labor may designate, and may authorize successive redelegations of such functions as may be necessary or appropriate. No delegation of functions by the Secretary of Labor under this subsection or under any other provision of this section shall relieve the Secretary of Labor of responsibility for the administration of such functions. “(f) Reorganization.—The Secretary of Labor is authorized to allocate or reallocate any function transferred under subsection (b) among the officers of the Department of Labor, and to establish, consolidate, alter, or discontinue such organizational entities in the Department of Labor as may be necessary or appropriate. “(g) Rules.—The Secretary of Labor is authorized to prescribe, in accordance with the provisions of chapters 5 and 6 of title 5, United States Code, such rules and regulations as the Secretary of Labor determines necessary or appropriate to administer and manage the functions of the Department of Labor. “(h) Transfer and Allocations of Appropriations.—Except as otherwise provided in this section, the assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds used, held, arising from, available to, or to be made available in connection with the functions transferred by this section, subject to [section 1531 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim), United States Code, shall be transferred to the Department of Labor. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated. “(i) Transfers.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this section, and to make such dispositions of assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds used, held, arising from, available to, or to be made available in connection with such functions, subject to [section 1531 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim), United States Code, as may be necessary to carry out the provisions of this section. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this section and for such further measures and dispositions as may be necessary to effectuate the purposes of this section. “(j) Savings Provisions.—“(1) Continuing effect of legal documents.—All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—“(A) which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under this section; and “(B) which are in effect at the time this section takes effect, or were final before the effective date of this section and are to become effective on or after the effective date of this section, shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary of Labor or other authorized official, a court of competent jurisdiction, or by operation of law. “(2) Proceedings not affected.—The provisions of this section shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the Department of Housing and Urban Development at the time this section takes effect, with respect to functions transferred by this section but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted. “(3) Suits not affected.—The provisions of this section shall not affect suits commenced before the effective date of this section, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this section had not been enacted. “(4) Nonabatement of actions.—No suit, action, or other proceeding commenced by or against the Department of Housing and Urban Development, or by or against any individual in the official capacity of such individual as an officer of the Department of Housing and Urban Development, shall abate by reason of the enactment of this section. “(5) Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the Department of Housing and Urban Development relating to a function transferred under this section may be continued by the Department of Labor with the same effect as if this section had not been enacted. “(k) Separability.—If a provision of this section or its application to any person or circumstance is held invalid, neither the remainder of this section nor the application of the provision to other persons or circumstances shall be affected. “(l) Transition.—The Secretary of Labor is authorized to utilize—“(1) the services of such officers, employees, and other personnel of the Department of Housing and Urban Development with respect to functions transferred to the Department of Labor by this section; and “(2) funds appropriated to such functions for such period of time, as may reasonably be needed to facilitate the orderly implementation of this section. “(m) Accomplishing Orderly Transfer.—Consistent with the requirements of this section, the Secretary of Labor and the Secretary of Housing and Urban Development shall take such actions as the Secretaries determine are appropriate to accomplish the orderly transfer of functions as described in subsection (b). “(n) Administration of Prior Grants.—Notwithstanding any other provision of this Act [See Short Title of 2006 Amendment note set out under [section 2801 of this title](./chapter-030-workforce-investment-systems.md#section-2801)], grants awarded under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12899](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12899&num=0&edition=prelim) et seq.) with funds appropriated for fiscal year 2006 or a preceding fiscal year shall be subject to the continuing authority of the Secretary of Housing and Urban Development under the provisions of such subtitle, as in effect on the day before the date of enactment of this Act [Sept. 22, 2006], until the authority to expend applicable funds for the grants, as specified by the Secretary of Housing and Urban Development, has expired and the Secretary has completed the administrative responsibilities associated with the grants. “(o) References.—A reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to—“(1) the Secretary of Housing and Urban Development with regard to functions transferred under subsection (b), shall be deemed to refer to the Secretary of Labor; and “(2) the Department of Housing and Urban Development with regard to functions transferred under subsection (b), shall be deemed to refer to the Department of Labor. “(p) Effective Date.—This section takes effect on the earlier of—“(1) the date of enactment of this Act [Sept. 22, 2006]; and “(2) September 30, 2006.”
+
+
+<a id="section-3241"></a>
+## § 3241. Re-enrollment in alternative school by high-school dropout
+
+For program year 2010 and each program year thereafter, the YouthBuild program may serve an individual who has dropped out of high school and re-enrolled in an alternative school, if that re-enrollment is part of a sequential service strategy.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of Labor Appropriations Act, 2010, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2010, and the Consolidated Appropriations Act, 2010, and not as part of title I of the Workforce Innovation and Opportunity Act which comprises this subchapter.
+
+Section was formerly classified to [section 2918b of this title](./chapter-030-workforce-investment-systems.md#section-2918b).
 
 
 <a id="section-3242"></a>
@@ -5129,9 +5275,9 @@ Section effective on the first day of the first full program year after July 22,
 
 (6) $106,906,000 for fiscal year 2020.
 
-**(e) Assistance for Veterans** If, as of July 22, 2014, any unobligated funds appropriated to carry out [section 2913 of this title](./chapter-030-workforce-investment-systems.md#section-2913), as in effect on the day before July 22, 2014, remain available, the Secretary of Labor shall continue to use such funds to carry out such section, as in effect on such day, until all of such funds are expended.
+**(e) Assistance for veterans** If, as of July 22, 2014, any unobligated funds appropriated to carry out [section 2913 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2913&num=0&edition=prelim), as in effect on the day before July 22, 2014, remain available, the Secretary of Labor shall continue to use such funds to carry out such section, as in effect on such day, until all of such funds are expended.
 
-**(f) Assistance for eligible workers** If, as of July 22, 2014, any unobligated funds appropriated to carry out subsections (f) and (g) of [section 2918 of this title](./chapter-030-workforce-investment-systems.md#section-2918), as in effect on the day before July 22, 2014, remain available, the Secretary of Labor shall continue to use such funds to carry out such subsections, as in effect on such day, until all of such funds are expended.
+**(f) Assistance for eligible workers** If, as of July 22, 2014, any unobligated funds appropriated to carry out subsections (f) and (g) of [section 2918 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), as in effect on the day before July 22, 2014, remain available, the Secretary of Labor shall continue to use such funds to carry out such subsections, as in effect on such day, until all of such funds are expended.
 
 ### Statutory Notes
 
@@ -5139,7 +5285,7 @@ Section effective on the first day of the first full program year after July 22,
 Sections 2913 and 2918 of this title, referred to in subsecs. (e) and (f), were repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3243"></a>
@@ -5154,7 +5300,7 @@ Section effective on the first day of the first full program year after July 22,
 
 (2) **Treatment of allowances, earnings, and payments** — Allowances, earnings, and payments to individuals participating in programs under this subchapter shall not be considered as income for the purposes of determining eligibility for and the amount of income transfer and in-kind aid furnished under any Federal or federally assisted program based on need, other than as provided under the Social Security Act ([42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.).
 
-**(b) Labor Standards**
+**(b) Labor standards**
 
 (1) **Limitations on activities that impact wages of employees** — No funds provided under this subchapter shall be used to pay the wages of incumbent employees during their participation in economic development activities provided through a statewide workforce development system.
 
@@ -5246,7 +5392,7 @@ Section effective on the first day of the first full program year after July 22,
 The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3244"></a>
@@ -5264,7 +5410,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3245"></a>
@@ -5278,12 +5424,12 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3246"></a>
 ## § 3246. Fiscal controls; sanctions
-**(a) Establishment of fiscal controls by states**
+**(a) Establishment of fiscal controls by States**
 
 (1) **In general** — Each State shall establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, Federal funds allocated to local areas under part B. Such procedures shall ensure that all financial transactions carried out under part B are conducted and records maintained in accordance with generally accepted accounting principles applicable in each State.
 
@@ -5363,7 +5509,7 @@ Section effective on the first day of the first full program year after July 22,
 
 (2) **Offset of repayment amount** — If the Secretary determines that a State has expended funds received under this subchapter in a manner contrary to the requirements of this subchapter, the Secretary may require repayment by offsetting the amount of such expenditures against any other amount to which the State is or may be entitled under this subchapter, except as provided under subsection (d)(1).
 
-(3) **Repayment from deduction by State** — If the Secretary requires a State to repay funds as a result of a determination that a local area of the State has expended funds in a manner contrary to the requirements of this subchapter, the Governor of the State may use an amount deducted under paragraph (4) to repay the funds, except as provided under subsection (e).11 So in original.
+(3) **Repayment from deduction by State** — If the Secretary requires a State to repay funds as a result of a determination that a local area of the State has expended funds in a manner contrary to the requirements of this subchapter, the Governor of the State may use an amount deducted under paragraph (4) to repay the funds, except as provided under subsection (e).11 So in original. Subsec. (e) relates to termination or suspension of financial assistance.
 
 (4) **Deduction by State** — The Governor may deduct an amount equal to the misexpenditure described in paragraph (3) from subsequent program year (subsequent to the program year for which the determination was made) allocations to the local area from funds reserved for the administrative costs of the local programs involved, as appropriate.
 
@@ -5394,7 +5540,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3247"></a>
@@ -5489,7 +5635,7 @@ Section effective on the first day of the first full program year after July 22,
 The Inspector General Act of 1978, referred to in subsec. (b)(3)(D), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3248"></a>
@@ -5505,7 +5651,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3249"></a>
@@ -5523,7 +5669,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3250"></a>
@@ -5564,7 +5710,7 @@ The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352
 This Act, referred to in subsec. (a)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3251"></a>
@@ -5650,7 +5796,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3252"></a>
@@ -5689,7 +5835,18 @@ Section effective on the first day of the first full program year after July 22,
 The Older Americans Act of 1965, referred to in subsecs. (a)(3) and (b)(3), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
+#### Workforce Flexibility Partnership Demonstration Program
+Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1469, provided in part: “That the Secretary of Labor shall establish a workforce flexibility (work-flex) partnership demonstration program under which the Secretary shall authorize not more than six States, of which at least three States shall each have populations not in excess of 3,500,000, with a preference given to those States that have been designated Ed-Flex Partnership States under section 311(e) of Public Law 103–227 [[20 U.S.C. 5891(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5891/e&num=0&edition=prelim)], to waive any statutory or regulatory requirement applicable to service delivery areas or substate areas within the State under titles I–III of the Job Training Partnership Act [former [29 U.S.C. 1511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1511&num=0&edition=prelim) et seq., 1601 et seq., 1651 et seq.] (except for requirements relating to wage and labor standards, grievance procedures and judicial review, nondiscrimination, allotment of funds, and eligibility), and any of the statutory or regulatory requirements of sections 8–10 of the Wagner-Peyser Act [[29 U.S.C. 49g–49i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49g–49i&num=0&edition=prelim)] (except for requirements relating to the provision of services to unemployment insurance claimants and veterans, and to universal access to basic labor exchange services without cost to job seekers), for a duration not to exceed the waiver period authorized under section 311(e) of Public Law 103–227, pursuant to a plan submitted by such States and approved by the Secretary for the provision of workforce employment and training activities in the States, which includes a description of the process by which service delivery areas and substate areas may apply for and have waivers approved by the State, the requirements of the Wagner-Peyser Act [[29 U.S.C. 49](./chapter-4b-federal-employment-service.md#section-49) et seq.] to be waived, the outcomes to be achieved and other measures to be taken to ensure appropriate accountability for Federal funds.”
+
+[References to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998, see [section 2940(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim). For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.]
+
+[References to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998, see [section 2940(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim). The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.]
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Stat. 3009–233, 3009–234.
 
 
 <a id="section-3253"></a>
@@ -5701,11 +5858,11 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3254"></a>
-## § 3254. Transfer of Federal equity in State employment security agency real property to the states
+## § 3254. Transfer of Federal equity in State employment security agency real property to the States
 **(a) Transfer of Federal equity** Notwithstanding any other provision of law, any Federal equity acquired in real property through grants to States awarded under title III of the Social Security Act ([42 U.S.C. 501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section501&num=0&edition=prelim) et seq.) or under the Wagner-Peyser Act ([29 U.S.C. 49](./chapter-4b-federal-employment-service.md#section-49) et seq.) is transferred to the States that used the grants for the acquisition of such equity. The portion of any real property that is attributable to the Federal equity transferred under this section shall be used to carry out activities authorized under this Act, title III of the Social Security Act, or the Wagner-Peyser Act. Any disposition of such real property shall be carried out in accordance with the procedures prescribed by the Secretary and the portion of the proceeds from the disposition of such real property that is attributable to the Federal equity transferred under this section shall be used to carry out activities authorized under this Act, title III of the Social Security Act, or the Wagner-Peyser Act.
 
 **(b) Limitation on use** A State shall not use funds awarded under this Act, title III of the Social Security Act, or the Wagner-Peyser Act to amortize the costs of real property that is purchased by any State on or after February 15, 2007.
@@ -5720,7 +5877,7 @@ The Wagner-Peyser Act, referred to in text, is act June 6, 1933, ch. 49, 48 Stat
 This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3255"></a>
@@ -5752,10 +5909,10 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### References in Text
-The Job Training Partnership Act, referred to in subsec. (b)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of this title, prior to repeal by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3271"></a>
@@ -5805,7 +5962,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3272"></a>
@@ -5865,7 +6022,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3273"></a>
@@ -5890,7 +6047,7 @@ Each eligible provider desiring a grant or contract from an eligible agency shal
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3274"></a>
@@ -5906,7 +6063,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3275"></a>
@@ -5934,7 +6091,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3291"></a>
@@ -6014,7 +6171,7 @@ This Act, referred to in par. (4), is Pub. L. 113–128, July 22, 2014, 128 Stat
 The Workforce Investment Act of 1998, referred to in par. (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3292"></a>
@@ -6055,11 +6212,11 @@ Section effective on the first day of the first full program year after July 22,
 This Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3301"></a>
-## § 3301. Purpose
+<a id="section-3293"></a>
+## § 3293. Purpose
 
 It is the purpose of this subchapter to create a partnership among the Federal Government, States, and localities to provide, on a voluntary basis, adult education and literacy activities, in order to—
 
@@ -6086,14 +6243,170 @@ It is the purpose of this subchapter to create a partnership among the Federal G
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Short Title
 For short title of this subchapter as the “Adult Education and Family Literacy Act”, see section 201 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
+#### Ex. Ord. No. 13445. Strengthening Adult Education
+Ex. Ord. No. 13445, Sept. 27, 2007, 72 F.R. 56165, provided:
 
-<a id="section-3302"></a>
-## § 3302. Definitions
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. It is the policy of the United States to use existing Federal programs that serve adults, including new Americans, to strengthen literacy skills, improve opportunities for postsecondary education and employment, and facilitate participation in American life.
+
+Sec. 2. Definitions. As used in this order:
+
+(a) “agency” means an executive agency as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), United States Code, other than the Government Accountability Office; and
+
+(b) “adult education” means teaching or instruction below the postsecondary level, for individuals who are 16 years of age or older, designed to provide:
+
+(i) mastery of basic education skills needed to function effectively in society;
+
+(ii) a secondary school diploma or its equivalent; or
+
+(iii) the ability to speak, read, or write the English language.
+
+Sec. 3. Establishment of Interagency Adult Education Working Group. The Secretary of Education shall establish within the Department of Education for administrative purposes only, an Interagency Adult Education Working Group (Working Group), consistent with this order.
+
+Sec. 4. Membership and Operation of the Working Group.
+
+(a) The Working Group shall consist exclusively of:
+
+(i) the Secretary of Education, who shall serve as Chair;
+
+(ii) the Secretary of the Treasury, the Attorney General, and the Secretaries of the Interior, Labor, Health and Human Services, Housing and Urban Development, and Veterans Affairs; and
+
+(iii) other officers or full-time or permanent part-time employees of the United States, as determined by the Chair, with the concurrence of the head of the agency concerned.
+
+(b) The Chair, or the Chair’s designee under subsection (c) of this section, in implementing section 5 of this order, shall convene and preside at the meetings of the Working Group, determine its agenda, direct its work, and establish and direct subgroups of the Working Group, as appropriate to deal with particular subject matters, that shall consist exclusively of members of the Working Group or their designees under subsection (c) of this section.
+
+(c) A member of the Working Group may designate, to perform the Working Group or Working Group subgroup functions of the member, any person who is a part of the member’s agency and who is either an officer of the United States appointed by the President or a member of the Senior Executive Service.
+
+Sec. 5. Functions of the Working Group. Consistent with the policy set forth in section 1 of this order, the Working Group shall:
+
+(a) identify Federal programs that:
+
+(i) focus primarily on improving the basic education skills of adults;
+
+(ii) have the goal of transitioning adults from basic literacy to postsecondary education, training, or employment; or
+
+(iii) constitute programs of adult education;
+
+(b) as appropriate, review the programs identified under subsection (a) of this section and submit to the heads of the agencies administering those programs recommendations to:
+
+(i) promote the transition of adults from such programs to postsecondary education, training, or employment;
+
+(ii) increase the effectiveness, efficiency, and availability of such programs;
+
+(iii) minimize unnecessary duplication among such programs;
+
+(iv) measure and evaluate the performance of such programs; and
+
+(v) undertake and disseminate the results of research related to such programs;
+
+(c) identify gaps in the research about effective ways to teach adult education for postsecondary readiness, recommend areas for further research to improve adult education programs and services, and identify promising practices in disseminating valid existing and future research findings; and
+
+(d) obtain information and advice as appropriate, in a manner that seeks individual advice and does not involve collective judgment or consensus advice or deliberation, concerning adult education from:
+
+(i) State, local, territorial, and tribal officials; and
+
+(ii) representatives of entities or other individuals;
+
+(e) at the request of the head of an agency, unless the Chair declines the request, promptly review and provide advice on a proposed action by that agency relating to adult education; and
+
+(f) report to the President, through the Assistant to the President for Domestic Policy, on its work, and on the implementation of any recommendations arising from its work, at such times and in such formats as the Chair may specify, with the first such report to be submitted no later than 9 months after the date of this order.
+
+Sec. 6. Administration of the Working Group. (a) To the extent permitted by law, the Department of Education shall provide the funding and administrative support the Working Group needs, as determined by the Chair, to implement this order.
+
+(b) The heads of agencies shall provide, as appropriate, such assistance and information as the Chair may request to implement this order.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to an agency or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies or entities, its officers, employees, or agents, or any other person.
+
+George W. Bush.
+
+#### Establishing a Task Force on Skills for America’s Future
+Memorandum of President of the United States, Oct. 4, 2010, 75 F.R. 62309, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+In order to compete in the global economy, the United States needs the most educated workforce in the world. The high-wage jobs of the 21st century will require more knowledge and skills than the jobs of the past. We therefore must develop innovative strategies to train more Americans with the skills that businesses and the economy will need to ensure American competitiveness.
+
+Community colleges are a key part of our education system, providing a flexible and affordable place to sharpen relevant workforce skills and align them with the needs of employers in their communities. Traditional four-year colleges, on-line institutions, and nontraditional educational outlets also can play an essential role in providing training opportunities. To prepare students for 21st-century jobs, these institutions need to develop flexible, affordable, and responsive training programs that meet regional and national economic needs. An important way to ensure that training programs meet such needs is through partnerships between these institutions and labor unions, small businesses, and other regional employers. As educational institutions develop these innovative programs, we should assess what works and what does not, so that we reward excellent outcomes and true innovation that meets the needs of entrepreneurs and other employers in every part of the country, from rural communities to urban centers.
+
+Therefore, I am establishing a task force to develop skills for America’s future by identifying, developing, and increasing the scale of promising approaches to improving the skills of our Nation’s workers. By coordinating the work of relevant agencies with that of nonprofits, labor unions, and private sector organizations, and by leveraging the assets of these entities, this effort will build better partnerships between businesses, community colleges, and other training providers to get Americans trained for the jobs of today and tomorrow.
+
+Section 1. Establishment. There is established an interagency Task Force on Skills for America’s Future (Task Force) to ensure that Federal policies promote innovative training programs and curricula, including successful public-private partnerships, at community colleges as well as in other settings, that will prepare the American workforce for 21st-century jobs. The Chair of the Council of Economic Advisers, the Assistant to the President for Economic Policy, and the Assistant to the President for Domestic Policy shall serve as Co-Chairs of the Task Force.
+
+Sec. 2. Membership. In addition to the Co-Chairs, the Task Force shall consist of the following members, or any senior official designated by one of the following members who is a part of the member’s department, agency, or office, and who is a full time employee of the Federal Government:
+
+(a) the Secretary of Defense;
+
+(b) the Secretary of Agriculture;
+
+(c) the Secretary of Commerce;
+
+(d) the Secretary of Labor;
+
+(e) the Secretary of Health and Human Services;
+
+(f) the Secretary of Transportation;
+
+(g) the Secretary of Energy;
+
+(h) the Secretary of Education;
+
+(i) the Secretary of Veterans Affairs;
+
+(j) the Director of the Office of Management and Budget;
+
+(k) the Administrator of the Small Business Administration;
+
+(l) the Director of the Office of Science and Technology Policy; and
+
+(m) the heads of other executive departments, agencies, or offices as the Co-Chairs may designate.
+
+Sec. 3. Administration. The Council of Economic Advisers shall provide administrative support for the Task Force to the extent permitted by law and within existing appropriations.
+
+Sec. 4. Mission and Functions. The Task Force shall work across executive departments and agencies to ensure that Federal policies facilitate, and offer incentives for, innovative career-training and education opportunities at community colleges as well as in other settings, and that these opportunities are directly related to skills and job requirements across a range of industries. Using the best evidence available regarding effective practice, the Task Force shall develop recommendations and options for meeting the following objectives:
+
+(a) improved public-private collaboration to develop career pathway and training programs with effective curricula, certifiable skills, and industry-recognized credentials and degrees;
+
+(b) identification of opportunities to amplify, accelerate, or increase the scale of, successful public-private partnerships that match trained workers with prospective employers;
+
+(c) identification and development of stackable credentials that provide entry to and advancement along a career pathway in an in-demand occupation;
+
+(d) outreach to relevant stakeholders—including industry, the adult workforce, younger students, educational institutions, labor unions, policymakers, and community leaders—with expertise in skill development;
+
+(e) alignment of workforce training programs funded by the Departments of Education and Labor, as well as other Federal agencies, with innovative practices and regional market demands, to build on effective skills-based training for adult workers and younger students, including individuals with disabilities;
+
+(f) partnership with appropriate non-profit entities to engage the private sector in developing effective training programs that provide students with recognizable and portable skills that are needed in the marketplace; and
+
+(g) greater use of technology to improve training, skills assessment, and labor market information.
+
+Sec. 5. General Provisions.
+
+(a) This memorandum shall be implemented consistent with applicable law and subject to the availability of any necessary appropriations.
+
+(b) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(c) The heads of executive departments and agencies shall assist and provide information to the Task Force, consistent with applicable law, as may be necessary to carry out the functions of the Task Force. Each executive department, agency, and office shall bear its own expenses of participating in the Task Force.
+
+(d) The Chair of the Council of Economic Advisers is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
+
+<a id="section-3301"></a>
+## § 3301. Definitions
 
 In this subchapter:
 
@@ -6202,44 +6515,44 @@ In this subchapter:
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3303"></a>
-## § 3303. Home schools
+<a id="section-3302"></a>
+## § 3302. Home schools
 
 Nothing in this subchapter shall be construed to affect home schools, whether a home school is treated as a home school or a private school under State law, or to compel a parent or family member engaged in home schooling to participate in adult education and literacy activities.
 
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3304"></a>
-## § 3304. Rule of construction regarding postsecondary transition and concurrent enrollment activities
+<a id="section-3303"></a>
+## § 3303. Rule of construction regarding postsecondary transition and concurrent enrollment activities
 
 Nothing in this subchapter shall be construed to prohibit or discourage the use of funds provided under this subchapter for adult education and literacy activities that help eligible individuals transition to postsecondary education and training or employment, or for concurrent enrollment activities.
 
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3305"></a>
-## § 3305. Authorization of appropriations
+<a id="section-3304"></a>
+## § 3304. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter $577,667,000 for fiscal year 2015, $622,286,000 for fiscal year 2016, $635,198,000 for fiscal year 2017, $649,287,000 for fiscal year 2018, $664,552,000 for fiscal year 2019, and $678,640,000 for fiscal year 2020.
 
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3321"></a>
-## § 3321. Reservation of funds; grants to eligible agencies; allotments
+<a id="section-3305"></a>
+## § 3305. Reservation of funds; grants to eligible agencies; allotments
 **(a) Reservation of funds** From the sum appropriated under [section 3275 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3275) for a fiscal year, the Secretary—
 
 (1) shall reserve 2 percent to carry out [section 3332 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3332), except that the amount so reserved shall not exceed $15,000,000; and
@@ -6293,18 +6606,50 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3322"></a>
-## § 3322. Performance accountability system
+<a id="section-3321"></a>
+## § 3321. Performance accountability system
 
 Programs and activities authorized in this subchapter are subject to the performance accountability provisions described in [section 3141 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3141).
 
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
+
+<a id="section-3322"></a>
+## § 3322. Educational assistance and training
+**(a) Use of fund** The Secretary of Labor shall provide for grants to States to provide educational assistance and training for United States workers. The Secretary shall consult with the Secretary of Education in making grants under this section.
+
+**(b) Allocation of funds** Within the purposes described in subsection (a) of this section, funds in the account used under this section shall be allocated among the States based on a formula, established jointly by the Secretaries of Labor and Education, that takes into consideration—
+
+(1) the location of foreign workers admitted into the United States,
+
+(2) the location of individuals in the United States requiring and desiring the educational assistance and training for which the funds can be applied, and
+
+(3) the location of unemployed and underemployed United States workers.
+
+**(c) Disbursement to States**
+
+(1) Within the purposes and allocations established under this section, disbursements shall be made to the States, in accordance with grant applications submitted to and approved jointly by the Secretaries of Labor and Education, to be applied in a manner consistent with the guidelines established by such Secretaries in consultation with the States. In applying such grants, the States shall consider providing funding to joint labor-management trust funds and other such non-profit organizations which have demonstrated capability and experience in directly training and educating workers.
+
+(2) Not more than 5 percent of the funds disbursed to any State under this section may be used for administrative expenses.
+
+**(d) Limitation on Federal overhead** The Secretaries shall provide that not more than 2 percent of the amount of funds disbursed to States under this section may be used by the Federal Government in the administration of this section.
+
+**(e) Annual report** The Secretary of Labor shall report annually to the Congress on the grants to States provided under this section.
+
+**(f) “State” defined** In this section, the term “State” has the meaning given such term in [section 1101(a)(36) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/36&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Immigration Act of 1990, and not as part of the Adult Education and Family Literacy Act which comprises this subchapter.
+
+Section was formerly classified to [section 2920 of this title](./chapter-030-workforce-investment-systems.md#section-2920) and to [section 1506 of this title](./chapter-019-job-training-partnership.md#section-1506).
 
 
 <a id="section-3323"></a>
@@ -6321,7 +6666,7 @@ Each eligible agency shall be responsible for the State or outlying area adminis
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3331"></a>
@@ -6347,7 +6692,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3332"></a>
@@ -6419,7 +6764,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3333"></a>
@@ -6430,7 +6775,7 @@ Each State desiring to receive funds under this subchapter for any fiscal year s
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3341"></a>
@@ -6508,7 +6853,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3342"></a>
@@ -6536,7 +6881,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3343"></a>
@@ -6557,7 +6902,7 @@ This Act, referred to in subsecs. (a) and (b)(1), is Pub. L. 113–128, July 22,
 The amendments made by title IV, referred to in subsec. (b), mean the amendments made by title IV of Pub. L. 113–128, which primarily amended the Rehabilitation Act of 1973, Pub. L. 93–112, which is classified generally to chapter 16 (§ 701 et seq.) of this title. For complete classification of title IV of Pub. L. 113–128 to the Code, see Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3344"></a>
@@ -6578,7 +6923,7 @@ Section effective on the first day of the first full program year after July 22,
 The Wagner-Peyser Act, referred to in text, is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of this title](./chapter-4b-federal-employment-service.md#section-49) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3361"></a>
@@ -6621,4 +6966,4 @@ The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 
 The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) and Tables.
 
 #### Effective Date
-Section effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).

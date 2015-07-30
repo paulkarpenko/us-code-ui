@@ -407,7 +407,7 @@ George Bush.
 ### Statutory Notes
 
 #### References in Text
-Par. (3) of section 165(h), referred to in subsec. (a), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(27)(A), Dec. 19, 2014, 128 Stat. 4040. However, the term “federally declared disaster” is defined elsewhere in that section.
+Par. (3) of section 165(h), referred to in subsec. (a), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(27)(A), Dec. 19, 2014, 128 Stat. 4040. However, the term “federally declared disaster” is defined elsewhere in section 165.
 
 #### Amendments
 2008—Subsec. (a). Pub. L. 110–343 substituted “federally declared disaster (as defined by section 165(h)(3)(C)(i))” for “Presidentially declared disaster (as defined in section 1033(h)(3))” in introductory provisions.
@@ -1280,7 +1280,7 @@ Pub. L. 105–206, title III, § 3601(c), July 22, 1998, 112 Stat. 776, provided
 
 <a id="section-7527"></a>
 ## § 7527. Advance payment of credit for health insurance costs of eligible individuals
-**(a) General rule** Not later than August 1, 2003, the Secretary shall establish a program for making payments on behalf of certified individuals to providers of qualified health insurance (as defined in section 35(e)) for such individuals.
+**(a) General rule** Not later than the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015, the Secretary shall establish a program for making payments on behalf of certified individuals to providers of qualified health insurance (as defined in section 35(e)) for such individuals.
 
 **(b) Limitation on advance payments during any taxable year** The Secretary may make payments under subsection (a) only to the extent that the total amount of such payments made on behalf of any individual during the taxable year does not exceed 72.5 percent of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
 
@@ -1304,19 +1304,28 @@ Pub. L. 105–206, title III, § 3601(c), July 22, 1998, 112 Stat. 776, provided
 
 **(e) Payment for premiums due prior to commencement of advance payments**
 
-(1) **In general** — The program established under subsection (a) shall provide that the Secretary shall make 1 or more retroactive payments on behalf of a certified individual in an aggregate amount equal to 72.5 percent of the premiums for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months (as defined in section 35(b)) occurring prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).
+(1) **In general** — The program established under subsection (a) shall provide that the Secretary shall make 1 or more retroactive payments on behalf of a certified individual in an aggregate amount equal to 72.5 percent of the premiums for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months (as defined in section 35(b)) occurring—
 
-(2) **Reduction of payment for amounts received under national emergency grants** — The amount of any payment determined under paragraph (1) shall be reduced by the amount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 for a taxable year including the eligible coverage months described in paragraph (1).
+  (A) after the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015; and
+
+  (B) prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).
+
+(2) **Reduction of payment for amounts received under national emergency grants** — The amount of any payment determined under paragraph (1) shall be reduced by the amount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 (as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act) for a taxable year including the eligible coverage months described in paragraph (1).
 
 ### Statutory Notes
 
-#### Amendment of Subsection (e)(2)
-Pub. L. 113–128, title V, §§ 506, 512(r), July 22, 2014, 128 Stat. 1703, 1712, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (e)(2) of this section is amended by inserting “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”. See 2014 Amendment note below.
-
 #### References in Text
-Section 173(f) of the Workforce Investment Act of 1998, referred to in subsec. (e)(2), is classified to [section 2918(f) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918/f&num=0&edition=prelim), Labor.
+The date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015, referred to in subsecs. (a) and (e)(1)(A), is the date of enactment of title IV of Pub. L. 114–27, which was approved June 29, 2015.
+
+Section 173(f) of the Workforce Investment Act of 1998, referred to in subsec. (e)(2), was classified to former [section 2918(f) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918/f&num=0&edition=prelim), Labor, prior to repeal by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015.
+
+The date of enactment of the Workforce Innovation and Opportunity Act, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 113–128, which was approved July 22, 2014.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–27, § 407(c)(1), substituted “the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015” for “August 1, 2003”.
+
+Subsec. (e)(1). Pub. L. 114–27, § 407(c)(2), substituted “occurring—” for “occurring prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).” and added subpars. (A) and (B).
+
 2014—Subsec. (e)(2). Pub. L. 113–128 inserted “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”.
 
 2011—Subsec. (b). Pub. L. 112–40, § 241(b)(2)(A), substituted “72.5 percent” for “65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)”.
@@ -1343,8 +1352,11 @@ Subsec. (d). Pub. L. 111–5, § 1899H(a), amended subsec. (d) generally. Prior 
 
 Subsec. (e). Pub. L. 111–5, § 1899B(a), added subsec. (e).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–27 applicable to coverage months in taxable years beginning after Dec. 31, 2013, see section 407(f) of Pub. L. 114–27, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
+
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–40 applicable to coverage months beginning after Feb. 12, 2011, except that amendment by section 241(b)(2)(B) of Pub. L. 112–40 applicable to certificates issued after the date which is 30 days after Oct. 21, 2011, and amendment by section 241(b)(2)(D) of Pub. L. 112–40 applicable to coverage months beginning after the date which is 30 days after Oct. 21, 2011, see section 241(c) of Pub. L. 112–40, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
@@ -1366,7 +1378,7 @@ Pub. L. 111–5, div. B, title I, § 1899B(b), Feb. 17, 2009, 123 Stat. 424, pro
 Pub. L. 111–5, div. B, title I, § 1899H(b), Feb. 17, 2009, 123 Stat. 431, provided that: “The amendment made by this section [amending this section] shall apply to certificates issued after the date that is 6 months after the date of the enactment of this Act [Feb. 17, 2009].”
 
 #### Construction
-Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor.
+Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
 
 #### Transitional Rule
 Pub. L. 111–5, div. B, title I, § 1899B(c), Feb. 17, 2009, 123 Stat. 424, provided that: “The Secretary of the Treasury shall not be required to make any payments under section 7527(e) of the Internal Revenue Code of 1986, as added by this section, until after the date that is 6 months after the date of the enactment of this Act [Feb. 17, 2009].”

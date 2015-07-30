@@ -145,7 +145,7 @@ Par. (c). Pub. L. 100–173, § 3(2), struck out reference to poultry handlers w
 1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, inserted “or any live poultry dealer or handler” after “packer” wherever appearing.
 
 #### Termination Date of 1999 Amendment
-Amendment by Pub. L. 106–78 to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1635&num=0&edition=prelim).
+Amendment by Pub. L. 106–78 to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Effective Date of 1987 Amendment
 Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as a note under [section 182 of this title](./chapter-009-packers-and-stockyards.md#section-182).
@@ -174,7 +174,7 @@ Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see sectio
 Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-194"></a>
@@ -304,7 +304,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section 11005 of Pub. L. 110–246, which directed amendment of title II of the Packers and Stockyards Act, 1921, by adding sections 208 to 210 at the end, was executed by adding the sections at the end of this part, which is subtitle A of title II of the Act, to reflect the probable intent of Congress.
 
 #### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-197b"></a>
@@ -321,7 +321,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section 11005 of Pub. L. 110–246, which directed amendment of title II of the Packers and Stockyards Act, 1921, by adding sections 208 to 210 at the end, was executed by adding the sections at the end of this part, which is subtitle A of title II of the Act, to reflect the probable intent of Congress.
 
 #### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-197c"></a>
@@ -353,7 +353,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section 11005 of Pub. L. 110–246, which directed amendment of title II of the Packers and Stockyards Act, 1921, by adding sections 208 to 210 at the end, was executed by adding the sections at the end of this part, which is subtitle A of title II of the Act, to reflect the probable intent of Congress.
 
 #### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-198"></a>
@@ -363,7 +363,7 @@ Except as provided in [section 198b(a) of this title](https://uscode.house.gov/v
 
 (1) **Market** — The term “market” means the sale or disposition of swine, pork, or pork products in commerce.
 
-(2) **Packer** — The term “packer” has the meaning given the term in [section 1635i of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1635i&num=0&edition=prelim).
+(2) **Packer** — The term “packer” has the meaning given the term in [section 1635i of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635i).
 
 (3) **Pork** — The term “pork” means the meat of a porcine animal.
 
@@ -384,10 +384,10 @@ Except as provided in [section 198b(a) of this title](https://uscode.house.gov/v
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1635&num=0&edition=prelim).
+For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Termination Date
-Part to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1635&num=0&edition=prelim).
+Part to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-198a"></a>
@@ -396,7 +396,7 @@ Part to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amende
 
 **(b) Availability** The Secretary shall make available to swine producers and other interested persons information on the types of contracts described in subsection (a), including notice (on a real-time basis if practicable) of the types of contracts that are being offered by each individual packer to, and are open to acceptance by, producers for the purchase of swine.
 
-**(c) Confidentiality** The reporting requirements under subsections (a) and (b) shall be subject to the confidentiality protections provided under [section 1636 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1636&num=0&edition=prelim).
+**(c) Confidentiality** The reporting requirements under subsections (a) and (b) shall be subject to the confidentiality protections provided under [section 1636 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1636).
 
 **(d) Information collection**
 
@@ -423,7 +423,7 @@ Part to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amende
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1635&num=0&edition=prelim).
+For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-198b"></a>
@@ -434,7 +434,7 @@ For termination of section by section 942 of Pub. L. 106–78, see Livestock Man
 
 (1) the Federal Trade Commission Act ([15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.), especially sections 6, 8, 9, and 10 of that Act ([15 U.S.C. 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section46&num=0&edition=prelim), 48, 49, and 50); and
 
-(2) the Agricultural Marketing Act of 1946 ([7 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1621&num=0&edition=prelim) et seq.).
+(2) the Agricultural Marketing Act of 1946 ([7 U.S.C. 1621](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) et seq.).
 
 **(c) Contents** The Comptroller General shall include in the report an analysis of—
 
@@ -457,12 +457,12 @@ For termination of section by section 942 of Pub. L. 106–78, see Livestock Man
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1635&num=0&edition=prelim).
+For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### References in Text
 The Federal Trade Commission Act, referred to in subsec. (b)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
-The Agricultural Marketing Act of 1946, referred to in subsec. (b)(2), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, as amended, which is classified generally to chapter 38 (§ 1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1621&num=0&edition=prelim) and Tables.
+The Agricultural Marketing Act of 1946, referred to in subsec. (b)(2), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, as amended, which is classified generally to chapter 38 (§ 1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) and Tables.
 
 
 <a id="section-201"></a>
@@ -1007,7 +1007,7 @@ Subsecs. (d) to (f). Pub. L. 103–354, § 293(b)(2), (3), redesignated subsecs.
 #### Regulations
 Pub. L. 110–234, title XI, § 11006, May 22, 2008, 122 Stat. 1358, and Pub. L. 110–246, § 4(a), title XI, § 11006, June 18, 2008, 122 Stat. 1664, 2120, provided that: “As soon as practicable, but not later than 2 years after the date of the enactment of this Act [June 18, 2008], the Secretary of Agriculture shall promulgate regulations with respect to the Packers and Stockyards Act, 1921 ([7 U.S.C. 181](./chapter-009-packers-and-stockyards.md#section-181) et seq.) to establish criteria that the Secretary will consider in determining— “(1) whether an undue or unreasonable preference or advantage has occurred in violation of such Act; “(2) whether a live poultry dealer has provided reasonable notice to poultry growers of any suspension of the delivery of birds under a poultry growing arrangement; “(3) when a requirement of additional capital investments over the life of a poultry growing arrangement or swine production contract constitutes a violation of such Act; and “(4) if a live poultry dealer or swine contractor has provided a reasonable period of time for a poultry grower or a swine production contract grower to remedy a breach of contract that could lead to termination of the poultry growing arrangement or swine production contract.”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
 
 <a id="section-228a"></a>
@@ -1156,9 +1156,9 @@ A prior section 416 of act Aug. 15, 1921, was renumbered section 417 and is clas
 Another prior section 416 of act Aug. 15, 1921, was classified to [section 229a of this title](./chapter-009-packers-and-stockyards.md#section-229a), prior to repeal by Pub. L. 106–78.
 
 #### Effective Date of Repeal
-Pub. L. 110–234, title XI, 11004(b), May 22, 2008, 122 Stat. 1356, and Pub. L. 110–246, § 4(a), title XI, § 11004(b), June 18, 2008, 122 Stat. 1664, 2118, provided that the repeal of this section is effective Sept. 30, 2012 [extended to Sept. 30, 2013, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim)].
+Pub. L. 110–234, title XI, 11004(b), May 22, 2008, 122 Stat. 1356, and Pub. L. 110–246, § 4(a), title XI, § 11004(b), June 18, 2008, 122 Stat. 1664, 2118, provided that the repeal of this section is effective Sept. 30, 2012 [extended to Sept. 30, 2013, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701)].
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
 
 <a id="section-229a"></a>
@@ -1169,10 +1169,10 @@ Pub. L. 110–234, title XI, 11004(b), May 22, 2008, 122 Stat. 1356, and Pub. L.
 Section, act Aug. 15, 1921, ch. 64, title IV, § 416, as added Pub. L. 105–277, div. A, § 101(a) [title XI, § 1127(a)], Oct. 21, 1998, 112 Stat. 2681, 2681–46, related to mandatory domestic reporting pilot investigation.
 
 #### Termination of Repeal
-For termination of repeal by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1635&num=0&edition=prelim).
+For termination of repeal by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Termination Date of Repeal
-Repeal by Pub. L. 106–78 to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1635&num=0&edition=prelim).
+Repeal by Pub. L. 106–78 to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-229b"></a>

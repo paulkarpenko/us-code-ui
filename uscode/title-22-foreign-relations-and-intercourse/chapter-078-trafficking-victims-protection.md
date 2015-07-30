@@ -149,7 +149,7 @@ In this chapter:
 
   (B) the recruitment, harboring, transportation, provision, or obtaining of a person for labor or services, through the use of force, fraud, or coercion for the purpose of subjection to involuntary servitude, peonage, debt bondage, or slavery.
 
-(10) **Sex trafficking** — The term “sex trafficking” means the recruitment, harboring, transportation, provision, or obtaining of a person for the purpose of a commercial sex act.
+(10) **Sex trafficking** — The term “sex trafficking” means the recruitment, harboring, transportation, provision, obtaining, patronizing, or soliciting of a person for the purpose of a commercial sex act.
 
 (11) **State** — The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and territories and possessions of the United States.
 
@@ -173,6 +173,8 @@ Chapters 1 and 10 of that Act, referred to in par. (8)(A)(vii), probably means c
 The Arms Export Control Act, referred to in par. (8)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
 #### Amendments
+2015—Par. (10). Pub. L. 114–22 substituted “obtaining, patronizing, or soliciting” for “or obtaining”.
+
 2013—Pub. L. 113–4 added par. (1), redesignated former pars. (1) to (14) as (2) to (15), respectively, and substituted “paragraph (9)” for “paragraph (8)” in par. (14) and “paragraph (9) or (10)” for “paragraph (8) or (9)” in par. (15).
 
 2008—Par. (1). Pub. L. 110–457 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
@@ -248,11 +250,11 @@ The Arms Export Control Act, referred to in par. (8)(B), is Pub. L. 90–629, Oc
 
     (iii) prohibitions on the procurement by the United States Government of items or services produced by slave labor, consistent with Executive Order 13107 (December 10, 1998);
 
-  (O) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (g); and
+  (O) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (g); and 22 So in original. The word “and” probably should not appear.
 
   (P) the activities undertaken by Federal agencies to train appropriate State, tribal, and local government and law enforcement officials to identify victims of severe forms of trafficking, including both sex and labor trafficking;
 
-  (Q) the activities undertaken by Federal agencies in cooperation with State, tribal, and local law enforcement officials to identify, investigate, and prosecute offenses under sections 1581, 1583, 1584, 1589, 1590, 1592, and 1594 of title 18, or equivalent State offenses, including, in each fiscal year—
+  (Q) the activities undertaken by Federal agencies in cooperation with State, tribal, and local law enforcement officials to identify, investigate, and prosecute offenses under sections 1581, 1583, 1584, 1589, 1590, 1591, 1592, 1594, 2251, 2251A, 2421, 2422, and 2423 of title 18, or equivalent State offenses, including, in each fiscal year—
 
     (i) the number, age, gender, country of origin, and citizenship status of victims identified for each offense;
 
@@ -260,9 +262,13 @@ The Arms Export Control Act, referred to in par. (8)(B), is Pub. L. 90–629, Oc
 
     (iii) the number of individuals referred for prosecution for State offenses, including offenses relating to the purchasing of commercial sex acts;
 
-    (iv) the number of victims granted continued presence in the United States under [section 7105(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/c/3&num=0&edition=prelim); and
+    (iv) the number of victims granted continued presence in the United States under [section 7105(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/c/3&num=0&edition=prelim);
 
-    (v) the number of victims granted a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of [section 1101(a)(15) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim); and
+    (v) the number of victims granted a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of [section 1101(a)(15) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim);
+
+    (vi) the number of individuals required by a court order to pay restitution in connection with a violation of each offense under title 18, the amount of restitution required to be paid under each such order, and the amount of restitution actually paid pursuant to each such order; and
+
+    (vii) the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense; and
 
   (R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and [section 14044a(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044a/a&num=0&edition=prelim), and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible.
 
@@ -310,6 +316,8 @@ Executive Order 13107, referred to in subsec. (d)(7)(N)(iii), is set out as a no
 Executive Order No. 13257, referred to in subsec. (g)(2)(A), is set out as a note below.
 
 #### Amendments
+2015—Subsec. (d)(7)(Q). Pub. L. 114–22 substituted “1590, 1591, 1592, 1594, 2251, 2251A, 2421, 2422, and 2423” for “1590, 1592, and 1594” in introductory provisions and added cls. (vi) and (vii).
+
 2013—Subsec. (d)(6). Pub. L. 113–4, § 1203(a), inserted “, and make reasonable efforts to distribute information to enable all relevant Federal Government agencies to publicize the National Human Trafficking Resource Center Hotline on their websites, in all headquarters offices, and in all field offices throughout the United States” before period at end.
 
 Subsec. (d)(7)(B) to (H). Pub. L. 113–4, § 1231(2), added subpars. (B) to (H) and struck out former subpars. (B) and (C) which read as follows:
@@ -817,7 +825,11 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (A) *Eligibility for benefits and services* — Notwithstanding title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 [[8 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1601&num=0&edition=prelim) et seq.], an alien who is a victim of a severe form of trafficking in persons, or an alien classified as a nonimmigrant under [section 1101(a)(15)(T)(ii) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T/ii&num=0&edition=prelim), shall be eligible for benefits and services under any Federal or State program or activity funded or administered by any official or agency described in subparagraph (B) to the same extent as an alien who is admitted to the United States as a refugee under [section 1157 of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1157&num=0&edition=prelim).
 
-  (B) *Requirement to expand benefits and services* — Subject to subparagraph (C) and, in the case of nonentitlement programs, to the availability of appropriations, the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and the heads of other Federal agencies shall expand benefits and services to victims of severe forms of trafficking in persons in the United States, and aliens classified as a nonimmigrant under [section 1101(a)(15)(T)(ii) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T/ii&num=0&edition=prelim), without regard to the immigration status of such victims. In the case of nonentitlement programs funded by the Secretary of Health and Human Services, such benefits and services may include services to assist potential victims of trafficking in achieving certification and to assist minor dependent children of victims of severe forms of trafficking in persons or potential victims of trafficking.
+  (B) *Requirement to expand benefits and services*
+
+    (i) *In general* — Subject to subparagraph (C) and, in the case of nonentitlement programs, to the availability of appropriations, the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and the heads of other Federal agencies shall expand benefits and services to victims of severe forms of trafficking in persons in the United States, and aliens classified as a nonimmigrant under [section 1101(a)(15)(T)(ii) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T/ii&num=0&edition=prelim), without regard to the immigration status of such victims. In the case of nonentitlement programs funded by the Secretary of Health and Human Services, such benefits and services may include services to assist potential victims of trafficking in achieving certification and to assist minor dependent children of victims of severe forms of trafficking in persons or potential victims of trafficking.
+
+    (ii) *National human trafficking hotline* — Beginning in fiscal year 2017, and in each fiscal year thereafter, of amounts made available for grants under paragraph (2), the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons.
 
   (C) *Definition of victim of a severe form of trafficking in persons* — For the purposes of this paragraph, the term “victim of a severe form of trafficking in persons” means only a person—
 
@@ -857,7 +869,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
     (iv) *Assistance to investigations* — In making the certification described in this subparagraph with respect to the assistance to investigation or prosecution described in clause (i)(I), the Secretary of Health and Human Services shall consider statements from State and local law enforcement officials that the person referred to in subparagraph (C)(ii)(II) has been willing to assist in every reasonable way with respect to the investigation and prosecution of State and local crimes such as kidnapping, rape, slavery, or other forced labor offenses, where severe forms of trafficking appear to have been involved.
 
-  (F) *Eligibility for interim assistance of children*
+  (F) *No requirement of official certification for United States citizens and lawful permanent residents* — Nothing in this section may be construed to require United States citizens or lawful permanent residents who are victims of severe forms of trafficking to obtain an official certification from the Secretary of Health and Human Services in order to access any of the specialized services described in this subsection or any other Federal benefits and protections to which they are otherwise entitled.
+
+  (G) *Eligibility for interim assistance of children*
 
     (i) *Determination* — Upon receiving credible information that a child described in subparagraph (C)(ii)(I) who is seeking assistance under this paragraph may have been subjected to a severe form of trafficking in persons, the Secretary of Health and Human Services shall promptly determine if the child is eligible for interim assistance under this paragraph. The Secretary shall have exclusive authority to make interim eligibility determinations under this clause. A determination of interim eligibility under this clause shall not affect the independent determination whether a child is a victim of a severe form of trafficking.
 
@@ -873,11 +887,11 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
       (III) *Letter of eligibility* — If the Secretary, after receiving information the Secretary believes, taken as a whole, indicates that the child is eligible for assistance under this paragraph, the Secretary shall issue a letter of eligibility. The Secretary may not require that the child cooperate with law enforcement as a condition for receiving such letter of eligibility.
 
-  (G) *Notification of children for interim assistance* — Not later than 24 hours after a Federal, State, or local official discovers that a person who is under 18 years of age may be a victim of a severe form of trafficking in persons, the official shall notify the Secretary of Health and Human Services to facilitate the provision of interim assistance under subparagraph (F).
+  (H) *Notification of children for interim assistance* — Not later than 24 hours after a Federal, State, or local official discovers that a person who is under 18 years of age may be a victim of a severe form of trafficking in persons, the official shall notify the Secretary of Health and Human Services to facilitate the provision of interim assistance under subparagraph (G).
 
 (2) **Grants**
 
-  (A) *In general* — Subject to the availability of appropriations, the Attorney General may make grants to States, Indian tribes, units of local government, and nonprofit, nongovernmental victims’ service organizations to develop, expand, or strengthen victim service programs for victims of trafficking.
+  (A) *In general* — Subject to the availability of appropriations, the Attorney General may make grants to States, Indian tribes, units of local government, and nonprofit, nongovernmental victims’ service organizations to develop, expand, or strengthen victim service programs for victims of trafficking, including programs that provide housing to victims of trafficking.
 
   (B) *Allocation of grant funds* — Of amounts made available for grants under this paragraph, there shall be set aside—
 
@@ -925,7 +939,21 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
     (ii) distribute the materials developed under clause (i) to State and local law enforcement officials.
 
-(4) **Training of Government personnel** — Appropriate personnel of the Department of State, the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims.
+(4) **Training of Government personnel**
+
+  (A) *In general* — Appropriate personnel of the Department of State, including members of the Service (as such term is defined in [section 3903 of this title](./chapter-052-foreign-service.md#section-3903)), the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims.
+
+  (B) *Training components* — Training under this paragraph shall include—
+
+    (i) a distance learning course on trafficking-in-persons issues and the Department of State’s obligations under this Act, which shall be designed for embassy reporting officers, regional bureaus’ trafficking-in-persons coordinators, and their superiors;
+
+    (ii) specific trafficking-in-persons briefings for all ambassadors and deputy chiefs of mission before such individuals depart for their posts; and
+
+    (iii) at least annual reminders to all personnel referred to in clauses (i) and (ii), including appropriate personnel from other Federal departments and agencies, at each diplomatic or consular post of the Department of State located outside the United States of—
+
+      (I) key problems, threats, methods, and warning signs of trafficking in persons specific to the country or jurisdiction in which each such post is located; and
+
+      (II) appropriate procedures to report information that any such personnel may acquire about possible cases of trafficking in persons.
 
 **(d) Construction** Nothing in subsection (c) shall be construed as creating any private cause of action against the United States or its officers or employees.
 
@@ -964,12 +992,22 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(1)(A), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§ 1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
 
+This Act, referred to in subsec. (c)(4)(B)(i), is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
+
 For the amendments made by this section, referred to in subsec. (e)(5), see Codification note below.
 
 #### Codification
 Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) of section 107 of Pub. L. 106–386 amended sections 1101, 1182, and 1184 of Title 8, Aliens and Nationality, and second subsec. (f) of section 107 of Pub. L. 106–386 amended [section 1255 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255&num=0&edition=prelim).
 
 #### Amendments
+2015—Subsec. (b)(1)(B). Pub. L. 114–22, § 603, designated existing provisions as cl. (i) and inserted heading and added cl. (ii).
+
+Subsec. (b)(1)(F) to (H). Pub. L. 114–22, § 102, added subpar. (F), redesignated former subpars. (F) and (G) as (G) and (H), respectively, and, in subpar. (H), substituted “subparagraph (G)” for “subparagraph (F)”.
+
+Subsec. (b)(2)(A). Pub. L. 114–22, § 224, inserted “, including programs that provide housing to victims of trafficking” before period at end.
+
+Subsec. (c)(4). Pub. L. 114–22, § 231, designated existing provisions as subpar. (A) and inserted heading, inserted “, including members of the Service (as such term is defined in [section 3903 of this title](./chapter-052-foreign-service.md#section-3903))” after “Department of State”, and added subpar. (B). Amendment was executed to this section, which is section 107 of the Trafficking Victims Protection Act of 2000, to reflect the probable intent of Congress, notwithstanding directory language purporting to amend section 105 of such Act, which is classified to [section 7103 of this title](./chapter-078-trafficking-victims-protection.md#section-7103) and does not contain a subsec. (c)(4).
+
 2013—Subsec. (a)(2). Pub. L. 113–4, § 1203(b), inserted “and shall brief Congress annually on such efforts” before period at end.
 
 Subsec. (c)(4). Pub. L. 113–4, § 1234, inserted “the Department of Labor, the Equal Employment Opportunity Commission,” before “and the Department of Justice” in first sentence, and “, in consultation with the Secretary of Labor,” before “shall provide training” in second sentence.

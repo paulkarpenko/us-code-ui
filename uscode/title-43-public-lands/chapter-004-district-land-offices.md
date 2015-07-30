@@ -65,7 +65,7 @@ The words “or receiver” which followed “register” in the original text w
 R.S. § 2246 derived from act June 12, 1840, ch. 35, 5 Stat. 384.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Reference to “register” changed to “officer designated by the Secretary of the Interior” and “Bureau of Land Management” substituted for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -104,7 +104,7 @@ This Act, referred to in text, is act Apr. 24, 1944, ch. 177, 58 Stat. 215, as a
 Act Apr. 24, 1944, ch. 177, § 4, 58 Stat. 215, provided that: “Sections 2237 and 2240 of the Revised Statutes and the act of May 21, 1928 (45 Stat. 684; 43 U.S.C., sec. 80), as amended [sections 80 and 80a of this title], are hereby repealed, and all other provisions of law inconsistent with this Act [See References in Text note above] are repealed to the extent of such inconsistency.”
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Words “officials of district land offices” substituted for “registers” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -149,7 +149,7 @@ Section, R.S. § 2243; acts Oct. 28, 1921, ch. 115, § 1, 42 Stat. 208; Mar. 3, 
 
 ### Statutory Notes
 
-Section, R.S. § 2238; acts May 14, 1880, ch. 89, § 2, 21 Stat. 141; Dec. 17, 1880, ch. 2, 21 Stat. 311; July 26, 1892, ch. 251, 27 Stat. 270; Mar. 22, 1904, ch. 748, 33 Stat. 144; May 29, 1908, ch. 220, § 14, 35 Stat. 468; Jan. 24, 1923, ch. 42, 42 Stat. 1179; June 5, 1924, ch. 264, 43 Stat. 395; Mar. 3, 1925, ch. 462, 43 Stat. 1145, related to fees and commissions required to be collected by district land offices. See [section 1734 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1734&num=0&edition=prelim).
+Section, R.S. § 2238; acts May 14, 1880, ch. 89, § 2, 21 Stat. 141; Dec. 17, 1880, ch. 2, 21 Stat. 311; July 26, 1892, ch. 251, 27 Stat. 270; Mar. 22, 1904, ch. 748, 33 Stat. 144; May 29, 1908, ch. 220, § 14, 35 Stat. 468; Jan. 24, 1923, ch. 42, 42 Stat. 1179; June 5, 1924, ch. 264, 43 Stat. 395; Mar. 3, 1925, ch. 462, 43 Stat. 1145, related to fees and commissions required to be collected by district land offices. See [section 1734 of this title](./chapter-035-federal-land-policy-and-management.md#section-1734).
 
 
 <a id="section-83"></a>
@@ -163,7 +163,7 @@ Transcripts of the records in the district land offices, when made and duly cert
 The words “and receivers” which followed “registers” in the original text were omitted as superseded by acts Oct. 28, 1921, and Mar. 3, 1925, providing for consolidation of the two offices. See, also, Transfer of Functions note below.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Words “district land offices” substituted for “offices of registers” and “the Secretary of the Interior or such officers as he may designate” substituted for “them” on authority of section 403 of 1946 Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -173,7 +173,7 @@ Words “district land offices” substituted for “offices of registers” and
 
 ### Statutory Notes
 
-Section, R.S. § 2239; acts Oct. 28, 1921, ch. 114, § 1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145, related to fees for consolidated land offices. See [section 1734 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1734&num=0&edition=prelim).
+Section, R.S. § 2239; acts Oct. 28, 1921, ch. 114, § 1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145, related to fees for consolidated land offices. See [section 1734 of this title](./chapter-035-federal-land-policy-and-management.md#section-1734).
 
 
 <a id="section-85"></a>
@@ -193,7 +193,7 @@ On and after March 4, 1911, all money or fees received or collected by the Secre
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 References to “registers of United States land offices” and “such registers” changed to “Secretary of the Interior or such officers as he may designate” and “the Secretary or such officers”, respectively, on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -221,7 +221,7 @@ The office of receiver consolidated with that of register by act Mar. 3, 1925, u
 R.S. § 2245 derived from act July 4, 1836, ch. 352, § 9, 5 Stat. 111.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Secretary of the Interior or such officer as he may designate” substituted for “registers”, “district land offices” substituted for “their several offices”, and former last sentence relating to returns to Commissioner of the General Land Office omitted on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -296,7 +296,7 @@ Officers of district land officers, as designated by the Secretary of the Interi
 This section, as originally enacted, related to receivers of public moneys for land districts. The office of receiver was consolidated with that of register by acts Mar. 3, 1925, and Oct. 28, 1921, under which the office of receiver was abolished. See, also, Transfer of Functions note below.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officers of district land offices, as designated by the Secretary of the Interior,” substituted for “registers” and “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -315,7 +315,7 @@ At the time of making such deposit the officer designated by the Secretary of th
 This section, as originally enacted, related to receivers of public moneys for land districts. The office of receiver was consolidated with that of register by acts Mar. 3, 1925, and Oct. 28, 1921, under which the office of receiver was abolished. See, also, Transfer of Functions note below.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Words “officer designated by the Secretary of the Interior” and “officer” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -331,7 +331,7 @@ Amounts that appear in the accounts of a district land office as “Moneys depos
 This section, as originally enacted, related to receivers of public moneys for land districts. The office of receiver was consolidated with that of register by acts Mar. 3, 1925, and Oct. 28, 1921, under which the office of receiver was abolished. See, also, Transfer of Functions note below.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Words “the accounts of a district land office” substituted for “a register’s accounts” and “officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of 1946 Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -347,7 +347,7 @@ The Secretary of the Treasury is authorized and directed to pay, out of any unex
 This section, as originally enacted, referred to receivers of public moneys. The office of receiver was consolidated with that of register by acts Mar. 3, 1925, and Oct. 28, 1921, under which the office of receiver was abolished. See, also, Transfer of Functions note below.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officers designated by the Secretary of the Interior” substituted for “registers” and “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -379,7 +379,7 @@ Any person or persons who shall have made payment to an officer designated by th
 This section, as originally enacted, related to receivers of public moneys for land districts. The office of receiver was consolidated with that of register by acts Mar. 3, 1925, and Oct. 28, 1921, under which the office of receiver was abolished. See, also, Transfer of Functions note below.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Words “officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -397,7 +397,7 @@ No officer shall receive evidence in, hear, or determine any cause pending in an
 This section, as originally enacted, was applicable to both registers and receivers. The office of receiver was abolished by acts Oct. 28, 1921, and Mar. 3, 1925, which consolidated the two offices. See, also, Transfer of Functions note below.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Word “officer” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -410,7 +410,7 @@ It shall be the duty of every officer so disqualified to report the fact of his 
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Word “officer” substituted for “register” and “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -428,7 +428,7 @@ Officers of district land offices designated by the Secretary of the Interior in
 The original text of this section referred to both registers and receivers, but reference to the latter was omitted in view of the abolition of such office under acts Oct. 28, 1921, and Mar. 3, 1925, which provided for the consolidation of the two offices under a register only. See, also, Transfer of Functions note below.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officers of district land offices designated by the Secretary of the Interior” substituted for “Registers of the land office, or either of them,” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -464,7 +464,7 @@ The original text of this section referred to both registers and receivers, but 
 “United States magistrate judge” substituted in text for “United States magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Words “officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -486,6 +486,6 @@ If any person applies to any officer designated by the Secretary of the Interior
 R.S. § 2247 derived from act July 4, 1836, ch. 352, § 13, 5 Stat. 112.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 References to “register” changed to “officer designated by the Secretary of the Interior” and “officer” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).

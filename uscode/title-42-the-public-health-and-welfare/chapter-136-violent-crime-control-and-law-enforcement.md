@@ -2,7 +2,7 @@
 title: 42
 chapter: '136'
 heading: VIOLENT CRIME CONTROL AND LAW ENFORCEMENT
-section_count: 219
+section_count: 233
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -25,6 +25,11 @@ Unless otherwise provided, for purposes of this part—
 
 #### Prior Provisions
 A prior section 13701, Pub. L. 103–322, title II, § 20101, Sept. 13, 1994, 108 Stat. 1815, related to grants for correctional facilities prior to the general amendment of this part by Pub. L. 104–134.
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–22, title IV, § 401, May 29, 2015, 129 Stat. 256, provided that: “This title [enacting part N–2 (§ 14043h et seq.) of subchapter III of this chapter] may be cited as the ‘Rape Survivor Child Custody Act’.”
+
+Pub. L. 114–12, § 1, May 19, 2015, 129 Stat. 192, provided that: “This Act [enacting part F (§ 14165 et seq.) of subchapter IX of this chapter] may be cited as the ‘Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015’.”
 
 #### Short Title of 2014 Amendment
 Pub. L. 113–242, § 1, Dec. 18, 2014, 128 Stat. 2860, provided that: “This Act [enacting sections 13727 and 13727a of this title] may be cited as the ‘Death in Custody Reporting Act of 2013’.”
@@ -1503,7 +1508,7 @@ For short title of this part as the “National Community Economic Partnership A
 
   (B) individuals who are unemployed or underemployed;
 
-  (C) individuals who are participating or have participated in job training programs authorized under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.] or the Family Support Act of 1988 (Public Law 100–485);
+  (C) individuals who are participating or have participated in job training programs authorized under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.] or the Family Support Act of 1988 (Public Law 100–485);
 
   (D) individuals whose jobs may be retained as a result of the provision of financing available under this subpart; or
 
@@ -1519,11 +1524,8 @@ For short title of this part as the “National Community Economic Partnership A
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(4)(C)
-Pub. L. 113–128, title V, §§ 506, 512(jj), July 22, 2014, 128 Stat. 1703, 1722, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(4)(C) of this section is amended by striking “job training programs authorized under title I of the Workforce Investment Act of 1998 or the Family Support Act of 1988 (Public Law 100–485)” and inserting “job training programs authorized under title I of the Workforce Innovation and Opportunity Act or the Family Support Act of 1988 (Public Law 100–485)”. See 2014 Amendment note below.
-
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsec. (a)(4)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4)(C), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Family Support Act of 1988, referred to in subsec. (a)(4)(C), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat. 2343, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
@@ -1535,7 +1537,7 @@ The Family Support Act of 1988, referred to in subsec. (a)(4)(C), is Pub. L. 100
 Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(44)], substituted “authorized under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “authorized under the Job Training Partnership Act ([29 U.S.C. 1501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1501&num=0&edition=prelim) et seq.)”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(44)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(35)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
@@ -4433,8 +4435,8 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(3)(D), is
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 
-<a id="section-14044"></a>
-## § 14044. Sexual assault services program
+<a id="section-14043h"></a>
+## § 14043h. Sexual assault services program
 **(a) Purposes** The purposes of this section are—
 
 (1) to assist States, Indian tribes, and territories in providing intervention, advocacy, accompaniment, support services, and related assistance for—
@@ -4602,6 +4604,137 @@ Subsec. (f)(1). Pub. L. 113–4, § 201(b), substituted “$40,000,000 to remain
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
+
+
+<a id="section-14043h-1"></a>
+## § 14043h–1. Definitions
+
+In this part:
+
+(1) **Covered formula grant** — The term “covered formula grant” means a grant under—
+
+  (A) part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796gg](./chapter-046-justice-system-improvement.md#section-3796gg) et seq.) (commonly referred to as the “STOP Violence Against Women Formula Grant Program”); or
+
+  (B) [section 14043g of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14043g) (commonly referred to as the “Sexual Assault Services Program”).
+
+(2) **Termination**
+
+  (A) *In general* — The term “termination” means, when used with respect to parental rights, a complete and final termination of the parent’s right to custody of, guardianship of, visitation with, access to, and inheritance from a child.
+
+  (B) *Rule of construction* — Nothing in this paragraph shall be construed to require a State, in order to receive an increase in the amount provided to the State under the covered formula grants under this part, to have in place a law that terminates any obligation of a person who fathered a child through rape to support the child.
+
+### Statutory Notes
+
+#### References in Text
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in par. (1)(A), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part T of title I of the Act is classified generally to subchapter XII–H (§ 3796gg et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3711 of this title](./chapter-046-justice-system-improvement.md#section-3711) and Tables.
+
+#### Codification
+Section was enacted as part of the Rape Survivor Child Custody Act and also as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Short Title
+For short title of this part as the “Rape Survivor Child Custody Act”, see section 401 of Pub. L. 114–22, set out as a Short Title of 2015 Amendment note under [section 13701 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-13701).
+
+
+<a id="section-14043h-2"></a>
+## § 14043h–2. Findings
+
+Congress finds the following:
+
+(1) Men who father children through rape should be prohibited from visiting or having custody of those children.
+
+(2) Thousands of rape-related pregnancies occur annually in the United States.
+
+(3) A substantial number of women choose to raise their child conceived through rape and, as a result, may face custody battles with their rapists.
+
+(4) Rape is one of the most under-prosecuted serious crimes, with estimates of criminal conviction occurring in less than 5 percent of rapes.
+
+(5) The clear and convincing evidence standard is the most common standard for termination of parental rights among the 50 States, territories, and the District of Columbia.
+
+(6) The Supreme Court established that the clear and convincing evidence standard satisfies due process for allegations to terminate or restrict parental rights in Santosky v. Kramer (455 U.S. 745 (1982)).
+
+(7) Currently only 10 States have statutes allowing rape survivors to petition for the termination of parental rights of the rapist based on clear and convincing evidence that the child was conceived through rape.
+
+(8) A rapist pursuing parental or custody rights causes the survivor to have continued interaction with the rapist, which can have traumatic psychological effects on the survivor, and can make it more difficult for her to recover.
+
+(9) These traumatic effects on the mother can severely negatively impact her ability to raise a healthy child.
+
+(10) Rapists may use the threat of pursuing custody or parental rights to coerce survivors into not prosecuting rape, or otherwise harass, intimidate, or manipulate them.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Rape Survivor Child Custody Act and also as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+
+<a id="section-14043h-3"></a>
+## § 14043h–3. Increased funding for formula grants authorized
+
+The Attorney General shall increase the amount provided to a State under the covered formula grants in accordance with this part if the State has in place a law that allows the mother of any child that was conceived through rape to seek court-ordered termination of the parental rights of her rapist with regard to that child, which the court is authorized to grant upon clear and convincing evidence of rape.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Rape Survivor Child Custody Act and also as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+
+<a id="section-14043h-4"></a>
+## § 14043h–4. Application
+
+A State seeking an increase in the amount provided to the State under the covered formula grants shall include in the application of the State for each covered formula grant such information as the Attorney General may reasonably require, including information about the law described in [section 14043h–2 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14043h-2).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Rape Survivor Child Custody Act and also as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+
+<a id="section-14043h-5"></a>
+## § 14043h–5. Grant increase
+
+The amount of the increase provided to a State under the covered formula grants under this part shall be equal to not more than 10 percent of the average of the total amount of funding provided to the State under the covered formula grants under the 3 most recent awards to the State.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Rape Survivor Child Custody Act and also as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+
+<a id="section-14043h-6"></a>
+## § 14043h–6. Period of increase
+**(a) In general** The Attorney General shall provide an increase in the amount provided to a State under the covered formula grants under this part for a 2-year period.
+
+**(b) Limit** The Attorney General may not provide an increase in the amount provided to a State under the covered formula grants under this part more than 4 times.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Rape Survivor Child Custody Act and also as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+
+<a id="section-14043h-7"></a>
+## § 14043h–7. Allocation of increased formula grant funds
+
+The Attorney General shall allocate an increase in the amount provided to a State under the covered formula grants under this part such that—
+
+(1) 25 percent 11 So in original. Probably should be followed by “of”. the amount of the increase is provided under the program described in [section 14043h(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14043h/1/A&num=0&edition=prelim); and
+
+(2) 75 percent 1 the amount of the increase is provided under the program described in [section 14043h(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14043h/1/B&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Rape Survivor Child Custody Act and also as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+
+<a id="section-14044"></a>
+## § 14044. Authorization of appropriations
+
+There is authorized to be appropriated to carry out this part $5,000,000 for each of fiscal years 2015 through 2019.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Rape Survivor Child Custody Act and also as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 
 <a id="section-14044a"></a>
@@ -4851,39 +4984,267 @@ Section was enacted as part of the Trafficking Victims Protection Reauthorizatio
 Pub. L. 113–4, title XII, § 1241(b), Mar. 7, 2013, 127 Stat. 153, provided that: “The amendment made by subsection (a) [amending this section] shall be effective during the 4-year period beginning on the date of the enactment of this Act [March 7, 2013].”
 
 
-<a id="section-14044c"></a>
-## § 14044c. Protection of juvenile victims of trafficking in persons
-**(a) Establishment of pilot program** Not later than 180 days after January 10, 2006, the Secretary of Health and Human Services shall establish and carry out a pilot program to establish residential treatment facilities in the United States for juveniles subjected to trafficking.
+<a id="section-14044b-1"></a>
+## § 14044b–1. Victim-centered child human trafficking deterrence block grant program
+**(a) Grants authorized** The Attorney General may award block grants to an eligible entity to develop, improve, or expand domestic child human trafficking deterrence programs that assist law enforcement officers, prosecutors, judicial officials, and qualified victims’ services organizations in collaborating to rescue and restore the lives of victims, while investigating and prosecuting offenses involving child human trafficking.
 
-**(b) Purposes** The purposes of the pilot program established pursuant to subsection (a) of this section are to—
+**(b) Authorized activities** Grants awarded under subsection (a) may be used for—
 
-(1) provide benefits and services to juveniles subjected to trafficking, including shelter, psychological counseling, and assistance in developing independent living skills;
+(1) the establishment or enhancement of specialized training programs for law enforcement officers, first responders, health care officials, child welfare officials, juvenile justice personnel, prosecutors, and judicial personnel to—
 
-(2) assess the benefits of providing residential treatment facilities for juveniles subjected to trafficking, as well as the most efficient and cost-effective means of providing such facilities; and
+  (A) identify victims and acts of child human trafficking;
 
-(3) assess the need for and feasibility of establishing additional residential treatment facilities for juveniles subjected to trafficking.
+  (B) address the unique needs of child victims of human trafficking;
 
-**(c) Selection of sites** The Secretary of Health and Human Services shall select three sites at which to operate the pilot program established pursuant to subsection (a) of this section.
+  (C) facilitate the rescue of child victims of human trafficking;
 
-**(d) Form of assistance** In order to carry out the responsibilities of this section, the Secretary of Health and Human Services shall enter into contracts with, or make grants to, organizations that—
+  (D) investigate and prosecute acts of human trafficking, including the soliciting, patronizing, or purchasing of commercial sex acts from children, as well as training to build cases against complex criminal networks involved in child human trafficking; and
 
-(1) have relevant expertise in the delivery of services to juveniles who have been subjected to sexual abuse or commercial sexual exploitation; or
+  (E) utilize, implement, and provide education on safe harbor laws enacted by States, aimed at preventing the criminalization and prosecution of child sex trafficking victims for prostitution offenses, and other laws aimed at the investigation and prosecution of child human trafficking;
 
-(2) have entered into partnerships with organizations that have expertise as described in paragraph (1) for the purpose of implementing the contracts or grants.
+(2) the establishment or enhancement of dedicated anti-trafficking law enforcement units and task forces to investigate child human trafficking offenses and to rescue victims, including—
 
-**(e) Report** Not later than one year after the date on which the first pilot program is established pursuant to subsection (a) of this section, the Secretary of Health and Human Services shall submit to Congress a report on the implementation of this section.
+  (A) funding salaries, in whole or in part, for law enforcement officers, including patrol officers, detectives, and investigators, except that the percentage of the salary of the law enforcement officer paid for by funds from a grant awarded under this section shall not be more than the percentage of the officer’s time on duty that is dedicated to working on cases involving child human trafficking;
 
-**(f) Definition** In this section, the term “juvenile subjected to trafficking” means a United States citizen, or alien admitted for permanent residence, who is the subject of sex trafficking or severe forms of trafficking in persons that occurs, in whole or in part, within the territorial jurisdiction of the United States and who has not attained 18 years of age at the time the person is identified as having been the subject of sex trafficking or severe forms of trafficking in persons.
+  (B) investigation expenses for cases involving child human trafficking, including—
 
-**(g) Authorization of appropriations** There are authorized to be appropriated to the Secretary of Health and Human Services to carry out this section $5,000,000 for each of the fiscal years 2008 through 2011.
+    (i) wire taps;
+
+    (ii) consultants with expertise specific to cases involving child human trafficking;
+
+    (iii) travel; and
+
+    (iv) other technical assistance expenditures;
+
+  (C) dedicated anti-trafficking prosecution units, including the funding of salaries for State and local prosecutors, including assisting in paying trial expenses for prosecution of child human trafficking offenders, except that the percentage of the total salary of a State or local prosecutor that is paid using an award under this section shall be not more than the percentage of the total number of hours worked by the prosecutor that is spent working on cases involving child human trafficking;
+
+  (D) the establishment of child human trafficking victim witness safety, assistance, and relocation programs that encourage cooperation with law enforcement investigations of crimes of child human trafficking by leveraging existing resources and delivering child human trafficking victims’ services through coordination with—
+
+    (i) child advocacy centers;
+
+    (ii) social service agencies;
+
+    (iii) State governmental health service agencies;
+
+    (iv) housing agencies;
+
+    (v) legal services agencies; and
+
+    (vi) nongovernmental organizations and shelter service providers with substantial experience in delivering wrap-around services to victims of child human trafficking; and
+
+  (E) the establishment or enhancement of other necessary victim assistance programs or personnel, such as victim or child advocates, child-protective services, child forensic interviews, or other necessary service providers;
+
+(3) activities of law enforcement agencies to find homeless and runaway youth, including salaries and associated expenses for retired Federal law enforcement officers assisting the law enforcement agencies in finding homeless and runaway youth; and
+
+(4) the establishment or enhancement of problem solving court programs for trafficking victims that include—
+
+  (A) mandatory and regular training requirements for judicial officials involved in the administration or operation of the court program described under this paragraph;
+
+  (B) continuing judicial supervision of victims of child human trafficking, including case worker or child welfare supervision in collaboration with judicial officers, who have been identified by a law enforcement or judicial officer as a potential victim of child human trafficking, regardless of whether the victim has been charged with a crime related to human trafficking;
+
+  (C) the development of a specialized and individualized, court-ordered treatment program for identified victims of child human trafficking, including—
+
+    (i) State-administered outpatient treatment;
+
+    (ii) life skills training;
+
+    (iii) housing placement;
+
+    (iv) vocational training;
+
+    (v) education;
+
+    (vi) family support services; and
+
+    (vii) job placement;
+
+  (D) centralized case management involving the consolidation of all of each child human trafficking victim’s cases and offenses, and the coordination of all trafficking victim treatment programs and social services;
+
+  (E) regular and mandatory court appearances by the victim during the duration of the treatment program for purposes of ensuring compliance and effectiveness;
+
+  (F) the ultimate dismissal of relevant non-violent criminal charges against the victim, where such victim successfully complies with the terms of the court-ordered treatment program; and
+
+  (G) collaborative efforts with child advocacy centers, child welfare agencies, shelters, and nongovernmental organizations with substantial experience in delivering wrap-around services to victims of child human trafficking to provide services to victims and encourage cooperation with law enforcement.
+
+**(c) Application**
+
+(1) **In general** — An eligible entity shall submit an application to the Attorney General for a grant under this section in such form and manner as the Attorney General may require.
+
+(2) **Required information** — An application submitted under this subsection shall—
+
+  (A) describe the activities for which assistance under this section is sought;
+
+  (B) include a detailed plan for the use of funds awarded under the grant;
+
+  (C) provide such additional information and assurances as the Attorney General determines to be necessary to ensure compliance with the requirements of this section; and
+
+  (D) disclose—
+
+    (i) any other grant funding from the Department of Justice or from any other Federal department or agency for purposes similar to those described in subsection (b) for which the eligible entity has applied, and which application is pending on the date of the submission of an application under this section; and
+
+    (ii) any other such grant funding that the eligible entity has received during the 5-year period ending on the date of the submission of an application under this section.
+
+(3) **Preference** — In reviewing applications submitted in accordance with paragraphs (1) and (2), the Attorney General shall give preference to grant applications if—
+
+  (A) the application includes a plan to use awarded funds to engage in all activities described under paragraphs (1) through (3) of subsection (b); or
+
+  (B) the application includes a plan by the State or unit of local government to continue funding of all activities funded by the award after the expiration of the award.
+
+(4) **Eligible entities soliciting data on child human trafficking** — No eligible entity shall be disadvantaged in being awarded a grant under subsection (a) on the grounds that the eligible entity has only recently begun soliciting data on child human trafficking.
+
+**(d) Duration and renewal of award**
+
+(1) **In general** — A grant under this section shall expire 3 years after the date of award of the grant.
+
+(2) **Renewal** — A grant under this section shall be renewable not more than 2 times and for a period of not greater than 2 years.
+
+**(e) Evaluation** The Attorney General shall—
+
+(1) enter into a contract with a nongovernmental organization, including an academic or nonprofit organization, that has experience with issues related to child human trafficking and evaluation of grant programs to conduct periodic evaluations of grants made under this section to determine the impact and effectiveness of programs funded with grants awarded under this section;
+
+(2) instruct the Inspector General of the Department of Justice to review evaluations issued under paragraph (1) to determine the methodological and statistical validity of the evaluations; and
+
+(3) submit the results of any evaluation conducted pursuant to paragraph (1) to—
+
+  (A) the Committee on the Judiciary of the Senate; and
+
+  (B) the Committee on the Judiciary of the House of Representatives.
+
+**(f) Mandatory exclusion** An eligible entity awarded funds under this section that is found to have used grant funds for any unauthorized expenditure or otherwise unallowable cost shall not be eligible for any grant funds awarded under the block grant for 2 fiscal years following the year in which the unauthorized expenditure or unallowable cost is reported.
+
+**(g) Compliance requirement** An eligible entity shall not be eligible to receive a grant under this section if within the 5 fiscal years before submitting an application for a grant under this section, the grantee has been found to have violated the terms or conditions of a Government grant program by utilizing grant funds for unauthorized expenditures or otherwise unallowable costs.
+
+**(h) Administrative cap** The cost of administering the grants authorized by this section shall not exceed 5 percent of the total amount expended to carry out this section.
+
+**(i) Federal share** The Federal share of the cost of a program funded by a grant awarded under this section shall be—
+
+(1) 70 percent in the first year;
+
+(2) 60 percent in the second year; and
+
+(3) 50 percent in the third year, and in all subsequent years.
+
+**(j) Authorization of funding; fully offset** For purposes of carrying out this section, the Attorney General, in consultation with the Secretary of Health and Human Services, is authorized to award not more than $7,000,000 of the funds available in the Domestic Trafficking Victims’ Fund, established under [section 3014 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3014&num=0&edition=prelim), for each of fiscal years 2016 through 2020.
+
+**(k) Definitions** In this section—
+
+(1) the term “child” means a person under the age of 18;
+
+(2) the term “child advocacy center” means a center created under subtitle A of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13001](./chapter-132-victims-of-child-abuse.md#section-13001) et seq.);
+
+(3) the term “child human trafficking” means 1 or more severe forms of trafficking in persons (as defined in [section 7102 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7102&num=0&edition=prelim)) involving a victim who is a child; and
+
+(4) the term “eligible entity” means a State or unit of local government that—
+
+  (A) has significant criminal activity involving child human trafficking;
+
+  (B) has demonstrated cooperation between Federal, State, local, and, where applicable, tribal law enforcement agencies, prosecutors, and social service providers in addressing child human trafficking;
+
+  (C) has developed a workable, multi-disciplinary plan to combat child human trafficking, including—
+
+    (i) the establishment of a shelter for victims of child human trafficking, through existing or new facilities;
+
+    (ii) the provision of trauma-informed, gender-responsive rehabilitative care to victims of child human trafficking;
+
+    (iii) the provision of specialized training for law enforcement officers and social service providers for all forms of human trafficking, with a focus on domestic child human trafficking;
+
+    (iv) prevention, deterrence, and prosecution of offenses involving child human trafficking, including soliciting, patronizing, or purchasing human acts with children;
+
+    (v) cooperation or referral agreements with organizations providing outreach or other related services to runaway and homeless youth;
+
+    (vi) law enforcement protocols or procedures to screen all individuals arrested for prostitution, whether adult or child, for victimization by sex trafficking and by other crimes, such as sexual assault and domestic violence; and
+
+    (vii) cooperation or referral agreements with State child welfare agencies and child advocacy centers; and
+
+  (D) provides an assurance that, under the plan under subparagraph (C), a victim of child human trafficking shall not be required to collaborate with law enforcement officers to have access to any shelter or services provided with a grant under this section.
+
+**(l) Grant accountability; specialized victims’ service requirement** No grant funds under this section may be awarded or transferred to any entity unless such entity has demonstrated substantial experience providing services to victims of human trafficking or related populations (such as runaway and homeless youth), or employs staff specialized in the treatment of human trafficking victims.
 
 ### Statutory Notes
+
+#### References in Text
+The Victims of Child Abuse Act of 1990, referred to in subsec. (k)(2), is Pub. L. 101–647, title II, Nov. 29, 1990, 104 Stat. 4792. Subtitle A of the Act is classified generally to subchapter I (§ 13001 et seq.) of chapter 132 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 13001 of this title](./chapter-132-victims-of-child-abuse.md#section-13001) and Tables.
 
 #### Codification
 Section was enacted as part of the Trafficking Victims Protection Reauthorization Act of 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 #### Amendments
+2015—Pub. L. 114–22 amended section generally. Prior to amendment, section related to pilot program for protection of juvenile victims of trafficking in persons.
+
 2008—Subsec. (g). Pub. L. 110–457 substituted “2008 through 2011” for “2006 and 2007”.
+
+
+<a id="section-14044c"></a>
+## § 14044c. Grant accountability
+**(a) Definition** In this section, the term “covered grant” means a grant awarded by the Attorney General under [section 14044b of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14044b), as amended by section 103.
+
+**(b) Accountability** All covered grants shall be subject to the following accountability provisions:
+
+(1) **Audit requirement**
+
+  (A) *In general* — Beginning in the first fiscal year beginning after May 29, 2015, and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of a covered grant to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
+
+  (B) *Definition* — In this paragraph, the term “unresolved audit finding” means a finding in the final audit report of the Inspector General that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
+
+  (C) *Mandatory exclusion* — A recipient of a covered grant that is found to have an unresolved audit finding shall not be eligible to receive a covered grant during the following 2 fiscal years.
+
+  (D) *Priority* — In awarding covered grants the Attorney General shall give priority to eligible entities that did not have an unresolved audit finding during the 3 fiscal years prior to submitting an application for a covered grant.
+
+  (E) *Reimbursement* — If an entity is awarded a covered grant during the 2-fiscal-year period in which the entity is barred from receiving grants under subparagraph (C), the Attorney General shall—
+
+    (i) deposit an amount equal to the grant funds that were improperly awarded to the grantee into the General Fund of the Treasury; and
+
+    (ii) seek to recoup the costs of the repayment to the fund from the grant recipient that was erroneously awarded grant funds.
+
+(2) **Nonprofit organization requirements**
+
+  (A) *Definition* — For purposes of this paragraph and covered grants, the term “nonprofit organization” means an organization that is described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and is exempt from taxation under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim).
+
+  (B) *Prohibition* — The Attorney General may not award a covered grant to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in [section 511(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section511/a&num=0&edition=prelim).
+
+  (C) *Disclosure* — Each nonprofit organization that is awarded a covered grant and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subsection available for public inspection.
+
+(3) **Conference expenditures**
+
+  (A) *Limitation* — No amounts transferred to the Department of Justice under this title,11 See References in Text note below. or the amendments made by this title,1 may be used by the Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this title,1 or the amendments made by this title,1 to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
+
+  (B) *Written approval* — Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audiovisual equipment, honoraria for speakers, and any entertainment.
+
+  (C) *Report* — The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all approved conference expenditures referenced in this paragraph.
+
+  (D) *Annual certification* — Beginning in the first fiscal year beginning after May 29, 2015, the Attorney General shall submit, to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, an annual certification that—
+
+    (i) all audits issued by the Office of the Inspector General under paragraph (1) have been completed and reviewed by the appropriate Assistant Attorney General or Director;
+
+    (ii) all mandatory exclusions required under paragraph (1)(C) have been issued;
+
+    (iii) all reimbursements required under paragraph (1)(E) have been made; and
+
+    (iv) includes a list of any grant recipients excluded under paragraph (1) from the previous year.
+
+(4) **Prohibition on lobbying activity**
+
+  (A) *In general* — Amounts awarded under this title,1 or any amendments made by this title,1 may not be utilized by any grant recipient to—
+
+    (i) lobby any representative of the Department of Justice regarding the award of grant funding; or
+
+    (ii) lobby any representative of a Federal, State, local, or tribal government regarding the award of grant funding.
+
+  (B) *Penalty* — If the Attorney General determines that any recipient of a covered grant has violated subparagraph (A), the Attorney General shall—
+
+    (i) require the grant recipient to repay the grant in full; and
+
+    (ii) prohibit the grant recipient from receiving another covered grant for not less than 5 years.
+
+### Statutory Notes
+
+#### References in Text
+Section 103, referred to in subsec. (a), means section 103 of Pub. L. 114–22.
+
+This title, referred to in subsec. (b)(3)(A), (4)(A), is title I of Pub. L. 114–22, May 29, 2015, 129 Stat. 228. For complete classification of title I to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 
 <a id="section-14044d"></a>
@@ -4983,8 +5344,8 @@ Par. (2). Pub. L. 113–4, § 1212(b)(2)(C)(ii), substituted “section 7102(10)
 Par. (3). Pub. L. 113–4, § 1212(b)(2)(C)(iii), substituted “section 7102(4)” for “section 7102(3)”.
 
 
-<a id="section-14045"></a>
-## § 14045. Grants for law enforcement training programs
+<a id="section-14044g"></a>
+## § 14044g. Grants for law enforcement training programs
 **(a) Definitions** In this section:
 
 (1) **Act of trafficking** — The term “act of trafficking” means an act or practice described in paragraph (9) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim).
@@ -5020,6 +5381,109 @@ Section was enacted as part of the Violence Against Women and Department of Just
 
 #### Amendments
 2013—Subsec. (a)(1). Pub. L. 113–4 substituted “paragraph (9)” for “paragraph (8)”.
+
+
+<a id="section-14044h"></a>
+## § 14044h. Combat Human Trafficking Act
+**(a) Short title** This section may be cited as the “Combat Human Trafficking Act of 2015”.
+
+**(b) Definitions** In this section:
+
+(1) **Commercial sex act; severe forms of trafficking in persons; state; task force** — The terms “commercial sex act”, “severe forms of trafficking in persons”, “State”, and “Task Force” have the meanings given those terms in [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim).
+
+(2) **Covered offender** — The term “covered offender” means an individual who obtains, patronizes, or solicits a commercial sex act involving a person subject to severe forms of trafficking in persons.
+
+(3) **Covered offense** — The term “covered offense” means the provision, obtaining, patronizing, or soliciting of a commercial sex act involving a person subject to severe forms of trafficking in persons.
+
+(4) **Federal law enforcement officer** — The term “Federal law enforcement officer” has the meaning given the term in [section 115 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section115&num=0&edition=prelim).
+
+(5) **Local law enforcement officer** — The term “local law enforcement officer” means any officer, agent, or employee of a unit of local government authorized by law or by a local government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
+
+(6) **State law enforcement officer** — The term “State law enforcement officer” means any officer, agent, or employee of a State authorized by law or by a State government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
+
+**(c) Department of Justice training and policy for law enforcement officers, prosecutors, and judges**
+
+(1) **Training**
+
+  (A) *Law enforcement officers* — The Attorney General shall ensure that each anti-human trafficking program operated by the Department of Justice, including each anti-human trafficking training program for Federal, State, or local law enforcement officers, includes technical training on—
+
+    (i) effective methods for investigating and prosecuting covered offenders; and
+
+    (ii) facilitating the provision of physical and mental health services by health care providers to persons subject to severe forms of trafficking in persons.
+
+  (B) *Federal prosecutors* — The Attorney General shall ensure that each anti-human trafficking program operated by the Department of Justice for United States attorneys or other Federal prosecutors includes training on seeking restitution for offenses under chapter 77 of title 18 to ensure that each United States attorney or other Federal prosecutor, upon obtaining a conviction for such an offense, requests a specific amount of restitution for each victim of the offense without regard to whether the victim requests restitution.
+
+  (C) *Judges* — The Federal Judicial Center shall provide training to judges relating to the application of [section 1593 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1593&num=0&edition=prelim) with respect to ordering restitution for victims of offenses under chapter 77 of such title.
+
+(2) **Policy for Federal law enforcement officers** — The Attorney General shall ensure that Federal law enforcement officers are engaged in activities, programs, or operations involving the detection, investigation, and prosecution of covered offenders.
+
+**(d) Omitted**
+
+**(e) Bureau of Justice Statistics report on State enforcement of human trafficking prohibitions** The Director of the Bureau of Justice Statistics shall—
+
+(1) prepare an annual report on—
+
+  (A) the rates of—
+
+    (i) arrest of individuals by State law enforcement officers for a covered offense;
+
+    (ii) prosecution (including specific charges) of individuals in State court systems for a covered offense; and
+
+    (iii) conviction of individuals in State court systems for a covered offense; and
+
+  (B) sentences imposed on individuals convicted in State court systems for a covered offense; and
+
+(2) submit the annual report prepared under paragraph (1) to—
+
+  (A) the Committee on the Judiciary of the House of Representatives;
+
+  (B) the Committee on the Judiciary of the Senate;
+
+  (C) the Task Force;
+
+  (D) the Senior Policy Operating Group established under [section 7103(g) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7103/g&num=0&edition=prelim); and
+
+  (E) the Attorney General.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as the Combat Human Trafficking Act of 2015 and as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+Section is comprised of section 114 of Pub. L. 114–22. Subsec. (d) of section 114 of Pub. L. 114–22 amended [section 3583(k) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583/k&num=0&edition=prelim), Crimes and Criminal Procedure.
+
+#### Using Existing Task Forces and Components To Target Offenders Who Exploit Children
+Pub. L. 114–22, title I, § 110, May 29, 2015, 129 Stat. 239, provided that: “Not later than 180 days after the date of enactment of this Act [May 29, 2015], the Attorney General shall ensure that— “(1) all task forces and working groups within the Innocence Lost National Initiative engage in activities, programs, or operations to increase the investigative capabilities of State and local law enforcement officers in the detection, investigation, and prosecution of persons who patronize, or solicit children for sex; and “(2) all components and task forces with jurisdiction to detect, investigate, and prosecute cases of child labor trafficking engage in activities, programs, or operations to increase the capacity of such components to deter and punish child labor trafficking.”
+
+
+<a id="section-14045"></a>
+## § 14045. Establishing a National Strategy to Combat Human Trafficking
+**(a) In general** The Attorney General shall implement and maintain a National Strategy for Combating Human Trafficking (referred to in this section as the “National Strategy”) in accordance with this section.
+
+**(b) Required contents of National Strategy** The National Strategy shall include the following:
+
+(1) Integrated Federal, State, local, and tribal efforts to investigate and prosecute human trafficking cases, including—
+
+  (A) the development by each United States attorney, in consultation with State, local, and tribal government agencies, of a district-specific strategic plan to coordinate the identification of victims and the investigation and prosecution of human trafficking crimes;
+
+  (B) the appointment of not fewer than 1 assistant United States attorney in each district dedicated to the prosecution of human trafficking cases or responsible for implementing the National Strategy;
+
+  (C) the participation in any Federal, State, local, or tribal human trafficking task force operating in the district of the United States attorney; and
+
+  (D) any other efforts intended to enhance the level of coordination and cooperation, as determined by the Attorney General.
+
+(2) Case coordination within the Department of Justice, including specific integration, coordination, and collaboration, as appropriate, on human trafficking investigations between and among the United States attorneys, the Human Trafficking Prosecution Unit, the Child Exploitation and Obscenity Section, and the Federal Bureau of Investigation.
+
+(3) Annual budget priorities and Federal efforts dedicated to preventing and combating human trafficking, including resources dedicated to the Human Trafficking Prosecution Unit, the Child Exploitation and Obscenity Section, the Federal Bureau of Investigation, and all other entities that receive Federal support that have a goal or mission to combat the exploitation of adults and children.
+
+(4) An ongoing assessment of the future trends, challenges, and opportunities, including new investigative strategies, techniques, and technologies, that will enhance Federal, State, local, and tribal efforts to combat human trafficking.
+
+(5) Encouragement of cooperation, coordination, and mutual support between private sector and other entities and organizations and Federal agencies to combat human trafficking, including the involvement of State, local, and tribal government agencies to the extent Federal programs are involved.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Justice for Victims of Trafficking Act of 2015, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 
 <a id="section-14045a"></a>
@@ -7358,6 +7822,182 @@ Section was enacted as part of the Innocence Protection Act 2004 and also as par
 
 #### Codification
 Section was enacted as part of the Innocence Protection Act 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+
+<a id="section-14165"></a>
+## § 14165. Definitions
+
+In this part:
+
+(1) **Coordinator** — The term “Coordinator” means the Blue Alert Coordinator of the Department of Justice designated under [section 14165b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14165b/a&num=0&edition=prelim).
+
+(2) **Blue Alert** — The term “Blue Alert” means information sent through the network relating to—
+
+  (A) the serious injury or death of a law enforcement officer in the line of duty;
+
+  (B) an officer who is missing in connection with the officer’s official duties; or
+
+  (C) an imminent and credible threat that an individual intends to cause the serious injury or death of a law enforcement officer.
+
+(3) **Blue Alert plan** — The term “Blue Alert plan” means the plan of a State, unit of local government, or Federal agency participating in the network for the dissemination of information received as a Blue Alert.
+
+(4) **Law enforcement officer** — The term “law enforcement officer” shall have the same meaning as in [section 3796b of this title](./chapter-046-justice-system-improvement.md#section-3796b).
+
+(5) **Network** — The term “network” means the Blue Alert communications network established by the Attorney General under [section 14165a of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14165a).
+
+(6) **State** — The term “State” means each of the 50 States, the District of Columbia, Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+
+<a id="section-14165a"></a>
+## § 14165a. Blue Alert communications network
+
+The Attorney General shall establish a national Blue Alert communications network within the Department of Justice to issue Blue Alerts through the initiation, facilitation, and promotion of Blue Alert plans, in coordination with States, units of local government, law enforcement agencies, and other appropriate entities.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+
+<a id="section-14165b"></a>
+## § 14165b. Blue Alert Coordinator; guidelines
+**(a) Coordination within Department of Justice** The Attorney General shall assign an existing officer of the Department of Justice to act as the national coordinator of the Blue Alert communications network.
+
+**(b) Duties of the Coordinator** The Coordinator shall—
+
+(1) provide assistance to States and units of local government that are using Blue Alert plans;
+
+(2) establish voluntary guidelines for States and units of local government to use in developing Blue Alert plans that will promote compatible and integrated Blue Alert plans throughout the United States, including—
+
+  (A) a list of the resources necessary to establish a Blue Alert plan;
+
+  (B) criteria for evaluating whether a situation warrants issuing a Blue Alert;
+
+  (C) guidelines to protect the privacy, dignity, independence, and autonomy of any law enforcement officer who may be the subject of a Blue Alert and the family of the law enforcement officer;
+
+  (D) guidelines that a Blue Alert should only be issued with respect to a law enforcement officer if—
+
+    (i) the law enforcement agency involved—
+
+      (I) confirms—
+
+        (aa) the death or serious injury of the law enforcement officer; or
+
+        (bb) the attack on the law enforcement officer and that there is an indication of the death or serious injury of the officer; or
+
+      (II) concludes that the law enforcement officer is missing in connection with the officer’s official duties;
+
+    (ii) there is an indication of serious injury to or death of the law enforcement officer;
+
+    (iii) the suspect involved has not been apprehended; and
+
+    (iv) there is sufficient descriptive information of the suspect involved and any relevant vehicle and tag numbers;
+
+  (E) guidelines that a Blue Alert should only be issued with respect to a threat to cause death or serious injury to a law enforcement officer if—
+
+    (i) a law enforcement agency involved confirms that the threat is imminent and credible;
+
+    (ii) at the time of receipt of the threat, the suspect is wanted by a law enforcement agency;
+
+    (iii) the suspect involved has not been apprehended; and
+
+    (iv) there is sufficient descriptive information of the suspect involved and any relevant vehicle and tag numbers;
+
+  (F) guidelines—
+
+    (i) that information should be provided to the National Crime Information Center database operated by the Federal Bureau of Investigation under [section 534 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), and any relevant crime information repository of the State involved, relating to—
+
+      (I) a law enforcement officer who is seriously injured or killed in the line of duty; or
+
+      (II) an imminent and credible threat to cause the serious injury or death of a law enforcement officer;
+
+    (ii) that a Blue Alert should, to the maximum extent practicable (as determined by the Coordinator in consultation with law enforcement agencies of States and units of local governments), be limited to the geographic areas most likely to facilitate the apprehension of the suspect involved or which the suspect could reasonably reach, which should not be limited to State lines;
+
+    (iii) for law enforcement agencies of States or units of local government to develop plans to communicate information to neighboring States to provide for seamless communication of a Blue Alert; and
+
+    (iv) providing that a Blue Alert should be suspended when the suspect involved is apprehended or when the law enforcement agency involved determines that the Blue Alert is no longer effective; and
+
+  (G) guidelines for—
+
+    (i) the issuance of Blue Alerts through the network; and
+
+    (ii) the extent of the dissemination of alerts issued through the network;
+
+(3) develop protocols for efforts to apprehend suspects that address activities during the period beginning at the time of the initial notification of a law enforcement agency that a suspect has not been apprehended and ending at the time of apprehension of a suspect or when the law enforcement agency involved determines that the Blue Alert is no longer effective, including protocols regulating—
+
+  (A) the use of public safety communications;
+
+  (B) command center operations; and
+
+  (C) incident review, evaluation, debriefing, and public information procedures;
+
+(4) work with States to ensure appropriate regional coordination of various elements of the network;
+
+(5) establish an advisory group to assist States, units of local government, law enforcement agencies, and other entities involved in the network with initiating, facilitating, and promoting Blue Alert plans, which shall include—
+
+  (A) to the maximum extent practicable, representation from the various geographic regions of the United States; and
+
+  (B) members who are—
+
+    (i) representatives of a law enforcement organization representing rank-and-file officers;
+
+    (ii) representatives of other law enforcement agencies and public safety communications;
+
+    (iii) broadcasters, first responders, dispatchers, and radio station personnel; and
+
+    (iv) representatives of any other individuals or organizations that the Coordinator determines are necessary to the success of the network;
+
+(6) act as the nationwide point of contact for—
+
+  (A) the development of the network; and
+
+  (B) regional coordination of Blue Alerts through the network; and
+
+(7) determine—
+
+  (A) what procedures and practices are in use for notifying law enforcement and the public when—
+
+    (i) a law enforcement officer is killed or seriously injured in the line of duty;
+
+    (ii) a law enforcement officer is missing in connection with the officer’s official duties; and
+
+    (iii) an imminent and credible threat to kill or seriously injure a law enforcement officer is received; and
+
+  (B) which of the procedures and practices are effective and that do not require the expenditure of additional resources to implement.
+
+**(c) Limitations**
+
+(1) **Voluntary participation** — The guidelines established under subsection (b)(2), protocols developed under subsection (b)(3), and other programs established under subsection (b), shall not be mandatory.
+
+(2) **Dissemination of information** — The guidelines established under subsection (b)(2) shall, to the maximum extent practicable (as determined by the Coordinator in consultation with law enforcement agencies of States and units of local government), provide that appropriate information relating to a Blue Alert is disseminated to the appropriate officials of law enforcement agencies, public health agencies, and other agencies.
+
+(3) **Privacy and civil liberties protections** — The guidelines established under subsection (b) shall—
+
+  (A) provide mechanisms that ensure that Blue Alerts comply with all applicable Federal, State, and local privacy laws and regulations; and
+
+  (B) include standards that specifically provide for the protection of the civil liberties, including the privacy, of law enforcement officers who are seriously injured or killed in the line of duty, is missing in connection with the officer’s official duties, or who are threatened with death or serious injury, and the families of the officers.
+
+**(d) Cooperation with other agencies** The Coordinator shall cooperate with the Secretary of Homeland Security, the Secretary of Transportation, the Chairman of the Federal Communications Commission, and appropriate offices of the Department of Justice in carrying out activities under this part.
+
+**(e) Restrictions on Coordinator** The Coordinator may not—
+
+(1) perform any official travel for the sole purpose of carrying out the duties of the Coordinator;
+
+(2) lobby any officer of a State regarding the funding or implementation of a Blue Alert plan; or
+
+(3) host a conference focused solely on the Blue Alert program that requires the expenditure of Federal funds.
+
+**(f) Reports** Not later than 1 year after May 19, 2015, and annually thereafter, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the Blue Alert plans that are in effect or being developed.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 
 <a id="section-14171"></a>

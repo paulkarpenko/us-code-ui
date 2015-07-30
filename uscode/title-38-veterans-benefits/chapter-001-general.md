@@ -349,6 +349,13 @@ Pub. L. 90–77, title IV, § 405, Aug. 31, 1967, 81 Stat. 191, provided that: �
 #### Effective Date of 1965 Amendment
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–31, § 1, July 20, 2015, 129 Stat. 428, provided that: “This Act [enacting [section 5706 of this title](./chapter-057-records-and-investigations.md#section-5706) and provisions set out as notes under [section 5706 of this title](./chapter-057-records-and-investigations.md#section-5706)] may be cited as the ‘Veterans Identification Card Act 2015’.”
+
+Pub. L. 114–19, § 1, May 22, 2015, 129 Stat. 215, provided that: “This Act [enacting and amending provisions set out as notes under section 1701 of this section] may be cited as the ‘Construction Authorization and Choice Improvement Act’.”
+
+Pub. L. 114–2, § 1, Feb. 12, 2015, 129 Stat. 30, provided that: “This Act [enacting [section 1709B of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1709b), amending [section 1710 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710), and enacting provisions set out as notes under sections 1712A, 1720F, and 7681 of this title] may be cited as the ‘Clay Hunt Suicide Prevention for American Veterans Act’ or the ‘Clay Hunt SAV Act’.”
+
 #### Short Title of 2014 Amendment
 Pub. L. 113–257, § 1, Dec. 18, 2014, 128 Stat. 2924, provided that: “This Act [enacting and amending provisions set out as notes under [section 1710C of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710c)] may be cited as the ‘Veterans Traumatic Brain Injury Care Improvement Act of 2014’.”
 
@@ -1855,9 +1862,7 @@ Subsec. (b). Pub. L. 113–235, § 244(a)(1), substituted “covered accounts of
 
 Subsec. (c). Pub. L. 113–235, § 244(a)(3)(G), substituted “Covered Accounts of the Department” for “Medical Care Accounts” in heading.
 
-Pub. L. 113–235, § 244(a)(3)(A), substituted “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account” in introductory provisions.
-
-Pub. L. 113–235, § 244(a)(1), substituted “covered accounts of the Department” for “medical care accounts of the Department” in introductory provisions.
+Pub. L. 113–235, § 244(a)(1), (3)(A), in introductory provisions, substituted “covered accounts of the Department” for “medical care accounts of the Department” and “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account”.
 
 Subsec. (c)(1)–(6). Pub. L. 113–235, § 244(a)(3)(B)–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
 

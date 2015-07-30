@@ -503,7 +503,7 @@ Amendment by Pub. L. 109–280 effective Aug. 17, 2006, but not applicable to re
 Section applicable to violations occurring on and after Aug. 5, 1997, see section 2(c) of Pub. L. 105–35, set out as an Effective Date of 1997 Amendment note under [section 7213 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7213).
 
 #### Construction of 2002 Amendment
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor.
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
 
 
 <a id="section-7214"></a>

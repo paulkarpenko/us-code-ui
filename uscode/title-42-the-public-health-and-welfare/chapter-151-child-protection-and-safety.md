@@ -2,7 +2,7 @@
 title: 42
 chapter: '151'
 heading: CHILD PROTECTION AND SAFETY
-section_count: 42
+section_count: 43
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -103,6 +103,9 @@ In order to protect the public from sex offenders and offenders against children
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 109–248, July 27, 2006, 120 Stat. 587, known as the Adam Walsh Child Protection and Safety Act of 2006. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–22, title V, § 501, May 29, 2015, 129 Stat. 258, provided that: “This title [enacting [section 16928a of this title](./chapter-151-child-protection-and-safety.md#section-16928a)] may be cited as the ‘Military Sex Offender Reporting Act of 2015’.”
 
 #### Short Title of 2008 Amendment
 Pub. L. 110–400, § 1, Oct. 13, 2008, 122 Stat. 4224, provided that: “This Act [enacting sections 16915a and 16915b of this title, amending [section 16981 of this title](./chapter-151-child-protection-and-safety.md#section-16981), and enacting provisions set out as a note under [section 16981 of this title](./chapter-151-child-protection-and-safety.md#section-16981)] may be cited as the ‘Keeping the Internet Devoid of Sexual Predators Act of 2008’ or the ‘KIDS Act of 2008’.”
@@ -678,8 +681,8 @@ This chapter, referred to in subsec. (b)(3), was in the original “this Act”,
 This subchapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title note set out under [section 16901 of this title](./chapter-151-child-protection-and-safety.md#section-16901) and Tables.
 
 
-<a id="section-16929"></a>
-## § 16929. Election by Indian tribes
+<a id="section-16928a"></a>
+## § 16928a. Election by Indian tribes
 **(a) Election**
 
 (1) **In general** — A federally recognized Indian tribe may, by resolution or other enactment of the tribal council or comparable governmental body—
@@ -712,8 +715,8 @@ This subchapter, referred to in subsecs. (a) and (c), was in the original “thi
 This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 111–131) of title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 591, which is classified principally to this part. For complete classification of subtitle A to the Code, see Tables.
 
 
-<a id="section-16941"></a>
-## § 16941. Registration of sex offenders entering the United States
+<a id="section-16929"></a>
+## § 16929. Registration of sex offenders entering the United States
 
 The Attorney General, in consultation with the Secretary of State and the Secretary of Homeland Security, shall establish and maintain a system for informing the relevant jurisdictions about persons entering the United States who are required to register under this subchapter. The Secretary of State and the Secretary of Homeland Security shall provide such information and carry out such functions as the Attorney General may direct in the operation of the system.
 
@@ -721,6 +724,28 @@ The Attorney General, in consultation with the Secretary of State and the Secret
 
 #### References in Text
 This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title note set out under [section 16901 of this title](./chapter-151-child-protection-and-safety.md#section-16901) and Tables.
+
+
+<a id="section-16941"></a>
+## § 16941. Registration of sex offenders released from military corrections facilities or upon conviction
+
+The Secretary of Defense shall provide to the Attorney General the information described in [section 16914 of this title](./chapter-151-child-protection-and-safety.md#section-16914) to be included in the National Sex Offender Registry and the Dru Sjodin National Sex Offender Public Website regarding persons—
+
+(1)
+
+  (A) released from military corrections facilities; or
+
+  (B) convicted if the sentences adjudged by courts-martial under chapter 47 of title 10 (the Uniform Code of Military Justice) do not include confinement; and
+
+(2) required to register under this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in par. (2), was in the original “this title”, meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title note set out under [section 16901 of this title](./chapter-151-child-protection-and-safety.md#section-16901) and Tables.
+
+#### Short Title
+For short title of this section as the “Military Sex Offender Reporting Act of 2015”, see section 501 of Pub. L. 114–22, set out as a Short Title of 2015 Amendment note under [section 16901 of this title](./chapter-151-child-protection-and-safety.md#section-16901).
 
 
 <a id="section-16942"></a>

@@ -128,7 +128,7 @@ Pub. L. 103–322, title III, § 31001(c), Sept. 13, 1994, 108 Stat. 1881, provi
 
 (3) The Gang Resistance Education and Training Program under the Act entitled “An Act making appropriations for the Treasury Department, the United States Postal Service, the Executive Office of the President, and certain Independent Agencies, for the fiscal year ending September 30, 1991, and for other purposes”, approved November 5, 1990 (Public Law 101–509).
 
-(4) Programs under title I of the Workforce Investment Act of 1998.
+(4) Programs under title I of the Workforce Innovation and Opportunity Act.
 
 (5) Programs under subtitle C of title I of the National and Community Service Act of 1990 ([42 U.S.C. 12571](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571&num=0&edition=prelim) et seq.), as amended.
 
@@ -206,9 +206,6 @@ Pub. L. 103–322, title III, § 31001(c), Sept. 13, 1994, 108 Stat. 1881, provi
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(4)
-Pub. L. 113–128, title V, §§ 506, 512(ff), July 22, 2014, 128 Stat. 1703, 1719, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(4) of this section is amended by striking “Programs under title I of the Workforce Investment Act of 1998.” and inserting “Programs under title I of the Workforce Innovation and Opportunity Act.” See 2014 Amendment note below.
-
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§ 2711 et seq.) and B (§ 2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519. See part A (§ 6311 et seq.) and subpart 3 (§ 6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to [section 3192 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3192&num=0&edition=prelim) prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by Pub. L. 107–110 and is classified to [section 7213a of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7213a&num=0&edition=prelim).
 
@@ -216,7 +213,7 @@ Section 682 of the Community Services Block Grant Act, referred to in subsec. (a
 
 Public Law 101–509, referred to in subsec. (a)(3), is Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1389. For complete classification of this Act to the Code, see Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (a)(5), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§ 12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12501&num=0&edition=prelim) and Tables.
 
@@ -263,7 +260,7 @@ Subsec. (a)(15) to (19). Pub. L. 105–277, § 101(f) [title VIII, § 405(c)(3)]
 1996—Subsec. (d)(6). Pub. L. 104–316 struck out “after consultation with the Comptroller General of the United States” after “by the Secretary”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(c)(3), (d)(27)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(19)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.

@@ -11,9 +11,9 @@ source: >-
 
 In this subchapter and subchapter II:
 
-(1) **Agricultural Act of 1949** — The term “Agricultural Act of 1949” means the Agricultural Act of 1949 ([7 U.S.C. 1421](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) et seq.), as in effect on the day before October 22, 2004.
+(1) **Agricultural Act of 1949** — The term “Agricultural Act of 1949” means the Agricultural Act of 1949 ([7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) et seq.), as in effect on the day before October 22, 2004.
 
-(2) **Agricultural Adjustment Act of 1938** — The term “Agricultural Adjustment Act of 1938” means the Agricultural Adjustment Act of 1938 ([7 U.S.C. 1281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim) et seq.), as in effect on the day before October 22, 2004.
+(2) **Agricultural Adjustment Act of 1938** — The term “Agricultural Adjustment Act of 1938” means the Agricultural Adjustment Act of 1938 ([7 U.S.C. 1281](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) et seq.), as in effect on the day before October 22, 2004.
 
 (3) **Considered planted** — The term “considered planted” means tobacco that was planted, but failed to be produced as a result of a natural disaster, as determined by the Secretary.
 
@@ -50,9 +50,9 @@ In this subchapter and subchapter II:
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) and Tables.
+The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
-The Agricultural Adjustment Act of 1938, referred to in pars. (2), (6), and (7), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. Part I of subtitle B of title III of the Act was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see [section 1281 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim) and Tables.
+The Agricultural Adjustment Act of 1938, referred to in pars. (2), (6), and (7), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. Part I of subtitle B of title III of the Act was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Effective Date
 Pub. L. 108–357, title VI, § 643, Oct. 22, 2004, 118 Stat. 1536, provided that: “This title [see Short Title note below] and the amendments made by this title shall apply to the 2005 and subsequent crops of each kind of tobacco.”
@@ -102,7 +102,7 @@ Pub. L. 108–357, title VI, § 601, Oct. 22, 2004, 118 Stat. 1521, provided tha
 #### References in Text
 Sections 611 and 612, referred to in subsec. (a), are sections 611 and 612 of Pub. L. 108–357, which amended sections 609, 1282, 1301, 1303, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and [section 714c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714c&num=0&edition=prelim), Commerce and Trade, repealed sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, and repealed provisions set out as a note under [section 1314c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1314c&num=0&edition=prelim).
 
-Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see [section 1281 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim) and Tables.
+Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 
 <a id="section-518b"></a>
@@ -152,7 +152,7 @@ Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, re
 #### References in Text
 Sections 611 and 612, referred to in subsec. (a), are sections 611 and 612 of Pub. L. 108–357, which amended sections 609, 1282, 1301, 1303, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and [section 714c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714c&num=0&edition=prelim), Commerce and Trade, repealed sections 511r, 515, 515a to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, and repealed provisions set out as a note under [section 1314c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1314c&num=0&edition=prelim).
 
-Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see [section 1281 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim) and Tables.
+Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 
 <a id="section-518c"></a>
@@ -161,7 +161,7 @@ Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, re
 
 **(b) Use of county committees to resolve disputes** Any dispute regarding the eligibility of a person to enter into a contract or to receive contract payments, and any dispute regarding the amount of a contract payment, may be appealed to the county committee established under [section 590h of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h&num=0&edition=prelim) for the county or other area in which the farming operation of the person is located.
 
-**(c) Role of National Appeals Division** Any adverse determination of a county committee under subsection (b) may be appealed to the National Appeals Division established under subtitle H of the Department of Agriculture Reorganization Act of 1994 ([7 U.S.C. 6991](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6991&num=0&edition=prelim) et seq.).
+**(c) Role of National Appeals Division** Any adverse determination of a county committee under subsection (b) may be appealed to the National Appeals Division established under subtitle H of the Department of Agriculture Reorganization Act of 1994 ([7 U.S.C. 6991](./chapter-098-department-of-agriculture-reorganization.md#section-6991) et seq.).
 
 **(d) Use of financial institutions** The Secretary may use a financial institution to manage assets, make contract payments, and otherwise carry out this title.11 See References in Text note below.
 

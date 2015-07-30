@@ -2,7 +2,7 @@
 title: 31
 chapter: '97'
 heading: MISCELLANEOUS
-section_count: 6
+section_count: 5
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31&num=0&edition=prelim
 ---
@@ -46,7 +46,7 @@ In subsection (b), before clause (1), the words “may prescribe regulations est
 Subsection (c) is substituted for 31:483a(provisos) for clarity and to eliminate unnecessary words.
 
 #### Short Title of 1992 Amendment
-Pub. L. 102–393, title VI, § 638(a), Oct. 6, 1992, 106 Stat. 1779, provided that: “This section [enacting [section 9703 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703&num=0&edition=prelim) and amending sections 981 and 982 of Title 18, Crimes and Criminal Procedure, [section 1509 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1509&num=0&edition=prelim), Food and Drugs, [section 524 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524&num=0&edition=prelim), Judiciary and Judicial Procedure, and [section 2003 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section2003&num=0&edition=prelim), Postal Service] may be cited as the ‘Treasury Forfeiture Fund Act of 1992’.”
+Pub. L. 102–393, title VI, § 638(a), Oct. 6, 1992, 106 Stat. 1779, provided that: “This section [enacting [section 9703 of this title](./chapter-097-miscellaneous.md#section-9703) and amending sections 981 and 982 of Title 18, Crimes and Criminal Procedure, [section 1509 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1509&num=0&edition=prelim), Food and Drugs, [section 524 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524&num=0&edition=prelim), Judiciary and Judicial Procedure, and [section 2003 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section2003&num=0&edition=prelim), Postal Service] may be cited as the ‘Treasury Forfeiture Fund Act of 1992’.”
 
 
 <a id="section-9702"></a>
@@ -68,9 +68,9 @@ Except as required by a treaty of the United States, amounts held in trust by th
 The section is substituted for 31:547a for clarity and consistency in the revised title.
 
 
-<a id="section-9703-1"></a>
-## § 9703.1. Managerial accountability and flexibility
-**(a)** Beginning with fiscal year 1999, the performance plans required under section 1115 may include proposals to waive administrative procedural requirements and controls, including specification of personnel staffing levels, limitations on compensation or remuneration, and prohibitions or restrictions on funding transfers among budget object classification 20 and subclassifications 11, 12, 31, and 32 of each annual budget submitted under section 1105, in return for specific individual or organization accountability to achieve a performance goal. In preparing and submitting the performance plan under section 1105(a)(29),22 See References in Text note below. the Director of the Office of Management and Budget shall review and may approve any proposed waivers. A waiver shall take effect at the beginning of the fiscal year for which the waiver is approved.
+<a id="section-9703"></a>
+## § 9703. Managerial accountability and flexibility
+**(a)** Beginning with fiscal year 1999, the performance plans required under section 1115 may include proposals to waive administrative procedural requirements and controls, including specification of personnel staffing levels, limitations on compensation or remuneration, and prohibitions or restrictions on funding transfers among budget object classification 20 and subclassifications 11, 12, 31, and 32 of each annual budget submitted under section 1105, in return for specific individual or organization accountability to achieve a performance goal. In preparing and submitting the performance plan under section 1105(a)(29),11 See References in Text note below. the Director of the Office of Management and Budget shall review and may approve any proposed waivers. A waiver shall take effect at the beginning of the fiscal year for which the waiver is approved.
 
 **(b)** Any such proposal under subsection (a) shall describe the anticipated effects on performance resulting from greater managerial or organizational flexibility, discretion, and authority, and shall quantify the expected improvements in performance resulting from any waiver. The expected improvements shall be compared to current actual performance, and to the projected level of performance that would be achieved independent of any waiver.
 
@@ -80,7 +80,7 @@ The section is substituted for 31:547a for clarity and consistency in the revise
 
 **(e)** A waiver shall be in effect for one or two years as specified by the Director of the Office of Management and Budget in approving the waiver. A waiver may be renewed for a subsequent year. After a waiver has been in effect for three consecutive years, the performance plan prepared under section 1115 may propose that a waiver, other than a waiver of limitations on compensation or remuneration, be made permanent.
 
-**(f)** For purposes of this section, the definitions under section 1115(f) 2 shall apply.
+**(f)** For purposes of this section, the definitions under section 1115(f) 1 shall apply.
 
 ### Statutory Notes
 
@@ -89,12 +89,38 @@ Section 1105(a)(29), referred to in subsec. (a), was redesignated [section 1105(
 
 Section 1115(f), referred to in subsec. (f), was redesignated [section 1115(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115/g&num=0&edition=prelim) by Pub. L. 107–296, title XIII, § 1311(a)(2), Nov. 25, 2002, 116 Stat. 2290.
 
+#### Codification
+Another section 9703 was renumbered [section 9705 of this title](./chapter-097-miscellaneous.md#section-9705).
+
 #### Construction
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101).
 
 
-<a id="section-9703-1"></a>
-## § 9703.1. Department of the Treasury Forfeiture Fund
+<a id="section-9704"></a>
+## § 9704. Pilot projects for managerial accountability and flexibility
+**(a)** The Director of the Office of Management and Budget shall designate not less than five agencies as pilot projects in managerial accountability and flexibility for fiscal years 1995 and 1996. Such agencies shall be selected from those designated as pilot projects under section 1118 and shall reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
+
+**(b)** Pilot projects in the designated agencies shall include proposed waivers in accordance with section 9703 for one or more of the major functions and operations of the agency.
+
+**(c)** The Director of the Office of Management and Budget shall include in the report to the President and to the Congress required under section 1118(c)—
+
+(1) an assessment of the benefits, costs, and usefulness of increasing managerial and organizational flexibility, discretion, and authority in exchange for improved performance through a waiver; and
+
+(2) an identification of any significant difficulties experienced by the pilot agencies in preparing proposed waivers.
+
+**(d)** For purposes of this section the definitions under section 1115(f) 11 See References in Text note below. shall apply.
+
+### Statutory Notes
+
+#### References in Text
+Section 1115(f), referred to in subsec. (d), was redesignated [section 1115(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115/g&num=0&edition=prelim) by Pub. L. 107–296, title XIII, § 1311(a)(2), Nov. 25, 2002, 116 Stat. 2290.
+
+#### Construction
+No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101).
+
+
+<a id="section-9705"></a>
+## § 9705. Department of the Treasury Forfeiture Fund
 **(a) In General.—** There is established in the Treasury of the United States a fund to be known as the “Department of the Treasury Forfeiture Fund” (referred to in this section as the “Fund”). The Fund shall be available to the Secretary, without fiscal year limitation, with respect to seizures and forfeitures made pursuant to any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury or the United States Coast Guard for the following law enforcement purposes:
 
 (1)
@@ -125,9 +151,9 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
   (H) Payment for services of experts and consultants needed by a Department of the Treasury law enforcement organization to carry out the organization’s duties relating to seizure and forfeiture.
 
-  (I) payment 22 So in original. Probably should be capitalized. of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in joint law enforcement operations with a Department of the Treasury law enforcement organization; 33 So in original. The semicolon probably should be a period.
+  (I) Payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in joint law enforcement operations with a Department of the Treasury law enforcement organization.
 
-  (J) payment 2 made pursuant to guidelines promulgated by the Secretary, if such payment is necessary and directly related to seizure and forfeiture program expenses for—
+  (J) Payment made pursuant to guidelines promulgated by the Secretary, if such payment is necessary and directly related to seizure and forfeiture program expenses for—
 
     (i) the purchase or lease of automatic data processing systems (not less than a majority of which use will be related to such program);
 
@@ -159,13 +185,15 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
     (iii) the United States Secret Service with respect to a violation of—
 
-      (I) section 1028, 1029, or 1030 or 44 So in original. Probably should be “of”. title 18;
+      (I) section 1028, 1029, or 1030 of title 18;
 
       (II) any law of the United States relating to coins, obligations, or securities of the United States or of a foreign government; or
 
-      (III) any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation; and
+      (III) any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation;
 
-    (iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act).
+    (iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act); and
+
+    (v) United States Immigration and Customs Enforcement with respect to a violation of chapter 77 of title 18 (relating to human trafficking);
 
   (C) payment of costs for publicizing awards available under section 619 of the Tariff Act of 1930 ([19 U.S.C. 1619](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1619&num=0&edition=prelim));
 
@@ -175,9 +203,9 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
   (F) payment for equipment for any vessel, vehicle, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with a Department of the Treasury law enforcement organization;
 
-  (G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; 55 So in original. Probably should be followed by “and”.
+  (G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; and
 
-  (H) payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of the Department of the Treasury; and 66 So in original. The “; and” probably should be a period.
+  (H) payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of the Department of the Treasury.
 
 **(b) Limitations.—**
 
@@ -278,17 +306,17 @@ The Fund shall be subject to annual financial audits as authorized in the Chief 
 
 (3)
 
-  (A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.77 See References in Text note below.
+  (A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.11 See References in Text note below.
 
   (B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
-  (C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year 88 So in original. Probably should be “years”. 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) 99 So in original. Probably should be “paragraph (4)(B)”. shall also be carried forward.
+  (C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year 22 So in original. Probably should be “years”. 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) 33 So in original. Probably should be “paragraph (4)(B)”. shall also be carried forward.
 
 (4)
 
   (A) After reserving any amount authorized by paragraph (3)(C), any unobligated balances remaining in the Fund on September 30, 1993, shall be deposited into the general fund of the Treasury of the United States.
 
-  (B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) 7 and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
+  (B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) 1 and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
 
   (C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
 
@@ -304,13 +332,13 @@ The Fund shall be subject to annual financial audits as authorized in the Chief 
 
     (ii) any State or local law enforcement agency that participated directly or indirectly in the seizure or forfeiture of the property.
 
-(2) The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure of 1010 So in original. Probably should be “or”. forfeiture of the property, if such a transfer—
+(2) The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure of 44 So in original. Probably should be “or”. forfeiture of the property, if such a transfer—
 
   (A) is one with which the Secretary of State has agreed;
 
   (B) is authorized in an international agreement between the United States and the foreign country; and
 
-  (C) is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291/h&num=0&edition=prelim)).7
+  (C) is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291/h&num=0&edition=prelim)).1
 
 (3) Nothing in this section shall affect the authority of the Secretary under [section 981 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section981&num=0&edition=prelim) or section 616 of the Tariff Act of 1930 ([19 U.S.C. 1616a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1616a&num=0&edition=prelim)).
 
@@ -330,7 +358,7 @@ The Fund shall be subject to annual financial audits as authorized in the Chief 
 
 **(l) Authority To Warrant Title.—** Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department of the Treasury, the Secretary is authorized, at the Secretary’s discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.
 
-**(m) Forfeited Property.—** For purposes of this section and notwithstanding section 524(c)(11) 7 of title 28 or any other law—
+**(m) Forfeited Property.—** For purposes of this section and notwithstanding section 524(c)(11) 1 of title 28 or any other law—
 
 (1) during fiscal year 1993, property and currency shall be deemed to be forfeited pursuant to a law enforced or administered by the United States Customs Service if it is forfeited pursuant to—
 
@@ -380,6 +408,20 @@ The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec
 [Section 524(c)(11) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c/11&num=0&edition=prelim), referred to in subsec. (m), was redesignated section 524(c)(10) by Pub. L. 104–66, title I, § 1091(h)(2), Dec. 21, 1995, 109 Stat. 722.
 
 #### Amendments
+2015—Pub. L. 114–22, § 105(c)(1)(A), renumbered [section 9703 of this title](./chapter-097-miscellaneous.md#section-9703), relating to Department of the Treasury Forfeiture Fund, as this section.
+
+Subsec. (a)(1)(I). Pub. L. 114–22, § 105(c)(1)(B)(i)(I), substituted “Payment” for “payment” and period for semicolon at end.
+
+Subsec. (a)(1)(J). Pub. L. 114–22, § 105(c)(1)(B)(i)(II), which directed substitution of “Payment” for “payment”, was executed by making the substitution the first place appearing, to reflect the probable intent of Congress.
+
+Subsec. (a)(2)(B)(iii)(I). Pub. L. 114–22, § 105(c)(1)(B)(ii)(I)(aa)(AA), substituted “of title 18” for “or title 18”.
+
+Subsec. (a)(2)(B)(v). Pub. L. 114–22, § 105(c)(1)(B)(ii)(I)(aa)(BB)–(cc), added cl. (v).
+
+Subsec. (a)(2)(G). Pub. L. 114–22, § 105(c)(1)(B)(ii)(II), inserted “and” at end.
+
+Subsec. (a)(2)(H). Pub. L. 114–22, § 105(c)(1)(B)(ii)(III), substituted period for “; and” at end.
+
 2011—Subsec. (b)(3). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim)), title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)”.
 
 2002—Subsec. (a)(2)(B). Pub. L. 107–296, § 1112(n)(1), in cl. (iii)(III), inserted “and” at end, in cl. (iv), substituted a period for “; and” at end, and struck out cl. (v) which read as follows: “the Bureau of Alcohol, Tobacco and Firearms with respect to a violation of—
@@ -428,37 +470,3 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Law
 
 #### Unavailable Collections
 Pub. L. 105–61, title I, § 122(a), Oct. 10, 1997, 111 Stat. 1289, provided that: “The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 [6073] of the Anti-Drug Abuse Act of 1988 ([21 U.S.C. 1509](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1509&num=0&edition=prelim)) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund ([31 U.S.C. 9703(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703/a&num=0&edition=prelim)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under [31 U.S.C. 9703(g)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703/g/4/B&num=0&edition=prelim).”
-
-
-<a id="section-9704"></a>
-## § 9704. Pilot projects for managerial accountability and flexibility
-**(a)** The Director of the Office of Management and Budget shall designate not less than five agencies as pilot projects in managerial accountability and flexibility for fiscal years 1995 and 1996. Such agencies shall be selected from those designated as pilot projects under section 1118 and shall reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
-
-**(b)** Pilot projects in the designated agencies shall include proposed waivers in accordance with section 9703 11 See References in Text note below. for one or more of the major functions and operations of the agency.
-
-**(c)** The Director of the Office of Management and Budget shall include in the report to the President and to the Congress required under section 1118(c)—
-
-(1) an assessment of the benefits, costs, and usefulness of increasing managerial and organizational flexibility, discretion, and authority in exchange for improved performance through a waiver; and
-
-(2) an identification of any significant difficulties experienced by the pilot agencies in preparing proposed waivers.
-
-**(d)** For purposes of this section the definitions under section 1115(f) 1 shall apply.
-
-### Statutory Notes
-
-#### References in Text
-Section 9703, referred to in subsec. (b), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289, which is set out preceding this section.
-
-Section 1115(f), referred to in subsec. (d), was redesignated [section 1115(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115/g&num=0&edition=prelim) by Pub. L. 107–296, title XIII, § 1311(a)(2), Nov. 25, 2002, 116 Stat. 2290.
-
-#### Construction
-No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101).
-
-
-<a id="section-9704"></a>
-## § 9704. ]
-
-### Statutory Notes
-
-#### Codification
-Section 9704 is set out after the first section 9703.

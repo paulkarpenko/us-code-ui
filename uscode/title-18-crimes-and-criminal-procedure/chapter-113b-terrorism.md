@@ -2,7 +2,7 @@
 title: 18
 chapter: 113B
 heading: TERRORISM
-section_count: 21
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -274,7 +274,7 @@ Subsec. (c). Pub. L. 104–132, § 725(3), redesignated subsec. (b) as (c).
 
   (B) is a violation of—
 
-    (i) section 32 (relating to destruction of aircraft or aircraft facilities), 37 (relating to violence at international airports), 81 (relating to arson within special maritime and territorial jurisdiction), 175 or 175b (relating to biological weapons), 175c (relating to variola virus), 229 (relating to chemical weapons), subsection (a), (b), (c), or (d) of section 351 (relating to congressional, cabinet, and Supreme Court assassination and kidnaping), 831 (relating to nuclear materials), 832 (relating to participation in nuclear and weapons of mass destruction threats to the United States) 22 So in original. Probably should be followed by a comma. 842(m) or (n) (relating to plastic explosives), 844(f)(2) or (3) (relating to arson and bombing of Government property risking or causing death), 844(i) (relating to arson and bombing of property used in interstate commerce), 930(c) (relating to killing or attempted killing during an attack on a Federal facility with a dangerous weapon), 956(a)(1) (relating to conspiracy to murder, kidnap, or maim persons abroad), 1030(a)(1) (relating to protection of computers), 1030(a)(5)(A) resulting in damage as defined in 1030(c)(4)(A)(i)(II) through (VI) (relating to protection of computers), 1114 (relating to killing or attempted killing of officers and employees of the United States), 1116 (relating to murder or manslaughter of foreign officials, official guests, or internationally protected persons), 1203 (relating to hostage taking), 1361 (relating to government property or contracts), 1362 (relating to destruction of communication lines, stations, or systems), 1363 (relating to injury to buildings or property within special maritime and territorial jurisdiction of the United States), 1366(a) (relating to destruction of an energy facility), 1751(a), (b), (c), or (d) (relating to Presidential and Presidential staff assassination and kidnaping), 1992 (relating to terrorist attacks and other acts of violence against railroad carriers and against mass transportation systems on land, on water, or through the air), 2155 (relating to destruction of national defense materials, premises, or utilities), 2156 (relating to national defense material, premises, or utilities), 2280 (relating to violence against maritime navigation), 2281 (relating to violence against maritime fixed platforms), 2332 (relating to certain homicides and other violence against United States nationals occurring outside of the United States), 2332a (relating to use of weapons of mass destruction), 2332b (relating to acts of terrorism transcending national boundaries), 2332f (relating to bombing of public places and facilities), 2332g (relating to missile systems designed to destroy aircraft), 2332h (relating to radiological dispersal devices), 2339 (relating to harboring terrorists), 2339A (relating to providing material support to terrorists), 2339B (relating to providing material support to terrorist organizations), 2339C (relating to financing of terrorism), 2339D (relating to military-type training from a foreign terrorist organization), or 2340A (relating to torture) of this title;
+    (i) section 32 (relating to destruction of aircraft or aircraft facilities), 37 (relating to violence at international airports), 81 (relating to arson within special maritime and territorial jurisdiction), 175 or 175b (relating to biological weapons), 175c (relating to variola virus), 229 (relating to chemical weapons), subsection (a), (b), (c), or (d) of section 351 (relating to congressional, cabinet, and Supreme Court assassination and kidnaping), 831 (relating to nuclear materials), 832 (relating to participation in nuclear and weapons of mass destruction threats to the United States) 22 So in original. Probably should be followed by a comma. 842(m) or (n) (relating to plastic explosives), 844(f)(2) or (3) (relating to arson and bombing of Government property risking or causing death), 844(i) (relating to arson and bombing of property used in interstate commerce), 930(c) (relating to killing or attempted killing during an attack on a Federal facility with a dangerous weapon), 956(a)(1) (relating to conspiracy to murder, kidnap, or maim persons abroad), 1030(a)(1) (relating to protection of computers), 1030(a)(5)(A) resulting in damage as defined in 1030(c)(4)(A)(i)(II) through (VI) (relating to protection of computers), 1114 (relating to killing or attempted killing of officers and employees of the United States), 1116 (relating to murder or manslaughter of foreign officials, official guests, or internationally protected persons), 1203 (relating to hostage taking), 1361 (relating to government property or contracts), 1362 (relating to destruction of communication lines, stations, or systems), 1363 (relating to injury to buildings or property within special maritime and territorial jurisdiction of the United States), 1366(a) (relating to destruction of an energy facility), 1751(a), (b), (c), or (d) (relating to Presidential and Presidential staff assassination and kidnaping), 1992 (relating to terrorist attacks and other acts of violence against railroad carriers and against mass transportation systems on land, on water, or through the air), 2155 (relating to destruction of national defense materials, premises, or utilities), 2156 (relating to national defense material, premises, or utilities), 2280 (relating to violence against maritime navigation), 2280a (relating to maritime safety), 2281 through 2281a (relating to violence against maritime fixed platforms), 2332 (relating to certain homicides and other violence against United States nationals occurring outside of the United States), 2332a (relating to use of weapons of mass destruction), 2332b (relating to acts of terrorism transcending national boundaries), 2332f (relating to bombing of public places and facilities), 2332g (relating to missile systems designed to destroy aircraft), 2332h (relating to radiological dispersal devices), 2332i (relating to acts of nuclear terrorism), 2339 (relating to harboring terrorists), 2339A (relating to providing material support to terrorists), 2339B (relating to providing material support to terrorist organizations), 2339C (relating to financing of terrorism), 2339D (relating to military-type training from a foreign terrorist organization), or 2340A (relating to torture) of this title;
 
     (ii) sections 92 (relating to prohibitions governing atomic weapons) or 236 (relating to sabotage of nuclear facilities or fuel) of the Atomic Energy Act of 1954 ([42 U.S.C. 2122](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2122&num=0&edition=prelim) or 2284);
 
@@ -290,6 +290,8 @@ Section 1365(g)(3), referred to in subsec. (g)(3), was redesignated section 1365
 Section 1010A of the Controlled Substances Import and Export Act, referred to in subsec. (g)(5)(B)(iv), is classified to [section 960a of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960a&num=0&edition=prelim), Food and Drugs.
 
 #### Amendments
+2015—Subsec. (g)(5)(B)(i). Pub. L. 114–23 substituted “2280a (relating to maritime safety), 2281 through 2281a” for “2281” and inserted “2332i (relating to acts of nuclear terrorism),” before “2339 (relating to harboring terrorists)”.
+
 2008—Subsec. (g)(5)(B)(i). Pub. L. 110–326 substituted “1030(a)(5)(A) resulting in damage as defined in 1030(c)(4)(A)(i)(II) through (VI)” for “1030(a)(5)(A)(i) resulting in damage as defined in 1030(a)(5)(B)(ii) through (v)”.
 
 2006—Subsec. (g)(5)(B)(i). Pub. L. 109–177, §§ 110(b)(3)(A), 112(a)(1), (b), substituted “1992 (relating to terrorist attacks and other acts of violence against railroad carriers and against mass transportation systems on land, on water, or through the air),” for “1992 (relating to wrecking trains), 1993 (relating to terrorist attacks and other acts of violence against mass transportation systems),” and “terrorism), 2339D (relating to military-type training from a foreign terrorist organization), or 2340A” for “terrorism, or 2340A”.
@@ -322,6 +324,9 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 #### Territorial Sea of United States
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+
+#### Disclaimer
+Pub. L. 114–23, title VIII, § 811(c), June 2, 2015, 129 Stat. 311, provided that: “Nothing contained in this section [enacting [section 2332i of this title](./chapter-113b-terrorism.md#section-2332i) and amending this section] is intended to affect the applicability of any other Federal or State law that might pertain to the underlying conduct.”
 
 
 <a id="section-2332c"></a>
@@ -561,6 +566,103 @@ Pub. L. 107–197, title I, § 102(c), June 25, 2002, 116 Stat. 724, provided th
 (3) **Special circumstances.—** — If the death of another results from a person’s violation of subsection (a), the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
 
 
+<a id="section-2332i"></a>
+## § 2332i. Acts of nuclear terrorism
+**(a) Offenses.—**
+
+(1) **In general.—** — Whoever knowingly and unlawfully—
+
+  (A) possesses radioactive material or makes or possesses a device—
+
+    (i) with the intent to cause death or serious bodily injury; or
+
+    (ii) with the intent to cause substantial damage to property or the environment; or
+
+  (B) uses in any way radioactive material or a device, or uses or damages or interferes with the operation of a nuclear facility in a manner that causes the release of or increases the risk of the release of radioactive material, or causes radioactive contamination or exposure to radiation—
+
+    (i) with the intent to cause death or serious bodily injury or with the knowledge that such act is likely to cause death or serious bodily injury;
+
+    (ii) with the intent to cause substantial damage to property or the environment or with the knowledge that such act is likely to cause substantial damage to property or the environment; or
+
+    (iii) with the intent to compel a person, an international organization or a country to do or refrain from doing an act,
+    shall be punished as prescribed in subsection (c).
+
+(2) **Threats.—** — Whoever, under circumstances in which the threat may reasonably be believed, threatens to commit an offense under paragraph (1) shall be punished as prescribed in subsection (c). Whoever demands possession of or access to radioactive material, a device or a nuclear facility by threat or by use of force shall be punished as prescribed in subsection (c).
+
+(3) **Attempts and conspiracies.—** — Whoever attempts to commit an offense under paragraph (1) or conspires to commit an offense under paragraph (1) or (2) shall be punished as prescribed in subsection (c).
+
+**(b) Jurisdiction.—** Conduct prohibited by subsection (a) is within the jurisdiction of the United States if—
+
+(1) the prohibited conduct takes place in the United States or the special aircraft jurisdiction of the United States;
+
+(2) the prohibited conduct takes place outside of the United States and—
+
+  (A) is committed by a national of the United States, a United States corporation or legal entity or a stateless person whose habitual residence is in the United States;
+
+  (B) is committed on board a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in [section 70502 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70502&num=0&edition=prelim)) or on board an aircraft that is registered under United States law, at the time the offense is committed; or
+
+  (C) is committed in an attempt to compel the United States to do or abstain from doing any act, or constitutes a threat directed at the United States;
+
+(3) the prohibited conduct takes place outside of the United States and a victim or an intended victim is a national of the United States or a United States corporation or legal entity, or the offense is committed against any state or government facility of the United States; or
+
+(4) a perpetrator of the prohibited conduct is found in the United States.
+
+**(c) Penalties.—** Whoever violates this section shall be fined not more than $2,000,000 and shall be imprisoned for any term of years or for life.
+
+**(d) Nonapplicability.—** This section does not apply to—
+
+(1) the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
+
+(2) activities undertaken by military forces of a state in the exercise of their official duties.
+
+**(e) Definitions.—** As used in this section, the term—
+
+(1) “armed conflict” has the meaning given that term in [section 2332f(e)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332f/e/11&num=0&edition=prelim);
+
+(2) “device” means:
+
+  (A) any nuclear explosive device; or
+
+  (B) any radioactive material dispersal or radiation-emitting device that may, owing to its radiological properties, cause death, serious bodily injury or substantial damage to property or the environment;
+
+(3) “international organization” has the meaning given that term in [section 831(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section831/f/3&num=0&edition=prelim); 11 See References in Text note below.
+
+(4) “military forces of a state” means the armed forces of a country that are organized, trained and equipped under its internal law for the primary purpose of national defense or security and persons acting in support of those armed forces who are under their formal command, control and responsibility;
+
+(5) “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/22&num=0&edition=prelim));
+
+(6) “nuclear facility” means:
+
+  (A) any nuclear reactor, including reactors on vessels, vehicles, aircraft or space objects for use as an energy source in order to propel such vessels, vehicles, aircraft or space objects or for any other purpose;
+
+  (B) any plant or conveyance being used for the production, storage, processing or transport of radioactive material; or
+
+  (C) a facility (including associated buildings and equipment) in which nuclear material is produced, processed, used, handled, stored or disposed of, if damage to or interference with such facility could lead to the release of significant amounts of radiation or radioactive material;
+
+(7) “nuclear material” has the meaning given that term in [section 831(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section831/f/1&num=0&edition=prelim); 1
+
+(8) “radioactive material” means nuclear material and other radioactive substances that contain nuclides that undergo spontaneous disintegration (a process accompanied by emission of one or more types of ionizing radiation, such as alpha-, beta-, neutron particles and gamma rays) and that may, owing to their radiological or fissile properties, cause death, serious bodily injury or substantial damage to property or to the environment;
+
+(9) “serious bodily injury” has the meaning given that term in [section 831(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section831/f/4&num=0&edition=prelim); 1
+
+(10) “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof;
+
+(11) “state or government facility” has the meaning given that term in [section 2332f(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332f/e/3&num=0&edition=prelim);
+
+(12) “United States corporation or legal entity” means any corporation or other entity organized under the laws of the United States or any State, Commonwealth, territory, possession or district of the United States;
+
+(13) “vessel” has the meaning given that term in [section 1502(19) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1502/19&num=0&edition=prelim); 1 and
+
+(14) “vessel of the United States” has the meaning given that term in [section 70502 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70502&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+[Section 831(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section831/f&num=0&edition=prelim), referred to in subsec. (e)(3), (7), (9), was redesignated section 831(g) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
+
+[Section 1502(19) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1502/19&num=0&edition=prelim), referred to in subsec. (e)(13), probably should be a reference to section 3(19) of the Deepwater Port Act of 1974, which is classified to [section 1502(19) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1502/19&num=0&edition=prelim), Navigation and Navigable Waters.
+
+
 <a id="section-2333"></a>
 ## § 2333. Civil remedies
 **(a) Action and Jurisdiction.—** Any national of the United States injured in his or her person, property, or business by reason of an act of international terrorism, or his or her estate, survivors, or heirs, may sue therefor in any appropriate district court of the United States and shall recover threefold the damages he or she sustains and the cost of the suit, including attorney’s fees.
@@ -747,7 +849,7 @@ Amendment by section 604(b)(5) of Pub. L. 104–294 effective Sept. 13, 1994, se
 ## § 2339B. Providing material support or resources to designated foreign terrorist organizations
 **(a) Prohibited Activities.—**
 
-(1) **Unlawful conduct.—** — Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
+(1) **Unlawful conduct.—** — Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 20 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
 
 (2) **Financial institutions.—** — Except as authorized by the Secretary, any financial institution that becomes aware that it has possession of, or control over, any funds in which a foreign terrorist organization, or its agent, has an interest, shall—
 
@@ -899,6 +1001,8 @@ Section 1(a) of the Classified Information Procedures Act, referred to in subsec
 Section 219 of the Immigration and Nationality Act, referred to in subsec. (g)(6), is classified to [section 1189 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim), Aliens and Nationality.
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–23 substituted “20 years” for “15 years”.
+
 2009—Subsec. (f)(5)(B)(ii). Pub. L. 111–16, § 3(6), substituted “14 days” for “10 days”.
 
 Subsec. (f)(5)(B)(iii)(I). Pub. L. 111–16, § 3(7), inserted “, excluding intermediate weekends and holidays” after “trial”.

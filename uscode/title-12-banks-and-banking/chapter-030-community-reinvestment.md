@@ -96,7 +96,7 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1505 of Pub. 
 
 (2) take such record into account in its evaluation of an application for a deposit facility by such institution.
 
-**(b) Majority-owned institutions** In assessing and taking into account, under subsection (a) of this section, the record of a nonminority-owned and nonwomen-owned financial institution, the appropriate Federal financial supervisory agency may consider as a factor capital investment, loan participation, and other ventures undertaken by the institution in cooperation with minority- and women-owned financial institutions and low-income credit unions provided that these activities help meet the credit needs of local communities in which such institutions and credit unions are chartered.
+**(b) Majority-owned institutions** In assessing and taking into account, under subsection (a), the record of a nonminority-owned and nonwomen-owned financial institution, the appropriate Federal financial supervisory agency may consider as a factor capital investment, loan participation, and other ventures undertaken by the institution in cooperation with minority- and women-owned financial institutions and low-income credit unions provided that these activities help meet the credit needs of local communities in which such institutions and credit unions are chartered.
 
 **(c) Financial holding company requirement**
 
@@ -206,15 +206,15 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 (1) **State-by-State evaluation** — In the case of a regulated financial institution that maintains domestic branches in 2 or more States, the appropriate Federal financial supervisory agency shall prepare—
 
-  (A) a written evaluation of the entire institution’s record of performance under this chapter, as required by subsections (a), (b), and (c) of this section; and
+  (A) a written evaluation of the entire institution’s record of performance under this chapter, as required by subsections (a), (b), and (c); and
 
-  (B) for each State in which the institution maintains 1 or more domestic branches, a separate written evaluation of the institution’s record of performance within such State under this chapter, as required by subsections (a), (b), and (c) of this section.
+  (B) for each State in which the institution maintains 1 or more domestic branches, a separate written evaluation of the institution’s record of performance within such State under this chapter, as required by subsections (a), (b), and (c).
 
-(2) **Multistate metropolitan areas** — In the case of a regulated financial institution that maintains domestic branches in 2 or more States within a multistate metropolitan area, the appropriate Federal financial supervisory agency shall prepare a separate written evaluation of the institution’s record of performance within such metropolitan area under this chapter, as required by subsections (a), (b), and (c) of this section. If the agency prepares a written evaluation pursuant to this paragraph, the scope of the written evaluation required under paragraph (1)(B) shall be adjusted accordingly.
+(2) **Multistate metropolitan areas** — In the case of a regulated financial institution that maintains domestic branches in 2 or more States within a multistate metropolitan area, the appropriate Federal financial supervisory agency shall prepare a separate written evaluation of the institution’s record of performance within such metropolitan area under this chapter, as required by subsections (a), (b), and (c). If the agency prepares a written evaluation pursuant to this paragraph, the scope of the written evaluation required under paragraph (1)(B) shall be adjusted accordingly.
 
 (3) **Content of State level evaluation** — A written evaluation prepared pursuant to paragraph (1)(B) shall—
 
-  (A) present the information required by subparagraphs (A) and (B) of subsection (b)(1) of this section separately for each metropolitan area in which the institution maintains 1 or more domestic branch offices and separately for the remainder of the nonmetropolitan area of the State if the institution maintains 1 or more domestic branch offices in such nonmetropolitan area; and
+  (A) present the information required by subparagraphs (A) and (B) of subsection (b)(1) separately for each metropolitan area in which the institution maintains 1 or more domestic branch offices and separately for the remainder of the nonmetropolitan area of the State if the institution maintains 1 or more domestic branch offices in such nonmetropolitan area; and
 
   (B) describe how the Federal financial supervisory agency has performed the examination of the institution, including a list of the individual branches examined.
 
@@ -278,7 +278,7 @@ Section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcemen
 
 <a id="section-2908"></a>
 ## § 2908. Small bank regulatory relief
-**(a) In general** Except as provided in subsections (b) and (c) of this section, any regulated financial institution with aggregate assets of not more than $250,000,000 shall be subject to routine examination under this chapter—
+**(a) In general** Except as provided in subsections (b) and (c), any regulated financial institution with aggregate assets of not more than $250,000,000 shall be subject to routine examination under this chapter—
 
 (1) not more than once every 60 months for an institution that has achieved a rating of “outstanding record of meeting community credit needs” at its most recent examination under [section 2903 of this title](./chapter-030-community-reinvestment.md#section-2903);
 
@@ -286,6 +286,6 @@ Section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcemen
 
 (3) as deemed necessary by the appropriate Federal financial supervisory agency, for an institution that has received a rating of less than “satisfactory record of meeting community credit needs” at its most recent examination under [section 2903 of this title](./chapter-030-community-reinvestment.md#section-2903).
 
-**(b) No exception from CRA examinations in connection with applications for deposit facilities** A regulated financial institution described in subsection (a) of this section shall remain subject to examination under this chapter in connection with an application for a deposit facility.
+**(b) No exception from CRA examinations in connection with applications for deposit facilities** A regulated financial institution described in subsection (a) shall remain subject to examination under this chapter in connection with an application for a deposit facility.
 
-**(c) Discretion** A regulated financial institution described in subsection (a) of this section may be subject to more frequent or less frequent examinations for reasonable cause under such circumstances as may be determined by the appropriate Federal financial supervisory agency.
+**(c) Discretion** A regulated financial institution described in subsection (a) may be subject to more frequent or less frequent examinations for reasonable cause under such circumstances as may be determined by the appropriate Federal financial supervisory agency.

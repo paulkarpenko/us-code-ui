@@ -10,7 +10,7 @@ source: >-
 ## § 4201. Filing of confidential declarations by private persons
 **(a) In general** Any person may file a declaration of a violation giving rise to an action for civil penalties under [section 1833a of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1833a) affecting a depository institution insured by the Federal Deposit Insurance Corporation or any other agency or entity of the United States.
 
-**(b) Place of filing** A declaration under subsection (a) of this section shall be filed with the Attorney General of the United States or with an agent designated by the Attorney General for receiving declarations under this section.
+**(b) Place of filing** A declaration under subsection (a) shall be filed with the Attorney General of the United States or with an agent designated by the Attorney General for receiving declarations under this section.
 
 ### Statutory Notes
 
@@ -46,7 +46,7 @@ A declaration filed pursuant to [section 4201 of this title](./chapter-043-actio
 
 (1) Notwithstanding any other law, the contents of a declaration shall not be disclosed by the declarant if the disclosure would prejudice or compromise in any way the completion of any government investigation or any criminal or civil case that may arise out of, or make use of, information contained in a declaration, but information contained in a declaration may be disclosed as required by duly issued and authorized legal process.
 
-(2) The Attorney General may in a circumstance described in paragraph (1) notify a declarant that continued confidentiality is required under this subsection notwithstanding paragraph (1) or (2) of subsection (a) of this section.
+(2) The Attorney General may in a circumstance described in paragraph (1) notify a declarant that continued confidentiality is required under this subsection notwithstanding paragraph (1) or (2) of subsection (a).
 
 **(c) Loss of rights** A declarant who discloses, except as provided by this chapter,11 See References in Text note below. the existence or filing of a declaration or the contents thereof to anyone other than a duly authorized Federal or State investigator or the declarant’s attorney shall immediately lose all rights under this subchapter.
 
@@ -70,7 +70,7 @@ This chapter, referred to in subsec. (c), was in the original “this title”, 
 
 (5) the declaration consists of allegations or transactions that have been disclosed to a member of the public in a criminal, civil, or administrative proceeding, in a congressional, administrative, or Government Accountability Office report, hearing, audit or investigation, by any other government source, or by the news media, unless the person providing the declaration is the original source of the information.
 
-**(b) “Original source” defined** For the purposes of subsection (a)(5) of this section, the term “original source” means a person who has direct and independent knowledge of the information contained in the declaration and who voluntarily provided the information to the government prior to the disclosure.
+**(b) “Original source” defined** For the purposes of subsection (a)(5), the term “original source” means a person who has direct and independent knowledge of the information contained in the declaration and who voluntarily provided the information to the government prior to the disclosure.
 
 **(c) Notice of invalidity** If the Attorney General determines at any time that a declaration is invalid under this section, that a declaration fails to meet the requirements of [section 4202 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4202), or that a declaration has been disclosed in violation of [section 4203 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4203), the Attorney General shall notify the person who filed the declaration in writing that the declaration is invalid, and the declarant shall not enjoy any of the rights of the declarant listed in section 4205 or 4206 of this title.
 
@@ -87,7 +87,7 @@ This chapter, referred to in subsec. (c), was in the original “this title”, 
 ## § 4205. Rights of declarants; participation in actions, awards
 **(a) In general** A person who has filed a declaration that meets the requirements of sections 4201 through 4204 of this title shall have the rights stated in this section.
 
-**(b) Civil action** If the Attorney General determines that a cause of action referred to in [section 4201 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4201) based on the declaration should be referred to private counsel pursuant to subchapter III of this chapter, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III of this chapter.
+**(b) Civil action** If the Attorney General determines that a cause of action referred to in [section 4201 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4201) based on the declaration should be referred to private counsel pursuant to subchapter III, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III.
 
 **(c) Criminal conviction**
 
@@ -121,7 +121,7 @@ This chapter, referred to in subsec. (c), was in the original “this title”, 
 
     (ii) In calculating an award under clause (i), the Attorney General may consider the size of the overall recovery and the usefulness of the information provided by the declarant.
 
-  (B) When a declarant has received an award under subsection (c) of this section, the Attorney General may subtract the amount of that reward from any recovery under this subsection.
+  (B) When a declarant has received an award under subsection (c), the Attorney General may subtract the amount of that reward from any recovery under this subsection.
 
 (2)
 
@@ -161,7 +161,7 @@ Subsec. (e). Pub. L. 107–273 struck out heading and text of subsec. (e). Text 
 
   (B) a short statement of reasons for the amount of the award.
 
-**(d) Notice of pendency of investigation or proceeding** If the Attorney General has not provided the declarant with notice under subsection (b) of this section or a notice of invalidity pursuant to [section 4204 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4204) within the time period set forth in subsection (e) of this section, the Attorney General shall notify the declarant in writing that—
+**(d) Notice of pendency of investigation or proceeding** If the Attorney General has not provided the declarant with notice under subsection (b) or a notice of invalidity pursuant to [section 4204 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4204) within the time period set forth in subsection (e), the Attorney General shall notify the declarant in writing that—
 
 (1) there is a pending investigation or proceeding in the course of which the declarant’s allegations are being addressed; or
 
@@ -169,7 +169,7 @@ Subsec. (e). Pub. L. 107–273 struck out heading and text of subsec. (e). Text 
 
 **(e) Time for notices**
 
-(1) In the case of a valid declaration filed not more than 3 years after November 29, 1990, the Attorney General shall send notification to a declarant pursuant to subsection (d) of this section not later than 3 years after the date of filing of the declaration.
+(1) In the case of a valid declaration filed not more than 3 years after November 29, 1990, the Attorney General shall send notification to a declarant pursuant to subsection (d) not later than 3 years after the date of filing of the declaration.
 
 (2)
 
@@ -184,17 +184,17 @@ Subsec. (e). Pub. L. 107–273 struck out heading and text of subsec. (e). Text 
 ## § 4207. Unreviewed declarations; petition to pursue action as private contractor
 **(a) Notification**
 
-(1) If, pursuant to [section 4206(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4206/d/2&num=0&edition=prelim), the Attorney General notifies a declarant that the declarant’s allegations have not yet been addressed, the declarant may notify the Attorney General to award a contract pursuant to subchapter III of this chapter to pursue the case.
+(1) If, pursuant to [section 4206(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4206/d/2&num=0&edition=prelim), the Attorney General notifies a declarant that the declarant’s allegations have not yet been addressed, the declarant may notify the Attorney General to award a contract pursuant to subchapter III to pursue the case.
 
 (2) A declarant’s notification under paragraph (1) shall be filed with the Attorney General not later than 30 days after the date of service of notice under [section 4206(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4206/d/2&num=0&edition=prelim), and the Attorney General shall respond to the notification not later than 30 days after receipt.
 
-**(b) Contents of response** In response to a notification under subsection (a)(1) of this section, the Attorney General shall—
+**(b) Contents of response** In response to a notification under subsection (a)(1), the Attorney General shall—
 
-(1) grant a contract pursuant to subchapter III of this chapter; or
+(1) grant a contract pursuant to subchapter III; or
 
 (2) proceed with an action.
 
-**(c) Grant of contract** If the Attorney General decides to grant a contract, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute an action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III of this chapter.
+**(c) Grant of contract** If the Attorney General decides to grant a contract, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute an action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III.
 
 
 <a id="section-4208"></a>
@@ -251,7 +251,7 @@ The Attorney General may promulgate any rules, regulations, or guidelines that, 
 ## § 4221. Filing of confidential declarations by private persons identifying specific assets
 **(a) In general** After the United States obtains a final judgment or settlement in any action referred to in [section 4201 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4201), any person may file a declaration identifying specific assets which might be recovered by the United States in satisfaction of that judgment or settlement.
 
-**(b) Place of filing** A declaration under subsection (a) of this section shall be filed with the Attorney General of the United States or with an agent designated by him for receiving declarations under this section.
+**(b) Place of filing** A declaration under subsection (a) shall be filed with the Attorney General of the United States or with an agent designated by him for receiving declarations under this section.
 
 
 <a id="section-4222"></a>
@@ -280,7 +280,7 @@ A declaration filed pursuant to [section 4221 of this title](./chapter-043-actio
 
 (1) Notwithstanding any other law, the contents of a declaration shall not be disclosed by the declarant if the disclosure would prejudice or compromise in any way the completion of any government investigation or any criminal or civil case that may arise out of, or make use of, information contained in a declaration, but information contained in a declaration may be disclosed as required by duly issued and authorized legal process.
 
-(2) The Attorney General may in a circumstance described in paragraph (1) notify a declarant that continued confidentiality is required under this subsection notwithstanding paragraph (1) or (2) of subsection (a) of this section.
+(2) The Attorney General may in a circumstance described in paragraph (1) notify a declarant that continued confidentiality is required under this subsection notwithstanding paragraph (1) or (2) of subsection (a).
 
 **(c) Loss of rights** A declarant who discloses, except as provided by this subchapter, the existence or filing of a declaration or the contents thereof to anyone other than a duly authorized Federal or State investigator or the declarant’s attorney shall immediately lose all rights under this subchapter.
 
@@ -299,7 +299,7 @@ A declaration filed pursuant to [section 4221 of this title](./chapter-043-actio
 
 (5) the declaration identifies an asset or assets the nature, location, or possible recovery of which has been disclosed to a member of the public in a criminal, civil, or administrative proceeding, in a congressional, administrative, or Government Accountability Office report, hearing, audit or investigation, by any other government source, or by the news media, unless the person providing the declaration is the original source of the information.
 
-**(b) “Original source” defined** For the purposes of subsection (a)(5) of this section, the term “original source” means a person who has direct and independent knowledge of the information contained in the declaration and who voluntarily provided the information to the government prior to the disclosure.
+**(b) “Original source” defined** For the purposes of subsection (a)(5), the term “original source” means a person who has direct and independent knowledge of the information contained in the declaration and who voluntarily provided the information to the government prior to the disclosure.
 
 **(c) Notice of invalidity** If the Attorney General determines at any time that a declaration is invalid under this section, that a declaration fails to meet the requirements of [section 4222 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4222), or that a declaration has been disclosed in violation of [section 4223 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4223), the Attorney General shall notify the person who filed the declaration in writing that the declaration is invalid, and the declarant shall not enjoy any of the rights of the declarant listed in section 4225 or 4226 of this title.
 
@@ -313,7 +313,7 @@ A declaration filed pursuant to [section 4221 of this title](./chapter-043-actio
 ## § 4225. Rights of declarants; participation in actions, awards
 **(a) In general** A person who has filed a declaration that meets the requirements of sections 4221 through 4224 of this title shall have the rights stated in this section.
 
-**(b) Civil action** If the Attorney General determines that a proceeding to recover the asset or assets identified in the declaration should be referred to private counsel pursuant to subchapter III of this chapter, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III of this chapter.
+**(b) Civil action** If the Attorney General determines that a proceeding to recover the asset or assets identified in the declaration should be referred to private counsel pursuant to subchapter III, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III.
 
 **(c) Share of assets** When the United States recovers any asset or assets specifically identified in a valid declaration filed under [section 4221 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4221) and the Attorney General determines that the asset or assets would not have been recovered if the declaration had not been filed, the declarant shall have the right to share in the recovery in the amount of 20 percent to 30 percent of any recovery up to the first $1,000,000 recovered, 10 percent to 20 percent of the next $4,000,000 recovered, and 5 percent to 10 percent of the next $5,000,000 recovered.
 
@@ -349,7 +349,7 @@ A declaration filed pursuant to [section 4221 of this title](./chapter-043-actio
 
 **(d) Notice of pendency of investigation or proceeding**
 
-(1) Subject to paragraph (2), if the Attorney General has not provided the declarant with notice under subsection (b) of this section or a notice of invalidity pursuant to [section 4224 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4224) within 1 year after the date of filing of the declaration, the Attorney General shall notify the declarant in writing that—
+(1) Subject to paragraph (2), if the Attorney General has not provided the declarant with notice under subsection (b) or a notice of invalidity pursuant to [section 4224 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4224) within 1 year after the date of filing of the declaration, the Attorney General shall notify the declarant in writing that—
 
   (A) there is a pending investigation or proceeding in the course of which the declarant’s allegations are being addressed; or
 
@@ -369,17 +369,17 @@ A declaration filed pursuant to [section 4221 of this title](./chapter-043-actio
 ## § 4227. Unreviewed declarations; petition to pursue action as private contractor
 **(a) Notification**
 
-(1) If, pursuant to [section 4226(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4226/d/1/B&num=0&edition=prelim), the Attorney General notifies a declarant that the declarant’s allegations have not yet been addressed, the declarant may notify the Attorney General to award a contract pursuant to subchapter III of this chapter to pursue the case.
+(1) If, pursuant to [section 4226(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4226/d/1/B&num=0&edition=prelim), the Attorney General notifies a declarant that the declarant’s allegations have not yet been addressed, the declarant may notify the Attorney General to award a contract pursuant to subchapter III to pursue the case.
 
 (2) A declarant’s notification under paragraph (1) shall be filed with the Attorney General not later than 30 days after the date of service of notice under [section 4226(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4226/d/1/B&num=0&edition=prelim), and the Attorney General shall respond to the notification not later than 30 days after receipt.
 
-**(b) Contents of response** In response to a notification under subsection (a)(1) of this section, the Attorney General shall—
+**(b) Contents of response** In response to a notification under subsection (a)(1), the Attorney General shall—
 
-(1) grant a contract pursuant to subchapter III of this chapter; or
+(1) grant a contract pursuant to subchapter III; or
 
 (2) proceed with an action.
 
-**(c) Grant of contract** If the Attorney General decides to grant a contract, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute an action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III of this chapter.
+**(c) Grant of contract** If the Attorney General decides to grant a contract, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute an action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III.
 
 
 <a id="section-4228"></a>
@@ -409,9 +409,9 @@ The Attorney General may promulgate any rules, regulations, or guidelines that, 
 ## § 4241. Authority to enter into contracts for private counsel
 **(a) In general** The Attorney General may enter into contracts retaining private counsel to furnish legal services, including representation in investigation, negotiation, compromise, settlement, litigation, and execution of judgments in the case of any civil action referred to in [section 4201 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4201) or [section 4225 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4225).
 
-**(b) Terms and conditions** Each contract under subsection (a) of this section shall include the provisions described in [section 4244 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4244) and such other terms and conditions as the Attorney General considers necessary and appropriate to protect the interests of the United States.
+**(b) Terms and conditions** Each contract under subsection (a) shall include the provisions described in [section 4244 of this title](./chapter-043-actions-against-persons-committing-bank-fraud-crimes.md#section-4244) and such other terms and conditions as the Attorney General considers necessary and appropriate to protect the interests of the United States.
 
-**(c) Limitation of fee** The amount of the contingency fee payable for legal services furnished under a contract described in subsection (a) of this section shall not exceed the contingency fee that counsel engaged in the private practice of law in the jurisdiction wherein the legal services are furnished typically charge clients for furnishing the same or comparable legal services.
+**(c) Limitation of fee** The amount of the contingency fee payable for legal services furnished under a contract described in subsection (a) shall not exceed the contingency fee that counsel engaged in the private practice of law in the jurisdiction wherein the legal services are furnished typically charge clients for furnishing the same or comparable legal services.
 
 **(d) Contingent fees** Notwithstanding [section 3302(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302/b&num=0&edition=prelim), a contract under this section shall provide that a fee that the United States pays private counsel for services is payable from the amount recovered and shall be based on a percentage of the civil penalties or assets recovered.
 

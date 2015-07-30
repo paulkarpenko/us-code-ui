@@ -132,7 +132,7 @@ Pub. L. 100–77, title VI, § 603, July 22, 1987, 101 Stat. 515, directed Secre
 
 (1) **In general** — A homeless individual shall be eligible for assistance under any program provided by this chapter, only if the individual complies with the income eligibility requirements otherwise applicable to such program.
 
-(2) **Exception** — Notwithstanding paragraph (1), a homeless individual shall be eligible for assistance under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.].
+(2) **Exception** — Notwithstanding paragraph (1), a homeless individual shall be eligible for assistance under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.].
 
 **(d) Exclusion** For purposes of this chapter, the term “homeless” or “homeless individual” does not include any individual imprisoned or otherwise detained pursuant to an Act of the Congress or a State law.
 
@@ -140,13 +140,10 @@ Pub. L. 100–77, title VI, § 603, July 22, 1987, 101 Stat. 515, directed Secre
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)(2)
-Pub. L. 113–128, title V, §§ 506, 512(s), July 22, 2014, 128 Stat. 1703, 1712, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(2) of this section is amended by striking “a homeless individual shall be eligible for assistance under title I of the Workforce Investment Act of 1998” and inserting “a homeless individual shall be eligible for assistance under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
 #### References in Text
 This chapter, referred to in subsecs. (a), (c)(1), (d), and (e), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (c)(2). Pub. L. 113–128 substituted “a homeless individual shall be eligible for assistance under title I of the Workforce Innovation and Opportunity Act” for “a homeless individual shall be eligible for assistance under title I of the Workforce Investment Act of 1998”.
@@ -162,7 +159,7 @@ Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(41)], substituted “the Job
 Subsec. (b). Pub. L. 101–645 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A homeless individual shall be eligible for assistance under any program provided by this chapter, or by the amendments made by this Act, only if the individual complies with the income eligibility requirements otherwise applicable to such program.”
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–22, div. B, title V, § 1503, May 20, 2009, 123 Stat. 1702, provided that: “Except as specifically provided otherwise in this division [see Short Title of 2009 Amendment note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301)], this division and the amendments made by this division shall take effect on, and shall apply beginning on—“(1) the expiration of the 18-month period beginning on the date of the enactment of this division [May 20, 2009], or “(2) the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 [the first final regulations pursuant to section 1504 ([42 U.S.C. 11301](./chapter-119-homeless-assistance.md#section-11301) note) were published on Dec. 5, 2011, see 76 F.R. 75994], whichever occurs first.”
@@ -2882,9 +2879,7 @@ Section, Pub. L. 100–77, title VII, § 701, as added Pub. L. 103–382, title 
 A prior section 11421, Pub. L. 100–77, title VII, § 702, July 22, 1987, 101 Stat. 525; Pub. L. 100–297, title VI, § 6001, Apr. 28, 1988, 102 Stat. 423; Pub. L. 100–628, title VII, § 701, Nov. 7, 1988, 102 Stat. 3244; Pub. L. 101–645, title VI, § 611, Nov. 29, 1990, 104 Stat. 4734, related to State literacy initiatives, prior to the general amendment of this part by Pub. L. 103–382.
 
 #### Effective Date of Repeal
-Pub. L. 105–220, title I, § 199(c)(2)(A), Aug. 7, 1998, 112 Stat. 1059, provided that: “The repeal made by subsection (b)(1) [repealing sections 11421, 11461 to 11466, 11471, and 11472 of this title] shall take effect on July 1, 1999.”
-
-[Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 199(c)(2)(A) of Pub. L. 105–220, set out above, is repealed.]
+Pub. L. 105–220, title I, § 199(c)(2)(A), Aug. 7, 1998, 112 Stat. 1059, which provided that the repeal made by subsection (b)(1) (repealing sections 11421, 11461 to 11466, 11471, and 11472 of this title) would take effect on July 1, 1999, was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
 
 
 <a id="section-11431"></a>

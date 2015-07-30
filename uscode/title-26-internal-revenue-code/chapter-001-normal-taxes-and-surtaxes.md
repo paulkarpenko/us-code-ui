@@ -887,6 +887,11 @@ Pub. L. 89–809, title I, § 103(n), Nov. 13, 1966, 80 Stat. 1555, provided tha
 #### Effective Date of 1964 Amendment
 Pub. L. 88–272, title I, § 131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963.”
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–26, § 1, June 29, 2015, 129 Stat. 319, provided that: “This Act [see Tables for classification] may be cited as the ‘Defending Public Safety Employees’ Retirement Act’.”
+
+Pub. L. 114–14, § 1, May 22, 2015, 129 Stat. 198, provided that: “This Act [amending [section 104 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-104)] may be cited as the ‘Don’t Tax Our Fallen Public Safety Heroes Act’.”
+
 #### Short Title of 2014 Amendment
 Pub. L. 113–295, div. A, § 1(a), Dec. 19, 2014, 128 Stat. 4010, provided that: “This division [see Tables for classification] may be cited as the ‘Tax Increase Prevention Act of 2014’.”
 
@@ -2865,6 +2870,8 @@ Pub. L. 104–188, title I, § 1807(d), Aug. 20, 1996, 110 Stat. 1903, provided 
 
 (4) **Special rule for certain years** — In the case of any taxable year beginning after 2008 and before 2018, paragraph (1)(B)(i) shall be applied by substituting “$3,000” for “$10,000”.
 
+(5) **Exception for taxpayers excluding foreign earned income** — Paragraph (1) shall not apply to any taxpayer for any taxable year if such taxpayer elects to exclude any amount from gross income under section 911 for such taxable year.
+
 **(e) Identification requirement** No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year.
 
 **(f) Taxable year must be full taxable year** Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
@@ -2878,7 +2885,9 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 A prior section 24, added Pub. L. 92–178, title VII, § 701(a), Dec. 10, 1971, 85 Stat. 560, § 41; amended Pub. L. 93–625, §§ 11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, § 503(b)(4), title XIX, §§ 1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, § 113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, § 202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, title I, § 122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered § 24 and amended Pub. L. 98–369, div. A, title IV, §§ 471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§ 112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
-2014—Subsec. (d)(4). Pub. L. 113–295 amended par. (4) generally. Prior to amendment, text read as follows: “Notwithstanding paragraph (3), in the case of any taxable year beginning after 2008 and before 2018, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000.”
+2015—Subsec. (d)(5). Pub. L. 114–27 added par. (5).
+
+2014—Subsec. (d)(4). Pub. L. 113–295 amended par. (4) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As amended by Pub. L. 111–5, § 1003(a), par. (4) read as follows: “Special rule for 2009 and 2010.—Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000.” See 2009 Amendment and Effective Date of 2014 Amendment notes below.
 
 2013—Subsec. (b)(3). Pub. L. 112–240, § 104(c)(2)(B)(i), struck out par. (3). Prior to amendment, text read as follows: “In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of—
 
@@ -2890,11 +2899,11 @@ Subsec. (d)(1). Pub. L. 112–240, § 104(c)(2)(B)(ii)(II), substituted “secti
 
 Subsec. (d)(1)(A), (B). Pub. L. 112–240, § 104(c)(2)(B)(ii)(I), substituted “section 26(a)” for “section 26(a)(2) or subsection (b)(3), as the case may be,” in subpar. (A) and in introductory provisions in subpar. (B).
 
-Subsec. (d)(4). Pub. L. 112–240, § 103(b), substituted “for certain years” for “2009, 2010, 2011, and 2012” in heading and “after 2008 and before 2018” for “in 2009, 2010, 2011, or 2012” in text.
+Subsec. (d)(4). Pub. L. 112–240, § 103(b), which directed substitution of “for certain years” for “2009, 2010, 2011, and 2012” in heading and “after 2008 and before 2018” for “in 2009, 2010, 2011, or 2012” in text, could not be executed because of the subsequent general amendment of subsec. (d)(4) by Pub. L. 113–295, which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 2010—Subsec. (b)(3)(B). Pub. L. 111–148, § 10909(b)(2)(A), (c), as amended by Pub. L. 111–312, § 101(b)(1), temporarily struck out “23,” before “25A(i),”. See Effective and Termination Dates of 2010 Amendment note below.
 
-Subsec. (d)(4). Pub. L. 111–312, § 103(b), substituted “2009, 2010, 2011, and 2012” for “2009 and 2010” in heading and “, 2010, 2011, or 2012” for “or 2010” in text.
+Subsec. (d)(4). Pub. L. 111–312, § 103(b), which directed substitution of “2009, 2010, 2011, and 2012” for “2009 and 2010” in heading and “, 2010, 2011, or 2012” for “or 2010” in text, could not be executed because of the subsequent general amendment of subsec. (d)(4) by Pub. L. 113–295, which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 2009—Subsec. (b)(3)(B). Pub. L. 111–5, § 1144(b)(1)(A), inserted “30B,” after “30,”.
 
@@ -2902,7 +2911,7 @@ Pub. L. 111–5, § 1142(b)(1)(A), inserted “30,” after “25D,”.
 
 Pub. L. 111–5, § 1004(b)(1), inserted “25A(i),” after “23,”.
 
-Subsec. (d)(4). Pub. L. 111–5, § 1003(a), amended par. (4) generally. Prior to amendment, text read as follows: “Notwithstanding paragraph (3), in the case of any taxable year beginning in 2008, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $8,500.”
+Subsec. (d)(4). Pub. L. 111–5, § 1003(a), amended par. (4) generally. Prior to amendment, text read as follows: “Notwithstanding paragraph (3), in the case of any taxable year beginning in 2008, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $8,500.” Par. (4) was subsequently generally amended by Pub. L. 113–295, effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 2008—Subsec. (a). Pub. L. 110–351 inserted “for which the taxpayer is allowed a deduction under section 151” after “of the taxpayer”.
 
@@ -3023,6 +3032,9 @@ Subsec. (d)(3). Pub. L. 105–206, § 6003(a)(1)(A), (B), (2), redesignated par.
 Subsec. (d)(4). Pub. L. 105–206, § 6003(a)(1)(A), struck out heading and text of par. (4). Text read as follows: “If the amount of the credit under paragraph (1)(B) exceeds the amount of the credit under paragraph (1)(A), such excess shall be treated as a credit to which subpart C applies. The rule of section 32(h) shall apply to such excess.”
 
 Subsec. (d)(5). Pub. L. 105–206, § 6003(a)(1)(B), redesignated par. (5) as (3).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–27, title VIII, § 807(b), June 29, 2015, 129 Stat. 418, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2014.”
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–295, div. A, title II, § 209(k), Dec. 19, 2014, 128 Stat. 4031, provided that: “The amendments made by this section [amending this section, sections 25A, 30, 30D, 35, 38, 45Q, 48, 48C, 164, 853A, and 1016 of this title, and provisions set out as notes under sections 6428 and 6432 of this title] shall take effect as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 [Pub. L. 111–5, div. B, title I] to which they relate.”
@@ -3613,9 +3625,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 (3) **Treatment of expenses paid by dependent** — If a deduction under section 151 with respect to an individual is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual’s taxable year begins—
 
-  (A) no credit shall be allowed under subsection (a) to such individual for such individual’s taxable year, and
+  (A) no credit shall be allowed under subsection (a) to such individual for such individual’s taxable year,
 
-  (B) qualified tuition and related expenses paid by such individual during such individual’s taxable year shall be treated for purposes of this section as paid by such other taxpayer.
+  (B) qualified tuition and related expenses paid by such individual during such individual’s taxable year shall be treated for purposes of this section as paid by such other taxpayer, and
+
+  (C) a statement described in paragraph (8) and received by such individual shall be treated as received by the taxpayer.
 
 (4) **Treatment of certain prepayments** — If qualified tuition and related expenses are paid by the taxpayer during a taxable year for an academic period which begins during the first 3 months following such taxable year, such academic period shall be treated for purposes of this section as beginning during such taxable year.
 
@@ -3624,6 +3638,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 (6) **No credit for married individuals filing separate returns** — If the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
 
 (7) **Nonresident aliens** — If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
+
+(8) **Payee statement requirement** — Except as otherwise provided by the Secretary, no credit shall be allowed under this section unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
 
 **(h) Inflation adjustments**
 
@@ -3688,6 +3704,10 @@ The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 8
 Section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008, referred to in subsec. (i)(6), is section 702(a)(1)(B) of Pub. L. 110–343, div. C, title VII, Oct. 3, 2008, 122 Stat. 3912, which is not classified to the Code.
 
 #### Amendments
+Subsec. (g)(3)(C). Pub. L. 114–27, § 804(a)(2), added subpar. (C).
+
+Subsec. (g)(8). Pub. L. 114–27, § 804(a)(1), added par. (8).
+
 2014—Subsec. (i)(3). Pub. L. 113–295 substituted “For purposes of determining the Hope Scholarship Credit, subsection (f)(1)(A) shall be applied” for “Subsection (f)(1)(A) shall be applied”.
 
 2013—Subsec. (i). Pub. L. 112–240, § 103(a)(1), substituted “after 2008 and before 2018” for “in 2009, 2010, 2011, or 2012” in introductory provisions.
@@ -3705,6 +3725,9 @@ Subsec. (i)(5)(B). Pub. L. 111–148, § 10909(b)(2)(C), (c), as amended by Pub.
 “(1) In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
 
 “(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2).”
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–27, title VIII, § 804(d), June 29, 2015, 129 Stat. 416, provided that: “The amendments made by this section [amending this section and sections 222 and 6050S of this title] shall apply to taxable years beginning after the date of the enactment of this Act [June 29, 2015].”
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
@@ -4632,7 +4655,6 @@ Pub. L. 94–455, title X, § 1051(i), Oct. 4, 1976, 90 Stat. 1647, as amended b
 
 Section, added Pub. L. 102–486, title XIX, § 1913(b)(1), Oct. 24, 1992, 106 Stat. 3019; amended Pub. L. 104–188, title I, §§ 1205(d)(4), 1704(j)(4)(A), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 107–147, title VI, § 602(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, § 318(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–58, title XIII, § 1322(a)(3)(A), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 111–5, div. B, title I, § 1142(a), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title X, § 10909(b)(2)(F), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, § 101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, § 104(c)(2)(G), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 113–295, div. A, title II, § 209(f)(2), Dec. 19, 2014, 128 Stat. 4028, related to certain plug-in electric vehicles.
 
-#### Prior Provisions
 A prior section 30 was renumbered [section 41 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-41).
 
 #### Effective Date of Repeal
@@ -5119,7 +5141,7 @@ Subsecs. (i) to (k). Pub. L. 111–5, § 1143(a), added subsec. (i) and redesign
 Subsec. (h)(6). Pub. L. 109–135, § 402(j), inserted at end “For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
 
 #### Effective Date of 2014 Amendment
-Pub. L. 113–295, div. A, title II, § 218(c), Dec. 19, 2014, 128 Stat. 4035, provided that: “The amendments made by this section [amending this section and [section 30C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30c)] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 [title XIII of Pub. L. 109–58] to which it relates.”
+Pub. L. 113–295, div. A, title II, § 218(c), Dec. 19, 2014, 128 Stat. 4035, provided that: “The amendments made by this section [amending this section and [section 30C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30c)] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 [Pub. L. 109–58, title XIII] to which it relates.”
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
@@ -5263,7 +5285,7 @@ Subsec. (e)(2). Pub. L. 109–135, § 402(k), inserted at end “For purposes of
 #### Effective Date of 2014 Amendment
 Pub. L. 113–295, div. A, title I, § 161(b), Dec. 19, 2014, 128 Stat. 4023, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2013.”
 
-Amendment by section 218(b) of Pub. L. 113–295 effective as if included in the provision of the Energy Tax Incentives Act of 2005, title XIII of Pub. L. 109–58, to which such amendment relates, see section 218(c) of Pub. L. 113–295, set out as a note under [section 30B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30b).
+Amendment by section 218(b) of Pub. L. 113–295 effective as if included in the provision of the Energy Tax Incentives Act of 2005, Pub. L. 109–58, title XIII, to which such amendment relates, see section 218(c) of Pub. L. 113–295, set out as a note under [section 30B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30b).
 
 Amendment by section 221(a)(34)(B) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -5710,7 +5732,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 32 was renumbered [section 33 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-33).
 
 #### Amendments
-2014—Subsec. (b)(1). Pub. L. 113–295, § 221(a)(3)(A), struck out subpar. (A) designation, heading, and introductory provisions “In the case of taxable years beginning after 1995:” before the table and struck out subpars. (B) and (C) which related to transitional percentages for 1995 and transitional percentages for 1994, respectively, and realigned margins.
+2014—Subsec. (b)(1). Pub. L. 113–295, § 221(a)(3)(A), struck out subpar. (A) designation, heading “In general”, and introductory provisions “In the case of taxable years beginning after 1995:” before the table and struck out subpars. (B) and (C) which related to transitional percentages for 1995 and transitional percentages for 1994, respectively, and realigned margins.
 
 Subsec. (b)(2)(B). Pub. L. 113–295, § 221(a)(3)(B), substituted “increased by $3,000.” for “increased by—
 
@@ -6333,7 +6355,7 @@ Section applicable to taxable years beginning on or after July 1, 1965, see sect
 
     (iv) is not imprisoned under Federal, State, or local authority, and
 
-  (B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2014.
+  (B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2020.
 
 (2) **Joint returns** — In the case of a joint return, the requirements of paragraph (1)(A) shall be treated as met with respect to any month if at least 1 spouse satisfies such requirements.
 
@@ -6414,14 +6436,7 @@ Section applicable to taxable years beginning on or after July 1, 1965, see sect
 
   (I) Coverage under a group health plan that is available through the employment of the eligible individual’s spouse.
 
-  (J) In the case of any eligible individual and such individual’s qualifying family members, coverage under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for—
-
-    (i) in the case of an eligible TAA recipient, the allowance described in subsection (c)(2),
-
-    (ii) in the case of an eligible alternative TAA recipient, the benefit described in subsection (c)(3)(B), or
-
-    (iii) in the case of any eligible PBGC pension recipient, the benefit described in subsection (c)(4)(B).
-    For purposes of this subparagraph, the term “individual health insurance” means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
+  (J) In the case of any eligible individual and such individual’s qualifying family members, coverage under individual health insurance (other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act). For purposes of this subparagraph, the term “individual health insurance” means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
 
   (K) Coverage under an employee benefit plan funded by a voluntary employees’ beneficiary association (as defined in section 501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in [section 1114 of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1114&num=0&edition=prelim), United States Code.
 
@@ -6517,7 +6532,31 @@ Section applicable to taxable years beginning on or after July 1, 1965, see sect
 
     (ii) any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
 
-(11) **Regulations** — The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
+(11) **Election**
+
+  (A) *In general* — This section shall not apply to any taxpayer for any eligible coverage month unless such taxpayer elects the application of this section for such month.
+
+  (B) *Timing and applicability of election* — Except as the Secretary may provide—
+
+    (i) an election to have this section apply for any eligible coverage month in a taxable year shall be made not later than the due date (including extensions) for the return of tax for the taxable year; and
+
+    (ii) any election for this section to apply for an eligible coverage month shall apply for all subsequent eligible coverage months in the taxable year and, once made, shall be irrevocable with respect to such months.
+
+(12) **Coordination with premium tax credit**
+
+  (A) *In general* — An eligible coverage month to which the election under paragraph (11) applies shall not be treated as a coverage month (as defined in section 36B(c)(2)) for purposes of section 36B with respect to the taxpayer.
+
+  (B) *Coordination with advance payments of premium tax credit* — In the case of a taxpayer who makes the election under paragraph (11) with respect to any eligible coverage month in a taxable year or on behalf of whom any advance payment is made under section 7527 with respect to any month in such taxable year—
+
+    (i) the tax imposed by this chapter for the taxable year shall be increased by the excess, if any, of—
+
+      (I) the sum of any advance payments made on behalf of the taxpayer under section 1412 of the Patient Protection and Affordable Care Act and section 7527 for months during such taxable year, over
+
+      (II) the sum of the credits allowed under this section (determined without regard to paragraph (1)) and section 36B (determined without regard to subsection (f)(1) thereof) for such taxable year; and
+
+    (ii) section 36B(f)(2) shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments under section 7527 for any month in such taxable year and is later allowed a credit under section 36B for such taxable year, then section 36B(f)(2)(B) shall be applied by substituting the amount determined under clause (i) for the amount determined under section 36B(f)(2)(A).
+
+(13) **Regulations** — The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
 ### Statutory Notes
 
@@ -6532,6 +6571,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)
 
 Section 2744(c)(2) of the Public Health Service Act, referred to in subsec. (e)(1)(C), is classified to [section 300gg–44(c)(2) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–44/c/2&num=0&edition=prelim), The Public Health and Welfare.
 
+The Patient Protection and Affordable Care Act, referred to in subsecs. (e)(1)(J) and (g)(12)(B)(i)(I), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 1412 of the Act is classified to [section 18082 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18082&num=0&edition=prelim), The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18001&num=0&edition=prelim) and Tables.
+
 The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to [section 1396s of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396s&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009, referred to in subsec. (g)(9), is section 3001(a) of Pub. L. 111–5, div. B, title III, Feb. 17, 2009, 123 Stat. 455, which enacted sections 139C, 6432, and 6720C of this title, amended this section, and enacted provisions set out as a note under [section 6432 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6432).
@@ -6542,6 +6583,22 @@ A prior section 35 was renumbered [section 37 of this title](./chapter-001-norma
 Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 1958, Pub. L. 85–866, title I, § 41(b), 72 Stat. 1639; Feb. 26, 1964, Pub. L. 88–272, title II, § 201(d)(2), 78 Stat. 32, related to partially tax-exempt interest received by individuals, prior to repeal by Pub. L. 94–455, title XIX, § 1901(a)(2), Oct. 4, 1976, 90 Stat. 1764, effective with respect to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+2015—Subsec. (b)(1)(B). Pub. L. 114–27, § 407(a), substituted “before January 1, 2020” for “before January 1, 2014”.
+
+Subsec. (e)(1)(J). Pub. L. 114–27, § 407(d)(2), inserted “(other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act)” after “under individual health insurance”
+
+Pub. L. 114–27, § 407(d)(1), substituted “under individual health insurance. For purposes of” for “under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for—
+
+“(i) in the case of an eligible TAA recipient, the allowance described in subsection (c)(2),
+
+“(ii) in the case of an eligible alternative TAA recipient, the benefit described in subsection (c)(3)(B), or
+
+“(iii) in the case of any eligible PBGC pension recipient, the benefit described in subsection (c)(4)(B).
+
+For purposes of”.
+
+Subsec. (g)(11) to (13). Pub. L. 114–27, § 407(b), added pars. (11) and (12) and redesignated former par. (11) as (13).
+
 2014—Subsec. (g)(9) to (11). Pub. L. 113–295, § 209(j)(3), amended directory language of Pub. L. 111–5, § 3001(a)(14)(A). See 2009 Amendment notes below.
 
 2011—Subsec. (a). Pub. L. 112–40, § 241(b)(1), substituted “72.5 percent” for “65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)”.
@@ -6570,28 +6627,31 @@ Subsec. (c)(2). Pub. L. 111–5, § 1899C(a), amended par. (2) generally. Prior 
 
 Subsec. (e)(1)(K). Pub. L. 111–5, § 1899G(a), added subpar. (K).
 
-Subsec. (g)(9), (10). Pub. L. 111–5, § 3001(a)(14)(A), as amended by Pub. L. 113–295, § 209(j)(3), added par. (9) relating to COBRA premium assistance and redesignated former par. (9) relating to continued qualification of family members after certain events as (10). Former par. (10) relating to Regulations redesignated (11).
+Subsec. (g)(9), (10). Pub. L. 111–5, § 3001(a)(14)(A), as amended by Pub. L. 113–295, § 209(j)(3), added par. (9) relating to COBRA premium assistance and redesignated former par. (9) relating to continued qualification of family members after certain events as (10). Former par. (10) relating to regulations redesignated (11).
 
-Pub. L. 111–5, § 1899E(a), added par. (9) relating to continued qualification of family members after certain events and redesignated former par. (9) relating to Regulations as (10).
+Pub. L. 111–5, § 1899E(a), added par. (9) relating to continued qualification of family members after certain events and redesignated former par. (9) relating to regulations as (10).
 
-Subsec. (g)(11). Pub. L. 111–5, § 3001(a)(14)(A), as amended by Pub. L. 113–295, § 209(j)(3), redesignated par. (10) relating to Regulations as (11).
+Subsec. (g)(11). Pub. L. 111–5, § 3001(a)(14)(A), as amended by Pub. L. 113–295, § 209(j)(3), redesignated par. (10) relating to regulations as (11).
 
 2007—Subsec. (d)(2). Pub. L. 110–172 struck out “paragraph (2) or (4) of” before “section 152(e)” and substituted “(as defined in section 152(e)(4)(A))” for “(within the meaning of section 152(e)(1))”.
 
 2004—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a).”
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–27, title IV, § 407(f), June 29, 2015, 129 Stat. 382, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 6501 and 7527 of this title] shall apply to coverage months in taxable years beginning after December 31, 2013. “(2) Plans available on individual market for use of tax credit.—The amendment made by subsection (d)(2) [amending this section] shall apply to coverage months in taxable years beginning after December 31, 2015. “(3) Transition rule.—Notwithstanding section 35(g)(11)(B)(i) of the Internal Revenue Code of 1986 (as added by this title), an election to apply section 35 of such Code to an eligible coverage month (as defined in section 35(b) of such Code) (and not to claim the credit under section 36B of such Code with respect to such month) in a taxable year beginning after December 31, 2013, and before the date of the enactment of this Act [June 29, 2015]—“(A) may be made at any time on or after such date of enactment and before the expiration of the 3-year period of limitation prescribed in section 6511(a) with respect to such taxable year; and “(B) may be made on an amended return.”
+
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
 
 #### Effective Date of 2011 Amendment
-Pub. L. 112–40, title II, § 241(c), Oct. 21, 2011, 125 Stat. 419, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section, [section 7527 of this title](./chapter-077-miscellaneous-provisions.md#section-7527), and [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor] shall apply to coverage months beginning after February 12, 2011. “(2) Advance payment provisions.—“(A) The amendment made by subsection (b)(2)(B) [amending [section 7527 of this title](./chapter-077-miscellaneous-provisions.md#section-7527)] shall apply to certificates issued after the date which is 30 days after the date of the enactment of this Act [Oct. 21, 2011]. “(B) The amendment made by subsection (b)(2)(D) [amending [section 7527 of this title](./chapter-077-miscellaneous-provisions.md#section-7527)] shall apply to coverage months beginning after the date which is 30 days after the date of the enactment of this Act.”
+Pub. L. 112–40, title II, § 241(c), Oct. 21, 2011, 125 Stat. 419, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section, [section 7527 of this title](./chapter-077-miscellaneous-provisions.md#section-7527), and former [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor] shall apply to coverage months beginning after February 12, 2011. “(2) Advance payment provisions.—“(A) The amendment made by subsection (b)(2)(B) [amending [section 7527 of this title](./chapter-077-miscellaneous-provisions.md#section-7527)] shall apply to certificates issued after the date which is 30 days after the date of the enactment of this Act [Oct. 21, 2011]. “(B) The amendment made by subsection (b)(2)(D) [amending [section 7527 of this title](./chapter-077-miscellaneous-provisions.md#section-7527)] shall apply to coverage months beginning after the date which is 30 days after the date of the enactment of this Act.”
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–344, title I, § 111(c), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendments made by this section [amending this section and [section 7527 of this title](./chapter-077-miscellaneous-provisions.md#section-7527)] shall apply to coverage months beginning after December 31, 2010.”
 
 Pub. L. 111–344, title I, § 113(b), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendment made by this section [amending this section] shall apply to coverage months beginning after December 31, 2010.”
 
-Pub. L. 111–344, title I, § 115(c), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendments made by this section [amending this section and [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor] shall apply to months beginning after December 31, 2010.”
+Pub. L. 111–344, title I, § 115(c), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendments made by this section [amending this section and former [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor] shall apply to months beginning after December 31, 2010.”
 
 Pub. L. 111–344, title I, § 117(b), Dec. 29, 2010, 124 Stat. 3616, provided that: “The amendment made by this section [amending this section] shall apply to coverage months beginning after December 31, 2010.”
 
@@ -6604,7 +6664,7 @@ Pub. L. 111–5, div. B, title I, § 1899A(b), Feb. 17, 2009, 123 Stat. 424, pro
 
 Pub. L. 111–5, div. B, title I, § 1899C(b), Feb. 17, 2009, 123 Stat. 425, provided that: “The amendment made by this section [amending this section] shall apply to coverage months beginning after the date of the enactment of this Act [Feb. 17, 2009].”
 
-Pub. L. 111–5, div. B, title I, § 1899E(c), Feb. 17, 2009, 123 Stat. 428, provided that: “The amendments made by this section [amending this section and [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor] shall apply to months beginning after December 31, 2009.”
+Pub. L. 111–5, div. B, title I, § 1899E(c), Feb. 17, 2009, 123 Stat. 428, provided that: “The amendments made by this section [amending this section and former [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor] shall apply to months beginning after December 31, 2009.”
 
 Pub. L. 111–5, div. B, title I, § 1899G(b), Feb. 17, 2009, 123 Stat. 430, provided that: “The amendments made by this section [amending this section] shall apply to coverage months beginning after the date of the enactment of this Act [Feb. 17, 2009].”
 
@@ -6617,10 +6677,13 @@ Amendment by Pub. L. 108–311 effective as if included in section 1201 of Pub. 
 Pub. L. 107–210, div. A, title II, § 201(d), Aug. 6, 2002, 116 Stat. 960, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting this section and [section 300gg–45 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–45&num=0&edition=prelim), The Public Health and Welfare, amending [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), Money and Finance, and renumbering former [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35) as [section 36 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36)] shall apply to taxable years beginning after December 31, 2001. “(2) State high risk pools.—The amendment made by subsection (b) [enacting [section 300gg–45 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–45&num=0&edition=prelim)] shall take effect on the date of the enactment of this Act [Aug. 6, 2002].”
 
 #### Construction
-Nothing in title II of Pub. L. 107–210 or the amendments by that title, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor.
+Pub. L. 107–210, div. A, title II, § 203(f), Aug. 6, 2002, 116 Stat. 972, provided that: “Nothing in this title [enacting this section and sections 6050T and 7527 of this title, and [section 300gg–45 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–45&num=0&edition=prelim), The Public Health and Welfare, amending sections 4980B, 6103, 6724, and 7213A of this title, sections 1165, 2862, 2918, and 2919 of Title 29, Labor, [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), Money and Finance, and [section 300bb–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300bb–5&num=0&edition=prelim), renumbering former [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35) as [section 36 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36), and enacting provisions set out as notes under this section and [section 6050T of this title](./chapter-061-information-and-returns.md#section-6050t)] (or the amendments made by this title), other than provisions relating to COBRA continuation coverage and reporting requirements, shall be construed as creating any new mandate on any party regarding health insurance coverage.”
+
+#### Agency Outreach
+Pub. L. 114–27, title IV, § 407(g), June 29, 2015, 129 Stat. 383, provided that: “As soon as possible after the date of the enactment of this Act [June 29, 2015], the Secretaries of the Treasury, Health and Human Services, and Labor (or such Secretaries’ delegates) and the Director of the Pension Benefit Guaranty Corporation (or the Director’s delegate) shall carry out programs of public outreach, including on the Internet, to inform potential eligible individuals (as defined in section 35(c)(1) of the Internal Revenue Code of 1986) of the extension of the credit under section 35 of the Internal Revenue Code of 1986 and the availability of the election to claim such credit retroactively for coverage months beginning after December 31, 2013.”
 
 #### Survey and Report on Enhanced Health Coverage Tax Credit Program
-Pub. L. 111–5, div. B, title I, § 1899I, Feb. 17, 2009, 123 Stat. 431, provided that: “(a) Survey.—“(1) In general.—The Secretary of the Treasury shall conduct a biennial survey of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) relating to the health coverage tax credit under section 35 of the Internal Revenue Code of 1986 (hereinafter in this section referred to as the ‘health coverage tax credit’). “(2) Information obtained.—The survey conducted under subsection (a) shall obtain the following information:“(A) HCTC participants.—In the case of eligible individuals receiving the health coverage tax credit (including individuals participating in the health coverage tax credit program under section 7527 of such Code, hereinafter in this section referred to as the ‘HCTC program’)—“(i) demographic information of such individuals, including income and education levels, “(ii) satisfaction of such individuals with the enrollment process in the HCTC program, “(iii) satisfaction of such individuals with available health coverage options under the credit, including level of premiums, benefits, deductibles, cost-sharing requirements, and the adequacy of provider networks, and “(iv) any other information that the Secretary determines is appropriate. “(B) Non-HCTC participants.—In the case of eligible individuals not receiving the health coverage tax credit—“(i) demographic information of each individual, including income and education levels, “(ii) whether the individual was aware of the health coverage tax credit or the HCTC program, “(iii) the reasons the individual has not enrolled in the HCTC program, including whether such reasons include the burden of the process of enrollment and the affordability of coverage, “(iv) whether the individual has health insurance coverage, and, if so, the source of such coverage, and “(v) any other information that the Secretary determines is appropriate. “(3) Report.—Not later than December 31 of each year in which a survey is conducted under paragraph (1) (beginning in 2010), the Secretary of the Treasury shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor [now Committee on Education and the Workforce], and the Committee on Energy and Commerce of the House of Representatives the findings of the most recent survey conducted under paragraph (1). “(b) Report.—Not later than October 1 of each year (beginning in 2010), the Secretary of the Treasury (after consultation with the Secretary of Health and Human Services, and, in the case of the information required under paragraph (7), the Secretary of Labor) shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor [now Committee on Education and the Workforce], and the Committee on Energy and Commerce of the House of Representatives the following information with respect to the most recent taxable year ending before such date:“(1) In each State and nationally—“(A) the total number of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) and the number of eligible individuals receiving the health coverage tax credit, “(B) the total number of such eligible individuals who receive an advance payment of the health coverage tax credit through the HCTC program, “(C) the average length of the time period of the participation of eligible individuals in the HCTC program, and “(D) the total number of participating eligible individuals in the HCTC program who are enrolled in each category of coverage as described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in section 35(c)(1) of such Code. “(2) In each State and nationally, an analysis of—“(A) the range of monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit, and “(B) the average and median monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit, with respect to each category of coverage as described in section 35(e)(1) of such Code. “(3) In each State and nationally, an analysis of the following information with respect to the health insurance coverage of individuals receiving the health coverage tax credit who are enrolled in coverage described in subparagraphs (B) through (H) of section 35(e)(1) of such Code:“(A) Deductible amounts. “(B) Other out-of-pocket cost-sharing amounts. “(C) A description of any annual or lifetime limits on coverage or any other significant limits on coverage services, or benefits. The information required under this paragraph shall be reported with respect to each category of coverage described in such subparagraphs. “(4) In each State and nationally, the gender and average age of eligible individuals (as defined in section 35(c) of such Code) who receive the health coverage tax credit, in each category of coverage described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in such section. “(5) The steps taken by the Secretary of the Treasury to increase the participation rates in the HCTC program among eligible individuals, including outreach and enrollment activities. “(6) The cost of administering the HCTC program by function, including the cost of subcontractors, and recommendations on ways to reduce administrative costs, including recommended statutory changes. “(7) The number of States applying for and receiving national emergency grants under section 173(f) of the Workforce Investment Act of 1998 ([29 U.S.C. 2918(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918/f&num=0&edition=prelim)), the activities funded by such grants on a State-by-State basis, and the time necessary for application approval of such grants.”
+Pub. L. 111–5, div. B, title I, § 1899I, Feb. 17, 2009, 123 Stat. 431, provided that: “(a) Survey.—“(1) In general.—The Secretary of the Treasury shall conduct a biennial survey of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) relating to the health coverage tax credit under section 35 of the Internal Revenue Code of 1986 (hereinafter in this section referred to as the ‘health coverage tax credit’). “(2) Information obtained.—The survey conducted under subsection (a) shall obtain the following information:“(A) HCTC participants.—In the case of eligible individuals receiving the health coverage tax credit (including individuals participating in the health coverage tax credit program under section 7527 of such Code, hereinafter in this section referred to as the ‘HCTC program’)—“(i) demographic information of such individuals, including income and education levels, “(ii) satisfaction of such individuals with the enrollment process in the HCTC program, “(iii) satisfaction of such individuals with available health coverage options under the credit, including level of premiums, benefits, deductibles, cost-sharing requirements, and the adequacy of provider networks, and “(iv) any other information that the Secretary determines is appropriate. “(B) Non-HCTC participants.—In the case of eligible individuals not receiving the health coverage tax credit—“(i) demographic information of each individual, including income and education levels, “(ii) whether the individual was aware of the health coverage tax credit or the HCTC program, “(iii) the reasons the individual has not enrolled in the HCTC program, including whether such reasons include the burden of the process of enrollment and the affordability of coverage, “(iv) whether the individual has health insurance coverage, and, if so, the source of such coverage, and “(v) any other information that the Secretary determines is appropriate. “(3) Report.—Not later than December 31 of each year in which a survey is conducted under paragraph (1) (beginning in 2010), the Secretary of the Treasury shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor [now Committee on Education and the Workforce], and the Committee on Energy and Commerce of the House of Representatives the findings of the most recent survey conducted under paragraph (1). “(b) Report.—Not later than October 1 of each year (beginning in 2010), the Secretary of the Treasury (after consultation with the Secretary of Health and Human Services, and, in the case of the information required under paragraph (7), the Secretary of Labor) shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor [now Committee on Education and the Workforce], and the Committee on Energy and Commerce of the House of Representatives the following information with respect to the most recent taxable year ending before such date:“(1) In each State and nationally—“(A) the total number of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) and the number of eligible individuals receiving the health coverage tax credit, “(B) the total number of such eligible individuals who receive an advance payment of the health coverage tax credit through the HCTC program, “(C) the average length of the time period of the participation of eligible individuals in the HCTC program, and “(D) the total number of participating eligible individuals in the HCTC program who are enrolled in each category of coverage as described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in section 35(c)(1) of such Code. “(2) In each State and nationally, an analysis of—“(A) the range of monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit, and “(B) the average and median monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit, with respect to each category of coverage as described in section 35(e)(1) of such Code. “(3) In each State and nationally, an analysis of the following information with respect to the health insurance coverage of individuals receiving the health coverage tax credit who are enrolled in coverage described in subparagraphs (B) through (H) of section 35(e)(1) of such Code:“(A) Deductible amounts. “(B) Other out-of-pocket cost-sharing amounts. “(C) A description of any annual or lifetime limits on coverage or any other significant limits on coverage services, or benefits. The information required under this paragraph shall be reported with respect to each category of coverage described in such subparagraphs. “(4) In each State and nationally, the gender and average age of eligible individuals (as defined in section 35(c) of such Code) who receive the health coverage tax credit, in each category of coverage described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in such section. “(5) The steps taken by the Secretary of the Treasury to increase the participation rates in the HCTC program among eligible individuals, including outreach and enrollment activities. “(6) The cost of administering the HCTC program by function, including the cost of subcontractors, and recommendations on ways to reduce administrative costs, including recommended statutory changes. “(7) The number of States applying for and receiving national emergency grants under [former] section 173(f) of the Workforce Investment Act of 1998 ([former] [29 U.S.C. 2918(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918/f&num=0&edition=prelim)), the activities funded by such grants on a State-by-State basis, and the time necessary for application approval of such grants.”
 
 
 <a id="section-36"></a>
@@ -10585,7 +10648,7 @@ The date of the enactment of this clause, referred to in subsec. (i)(3)(B)(iii)(
 
 The Social Security Act, referred to in subsec. (i)(3)(D)(i)(I), (II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title IV of the Act is classified generally to subchapter IV (§ 601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts B and E of title IV of the Act are classified generally to parts B (§ 620 et seq.) and E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (i)(3)(D)(i)(III), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Job Training Partnership Act, referred to in subsec. (i)(3)(D)(i)(III), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3101) and Tables.
 
 Section 1602 of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (i)(9)(A), is section 1602 of Pub. L. 111–5, which is set out as a note below.
 
@@ -20056,7 +20119,7 @@ Subsec. (g)(4)(B)(iii). Pub. L. 110–289 added cl. (iii).
 
 2007—Subsec. (g)(4)(C)(ii)(I). Pub. L. 110–172, § 11(g)(1), substituted “921 (as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “921”.
 
-Subsec. (g)(4)(C)(iv). Pub. L. 110–172, § 11(g)(2), which purported to amend subsec. (g)(4)(C)(iv) of this section, but directed the amendment of [section 54(g)(4)(C)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section54/g/4/C/iv&num=0&edition=prelim), by substituting “an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products” for “a cooperative described in section 927(a)(4)”, was not executed in light of the identical amendment made by Pub. L. 113–295, § 215(b), effective as if included in Pub. L. 110–172.
+Subsec. (g)(4)(C)(iv). Pub. L. 110–172, § 11(g)(2), which purported to amend subsec. (g)(4)(C)(iv) of this section, but directed the amendment of [section 54(g)(4)(C)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section54/g/4/C/iv&num=0&edition=prelim), by substituting “an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products” for “a cooperative described in section 927(a)(4)”, was not executed in light of the identical amendment made by Pub. L. 113–295, § 215(b), effective as if included in Pub. L. 110–172. See 2014 Amendment note above.
 
 2006—Subsec. (c)(2). Pub. L. 109–304, in introductory provisions, substituted “chapter 535 of title 46, United States Code” for “section 607 of the Merchant Marine Act, 1936 ([46 U.S.C. 1177](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1177&num=0&edition=prelim))”, and, in subpars. (A) and (B), substituted “such chapter 535” for “such section 607”.
 
@@ -22808,7 +22871,7 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
     (i) paragraph (1) does not apply to a distribution by reason of paragraph (2)(A)(iv), and
 
-    (ii) the series of payments under such paragraph are subsequently modified (other than by reason of death or disability)—
+    (ii) the series of payments under such paragraph are subsequently modified (other than by reason of death or disability or a distribution to which paragraph (10) applies)—
 
       (I) before the close of the 5-year period beginning with the date of the first payment and after the employee attains age 59½, or
 
@@ -22872,9 +22935,13 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
 (10) **Distributions to qualified public safety employees in governmental plans**
 
-  (A) *In general* — In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)) which is a defined benefit plan, paragraph (2)(A)(v) shall be applied by substituting “age 50” for “age 55”.
+  (A) *In general* — In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)), paragraph (2)(A)(v) shall be applied by substituting “age 50” for “age 55”.
 
-  (B) *Qualified public safety employee* — For purposes of this paragraph, the term “qualified public safety employee” means any employee of a State or political subdivision of a State who provides police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision.
+  (B) *Qualified public safety employee* — For purposes of this paragraph, the term “qualified public safety employee” means—
+
+    (i) any employee of a State or political subdivision of a State who provides police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision, or
+
+    (ii) any Federal law enforcement officer described in section 8331(20) or 8401(17) of title 5, United States Code, any Federal customs and border protection officer described in section 8331(31) or 8401(36) of such title, any Federal firefighter described in section 8331(21) or 8401(14) of such title, or any air traffic controller described in 8331(30) or 8401(35) of such title.
 
 **(u) Treatment of annuity contracts not held by natural persons**
 
@@ -22968,6 +23035,12 @@ The date of the enactment of this subparagraph, referred to in subsec. (t)(2)(G)
 Section 1034 (as in effect on the day before the date of the enactment of this paragraph), referred to in subsec. (t)(8)(D)(i)(II), means [section 1034 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1034) as in effect on the day before Aug. 5, 1997. Section 1034 was repealed by Pub. L. 105–34, title III, § 312(b), Aug. 5, 1997, 111 Stat. 839.
 
 #### Amendments
+2015—Subsec. (t)(4)(A)(ii). Pub. L. 114–26, § 2(c), inserted “or a distribution to which paragraph (10) applies” after “other than by reason of death or disability” in introductory provisions.
+
+Subsec. (t)(10)(A). Pub. L. 114–26, § 2(b), struck out “which is a defined benefit plan” after “section 414(d))”.
+
+Subsec. (t)(10)(B). Pub. L. 114–26, § 2(a), substituted “means—” for “means”, designated remainder of existing provisions as cl. (i), and added cl. (ii).
+
 2014—Subsec. (c)(4). Pub. L. 113–295, § 221(a)(14)(A), struck out “; except that if such date was before January 1, 1954, then the annuity starting date is January 1, 1954” before period at end.
 
 Subsec. (g)(3). Pub. L. 113–295, § 221(a)(14)(B), struck out “January 1, 1954, or” before “the first day”.
@@ -23361,6 +23434,9 @@ Subsec. (n)(3). Pub. L. 89–44 substituted “sections 31 and 39” for “sect
 Subsec. (f). Pub. L. 87–834 inserted sentence providing that par. (2) shall not apply to amounts which were contributed by the employer after Dec. 31, 1962, and which would not have been includible in the gross income of the employee by reason of the application of Section 911 if such amounts had been paid directly to the employee at the time of contribution, and making such sentence inapplicable to amounts which were contributed by the employer, as determined under regulations, to provide pension or annuity credits, to the extent such credits are attributable to services performed before Jan. 1, 1963, and are provided pursuant to pension or annuity plan provisions in existence on Mar. 12, 1962, and on that date applicable to such services.
 
 Subsecs. (m) to (o). Pub. L. 87–792, § 4(b), added subsecs. (m) and (n) and redesignated former subsec. (m) as (o).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–26, § 2(d), June 29, 2015, 129 Stat. 319, provided that: “The amendments made by this section [amending this section] shall apply to distributions after December 31, 2015.”
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -25344,9 +25420,16 @@ Repeal applicable to bonds issued after Aug. 15, 1986, except as otherwise provi
 
 (3) amounts received through accident or health insurance (or through an arrangement having the effect of accident or health insurance) for personal injuries or sickness (other than amounts received by an employee, to the extent such amounts (A) are attributable to contributions by the employer which were not includible in the gross income of the employee, or (B) are paid by the employer);
 
-(4) amounts received as a pension, annuity, or similar allowance for personal injuries or sickness resulting from active service in the armed forces of any country or in the Coast and Geodetic Survey or the Public Health Service, or as a disability annuity payable under the provisions of section 808 of the Foreign Service Act of 1980; and
+(4) amounts received as a pension, annuity, or similar allowance for personal injuries or sickness resulting from active service in the armed forces of any country or in the Coast and Geodetic Survey or the Public Health Service, or as a disability annuity payable under the provisions of section 808 of the Foreign Service Act of 1980;
 
-(5) amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)).
+(5) amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)); and
+
+(6) amounts received pursuant to—
+
+  (A) section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796&num=0&edition=prelim)); or
+
+  (B) a program established under the laws of any State which provides monetary compensation for surviving dependents of a public safety officer who has died as the direct and proximate result of a personal injury sustained in the line of duty,
+  except that subparagraph (B) shall not apply to any amounts that would have been payable if death of the public safety officer had occurred other than as the direct and proximate result of a personal injury sustained in the line of duty.
 For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
 
 **(b) Termination of application of subsection (a)(4) in certain cases**
@@ -25397,6 +25480,8 @@ This subsection shall cease to apply to any civil action filed on or after the f
 Section 808 of the Foreign Service Act of 1980, referred to in subsec. (a)(4), is Pub. L. 96–465, title I, § 808, Oct. 17, 1980, 94 Stat. 2110, which is classified to [section 4048 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4048&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2015—Subsec. (a)(6). Pub. L. 114–14 added par. (6).
+
 2002—Subsec. (a)(5). Pub. L. 107–134 substituted “a terroristic or military action (as defined in section 692(c)(2)).” for “a violent attack which the Secretary of State determines to be a terrorist attack and which occurred while such individual was an employee of the United States engaged in the performance of his official duties outside the United States.”
 
 1996—Subsec. (a). Pub. L. 104–188, § 1605(b), in closing provisions, substituted “For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.” for “Paragraph (2) shall not apply to any punitive damages in connection with a case not involving physical injury or physical sickness.”
@@ -36461,6 +36546,7 @@ For provision that, for purposes of amendments by section 231(b) of Pub. L. 97�
 (3) State and local, and foreign, income, war profits, and excess profits taxes.
 
 (4) The GST tax imposed on income distributions.
+In addition, there shall be allowed as a deduction State and local, and foreign, taxes not described in the preceding sentence which are paid or accrued within the taxable year in carrying on a trade or business or an activity described in section 212 (relating to expenses for production of income). Notwithstanding the preceding sentence, any tax (not described in the first sentence of this subsection) which is paid or accrued by the taxpayer in connection with an acquisition or disposition of property shall be treated as part of the cost of the acquired property or, in the case of a disposition, as a reduction in the amount realized on the disposition.
 
 **(b) Definitions and special rules** For purposes of this section—
 
@@ -36943,7 +37029,7 @@ Subsec. (h)(3). Pub. L. 113–295, § 221(a)(27)(A), redesignated par. (4) as (3
 
 Subsec. (h)(3)(B). Pub. L. 113–295, § 221(a)(27)(B), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
 
-Subsec. (h)(4), (5). Pub. L. 113–295, § 221(a)(27)(A), redesignated pars. (4) and (5) as (3) and (4), respectively.
+Subsec. (h)(4), (5). Pub. L. 113–295, § 221(a)(27)(A), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
 Subsec. (i)(1). Pub. L. 113–295, § 221(a)(27)(C)(i), struck out “(as defined by clause (ii) of subsection (h)(3)(C))” after “disaster area” and “(as defined by clause (i) of such subsection)” after “federally declared disaster”.
 
@@ -43974,7 +44060,7 @@ Subsec. (f). Pub. L. 110–343, § 502(a), substituted “December 31, 2009” f
 
 2005—Subsec. (d)(2). Pub. L. 109–135 struck out “For purposes of a television series, only the first 44 episodes of such series may be taken into account.” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-#### Effective Dates of 2014 Amendment
+#### Effective Date of 2014 Amendment
 Pub. L. 113–295, div. A, title I, § 129(b), Dec. 19, 2014, 128 Stat. 4018, provided that: “The amendment made by this section [amending this section] shall apply to productions commencing after December 31, 2013.”
 
 #### Effective Date of 2013 Amendment
@@ -46207,7 +46293,7 @@ A prior section 219 was renumbered [section 224 of this title](./chapter-001-nor
 
 Subsec. (b)(5)(B)(ii). Pub. L. 113–295, § 221(a)(38)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) listed applicable amounts for taxable years 2002 to 2006 and thereafter.
 
-Subsec. (b)(5)(C), (D). Pub. L. 113–295, § 221(a)(38)(C), redesignated subpar. (D) as (C) and struck out former subsec. (C) which related to catchup contributions for certain individuals for taxable years beginning before Dec. 31, 2009.
+Subsec. (b)(5)(C), (D). Pub. L. 113–295, § 221(a)(38)(C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which related to catchup contributions for certain individuals for taxable years beginning before Dec. 31, 2009.
 
 Subsec. (f)(4). Pub. L. 113–295, § 221(a)(39)(A), struck out par. (4). Text read as follows: “The Secretary shall prescribe regulations which prescribe the time and the manner in which reports to the Secretary and plan participants shall be made by the plan administrator of a qualified employer or government plan receiving qualified voluntary employee contributions.”
 
@@ -47311,7 +47397,13 @@ Section applicable to any qualified education loan (as defined in subsec. (e)(1)
 
 (5) **Nonresident aliens** — If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
 
-(6) **Regulations** — The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring recordkeeping and information reporting.
+(6) **Payee statement requirement**
+
+  (A) *In general* — Except as otherwise provided by the Secretary, no deduction shall be allowed under subsection (a) unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
+
+  (B) *Statement received by dependent* — The receipt of the statement referred to in subparagraph (A) by an individual described in subsection (c)(3) shall be treated for purposes of subparagraph (A) as received by the taxpayer.
+
+(7) **Regulations** — The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring recordkeeping and information reporting.
 
 **(e) Termination** This section shall not apply to taxable years beginning after December 31, 2014.
 
@@ -47323,6 +47415,8 @@ A prior section 222 was renumbered [section 224 of this title](./chapter-001-nor
 Another prior section 222, added Pub. L. 97–34, title I, § 125(a), Aug. 13, 1981, 95 Stat. 201; amended Pub. L. 97–448, title I, § 101(f), Jan. 12, 1983, 96 Stat. 2367, related to deduction of adoption expenses, prior to repeal by Pub. L. 99–514, title I, §§ 135(a), 151(a), Oct. 22, 1986, 100 Stat. 2116, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
+2015—Subsec. (d)(6), (7). Pub. L. 114–27 added par. (6) and redesignated former par. (6) as (7).
+
 2014—Subsec. (e). Pub. L. 113–295 substituted “December 31, 2014” for “December 31, 2013”.
 
 2013—Subsec. (e). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
@@ -47336,6 +47430,9 @@ Another prior section 222, added Pub. L. 97–34, title I, § 125(a), Aug. 13, 1
 Subsec. (e). Pub. L. 109–432, § 101(a), substituted “2007” for “2005”.
 
 2004—Subsec. (b)(2)(C)(i). Pub. L. 108–357 inserted “199,” before “911”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–27 applicable to taxable years beginning after June 29, 2015, see section 804(d) of Pub. L. 114–27, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–295, div. A, title I, § 107(b), Dec. 19, 2014, 128 Stat. 4013, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2013.”
@@ -47843,7 +47940,7 @@ Section 1562, referred to in subsec. (b)(1)(B)(i), was repealed by Pub. L. 91–
 
 “(B) subsections (a)(3) and (b)(2) of section 244,
 
-“shall be applied by substituting ‘80 percent’ for ‘70 percent’.”
+shall be applied by substituting ‘80 percent’ for ‘70 percent’.”
 
 Subsec. (d)(4). Pub. L. 113–295, § 221(a)(41)(D), struck out par. (4) which read as follows: “Any dividend received which is described in section 244 (relating to dividends received on preferred stock of a public utility) shall not be treated as a dividend.”
 
@@ -47906,9 +48003,9 @@ Subsec. (d). Pub. L. 86–779, § 3(a), added subsec. (d).
 Subsecs. (b), (c). Pub. L. 85–866, § 57(b)(2), (3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted “subsections (a) and (b)” for “subsection (a)”.
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
@@ -47974,9 +48071,9 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 Section, Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 88–272, title II, § 214(b)(1), Feb. 26, 1964, 78 Stat. 55; Pub. L. 95–600, title III, § 301(b)(3), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 99–514, title VI, § 611(a)(2), Oct. 22, 1986, 100 Stat. 2249; Pub. L. 100–203, title X, § 10221(a)(2), Dec. 22, 1987, 101 Stat. 1330–408; Pub. L. 100–647, title II, § 2004(i)(2), Nov. 10, 1988, 102 Stat. 3603, allowed to corporations as a deduction a percentage of the amount received as dividends on the preferred stock of a public utility.
 
 #### Effective Date of Repeal
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Repeal not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 
 <a id="section-245"></a>
@@ -48309,9 +48406,9 @@ Subsec. (d). Pub. L. 91–172, § 434(b)(1), added subsec. (d).
 Subsec. (c). Pub. L. 85–866, § 18(a), added subsec. (c).
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
 
-Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section (a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 ([15 U.S.C. 79](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section79&num=0&edition=prelim) et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
@@ -48389,7 +48486,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 **(b) Section not to apply to dividends for which 100 percent dividends received deduction allowable** Subsection (a) shall not apply to—
 
-(1) qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4) 11 See References in Text note below.), and
+(1) qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4)),11 See References in Text note below. and
 
 (2) dividends received by a small business investment company operating under the Small Business Investment Act of 1958.
 
@@ -48472,9 +48569,9 @@ Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)
 Subsec. (a)(1). Pub. L. 99–514, § 611(a)(4), substituted “80 percent” for “85 percent”.
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -48502,9 +48599,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 Section, Aug. 16, 1954, ch. 736, 68A Stat. 75; Pub. L. 94–455, title XIX, § 1901(a)(35), Oct. 4, 1976, 90 Stat. 1770; Pub. L. 95–600, title III, § 301(b)(4), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 101–508, title XI, § 11801(c)(8)(C), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 104–188, title I, § 1704(t)(49), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 109–135, title IV, § 402(a)(5), Dec. 21, 2005, 119 Stat. 2610, allowed to public utilities as a deduction a percentage of the amount of the lesser of dividends paid during the taxable year on its preferred stock or taxable income for the taxable year under certain conditions.
 
 #### Effective Date of Repeal
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Repeal not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under this section as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 
 <a id="section-248"></a>
@@ -48563,7 +48660,7 @@ Amendment by section 1906(b)(13)(A) of Pub. L. 94–455 effective Feb. 1, 1977, 
 #### Amendments
 2014—Subsec. (a). Pub. L. 113–295, § 220(i), substituted “1563(a)(1))” for “1563(a)(1)”.
 
-Subsec. (b). Pub. L. 113–295, § 221(a)(43), which directed amendment of subsec. (b)(1) by striking out “, in the case of bonds or other evidences of indebtedness issued after February 28, 1913,” after “repurchase, or”, was executed by making the amendment in subsec. (b) to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 113–295, § 221(a)(43), which directed amendment of subsec. (b)(1) by striking out “, in the case of bonds or other evidences of indebtedness issued after February 28, 1913,” after “repurchase, or”, was executed by making the amendment in subsec. (b) to reflect the probable intent of Congress and the prior amendment by Pub. L. 112–95, § 1108(b). See 2012 Amendment note below.
 
 2012—Subsec. (a). Pub. L. 112–95, § 1108(a), substituted “, or a corporation in the same parent-subsidiary controlled group (within the meaning of section 1563(a)(1) as” for “, or a corporation in control of, or controlled by,”.
 
@@ -48641,7 +48738,7 @@ Pub. L. 100–647, title V, § 5073(b), Nov. 10, 1988, 102 Stat. 3682, provided 
 
   (G) expenditures for which a deduction is allowed under section 179; 1
 
-  (H) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(34)(D), Dec. 19, 2014, 128 Stat. 4042]
+  (H) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(34)(D), Dec. 19, 2014, 128 Stat. 4042.]
 
   (I) expenditures for which a deduction is allowed under section 179B,
 
@@ -48820,9 +48917,9 @@ Subsec. (d). Pub. L. 89–243, § 4(p)(2), added subsec. (d).
 1960—Subsec. (a)(1)(D). Pub. L. 86–779 added subpar. (D).
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by section 221(a)(41)(G) of Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–432 applicable to costs paid or incurred after Dec. 20, 2006, see section 404(c) of Pub. L. 109–432, set out as an Effective Date note under [section 179E of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-179e).
@@ -50535,7 +50632,7 @@ Section 16 of the Securities Exchange Act of 1934, referred to in subsec. (e)(2)
 Section 212(a)(1)(A) of the Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(6)(B), is classified to [section 2702(a)(1)(A) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2702/a/1/A&num=0&edition=prelim), Customs Duties.
 
 #### Amendments
-2014—Subsec. (n)(3). Pub. L. 113–295 struck out “(A) In general” before “In the case”, substituted “substituting ‘80 percent’ for” for “substituting ‘the applicable percentage’ for”, and struck out subpar. (B) which listed the applicable percentage for taxable years 1998 to 2008 or thereafter.
+2014—Subsec. (n)(3). Pub. L. 113–295 struck out subpar. (A) designation and heading, substituted “substituting ‘80 percent’ for” for “substituting ‘the applicable percentage’ for”, and struck out subpar. (B) which listed the applicable percentage for taxable years 1998 to 2008 or thereafter.
 
 2005—Subsec. (e)(2)(B)(ii). Pub. L. 109–135, § 403(mm)(1), (2), inserted “or a related party to the taxpayer” after “with respect to the taxpayer” in subcl. (I), “(or such related party)” after “the taxpayer” in subcl. (II), and “For purposes of this clause, a person is a related party with respect to another person if such person bears a relationship to such other person described in section 267(b) or 707(b).” at end.
 
@@ -50948,9 +51045,9 @@ The Commodity Exchange Act, referred to in subsec. (b)(3), is act Sept. 21, 1922
 1976—Subsec. (a). Pub. L. 94–568 provided that the deductions provided by sections 243, 244, and 245 (relating to dividends received by corporations) shall not be allowed to any organization to which this section applies for the taxable year.
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1986 Amendment
 Pub. L. 99–514, title XVI, § 1604(b), Oct. 22, 1986, 100 Stat. 2769, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 1986].”
@@ -51084,7 +51181,7 @@ Subsec. (b). Pub. L. 113–295, § 221(a)(47)(A)(ii), struck out “after Octobe
 
 Subsec. (d)(5). Pub. L. 113–295, § 221(a)(47)(A)(iii), struck out “after October 9, 1969, and” after “some time”.
 
-Subsecs. (i), (j). Pub. L. 113–295, § 221(a)(47)(A)(iv), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
+Subsecs. (i), (j). Pub. L. 113–295, § 221(a)(47)(A)(iv), redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text of subsec. (i) read as follows: “For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
 
 “(1) stock or assets pursuant to a binding written contract which was in effect on October 9, 1969, and at all times thereafter before such acquisition, or
 
@@ -51095,9 +51192,9 @@ Subsecs. (i), (j). Pub. L. 113–295, § 221(a)(47)(A)(iv), redesignated subsec.
 Subsec. (i). Pub. L. 94–514 struck out provisions that par. (2) would cease to apply when (at any time on or after October 9, 1969) the issuing corporation has acquired control (as defined in section 368(c)) of the acquired corporation.
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Pub. L. 113–295, div. A, title II, § 221(a)(47)(B), Dec. 19, 2014, 128 Stat. 4045, provided that: “The amendments made by this paragraph [amending this section] shall not— “(i) apply to obligations issued on or before October 9, 1969 (determined in the same manner as under section 279 of the Internal Revenue Code of 1986 as in effect before such amendments), and “(ii) be construed to require interest on obligations issued on or before December 31, 1967, to be taken into account under section 279(a)(2) of such Code (as in effect after such amendments).”
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1976 Amendment
 Pub. L. 94–514, § 1(b), Oct. 15, 1976, 90 Stat. 2443, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years ending after October 9, 1969. If refund or credit of any overpayment of income tax resulting from the amendment made by subsection (a) [amending this section] is prevented on the date of the enactment of this Act [Oct. 15, 1976], or at any time within one year after such date, by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed within one year from such date.”
@@ -52672,9 +52769,9 @@ Subsec. (d)(3). Pub. L. 87–834, § 5(b), added par. (3).
 Subsecs. (f), (g). Pub. L. 87–403 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -53127,7 +53224,7 @@ Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (b)
 #### Amendments
 2014—Subsec. (b)(3)(D). Pub. L. 113–295, § 221(a)(48)(B), struck out “and special rule” after “Definitions” in heading.
 
-Subsec. (b)(3)(D)(iii). Pub. L. 113–295, § 221(a)(48)(A), struck out cl. (iii) which read as follows: “In the case of a BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply.”
+Subsec. (b)(3)(D)(iii). Pub. L. 113–295, § 221(a)(48)(A), struck out cl. (iii). Text read as follows: “In the case of a BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply.”
 
 2010—Subsec. (b)(5)(B), (C). Pub. L. 111–226 added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -56202,9 +56299,9 @@ then the basis shall be the same as it would be in the hands of the transferor, 
 ### Statutory Notes
 
 #### Amendments
-2014—Subsec. (a). Pub. L. 113–295, § 221(a)(51), struck out “on or after June 22, 1954” after “If property was acquired” in introductory provisions.
+2014—Subsec. (a). Pub. L. 113–295 struck out “on or after June 22, 1954” after “If property was acquired” in introductory provisions.
 
-Subsec. (c)(1)(A), (2)(A). Pub. L. 113–295, § 221(a)(51), struck out “, on or after June 22, 1954,” after “by a corporation”.
+Subsec. (c)(1)(A), (2)(A). Pub. L. 113–295 struck out “, on or after June 22, 1954,” after “by a corporation”.
 
 2005—Subsec. (e)(2)(C)(ii). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An election under clause (i) shall be included with the return of tax for the taxable year in which the transaction occurred, shall be in such form and manner as the Secretary may prescribe, and, once made, shall be irrevocable.”
 
@@ -58707,7 +58804,7 @@ then such trust shall be considered as having constituted a qualified trust unde
 
       (II) is a district organized under the laws of a State as a municipal corporation for the purpose of irrigation, water conservation, or drainage, and
 
-    (v) an organization which is a national association of organizations described in clause (i), (ii),,55 So in original. (iii), or (iv).
+    (v) an organization which is a national association of organizations described in clause (i), (ii),,3 (iii), or (iv).
 
   (C) *Special rule for certain distributions* — A rural cooperative plan which includes a qualified cash or deferred arrangement shall not be treated as violating the requirements of section 401(a) or of paragraph (2) merely by reason of a hardship distribution or a distribution to a participant after attainment of age 59½. For purposes of this section, the term “hardship distribution” means a distribution described in paragraph (2)(B)(i)(IV) (without regard to the limitation of its application to profit-sharing or stock bonus plans).
 
@@ -65160,7 +65257,7 @@ if the withdrawn amounts were not matched by employee contributions or were in e
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
 #### References in Text
-Section 41, referred to in subsecs. (b)(1)(A), (4), (g), (i)(1)(A), (m), and (p), which related to employee stock ownership credit, was repealed by Pub. L. 99–514, title XI, § 1171(a), Oct. 22, 1986, 100 Stat. 2513. [Section 30 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30), relating to credit for increasing research activities, was renumbered section 41.
+Section 41, referred to in subsecs. (b)(1)(A), (4), (g), (i)(1)(A), and (m), which related to employee stock ownership credit, was repealed by Pub. L. 99–514, title XI, § 1171(a), Oct. 22, 1986, 100 Stat. 2513. [Section 30 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30), relating to credit for increasing research activities, was renumbered section 41.
 
 Section 12 of the Securities Exchange Act of 1934, referred to in subsec. (e)(4), is classified to section 78l of Title 15, Commerce and Trade.
 
@@ -65168,9 +65265,7 @@ Section 403(c)(1) of the Employee Retirement Income Security Act of 1974, referr
 
 The enactment of the Tax Reform Act of 1984, referred to in subsecs. (g) and (k), means the enactment of div. A of Pub. L. 98–369, which was approved July 18, 1984.
 
-Subsec. (n) of section 48, referred to in subsecs. (g), (m), and (p)(1), was repealed by section 474(o)(15) of Pub. L. 98–369.
-
-Section 6699, referred to in subsec. (p)(2), was repealed by Pub. L. 99–514, title XI, § 1171(b)(7)(A), Oct. 22, 1986, 100 Stat. 2513.
+Subsec. (n) of section 48, referred to in subsecs. (g) and (m), was repealed by section 474(o)(15) of Pub. L. 98–369.
 
 #### Prior Provisions
 A prior section 409, added Pub. L. 93–406, title II, § 2002(c), Sept. 2, 1974, 88 Stat. 964; amended Pub. L. 94–455, title XV, § 1501(b)(6), title XIX, §§ 1901(a)(60), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1774, 1834; Pub. L. 95–600, title I, §§ 156(c)(2), (3), 157(e)(1)(B), Nov. 6, 1978, 92 Stat. 2803, 2806; Pub. L. 96–222, title I, § 101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, § 311(g)(1)(D), (3), Aug. 13, 1981, 95 Stat. 281; Pub. L. 97–248, title II, § 243(b)(1)(B), title III, § 335(a)(2), Sept. 3, 1982, 96 Stat. 523, 628; Pub. L. 97–452, § 2(c)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–369, div. A, title I, § 42(a)(7), title V, § 522(d)(13), July 18, 1984, 98 Stat. 557, 871, related to retirement bonds, prior to repeal by Pub. L. 98–369, div. A, title IV, § 491(b), (f)(1), July 18, 1984, 98 Stat. 848, 853, applicable to obligations issued after Dec. 31, 1983.
@@ -65992,7 +66087,7 @@ For provisions directing that if any amendments made by section 9203(a)(2) of Pu
 
   (F) *Reduction and suspension of benefits by a multiemployer plan* — A participant’s right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because—
 
-    (i) the plan is amended to reduce benefits under section 418D11 See References in Text note below. or under section 4281 of the Employee Retirement Income Security Act of 1974, or
+    (i) the plan is amended to reduce benefits under section 418D 11 See References in Text note below. or under section 4281 of the Employee Retirement Income Security Act of 1974, or
 
     (ii) benefit payments under the plan may be suspended under section 418E or under section 4281 of the Employee Retirement Income Security Act of 1974.
 
@@ -68340,7 +68435,7 @@ The regulations prescribed under subsection (n) shall include provisions to mini
 
     (iv) whose primary exempt purpose is to provide services with respect to children.
 
-(2) **Aggregation** — All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph (B) and (C) of paragraph (1).
+(2) **Aggregation** — All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph 66 So in original. (B) and 6 (C) of paragraph (1).
 
 (3) **Election**
 
@@ -70445,7 +70540,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 “(i) section 430(h)(2)(D)”
 
-and “described in such section.” for “described in such section,” and struck out cls. (ii) and (iii) which applied [section 430(h)(2)(G)(i)(II) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430/h/2/G/i/II&num=0&edition=prelim) by substituting “section 417(e)(3)(A)(ii)(II)” for “section 412(b)(5)(B)(ii)(II)” and listed the applicable percentage under section 430(h)(2)(G) for fiscal years 2008 to 2011.
+and “described in such section.” for “described in such section,” and struck out cls. (ii) and (iii) which applied [section 430(h)(2)(G)(i)(II) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430/h/2/G/i/II&num=0&edition=prelim) by substituting “section 417(e)(3)(A)(ii)(II)” for “section 412(b)(5)(B)(ii)(II)” and listed the applicable percentage under section 430(h)(2)(G) for plan years beginning in 2008 to 2011.
 
 2012—Subsec. (e)(3)(C), (D). Pub. L. 112–141 substituted “section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof)” for “section 430(h)(2)(C)”.
 
@@ -70565,7 +70660,7 @@ Section 418, added Pub. L. 96–364, title II, § 202(a), Sept. 26, 1980, 94 Sta
 
 Section 418A, added Pub. L. 96–364, title II, § 202(a), Sept. 26, 1980, 94 Stat. 1274, related to notice of reorganization and funding requirements.
 
-Section 418B, added Pub. L. 96–364, title II, § 202(a), Sept. 26, 1980, 94 Stat. 1274, related to Minimum contribution requirement.
+Section 418B, added Pub. L. 96–364, title II, § 202(a), Sept. 26, 1980, 94 Stat. 1274, related to minimum contribution requirement.
 
 Section 418C, added Pub. L. 96–364, title II, § 202(a), Sept. 26, 1980, 94 Stat. 1278, related to overburden credit against minimum contribution requirement.
 
@@ -70645,7 +70740,7 @@ Pub. L. 113–235, div. O, title I, § 108(c), Dec. 16, 2014, 128 Stat. 2789, pr
 
 (1) **Impending insolvency** — If the plan sponsor of a plan in critical status, as described in subsection 1 432(b)(2), determines under subsection (d)(1) or (2) that the plan may become insolvent (within the meaning of subsection (b)(1)), the plan sponsor shall—
 
-  (A) notify the Secretary, the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 of that determination, and
+  (A) notify the Secretary,33 So in original. The comma probably should be “and”. the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 of that determination, and
 
   (B) inform the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
 
@@ -72474,7 +72569,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
       (I) *In general* — If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
 
-      (II) *Applicable minimum percentage; applicable maximum percentage* — For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is:Theapplicable minimum percentage is:Theapplicable maximum percentage is: 2012, 2013, 2014, 2015, 2016, or 201790%110% 201885%115% 201980%120% 202075%125% After 202070%130%.
+      (II) *Applicable minimum percentage; applicable maximum percentage* — For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is:Theapplicable minimum percentage is:Theapplicable maximum percentage is: 2012, 2013, 2014, 2015, 2016, or 201790%110% 201885%115% 201980%120% 202075%125% After 202070%130%
 
   (D) *Corporate bond yield curve* — For purposes of this paragraph—
 
@@ -72778,11 +72873,11 @@ Section 417(e)(3)(D)(i), referred to in subsec. (h)(2)(F), was redesignated subs
 The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2014—Subsec. (c)(5). Pub. L. 113–295, § 221(a)(57)(C)(i), struck out subsec. (A) designation and heading and subsec. (B) which related to a transition rule for plan years beginning after 2007 and before 2011.
+2014—Subsec. (c)(5). Pub. L. 113–295, § 221(a)(57)(C)(i), struck out subpar. (A) designation and heading and subpar. (B) which related to a transition rule for plan years beginning after 2007 and before 2011.
 
 Subsec. (h)(2)(B)(i). Pub. L. 113–159, § 2003(d)(1), substituted “the valuation date for the plan year” for “the first day of the plan year”.
 
-Subsec. (h)(2)(C)(iv)(II). Pub. L. 113–159, § 2003(a), amended table generally. Prior to amendment, table related applicable minimum and maximum percentages for calendar years 2012 to 2015 and after.
+Subsec. (h)(2)(C)(iv)(II). Pub. L. 113–159, § 2003(a), amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for calendar years 2012 to 2015 and after.
 
 Subsec. (h)(2)(G). Pub. L. 113–295, § 221(a)(57)(D)(i), struck out subpar. (G) which related to a transition rule for plan years beginning in 2008 or 2009.
 
@@ -73178,7 +73273,7 @@ Pub. L. 109–280, title IV, § 402, Aug. 17, 2006, 120 Stat. 922, as amended by
 ### Statutory Notes
 
 #### References in Text
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(7)(A) to (D), (8)(B)(ii)(II), and (d)(3)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§ 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 302, 4001, 4222, 4223, and 4243 of the Act are classified to sections 1082, 1301, 1402, 1403, and 1423, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(7)(A) to (D), (8)(B)(ii)(II) and (d)(3)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§ 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 302, 4001, 4222, 4223, and 4243 of the Act are classified to sections 1082, 1301, 1402, 1403, and 1423, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 The date of the enactment of the Pension Protection Act of 2006, referred to in subsec. (b)(2)(D), (E), (3)(D), (4), (7)(E), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
@@ -73187,9 +73282,9 @@ The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act
 #### Amendments
 2014—Subsec. (a). Pub. L. 113–235, § 108(b)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to accumulated funding deficiency of multiemployer plan.
 
-Subsec. (d)(1)(C). Pub. L. 113–295, § 171(a), which directed amendment of subpar. (C) by substituting “December 31, 2015” for “December 31, 2014”, could not be executed because of previous repeal of subpar. (C) by Pub. L. 113–235, § 101(b)(2). See below.
+Subsec. (d)(1)(C). Pub. L. 113–295, which directed amendment of subpar. (C) by substituting “December 31, 2015” for “December 31, 2014”, could not be executed because of previous repeal of subpar. (C) by Pub. L. 113–235, § 101(b)(2). See below.
 
-Pub. L. 113–235, § 101(b)(2), struck out heading and text of subpar. (C). Text read as follows: “The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.”
+Pub. L. 113–235, § 101(b)(2), struck out subpar. (C). Text read as follows: “The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.”
 
 2010—Subsec. (b)(8). Pub. L. 111–192 added par. (8).
 
@@ -73484,7 +73579,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
     (iii) *Duration of schedule* — A schedule of contribution rates provided by the plan sponsor and relied upon by bargaining parties in negotiating a collective bargaining agreement shall remain in effect for the duration of that collective bargaining agreement.
 
-  (C) *Imposition of schedule where failure to adopt rehabilitation plan.—*
+  (C) *Imposition of schedule where failure to adopt rehabilitation plan*
 
     (i) *Initial contribution schedule* — If—
 
@@ -73955,7 +74050,7 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 
 The enactment of the Pension Protection Act of 2006, referred to in subsec. (e)(4)(B)(i)(II), means the enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
-The date of enactment of the Multiemployer Pension Reform Act of 2014, referred to in subsec. (e)(9)(D)(vii)(III), is the date of enactment of Pub. L. 113–235, which was approved Dec. 16, 2014.
+The date of enactment of the Multiemployer Pension Reform Act of 2014, referred to in subsec. (e)(9)(D)(vii)(III), is the date of enactment of div. O of Pub. L. 113–235, which was approved Dec. 16, 2014.
 
 Section 230 of the Social Security Act, referred to in subsec. (e)(9)(H)(v)(III)(bb), is classified to [section 430 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section430&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -74010,9 +74105,9 @@ Subsec. (e)(9). Pub. L. 113–235, § 201(b)(5), added par. (9).
 
 Pub. L. 113–235, § 109(b)(1), struck out par. (9) which related to adjustments disregarded in withdrawal liability determination.
 
-Subsec. (f)(3). Pub. L. 113–235, § 109(b)(2)(B), which directed the substitution of “During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—” for “During the rehabilitation plan adoption period—” in par. (4), was executed by making the substitution in par. (3) to reflect the probable intent of Congress.
+Subsec. (f)(3). Pub. L. 113–235, § 109(b)(2)(B), which directed amendment of par. (4) as redesignated by section 109(b)(2)(A) of Pub. L. 113–235 by substituting “During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—” for “During the rehabilitation plan adoption period—”, was executed by making the substitution in par. (3) as redesignated, to reflect the probable intent of Congress. See below.
 
-Pub. L. 113–235, § 109(b)(2)(A), redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows “Any benefit reductions under this subsection shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under section 4201 of the Employee Retirement Income Security Act of 1974.”
+Pub. L. 113–235, § 109(b)(2)(A), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows “Any benefit reductions under this subsection shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under section 4201 of the Employee Retirement Income Security Act of 1974.”
 
 Subsec. (f)(4). Pub. L. 113–235, § 109(b)(2)(A), redesignated par. (4) as (3).
 
@@ -74020,7 +74115,7 @@ Subsec. (g). Pub. L. 113–235, § 109(b)(4), added subsec. (g). Former subsec. 
 
 Subsec. (g)(1). Pub. L. 113–235, § 201(b)(6), inserted “, or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)), unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status,” after “benefit reductions under subsection (e)(8) or (f)”.
 
-Subsecs. (h) to (j). Pub. L. 113–235, § 109(b)(3), redesignated subsecs. (g), (h), and (i) as (h), (i), and (j), respectively.
+Subsecs. (h) to (j). Pub. L. 113–235, § 109(b)(3), redesignated subsecs. (g) to (i) as (h) to (j), respectively.
 
 2008—Subsec. (b)(3)(C). Pub. L. 110–458, § 102(b)(2)(A), substituted “section 101(b)(1)” for “section 101(b)(4)”.
 
@@ -74306,7 +74401,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
   (A) *Payable in 4 installments* — There shall be 4 required installments for each plan year.
 
-  (B) *Time for payment of installments* — In the case of the following required installments: The due date is: 1stApril 15 2ndJuly 15 3rdOctober 15 4thJanuary 15 of the following year.
+  (B) *Time for payment of installments* — In the case of the following required installments:The due date is: 1stApril 15 2ndJuly 15 3rdOctober 15 4thJanuary 15 of the following year.
 
 (4) **Amount of required installment** — For purposes of this subsection—
 
@@ -74430,7 +74525,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
   (A) *In general* — In the case of a participant to whom this paragraph applies, only the applicable percentage of the years of service before such individual became a participant shall be taken into account in computing the current liability of the plan.
 
-  (B) *Applicable percentage* — For purposes of this subparagraph, the applicable percentage shall be determined as follows: If the years of participation are: The applicable percentage is: 120 240 360 480 5 or more100.
+  (B) *Applicable percentage* — For purposes of this subparagraph, the applicable percentage shall be determined as follows: If the years of participation are:The applicable percentage is: 120 240 360 480 5 or more100.
 
   (C) *Participants to whom paragraph applies* — This subparagraph shall apply to any participant who, at the time of becoming a participant—
 
@@ -74490,7 +74585,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 ### Statutory Notes
 
 #### References in Text
-Section 412 (as in effect on the day before the enactment of the Pension Protection Act of 2006), referred to in subsecs. (b)(2)(E), (c)(2)(B), (5)(A), and (f)(5)(B), means [section 412 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-412) as in effect on the day before the enactment of Pub. L. 109–280. Section 111(a) of Pub. L. 109–280 generally amended section 412.
+Section 412 (as in effect on the day before the enactment of the Pension Protection Act of 2006), referred to in subsecs. (b)(2)(E), (c)(2)(B), (5)(A), and (f)(5)(B), means [section 412 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-412) as in effect on the day before the enactment of Pub. L. 109–280, which was approved Aug. 17, 2006. Section 111(a) of Pub. L. 109–280 generally amended section 412.
 
 Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6), is section 104 of Pub. L. 109–280, which is set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
@@ -74660,13 +74755,13 @@ Section 412 of the Employee Retirement Income Security Act of 1974, referred to 
 
 Subsec. (d)(2). Pub. L. 113–159, § 2003(c)(1), substituted “of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv))” for “of such plan”.
 
-Subsec. (j)(3). Pub. L. 113–295, § 221(a)(57)(F)(i), struck out par. (3) which related to a special rule for plan years beginning on or after October 1, 2008, and before October 1, 2010.
+Subsec. (j)(3). Pub. L. 113–295, § 221(a)(57)(F)(i), struck out par. (3) which related to a special rule for plan years beginning on or after Oct. 1, 2008, and before Oct. 1, 2010.
 
-Pub. L. 113–295, § 221(a)(57)(E)(i), in par. (3) relating to application to plans which are fully funded without regard to reductions for funding balances, struck out (A) designation and heading and struck out subpars. (B) and (C) which related to a transition rule for plan years beginning after 2007 and before 2011 and a limitation for plan years beginning after 2008, respectively.
+Pub. L. 113–295, § 221(a)(57)(E)(i), in par. (3) relating to application to plans which are fully funded without regard to reductions for funding balances, struck out subpar. (A) designation and heading and struck out subpars. (B) and (C) which related to a transition rule for plan years beginning after 2007 and before 2011 and a limitation for plan years beginning after 2008, respectively.
 
-Subsec. (m). Pub. L. 113–295, § 221(a)(57)(G)(i), struck out subsec. (m) which read as follows: “For purposes of this section, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.”
+Subsec. (m). Pub. L. 113–295, § 221(a)(57)(G)(i), struck out subsec. (m). Text read as follows: “For purposes of this section, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.”
 
-2010—Subsec. (j)(3). Pub. L. 111–192 added par. (3) relating to special rule for certain years.
+2010—Subsec. (j)(3). Pub. L. 111–192 added par. (3) relating to a special rule for plan years beginning on or after Oct. 1, 2008, and before Oct. 1, 2010.
 
 2008—Subsec. (b)(2). Pub. L. 110–458, § 101(c)(2)(A), substituted “section 430” for “section 303” in introductory provisions and “an adjusted funding” for “a funding” in subpar. (B).
 
@@ -78116,7 +78211,7 @@ Pub. L. 100–203, title X, § 10201(c)(2), Dec. 22, 1987, 101 Stat. 1330–388,
 
     (ii) who has a principal occupation of farming, or
 
-    (iii) who is a member of the family (within the meaning of subsection (c)(2)(E) 11 See References in Text note below.) of a taxpayer described in clause (i) or (ii).
+    (iii) who is a member of the family (within the meaning of subsection (c)(2)(E)) 11 See References in Text note below. of a taxpayer described in clause (i) or (ii).
 
 (3) **Definitions** — For purposes of this subsection—
 
@@ -78131,7 +78226,7 @@ Pub. L. 100–203, title X, § 10201(c)(2), Dec. 22, 1987, 101 Stat. 1330–388,
 ### Statutory Notes
 
 #### References in Text
-Subsection (c), referred to in subsec. (d)(2)(B)(iii), was transferred to [section 461(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section461/j&num=0&edition=prelim) by Pub. L. 113–295, div. A, title II, § 221(a)(58)(C)(i), Dec. 19, 2014, 128 Stat. 4047.
+Subsection (c), referred to in subsec. (d)(2)(B)(iii), which defined “farming syndicate”, was transferred to [section 461 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-461) and redesignated as subsec. (j) by Pub. L. 113–295, div. A, title II, § 221(a)(58)(B)(i), Dec. 19, 2014, 128 Stat. 4047.
 
 #### Amendments
 2014—Subsecs. (a), (b). Pub. L. 113–295, § 221(a)(58)(A), substituted “any taxpayer to whom subsection (d) applies” for “any farming syndicate (as defined in subsection (c))” in subsec. (a) and in introductory provisions of subsec. (b).
@@ -78140,15 +78235,15 @@ Subsec. (c). Pub. L. 113–295, § 221(a)(58)(C)(i), redesignated subsec. (d) as
 
 Pub. L. 113–295, § 221(a)(58)(B)(i), transferred subsec. (c) defining the term “farming syndicate” to [section 461 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-461).
 
-Subsec. (d). Pub. L. 113–295, § 221(a)(58)(D), struck out “Subsections (a) and (b) to apply to” before “certain persons” in heading, struck out par. (1), and redesignated pars. (2) to (4) as (1) to (3), respectively. Prior to amendment, par. (1) read as follows: “In the case of a taxpayer to whom this subsection applies, subsections (a) and (b) shall apply to the excess prepaid farm supplies of such taxpayer in the same manner as if such taxpayer were a farming syndicate.”
+Subsec. (d). Pub. L. 113–295, § 221(a)(58)(D), struck out “Subsections (a) and (b) to apply to” before “Certain persons” in heading, redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “In the case of a taxpayer to whom this subsection applies, subsections (a) and (b) shall apply to the excess prepaid farm supplies of such taxpayer in the same manner as if such taxpayer were a farming syndicate.”
 
-Pub. L. 113–295, § 221(a)(58)(C)(i), redesignated subsec. (f) as (d). Former subsec. (d) redesignated as (c).
+Pub. L. 113–295, § 221(a)(58)(C)(i), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 113–295, § 221(a)(58)(C), added subsec. (e) and struck out former subsec. (e) which defined the terms “farming” and “limited entrepreneur” for purposes of this section..
+Subsec. (e). Pub. L. 113–295, § 221(a)(58)(C), added subsec. (e) and struck out former subsec. (e) which defined the terms “farming” and “limited entrepreneur” for purposes of this section.
 
 Subsec. (f). Pub. L. 113–295, § 221(a)(58)(C)(i), redesignated subsec. (f) as (d).
 
-Subsec. (g). Pub. L. 113–295, § 221(a)(58)(C)(i), struck out subsec. (g) which read as follows: “Except as provided in subsection (f), subsections (a) and (b) shall not apply to any taxable year beginning after December 31, 1986.”
+Subsec. (g). Pub. L. 113–295, § 221(a)(58)(C)(i), struck out subsec. (g). Text read as follows: “Except as provided in subsection (f), subsections (a) and (b) shall not apply to any taxable year beginning after December 31, 1986.”
 
 1997—Subsec. (f)(3)(B)(i). Pub. L. 105–34 substituted “section 121” for “section 1034”.
 
@@ -79554,7 +79649,7 @@ Pub. L. 99–514, title XVIII, § 1807(a)(7)(D), Oct. 22, 1986, 100 Stat. 2816, 
 #### Amendments
 2014—Subsec. (e)(4). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,” after “section 243”.
 
-Subsec. (m). Pub. L. 113–295, § 221(a)(60)(A), struck out subsec. (m) which related to a phase-in of disallowance of losses and credits for interest held before date of enactment.
+Subsec. (m). Pub. L. 113–295, § 221(a)(60)(A), struck out subsec. (m) which related to a phase-in of disallowance of losses and credits for interest held before the date of enactment of the Tax Reform Act of 1986.
 
 2004—Subsec. (i)(3)(F)(iii). Pub. L. 108–357, § 102(d)(5), inserted “199,” before “219,”.
 
@@ -79683,9 +79778,9 @@ For purposes of this subparagraph, the deduction equivalent (within the meaning 
 1987—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by section 221(a)(41)(G) of Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2004 Amendment
 Amendment by section 102(d)(5) of Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under [section 56 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56).
@@ -80857,7 +80952,7 @@ Provisions, respecting treatment of debt instruments received in exchange for pr
 
   (C) no part of the net earnings of which inures to the benefit of any private shareholder or individual.
 
-(20) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii), Dec. 19, 2014, 128 Stat. 4040]
+(20) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii), Dec. 19, 2014, 128 Stat. 4040.]
 
 (21)
 
@@ -81497,7 +81592,7 @@ The date of the enactment of this subsection, referred to in subsec. (q)(2)(B)(i
 #### Amendments
 2014—Subsec. (c)(20). Pub. L. 113–295, § 221(a)(19)(B)(iii), struck out par. (20) which read as follows: “an organization or trust created or organized in the United States, the exclusive function of which is to form part of a qualified group legal services plan or plans, within the meaning of section 120. An organization or trust which receives contributions because of section 120(c)(5)(C) shall not be prevented from qualifying as an organization described in this paragraph merely because it provides legal services or indemnification against the cost of legal services unassociated with a qualified group legal services plan.”
 
-Subsec. (s). Pub. L. 113–295, § 221(a)(62), struck out subsec. (s) which read as follows: “For nonexemption of Communist-controlled organizations, see section 11(b) of the Internal Security Act of 1950 (64 Stat. 997; [50 U.S.C. 790(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section790/b&num=0&edition=prelim)).”
+Subsec. (s). Pub. L. 113–295, § 221(a)(62), struck out subsec. (s). Text read as follows: “For nonexemption of Communist-controlled organizations, see section 11(b) of the Internal Security Act of 1950 (64 Stat. 997; [50 U.S.C. 790(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section790/b&num=0&edition=prelim)).”
 
 2010—Subsec. (c)(9). Pub. L. 111–152 inserted at end “For purposes of providing for the payment of sick and accident benefits to members of such an association and their dependents, the term ‘dependent’ shall include any individual who is a child (as defined in section 152(f)(1)) of a member who as of the end of the calendar year has not attained age 27.”
 
@@ -82023,9 +82118,9 @@ For purposes of paragraph (2), the term “trustee” means, with respect to any
 
 “(C) An organization described in section 501(c)(18) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1969.”
 
-Subsec. (a)(2). Pub. L. 113–295, § 221(a)(63)(B), which directed amendment of par. (2) by substituting “described in paragraph (1)” for “described in section 501(c)(17) or (18) or paragraph (a)(1)(B)” was executed by making the substitution for “described in section 501(c) (17) or (18) or paragraph (1)(B)” to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 113–295, § 221(a)(63)(B), which directed amendment of par. (2) by substituting “described in paragraph (1)” for “described in section 501(c)(17) or (18) or paragraph (a)(1)(B)”, was executed by making the substitution for “described in section 501(c) (17) or (18) or paragraph (1)(B)” to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 113–295, § 221(a)(63)(C), which directed amendment of subsec. (c) by substituting “described in subsection (a)(1)” for “described in section 501(c)(17) or (18) or subsection (a)(1)(B)” was executed by making the substitution for “described in section 501(c) (17) or (18) or subsection (a)(1)(B)” to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 113–295, § 221(a)(63)(C), which directed amendment of subsec. (c) by substituting “described in subsection (a)(1)” for “described in section 501(c)(17) or (18) or subsection (a)(1)(B)”, was executed by making the substitution for “described in section 501(c) (17) or (18) or subsection (a)(1)(B)” to reflect the probable intent of Congress.
 
 1990—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) “Special rule for loans” which read as follows: “For purposes of the application of subsection (b)(1), in the case of a loan by a trust described in section 401(a), the following rules shall apply with respect to a loan made before March 1, 1954, which would constitute a prohibited transaction if made on or after March 1, 1954:
 
@@ -82189,7 +82284,7 @@ Pub. L. 94–455, title XIII, § 1307(a)(3), Oct. 4, 1976, 90 Stat. 1722, provid
 ### Statutory Notes
 
 #### References in Text
-Section 501(c)(20), referred to in subsecs. (a)(1), (c)(1), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii), Dec. 19, 2014, 128 Stat. 4040.
+Section 501(c)(20), referred to in subsecs. (a)(1) and (c)(1), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii), Dec. 19, 2014, 128 Stat. 4040.
 
 #### Amendments
 2001—Subsec. (b)(7). Pub. L. 107–16 substituted “$200,000” for “$150,000” in two places.
@@ -82729,7 +82824,7 @@ Amendment by Pub. L. 86–667 applicable to taxable years beginning after Dec. 3
 
   (D) *Nonrecognition of gain* — If property used directly in the performance of the exempt function of an organization described in paragraph (7), (9), (17), or (20) 1 of section 501(c) is sold by such organization, and within a period beginning 1 year before the date of such sale, and ending 3 years after such date, other property is purchased and used by such organization directly in the performance of its exempt function, gain (if any) from such sale shall be recognized only to the extent that such organization’s sales price of the old property exceeds the organization’s cost of purchasing the other property. For purposes of this subparagraph, the destruction in whole or in part, theft, seizure, requisition, or condemnation of property, shall be treated as the sale of such property, and rules similar to the rules provided by subsections (b), (c), (e), and (j) of section 1034 (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) shall apply.
 
-  (E) *Limitation on amount of setaside in the case of organizations described in paragraph (9), (17), or (20) 1 of section 501(c)*
+  (E) *Limitation on amount of setaside in the case of organizations described in paragraph (9), (17), or (20) of section 501(c)*
 
     (i) *In general* — In the case of any organization described in paragraph (9), (17), or (20) 1 of section 501(c), a set-aside for any purpose specified in clause (ii) of subparagraph (B) may be taken into account under subparagraph (B) only to the extent that such set-aside does not result in an amount of assets set aside for such purpose in excess of the account limit determined under section 419A (without regard to subsection (f)(6) thereof) for the taxable year (not taking into account any reserve described in section 419A(c)(2)(A) for post-retirement medical benefits).
 
@@ -83226,9 +83321,9 @@ Subsec. (b)(15) to (17). Pub. L. 91–172, § 121(b)(2)(C), added pars. (15) to 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–295, div. A, title I, § 131(b), Dec. 19, 2014, 128 Stat. 4018, provided that: “The amendment made by this section [amending this section] shall apply to payments received or accrued after December 31, 2013.”
 
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by section 221(a)(41)(G) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by section 221(a)(41)(G) of Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by section 221(a)(41)(G) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–240, title III, § 319(b), Jan. 2, 2013, 126 Stat. 2332, provided that: “The amendment made by this section [amending this section] shall apply to payments received or accrued after December 31, 2011.”
@@ -84293,7 +84388,7 @@ The Federal Election Campaign Act of 1971, referred to in subsecs. (i)(6) and (j
 #### Amendments
 2014—Subsec. (h)(2)(A)(i). Pub. L. 113–295, § 220(l)(1), substituted “([52 U.S.C. 30102(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30102/e&num=0&edition=prelim))” for “([2 U.S.C. 432(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section432/e&num=0&edition=prelim))”.
 
-Subsecs. (i)(6), (j)(5)(A). Pub. L. 113–295, § 220(l)(2), substituted “([52 U.S.C. 30101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim) et seq.)” for “([2 U.S.C. 431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim) et seq.)”
+Subsecs. (i)(6), (j)(5)(A). Pub. L. 113–295, § 220(l)(2), substituted “([52 U.S.C. 30101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim) et seq.)” for “([2 U.S.C. 431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim) et seq.)”.
 
 2002—Subsec. (e)(5). Pub. L. 107–276, § 2(b), added par. (5).
 
@@ -84653,7 +84748,7 @@ Pub. L. 94–455, title XXI, § 2101(e), Oct. 4, 1976, 90 Stat. 1899, provided t
 
     (ii) expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance 22 So in original. Probably should be followed by “; and”.
 
-    (iii) expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i) 33 See References in Text note.) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.
+    (iii) expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) 33 See References in Text note below. or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.
     Clause (iii) shall not include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature.
 
   (B) *Room and board included for students who are at least half-time*
@@ -84912,7 +85007,7 @@ Pub. L. 104–188, title I, § 1806(c), Aug. 20, 1996, 110 Stat. 1898, as amende
     (ii) such distribution is accompanied by the amount of net income attributable to such excess contribution.
     Any net income described in clause (ii) shall be included in gross income for the taxable year in which such excess contribution was made.
 
-(4) **Loss of able account treatment** — If an ABLE account is established for a designated beneficiary, no account subsequently established for such beneficiary shall be treated as an ABLE account. The preceding sentence shall not apply in the case of an account established for purposes of a rollover described in paragraph (1)(C)(i) of this section if the transferor account is closed as of the end of the 60th day referred to in paragraph (1)(C)(i).
+(4) **Loss of ABLE account treatment** — If an ABLE account is established for a designated beneficiary, no account subsequently established for such beneficiary shall be treated as an ABLE account. The preceding sentence shall not apply in the case of an account established for purposes of a rollover described in paragraph (1)(C)(i) of this section if the transferor account is closed as of the end of the 60th day referred to in paragraph (1)(C)(i).
 
 **(d) Reports**
 
@@ -84979,9 +85074,9 @@ Pub. L. 104–188, title I, § 1806(c), Aug. 20, 1996, 110 Stat. 1898, as amende
 ### Statutory Notes
 
 #### References in Text
-Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4), probably means div. B of Pub. L. 113-295, Dec. 19, 2014, 128 Stat. 4056, known as the “Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014” and also as the “Stephen Beck, Jr., ABLE Act of 2014”. No section 4 of the Act was enacted.
+The Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4), probably means div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, known as the “Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014” and also as the “Stephen Beck, Jr., ABLE Act of 2014”. No section 4 of the Act was enacted.
 
-The Social Security Act, referred to in subsecs. (e)(1)(A), (2)(B), and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.) respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.) respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Section applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
@@ -84992,7 +85087,7 @@ Pub. L. 113–295, div. B, title I, § 102(f)(2), Dec. 19, 2014, 128 Stat. 4062,
 #### Purposes
 Pub. L. 113–295, div. B, title I, § 101, Dec. 19, 2014, 128 Stat. 4056, provided that: “The purposes of this title [title I of div. B of Pub. L. 113–295, enacting this section, amending sections 26, 529, 877A, 4965, 4973, and 6693, of this title, [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees, sections 521, 541, and 707 of Title 11, Bankruptcy, and [section 5517 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5517&num=0&edition=prelim), Banks and Banking, and enacting provisions set out as notes under this section, [section 529 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-529), [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), and [section 521 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section521&num=0&edition=prelim)] are as follows: “(1) To encourage and assist individuals and families in saving private funds for the purpose of supporting individuals with disabilities to maintain health, independence, and quality of life. “(2) To provide secure funding for disability-related expenses on behalf of designated beneficiaries with disabilities that will supplement, but not supplant, benefits provided through private insurance, the Medicaid program under title XIX of the Social Security Act [[42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.], the supplemental security income program under title XVI of such Act [[42 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1381&num=0&edition=prelim) et seq.], the beneficiary’s employment, and other sources.”
 
-#### Treatment of Able Accounts Under Certain Federal Programs
+#### Treatment of ABLE Accounts Under Certain Federal Programs
 Pub. L. 113–295, div. B, title I, § 103, Dec. 19, 2014, 128 Stat. 4063, provided that: “(a) Account Funds Disregarded for Purposes of Certain Other Means-Tested Federal Programs.—Notwithstanding any other provision of Federal law that requires consideration of 1 or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such provision to be provided to or for the benefit of such individual, any amount (including earnings thereon) in the ABLE account (within the meaning of section 529A of the Internal Revenue Code of 1986) of such individual, any contributions to the ABLE account of the individual, and any distribution for qualified disability expenses (as defined in subsection (e)(5) of such section) shall be disregarded for such purpose with respect to any period during which such individual maintains, makes contributions to, or receives distributions from such ABLE account, except that, in the case of the supplemental security income program under title XVI of the Social Security Act [[42 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1381&num=0&edition=prelim) et seq.]—“(1) a distribution for housing expenses (within the meaning of such subsection) shall not be so disregarded, and “(2) in the case of such program, any amount (including such earnings) in such ABLE account shall be considered a resource of the designated beneficiary to the extent that such amount exceeds $100,000. “(b) Suspension of SSI Benefits During Periods of Excessive Account Funds.—“(1) In general.—The benefits of an individual under the supplemental security income program under title XVI of the Social Security Act shall not be terminated, but shall be suspended, by reason of excess resources of the individual attributable to an amount in the ABLE account (within the meaning of section 529A of the Internal Revenue Code of 1986) of the individual not disregarded under subsection (a) of this section. “(2) No impact on medicaid eligibility.—An individual who would be receiving payment of such supplemental security income benefits but for the application of paragraph (1) shall be treated for purposes of title XIX of the Social Security Act [[42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.] as if the individual continued to be receiving payment of such benefits. “(c) Effective Date.—This section shall take effect on the date of the enactment of this Act [Dec. 19, 2014].”
 
 
@@ -85039,7 +85134,7 @@ Pub. L. 113–295, div. B, title I, § 103, Dec. 19, 2014, 128 Stat. 4063, provi
 
     (ii) expenses for room and board, uniforms, transportation, and supplementary items and services (including extended day programs) which are required or provided by a public, private, or religious school in connection with such enrollment or attendance, and
 
-    (iii) expenses for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i) 11 See References in Text note below.) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is in school.
+    (iii) expenses for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) 11 See References in Text note below. or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is in school.
     Clause (iii) shall not include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature.
 
   (B) *School* — The term “school” means any school which provides elementary education or secondary education (kindergarten through grade 12), as determined under State law.
@@ -86116,7 +86211,7 @@ Pub. L. 95–600, title VII, § 701(o), Nov. 6, 1978, 92 Stat. 2907, as amended 
 ### Statutory Notes
 
 #### References in Text
-Section 3(a)(4) and (5) of the Securities and Exchange Act of 1934, referred to in subsec. (a)(1)(D), is classified to section 78c(a)(4) and (5) of Title 15, Commerce and Trade.
+Section 3(a)(4) and (5) of the Securities and Exchange Act of 1934, referred to in subsec. (a)(1)(E), is classified to section 78c(a)(4) and (5) of Title 15, Commerce and Trade.
 
 Section 563(d), referred to in subsecs. (a)(2)(B)(ii) and (d)(5)(A)(ii), was redesignated section 563(c) by Pub. L. 108–357, title IV, § 413(c)(10)(B), Oct. 22, 2004, 118 Stat. 1507.
 
@@ -88383,9 +88478,9 @@ Pub. L. 95–618, title IV, § 403(d), Nov. 9, 1978, 92 Stat. 3204, provided tha
 #### Amendments
 2014—Subsec. (b)(3)(C). Pub. L. 113–295, § 221(a)(65)(A), struck out subpar. (C) which related to a special rule for voluntary or compulsory unitization or pooling arrangements entered into in taxable years beginning before Jan. 1, 1964.
 
-Subsec. (b)(4). Pub. L. 113–295, § 221(a)(65)(B), which directed amendment of par. (4) by striking out “whichever of the following years is later: The first taxable year beginning after December 31, 1963, or”, was executed by striking out “whichever of the following taxable years is the later: The first taxable year beginning after December 31, 1963, or” before “the first taxable year” to reflect the probable intent of Congress.
+Subsec. (b)(4)(A). Pub. L. 113–295, § 221(a)(65)(B), which directed amendment of par. (4) by striking out “whichever of the following years is later: The first taxable year beginning after December 31, 1963, or”, was executed by striking out “whichever of the following taxable years is the later: The first taxable year beginning after December 31, 1963, or” before “the first taxable year” in subpar. (A), to reflect the probable intent of Congress.
 
-Subsec. (b)(5). Pub. L. 113–295, § 221(a)(65)(A), struck out par. (5) which read as follows: “If, on the day preceding the first day of the first taxable year beginning after December 31, 1963, the taxpayer has any operating mineral interests which he treats under subsection (d) of this section (as in effect before the amendments made by the Revenue Act of 1964), such treatment shall be continued and shall be deemed to have been adopted pursuant to paragraphs (1) and (2) of this subsection (as amended by such Act).”
+Subsec. (b)(5). Pub. L. 113–295, § 221(a)(65)(A), struck out par. (5). Text read as follows: “If, on the day preceding the first day of the first taxable year beginning after December 31, 1963, the taxpayer has any operating mineral interests which he treats under subsection (d) of this section (as in effect before the amendments made by the Revenue Act of 1964), such treatment shall be continued and shall be deemed to have been adopted pursuant to paragraphs (1) and (2) of this subsection (as amended by such Act).”
 
 1990—Subsec. (d). Pub. L. 101–508 substituted “taxable income” for “50 percent”.
 
@@ -93373,7 +93468,9 @@ Another prior section 805, acts Aug. 16, 1954, ch. 736, 68A Stat. 258; Mar. 13, 
 
 Subsec. (a)(4)(B). Pub. L. 113–295, § 221(a)(41)(I), struck out “, 244(a),” after “sections 243(a)(1)” in introductory provisions and in cl. (iii).
 
-Subsecs. (a)(4)(C)(i), (D)(i), (b)(5). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,” wherever appearing.
+Subsec. (a)(4)(C)(i), (D)(i). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,” after “section 243”.
+
+Subsec. (b)(5). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,” after “sections 243”.
 
 1997—Subsec. (a)(4)(C)(ii). Pub. L. 105–34, § 1084(b)(1)(A), inserted “, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” after “tax-exempt interest”.
 
@@ -93398,9 +93495,9 @@ Subsec. (b)(2)(A)(iii). Pub. L. 99–514, § 1011(b)(4), which directed that sub
 Subsec. (b)(3) to (6). Pub. L. 99–514, § 805(c)(6), redesignated pars. (3) to (6) as (2) to (5), respectively.
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under [section 101 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-101).
@@ -93733,7 +93830,7 @@ For purposes of paragraph (3), the appropriate rate of interest for any obligati
 
   (A) *In general* — The amount taken into account for purposes of subsections (a) and (b) as—
 
-    (i) the opening balance of the items referred to in subparagraph (C), and
+    (i) the opening balance of the items referred to in subparagraph (C),11 So in original. Probably should be “subparagraph (B),”. See 2014 Amendment note below. and
 
     (ii) the closing balance of such items,
     shall be 80 percent of the amount which (without regard to this subparagraph) would have been taken into account as such opening or closing balance, as the case may be.
@@ -93982,17 +94079,17 @@ For purposes of this part, the term “operations loss deduction” means the de
 
   (A) the operations loss deduction shall not be allowed, and
 
-  (B) the deductions allowed by sections 243 (relating to dividends received by corporations), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
+  (B) the deductions allowed by sections 243 (relating to dividends received by corporations),11 So in original. The comma probably should not appear. and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
 
 **(d) Offset defined**
 
-(1) **In general** — For purposes of subsection (b)(2), the term “offset” means, with respect to any taxable year, an amount equal to that increase in the operations loss deduction for the taxable year which reduces the life insurance company taxable income (computed without regard to paragraphs (2) and (3) of section 804) 11 See References in Text note below. or such year to zero.
+(1) **In general** — For purposes of subsection (b)(2), the term “offset” means, with respect to any taxable year, an amount equal to that increase in the operations loss deduction for the taxable year which reduces the life insurance company taxable income (computed without regard to paragraphs (2) and (3) of section 804) 22 See References in Text note below. or such year to zero.
 
 (2) **Operations loss deduction** — For purposes of paragraph (1), the operations loss deduction for any taxable year shall be computed without regard to the loss from operations for the loss year or for any taxable year thereafter.
 
 **(e) New company defined** For purposes of this part, a life insurance company is a new company for any taxable year only if such taxable year begins not more than 5 years after the first day on which it (or any predecessor, if section 381(c)(22) applies) was authorized to do business as an insurance company.
 
-**(f) Application of subtitles A and F in respect of operation losses** Except as provided in section 805(b)(5),1 sub­titles A and F shall apply in respect of operation loss carrybacks, operation loss carryovers, and the operations loss deduction under this part, in the same manner and to the same extent as such subtitles apply in respect of net operating loss carrybacks, net operating loss carryovers, and the net operating loss deduction.
+**(f) Application of subtitles A and F in respect of operation losses** Except as provided in section 805(b)(5),2 sub­titles A and F shall apply in respect of operation loss carrybacks, operation loss carryovers, and the operations loss deduction under this part, in the same manner and to the same extent as such subtitles apply in respect of net operating loss carrybacks, net operating loss carryovers, and the net operating loss deduction.
 
 **(g) Transitional rule** For purposes of this section and section 812 (as in effect before the enactment of the Life Insurance Tax Act of 1984), this section shall be treated as a continuation of such section 812.
 
@@ -94009,14 +94106,14 @@ The Life Insurance Tax Act of 1984, referred to in subsec. (g), probably means t
 A prior section 810, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 125; amended Pub. L. 91–172, title I, § 121(b)(5)(B), title IX, § 907(a)(2), Dec. 30, 1969, 83 Stat. 541, 715, related to rules for certain reserves, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
 
 #### Amendments
-2014—Subsec. (c)(2)(B). Pub. L. 113–295, § 221(a)(41)(J), which directed amendment of subpar. (B) by striking out “244 (relating to dividends on certain preferred stock of public utilities),” was amended by striking out “244 (relating to dividends received on certain preferred stock of public utilities),” after “received by corporations),” to reflect the probable intent of Congress.
+2014—Subsec. (c)(2)(B). Pub. L. 113–295, which directed amendment of subpar. (B) by striking out “244 (relating to dividends on certain preferred stock of public utilities),” was amended by striking out “244 (relating to dividends received on certain preferred stock of public utilities),” after “received by corporations),” to reflect the probable intent of Congress.
 
 2009—Subsec. (b)(4). Pub. L. 111–92 added par. (4).
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–92 applicable to losses arising in taxable years ending after Dec. 31, 2007, with transition provisions and exception for TARP recipients, see section 13(e), (f) of Pub. L. 111–92, set out as a note under [section 56 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56).
@@ -94221,9 +94318,9 @@ Subsec. (c). Pub. L. 99–514, § 1821(i)(3), amended subsec. (c) generally. Pri
 Subsec. (g). Pub. L. 99–514, § 1821(i)(4), added subsec. (g).
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 31, 2004, see section 205(c) of Pub. L. 108–218, set out as a note under [section 807 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-807).
@@ -94415,9 +94512,9 @@ Subsec. (c)(2)(A)(ii). Pub. L. 99–514, § 1011(b)(10), substituted “small li
 Subsec. (f). Pub. L. 99–514, § 1821(k)(1), inserted reference to section 819(b).
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2004 Amendment
 Pub. L. 108–357, title VII, § 705(b), Oct. 22, 2004, 118 Stat. 1549, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004.”
@@ -95321,9 +95418,9 @@ Subsec. (c)(11). Pub. L. 87–834, § 8(e)(4), substituted “section 831(a)(3)(
 Subsec. (c). Act Mar. 13, 1956, § 3(b)(2), (3), substituted “the items described in section 822(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212” for “interest, dividends, rents, and net premiums received. In the application of section 1211” in par. (5), and authorized the deduction for depletion in par. (8).
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by section (a)(41)(G) of Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under [section 101 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-101).
@@ -95513,9 +95610,9 @@ Subsec. (b)(1)(A)(ii). Pub. L. 105–34, § 1604(d)(2)(A)(ii), inserted “or in
 1996—Subsec. (c)(4). Pub. L. 104–191 added par. (4).
 
 #### Effective Date of 2014 Amendment
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-247) as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 Pub. L. 113–235, div. N, § 102(b), Dec. 16, 2014, 128 Stat. 2773, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009.”
 
@@ -96355,7 +96452,7 @@ Pub. L. 100–647, title VI, § 6077(c), Nov. 10, 1988, 102 Stat. 3709, provided
 ### Statutory Notes
 
 #### Amendments
-2014—Subsec. (j). Pub. L. 113–295, § 221(a)(70), struck out subsec. (j) which read as follows: “In the case of any taxable year which includes September 30, 1990, the amount taken into account as the net premiums (or negative capitalization amount) with respect to any category of specified insurance contracts shall be the amount which bears the same ratio to the amount which (but for this subsection) would be so taken into account as the number of days in such taxable year on or after September 30, 1990, bears to the total number of days in such taxable year.”
+2014—Subsec. (j). Pub. L. 113–295 struck out subsec. (j). Text read as follows: “In the case of any taxable year which includes September 30, 1990, the amount taken into account as the net premiums (or negative capitalization amount) with respect to any category of specified insurance contracts shall be the amount which bears the same ratio to the amount which (but for this subsection) would be so taken into account as the number of days in such taxable year on or after September 30, 1990, bears to the total number of days in such taxable year.”
 
 2006—Subsec. (e)(6). Pub. L. 109–280 added par. (6).
 
@@ -97028,7 +97125,7 @@ Subsec. (b)(8)(G)(i). Pub. L. 113–295, § 205(c)(2), substituted “and (E)”
 
 Subsec. (c)(2). Pub. L. 113–295, § 205(c)(3), in introductory provisions, substituted “, without regard to any capital loss” for “, and without regard to any capital loss” and inserted “, and with such other adjustments as the Secretary may prescribe” after “section 1212(a)(3)(A)”.
 
-Pub. L. 113–295, § 205(a)(2), in introductory provisions, substituted “, without regard to” for “and without regard to” and inserted “, and without regard to any capital loss arising on the first day of the taxable year by reason of clauses (ii) and (iii) of section 1212(a)(3)(A)” after “subsection (b)(8)(D))”.
+Pub. L. 113–295, § 205(a)(2), in introductory provisions, substituted “October 31, without regard to” for “October 31 and without regard to” and inserted “, and without regard to any capital loss arising on the first day of the taxable year by reason of clauses (ii) and (iii) of section 1212(a)(3)(A)” after “subsection (b)(8)(D))”.
 
 2010—Subsec. (b)(2)(G). Pub. L. 111–325, § 201(c), added subpar. (G).
 
@@ -97444,7 +97541,7 @@ may elect the application of this section with respect to some or all of the cre
 
   (B) be allowed credits against the tax imposed by this chapter equal to the amount of such distribution, subject to the provisions of this title applicable to the credit involved.
 
-**(c) Notice to shareholders** The amount treated as a distribution of money received by a shareholder under subsection (b)(2)(A) (and as credits allowed to such shareholder under subsection (b)(2)(B)) shall not exceed the amount so reported by the regulated investment company in a written statement furnished to such shareholder.
+**(c) Statements 11 See 2010 Amendment note below. to shareholders** The amount treated as a distribution of money received by a shareholder under subsection (b)(2)(A) (and as credits allowed to such shareholder under subsection (b)(2)(B)) shall not exceed the amount so reported by the regulated investment company in a written statement furnished to such shareholder.
 
 **(d) Manner of making election** The election provided in subsection (a) shall be made in such manner as the Secretary may prescribe.
 
@@ -97479,17 +97576,17 @@ Subsec. (a)(2). Pub. L. 113–295, § 209(h)(1), inserted “(determined after t
 
 Subsec. (b). Pub. L. 113–295, § 209(h)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to effects of elections under subsec. (a).
 
-Subsec. (c). Pub. L. 113–295, § 209(h)(4), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to ad as follows: “For purposes of subsection (b)(3), the shareholder’s proportionate share of—
+Subsec. (c). Pub. L. 113–295, § 209(h)(4), amended subsec. (c) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As enacted by Pub. L. 111–5, § 1541(a), subsec. (c) read as follows: “Notice to Shareholders.—For purposes of subsection (b)(3), the shareholder’s proportionate share of—
 
 “(1) credits described in subsection (a), and
 
 “(2) gross income in respect of such credits,
 
-shall not exceed the amounts so reported by the regulated investment company in a written statement furnished to such shareholder.”
+shall not exceed the amounts so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year.”
 
 Subsec. (e)(1)(A)(ii). Pub. L. 113–295, § 209(h)(5), inserted “other than a qualified bond described in section 54AA(g)” after “as defined in section 54AA(d))”.
 
-2010—Subsec. (c). Pub. L. 111–325, § 301(d)(1), substituted “Statements” for “Notice” in heading and “so reported by the regulated investment company in a written statement furnished to such shareholder” for “so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year” in concluding provisions.
+2010—Subsec. (c). Pub. L. 111–325, § 301(d)(1), which directed substitution of “Statements” for “Notice” in heading and “so reported by the regulated investment company in a written statement furnished to such shareholder” for “so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year” in text, could not be executed to the text because the words “so reported by the regulated investment company in a written statement furnished to such shareholder” already appeared after the subsequent general amendment of subsec. (c) by Pub. L. 113–295 which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. However, the substitution was executed to the heading to reflect the probable intent of Congress. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 Subsec. (d). Pub. L. 111–325, § 301(d)(2), struck out “and notifying shareholders” after “election” in heading and “and the notice to shareholders required by subsection (c)” after “subsection (a)” in text.
 
@@ -102886,7 +102983,7 @@ The date of the enactment of this subsection, referred to in subsec. (h), is the
 A prior section 877 was renumbered [section 878 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-878).
 
 #### Amendments
-2014—Subsec. (e)(2). Pub. L. 113–295, § 213(c)(2), struck out “subparagraph (A) or (B) of” after “event described in”.
+2014—Subsec. (e)(2). Pub. L. 113–295 struck out “subparagraph (A) or (B) of” after “event described in”.
 
 2008—Subsec. (e)(1). Pub. L. 110–245, § 301(c)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Any long-term resident of the United States who—
 
@@ -106255,7 +106352,7 @@ Subsecs. (e), (f). Pub. L. 86–780, § 1(d), added subsecs. (e) and (f).
 1958—Subsec. (c). Pub. L. 85–866 added subsec. (c).
 
 #### Effective Date of 2014 Amendment
-Amendment by section 219(c) of Pub. L. 113–295 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357 to which such amendment relates, see section 219(d) of Pub. L. 113–295, set out as a note under [section 199 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-199).
+Amendment by section 219(c) of Pub. L. 113–295 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 219(d) of Pub. L. 113–295, set out as a note under [section 199 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-199).
 
 Amendment by section 221(a)(72) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -106752,7 +106849,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of the Energy Improvement and Extension Act of 2008, referred to in subsecs. (c)(4)(B)(ii)(II), (D)(iv), (f)(4)(A), is the date of enactment of div. B of Pub. L. 110–343, which was approved Oct. 3, 2008.
+The date of the enactment of the Energy Improvement and Extension Act of 2008, referred to in subsecs. (c)(4)(B)(ii)(II), (D)(iv) and (f)(4)(A), is the date of enactment of div. B of Pub. L. 110–343, which was approved Oct. 3, 2008.
 
 Section 172(h), referred to in subsec. (c)(4)(D)(iii)(I), was repealed by Pub. L. 101–508, title XI, § 11811(b)(1), Nov. 5, 1990, 104 Stat. 1388–532.
 
@@ -112589,7 +112686,7 @@ Section 811 of the Internal Revenue Code of 1939, referred to in subsec. (b)(6),
 The Internal Revenue Code of 1939, referred to in subsec. (b)(9), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Amendments
-2014—Subsec. (a)(2). Pub. L. 113–295, § 221(a)(74)(A), amended par. (2) generally. Prior to amendment, text read as follows: “in the case of an election under either section 2032 or section 811(j) of the Internal Revenue Code of 1939 where the decedent died after October 21, 1942, its value at the applicable valuation date prescribed by those sections,”.
+2014—Subsec. (a)(2). Pub. L. 113–295, § 221(a)(74)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in the case of an election under either section 2032 or section 811(j) of the Internal Revenue Code of 1939 where the decedent died after October 21, 1942, its value at the applicable valuation date prescribed by those sections,”.
 
 Subsec. (b)(7), (8). Pub. L. 113–295, § 221(a)(74)(B), struck out pars. (7) and (8). Prior to repeal, par. (7) related to property representing a surviving spouse’s one-half share of community property held by the surviving spouse and a decedent dying after Oct. 21, 1942, and on or before Dec. 31, 1947, and par. (8) related to property representing certain interests of the survivor in a joint and survivor’s annuity in the case of a decedent dying after Dec. 31, 1950, and before Jan. 1, 1954.
 
@@ -112898,11 +112995,11 @@ The date of the enactment of the Taxpayer Relief Act of 1997, referred to in sub
 Section 10909(b)(2)(L) of Pub. L. 111–148, which directed the amendment of section 1016(a)(26) without specifying the act to be amended, was executed to this section, which is section 1016 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 #### Amendments
-2014—Subsec. (a)(12). Pub. L. 113–295, § 221(a)(75), struck out par. (12). Prior to amendment, text read as follows: “to the extent provided in section 28(h) of the Internal Revenue Code of 1939 in the case of amounts specified in a shareholder’s consent made under section 28 of such code;”.
+2014—Subsec. (a)(12). Pub. L. 113–295, § 221(a)(75), struck out par. (12) which read as follows: “to the extent provided in section 28(h) of the Internal Revenue Code of 1939 in the case of amounts specified in a shareholder’s consent made under section 28 of such code;”.
 
-Subsec. (a)(24). Pub. L. 113–295, § 221(a)(34)(G), struck out par. (24). Prior to amendment, text read as follows: “to the extent provided in section 179A(e)(6)(A),”.
+Subsec. (a)(24). Pub. L. 113–295, § 221(a)(34)(G), struck out par. (24) which read as follows: “to the extent provided in section 179A(e)(6)(A),”.
 
-Subsec. (a)(25). Pub. L. 113–295, § 221(a)(2)(D), struck out par. (25). Prior to amendment, text read as follows: “to the extent provided in section 30(e)(1),”.
+Subsec. (a)(25). Pub. L. 113–295, § 221(a)(2)(D), struck out par. (25) which read as follows: “to the extent provided in section 30(e)(1),”.
 
 Subsec. (a)(37). Pub. L. 113–295, § 209(j)(2), substituted “section 30D(f)(1)” for “section 30D(e)(4)”.
 
@@ -113863,7 +113960,7 @@ The National Flood Insurance Act, referred to in subsec. (j), probably means the
 
 Subsec. (h)(3). Pub. L. 113–295, § 221(a)(27)(D), substituted “section 165(i)(5)” for “section 165(h)(3)(C)”.
 
-Subsecs. (j) to (l). Pub. L. 113–295, § 221(a)(77), redesignated subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j), which related to sales or exchanges to implement microwave relocation policy.
+Subsecs. (j) to (l). Pub. L. 113–295, § 221(a)(77), redesignated subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j) which related to sales or exchanges to implement microwave relocation policy.
 
 2008—Subsec. (h). Pub. L. 110–343, § 706(a)(2)(D)(i), amended heading generally. Prior to amendment, heading read as follows: “Special rules for property damaged by Presidentially declared disasters”.
 
@@ -116888,7 +116985,7 @@ Par. (11). Pub. L. 91–172, § 511(a), added par. (11).
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2010 Amendment
-Amendment by Pub. L. 111–325 applicable to net capital losses for taxable years beginning after Dec. 22, 2010, see section 101(c)(1) of Pub. L. 111–325, set out as a note under [section 1212 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1212).
+Except as otherwise provided, amendment by Pub. L. 111–325 applicable to net capital losses for taxable years beginning after Dec. 22, 2010, see section 101(c) of Pub. L. 111–325, set out as a note under [section 1212 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1212).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under [section 166 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-166).
@@ -116960,17 +117057,14 @@ For purposes of this subtitle—
 
 ### Statutory Notes
 
-#### References in Text
-Section 113(a)(23) of the Internal Revenue Code of 1939, referred to in par. (4), was classified to section 113(a)(23) of former Title 26, Internal Revenue Code. Section 113 was repealed by [section 7851(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7851/a/1&num=0&edition=prelim). For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1). See, also, [section 7851(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7851/e&num=0&edition=prelim) for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
-
 #### Amendments
 2014—Par. (1). Pub. L. 113–295, § 221(a)(80)(A), struck out “after March 1, 1954,” after “such exchanges” in introductory provisions.
 
-Par. (4). Pub. L. 113–295, § 221(a)(80)(B), struck out “(or under so much of section 1052(c) as refers to section 113(a)(23) of the Internal Revenue Code of 1939)” after “section 307”.
+Par. (4). Pub. L. 113–295, § 221(a)(80)(B), struck out “(or under so much of section 1052(c) as refers to section 113(a)(23) of the Internal Revenue Code of 1939)” after “section 307”. Amendment was executed to reflect the probable intent of Congress notwithstanding a second set of quotation marks around the text directed to be stricken.
 
-Par. (6). Pub. L. 113–295, § 221(a)(80)(C), repealed par. (6) which read as follows: “In determining the period for which the taxpayer has held a residence, the acquisition of which resulted under section 1034 (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, there shall be included the period for which such other residence had been held as of the date of such sale or exchange. For purposes of this paragraph, the term ‘sale or exchange’ includes an involuntary conversion occurring after December 31, 1950, and before January 1, 1954.”
+Par. (6). Pub. L. 113–295, § 221(a)(80)(C), struck out par. (6) which read as follows: “In determining the period for which the taxpayer has held a residence, the acquisition of which resulted under section 1034 (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, there shall be included the period for which such other residence had been held as of the date of such sale or exchange. For purposes of this paragraph, the term ‘sale or exchange’ includes an involuntary conversion occurring after December 31, 1950, and before January 1, 1954.”
 
-Par. (8). Pub. L. 113–295, § 221(a)(80)(C), repealed par. (8) which read as follows: “Any reference in this section to a provision of this title shall, where applicable, be deemed a reference to the corresponding provision of the Internal Revenue Code of 1939, or prior internal revenue laws.”
+Par. (8). Pub. L. 113–295, § 221(a)(80)(C), struck out par. (8) which read as follows: “Any reference in this section to a provision of this title shall, where applicable, be deemed a reference to the corresponding provision of the Internal Revenue Code of 1939, or prior internal revenue laws.”
 
 2005—Pars. (3) to (16). Pub. L. 109–135 redesignated pars. (4) to (16) as (3) to (15), respectively, and struck out former par. (3) which read as follows: “In determining the period for which the taxpayer has held stock or securities received upon a distribution where no gain was recognized to the distributee under section 1081(c) (or under section 112(g) of the Revenue Act of 1928, 45 Stat. 818, or the Revenue Act of 1932, 48 Stat. 705), there shall be included the period for which he held the stock or securities in the distributing corporation before the receipt of the stock or securities on such distribution.”
 
@@ -117615,7 +117709,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 #### Amendments
 2014—Subsec. (b)(2)(B). Pub. L. 113–295, § 221(a)(82)(B), substituted “subsection (c)” for “subsection (d)”.
 
-Subsecs. (c) to (e). Pub. L. 113–295, § 221(a)(82)(A), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Prior to amendment, text read as follows: “This section shall be applicable with regard to any amounts received, or payments made, pursuant to a transfer described in subsection (a) in any taxable year to which this subtitle applies, regardless of the taxable year in which such transfer occurred.”.
+Subsecs. (c) to (e). Pub. L. 113–295, § 221(a)(82)(A), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “This section shall be applicable with regard to any amounts received, or payments made, pursuant to a transfer described in subsection (a) in any taxable year to which this subtitle applies, regardless of the taxable year in which such transfer occurred.”
 
 1998—Subsec. (a). Pub. L. 105–206, § 6005(d)(4), substituted “18 months” for “1 year” in introductory provisions.
 
@@ -119175,7 +119269,7 @@ Section 182, referred to in subsec. (a), was repealed by Pub. L. 99–514, title
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (a)(1)(A), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
-2014—Subsec. (a)(1). Pub. L. 113–295, § 221(a)(85)(A), struck out “after December 31, 1969” after “beginning”.
+2014—Subsec. (a)(1). Pub. L. 113–295, § 221(a)(85)(A), struck out “after December 31, 1969” after “beginning” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 113–295, § 221(a)(85)(B), struck out “after December 31, 1969,” after “taxpayer”.
 
@@ -119494,9 +119588,9 @@ Section effective with respect to grants made under the programs after Sept. 30,
 
   (A) *In general* — Notwithstanding paragraph (2), the term “hedging transaction” shall not include any transaction entered into by or for a syndicate.
 
-  (B) *Syndicate defined* — For purposes of subparagraph (A), the term “syndicate” means any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of section 464(e)(2) 11 See References in Text note below.).
+  (B) *Syndicate defined* — For purposes of subparagraph (A), the term “syndicate” means any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of section 464(e)(2)).11 See References in Text note below.
 
-  (C) *Holdings attributable to active management* — For purposes of subparagraph (B), an interest in an entity shall not be treated as held by a limited partner or a limited entrepreneur (within the meaning of section 464(e)(2))—
+  (C) *Holdings attributable to active management* — For purposes of subparagraph (B), an interest in an entity shall not be treated as held by a limited partner or a limited entrepreneur (within the meaning of section 464(e)(2))— 1
 
     (i) for any period if during such period such interest is held by an individual who actively participates at all times during such period in the management of such entity,
 
@@ -119855,7 +119949,7 @@ The Secretary shall by regulations provide for such reductions in the applicable
 
     (ii) *Commodities trader* — The term “commodities trader” means any person who is a member (or, except as otherwise provided in regulations, is entitled to trade as a member) of a domestic board of trade which is designated as a contract market by the Commodity Futures Trading Commission.
 
-  (C) *Limited partners and limited entrepreneurs* — In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur (within the meaning of section 464(e)(2) 11 See References in Text note below.), subparagraph (A) shall not apply if—
+  (C) *Limited partners and limited entrepreneurs* — In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur (within the meaning of section 464(e)(2)),11 See References in Text note below. subparagraph (A) shall not apply if—
 
     (i) substantially all of the limited partner’s (or limited entrepreneur’s) expected return from the entity is attributable to the time value of the partner’s (or entrepreneur’s) net investment in such entity,
 
@@ -120212,7 +120306,7 @@ Pub. L. 106–170, title V, § 534(c), Dec. 17, 1999, 113 Stat. 1934, provided t
 ### Statutory Notes
 
 #### Amendments
-2014—Subsec. (c). Pub. L. 113–295 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to transition rules, including special rules for certain obligations issued before January 1, 1955, and for certain obligations with respect to which original issue discount was not currently includible.
+2014—Subsec. (c). Pub. L. 113–295 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to transition rules, including special rules for certain obligations issued before Jan. 1, 1955, and for certain obligations with respect to which original issue discount was not currently includible.
 
 1997—Subsec. (b). Pub. L. 105–34 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “This section shall not apply to—
 
@@ -122757,7 +122851,7 @@ There shall then be ascertained the increase or decrease in tax previously deter
 ### Statutory Notes
 
 #### Amendments
-2014—Subsecs. (d), (e). Pub. L. 113–295 redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows “No adjustment shall be made under this part in respect of any taxable year beginning prior to January 1, 1932.”.
+2014—Subsecs. (d), (e). Pub. L. 113–295 redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “No adjustment shall be made under this part in respect of any taxable year beginning prior to January 1, 1932.”
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -125719,7 +125813,7 @@ Subsecs. (e), (f). Pub. L. 105–34, § 952(d)(1), substituted “this section�
 Subsec. (g). Pub. L. 105–34, § 952(a), added subsec. (g).
 
 #### Effective Date of 2014 Amendment
-Pub. L. 113–295, div. A, title I, § 139(c), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendment made by this section [amending this section ] shall apply to periods after December 31, 2013.”
+Pub. L. 113–295, div. A, title I, § 139(c), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendment made by this section [amending this section] shall apply to periods after December 31, 2013.”
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 applicable to periods after Dec. 31, 2011, see section 327(d) of Pub. L. 112–240, set out as a note under [section 1202 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1202).
@@ -126218,7 +126312,7 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(1)(A)(ii
 A prior section 1397B was renumbered [section 1397C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1397c).
 
 #### Amendments
-2014—Subsec. (b)(1)(A)(iv). Pub. L. 113–29 added cl. (iv).
+2014—Subsec. (b)(1)(A)(iv). Pub. L. 113–295 added cl. (iv).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective as if included in the provisions of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, Pub. L. 111–312, to which such amendment relates, see section 206(d) of Pub. L. 113–295, set out as a note under [section 32 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-32).

@@ -26,6 +26,9 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment Not Shown in Text
+Subsection (d) of this section was derived from [section 18j of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18j&num=0&edition=prelim), Conservation, which was amended by Pub. L. 113–235, div. F, title I, § 118, Dec. 16, 2014, 128 Stat. 2421. For applicability of that amendment to this section, see section 6(b) of Pub. L. 113–287, set out as a Transitional and Savings Provisions note preceding [section 100101 of this title](./chapter-1001-chapter-1001.md#section-100101). Former [section 18j of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18j&num=0&edition=prelim) was amended by striking “$3,500,000” and inserting “$5,000,000”.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |

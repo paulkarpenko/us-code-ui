@@ -3859,6 +3859,68 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
     (ii) complied with the efficiency standards and labeling requirements in effect prior to the final rule.
 
+(6) **Additional standards for grid-enabled water heaters.—**
+
+  (A) *Definitions.—* — In this paragraph:
+
+    (i) *Activation lock.—* — The term “activation lock” means a control mechanism (either a physical device directly on the water heater or a control system integrated into the water heater) that is locked by default and contains a physical, software, or digital communication that must be activated with an activation key to enable the product to operate at its designed specifications and capabilities and without which activation the product will provide not greater than 50 percent of the rated first hour delivery of hot water certified by the manufacturer.
+
+    (ii) *Grid-enabled water heater.—* — The term “grid-enabled water heater” means an electric resistance water heater that—
+
+      (I) has a rated storage tank volume of more than 75 gallons;
+
+      (II) is manufactured on or after April 16, 2015;
+
+      (III) has—
+
+        (aa) an energy factor of not less than 1.061 minus the product obtained by multiplying—
+
+          (AA) the rated storage volume of the tank, expressed in gallons; and
+
+          (BB) 0.00168; or
+
+        (bb) an equivalent alternative standard prescribed by the Secretary and developed pursuant to paragraph (5)(E);
+
+      (IV) is equipped at the point of manufacture with an activation lock; and
+
+      (V) bears a permanent label applied by the manufacturer that—
+
+        (aa) is made of material not adversely affected by water;
+
+        (bb) is attached by means of non-water-soluble adhesive; and
+
+        (cc) advises purchasers and end-users of the intended and appropriate use of the product with the following notice printed in 16.5 point Arial Narrow Bold font:“IMPORTANT INFORMATION: This water heater is intended only for use as part of an electric thermal storage or demand response program. It will not provide adequate hot water unless enrolled in such a program and activated by your utility company or another program operator. Confirm the availability of a program in your local area before purchasing or installing this product.”.
+
+  (B) *Requirement.—* — The manufacturer or private labeler shall provide the activation key for a grid-enabled water heater only to a utility or other company that operates an electric thermal storage or demand response program that uses such a grid-enabled water heater.
+
+  (C) *Reports.—*
+
+    (i) *Manufacturers.—* — The Secretary shall require each manufacturer of grid-enabled water heaters to report to the Secretary annually the quantity of grid-enabled water heaters that the manufacturer ships each year.
+
+    (ii) *Operators.—* — The Secretary shall require utilities and other demand response and thermal storage program operators to report annually the quantity of grid-enabled water heaters activated for their programs using forms of the Energy Information Agency or using such other mechanism that the Secretary determines appropriate after an opportunity for notice and comment.
+
+    (iii) *Confidentiality requirements.—* — The Secretary shall treat shipment data reported by manufacturers as confidential business information.
+
+  (D) *Publication of information.—*
+
+    (i) *In general.—* — In 2017 and 2019, the Secretary shall publish an analysis of the data collected under subparagraph (C) to assess the extent to which shipped products are put into use in demand response and thermal storage programs.
+
+    (ii) *Prevention of product diversion.—* — If the Secretary determines that sales of grid-enabled water heaters exceed by 15 percent or greater the quantity of such products activated for use in demand response and thermal storage programs annually, the Secretary shall, after opportunity for notice and comment, establish procedures to prevent product diversion for non-program purposes.
+
+  (E) *Compliance.—*
+
+    (i) *In general.—* — Subparagraphs (A) through (D) shall remain in effect until the Secretary determines under this section that—
+
+      (I) grid-enabled water heaters do not require a separate efficiency requirement; or
+
+      (II) sales of grid-enabled water heaters exceed by 15 percent or greater the quantity of such products activated for use in demand response and thermal storage programs annually and procedures to prevent product diversion for non-program purposes would not be adequate to prevent such product diversion.
+
+    (ii) *Effective date.—* — If the Secretary exercises the authority described in clause (i) or amends the efficiency requirement for grid-enabled water heaters, that action will take effect on the date described in subsection (m)(4)(A)(ii).
+
+    (iii) *Consideration.—* — In carrying out this section with respect to electric water heaters, the Secretary shall consider the impact on thermal storage and demand response programs, including any impact on energy savings, electric bills, peak load reduction, electric reliability, integration of renewable resources, and the environment.
+
+    (iv) *Requirements.—* — In carrying out this paragraph, the Secretary shall require that grid-enabled water heaters be equipped with communication capability to enable the grid-enabled water heaters to participate in ancillary services programs if the Secretary determines that the technology is available, practical, and cost-effective.
+
 **(f) Standards for furnaces and boilers**
 
 (1) Furnaces (other than furnaces designed solely for installation in mobile homes) manufactured on or after January 1, 1992, shall have an annual fuel utilization efficiency of not less than 78 percent, except that—
@@ -4990,6 +5052,8 @@ Paragraph (19) of [section 6292(a) of this title](https://uscode.house.gov/view.
 Subsection (i), referred to in subsec. (l)(4)(F)(ii)(I), was amended by Pub. L. 110–140, title III, § 322(b), Dec. 19, 2007, 121 Stat. 1588, by striking out par. (1) and adding a new par. (1), and as so amended, subsec. (i)(1)(A) does not relate to maximum wattage requirements. However, provisions similar to those contained in former subsec. (i)(1)(A) are now contained in subsec. (i)(1)(B). See 2007 Amendment notes below.
 
 #### Amendments
+2015—Subsec. (e)(6). Pub. L. 114–11 added par. (6).
+
 2014—Subsec. (u)(5). Pub. L. 113–263 added par. (5).
 
 2012—Subsec. (d)(4). Pub. L. 112–210, § 5(a), added par. (4).
@@ -5520,21 +5584,33 @@ Any covered product offered for importation in violation of [section 6302 of thi
 
 (4) for any person to fail to comply with an applicable requirement of section 6296(a), (b)(2), (b)(3), or (b)(5) of this title;
 
-(5) for any manufacturer or private labeler to distribute in commerce any new covered product which is not in conformity with an applicable energy conservation standard established in or prescribed under this part, except to the extent that the new covered product is covered by a regional standard that is more stringent than the base national standard; or
+(5) for any manufacturer or private labeler to distribute in commerce any new covered product which is not in conformity with an applicable energy conservation standard established in or prescribed under this part, except to the extent that the new covered product is covered by a regional standard that is more stringent than the base national standard;
 
-(6) 11 So in original. Two pars. (6) have been enacted. for any manufacturer or private labeler to knowingly sell a product to a distributor, contractor, or dealer with knowledge that the entity routinely violates any regional standard applicable to the product.
+(6) for any manufacturer or private labeler to knowingly sell a product to a distributor, contractor, or dealer with knowledge that the entity routinely violates any regional standard applicable to the product;
 
-(6) 1 for any manufacturer, distributor, retailer, or private labeler to distribute in commerce an adapter that—
+(7) for any manufacturer, distributor, retailer, or private labeler to distribute in commerce an adapter that—
 
   (A) is designed to allow an incandescent lamp that does not have a medium screw base to be installed into a fixture or lampholder with a medium screw base socket; and
 
-  (B) is capable of being operated at a voltage range at least partially within 110 and 130 volts.
+  (B) is capable of being operated at a voltage range at least partially within 110 and 130 volts; or
+
+(8) for any person—
+
+  (A) to activate an activation lock for a grid-enabled water heater with knowledge that such water heater is not used as part of an electric thermal storage or demand response program;
+
+  (B) to distribute an activation key for a grid-enabled water heater with knowledge that such activation key will be used to activate a grid-enabled water heater that is not used as part of an electric thermal storage or demand response program;
+
+  (C) to otherwise enable a grid-enabled water heater to operate at its designed specification and capabilities with knowledge that such water heater is not used as part of an electric thermal storage or demand response program; or
+
+  (D) to knowingly remove or render illegible the label of a grid-enabled water heater described in [section 6295(e)(6)(A)(ii)(V) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/e/6/A/ii/V&num=0&edition=prelim).
 
 **(b) “New covered product” defined** For purposes of this section, the term “new covered product” means a covered product the title of which has not passed to a purchaser who buys such product for purposes other than (1) reselling such product, or (2) leasing such product for a period in excess of one year.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(6) to (8). Pub. L. 114–11 redesignated par. (6) relating to prohibition of distribution in commerce of certain adapters as (7) and added par. (8).
+
 2007—Subsec. (a)(4). Pub. L. 110–140, § 321(e)(1), which directed the striking out of “or” after semicolon at end, could not be executed after amendment by Pub. L. 110–140, § 306(b)(1). See below.
 
 Pub. L. 110–140, § 306(b)(1), struck out “or” after semicolon at end.
@@ -5559,7 +5635,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 <a id="section-6305"></a>
 ## § 6305. Enforcement
-**(a) In general** Except as provided in subsection (c) of this section, any person who knowingly violates any provision of [section 6302 of this title](./chapter-077-energy-conservation.md#section-6302) shall be subject to a civil penalty of not more than $100 for each violation. Such penalties shall be assessed by the Commission, except that penalties for violations of [section 6302(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/3&num=0&edition=prelim) which relate to requirements prescribed by the Secretary, violations of [section 6302(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/4&num=0&edition=prelim) which relate to requests of the Secretary under [section 6296(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6296/b/2&num=0&edition=prelim), or violations of [section 6302(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/5&num=0&edition=prelim) shall be assessed by the Secretary. Civil penalties assessed under this part may be compromised by the agency or officer authorized to assess the penalty, taking into account the nature and degree of the violation and the impact of the penalty upon a particular respondent. Each violation of paragraph (1), (2), or (5) of [section 6302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a&num=0&edition=prelim) shall constitute a separate violation with respect to each covered product, and each day of violation of section 6302(a)(3) or (4) of this title shall constitute a separate violation.
+**(a) In general** Except as provided in subsection (c) of this section, any person who knowingly violates any provision of [section 6302 of this title](./chapter-077-energy-conservation.md#section-6302) shall be subject to a civil penalty of not more than $100 for each violation. Such penalties shall be assessed by the Commission, except that penalties for violations of [section 6302(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/3&num=0&edition=prelim) which relate to requirements prescribed by the Secretary, violations of [section 6302(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/4&num=0&edition=prelim) which relate to requests of the Secretary under [section 6296(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6296/b/2&num=0&edition=prelim), or violations of paragraph (5), (6), (7), or (8) of [section 6302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a&num=0&edition=prelim) shall be assessed by the Secretary. Civil penalties assessed under this part may be compromised by the agency or officer authorized to assess the penalty, taking into account the nature and degree of the violation and the impact of the penalty upon a particular respondent. Each violation of paragraph (1), (2), (5), (6), (7), or (8) of [section 6302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a&num=0&edition=prelim) shall constitute a separate violation with respect to each covered product, and each day of violation of section 6302(a)(3) or (4) of this title shall constitute a separate violation.
 
 **(b) “Knowingly” defined** As used in subsection (a) of this section, the term “knowingly” means (1) the having of actual knowledge, or (2) the presumed having of knowledge deemed to be possessed by a reasonable man who acts in the circumstances, including knowledge obtainable upon the exercise of due care.
 
@@ -5598,6 +5674,8 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–11 substituted “paragraph (5), (6), (7), or (8) of section 6302(a)” for “section 6302(a)(5)” and “paragraph (1), (2), (5), (6), (7), or (8) of section 6302(a)” for “paragraph (1), (2), or (5) of section 6302(a)”.
+
 1987—Pub. L. 100–12 inserted headings for subsecs. (a) to (d).
 
 1978—Subsec. (a). Pub. L. 95–619, §§ 425(e)(1), 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing, and “subsection (c) of this section” for “subsection (b) of this section”.
@@ -5610,11 +5688,13 @@ Subsec. (d). Pub. L. 95–619, § 423, added subsec. (d).
 <a id="section-6306"></a>
 ## § 6306. Injunctive enforcement
 
-The United States district courts shall have jurisdiction to restrain (1) any violation of [section 6302 of this title](./chapter-077-energy-conservation.md#section-6302) and (2) any person from distributing in commerce any covered product which does not comply with an applicable rule under section 6294 or 6295 of this title. Any such action shall be brought by the Commission, except that any such action to restrain any violation of [section 6302(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/3&num=0&edition=prelim) which relates to requirements prescribed by the Secretary, any violation of [section 6302(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/4&num=0&edition=prelim) which relates to requests of the Secretary under [section 6296(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6296/b/2&num=0&edition=prelim), or any violation of [section 6302(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/5&num=0&edition=prelim) shall be brought by the Secretary. Any such action to restrain any person from distributing in commerce a general service incandescent lamp that does not comply with the applicable standard established under [section 6295(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/i&num=0&edition=prelim) or an adapter prohibited under [section 6302(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/6&num=0&edition=prelim) may also be brought by the attorney general of a State in the name of the State. Any such action may be brought in any United States district court for a district wherein any act, omission, or transaction constituting the violation occurred, or in such court for the district wherein the defendant is found or transacts business. In any action under this section, process may be served on a defendant in any other district in which the defendant resides or may be found.
+The United States district courts shall have jurisdiction to restrain (1) any violation of [section 6302 of this title](./chapter-077-energy-conservation.md#section-6302) and (2) any person from distributing in commerce any covered product which does not comply with an applicable rule under section 6294 or 6295 of this title. Any such action shall be brought by the Commission, except that any such action to restrain any violation of [section 6302(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/3&num=0&edition=prelim) which relates to requirements prescribed by the Secretary, any violation of [section 6302(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/4&num=0&edition=prelim) which relates to requests of the Secretary under [section 6296(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6296/b/2&num=0&edition=prelim), or any violation of paragraph (5), (6), (7), or (8) of [section 6302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a&num=0&edition=prelim) shall be brought by the Secretary. Any such action to restrain any person from distributing in commerce a general service incandescent lamp that does not comply with the applicable standard established under [section 6295(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/i&num=0&edition=prelim) or an adapter prohibited under [section 6302(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/7&num=0&edition=prelim) may also be brought by the attorney general of a State in the name of the State. Any such action may be brought in any United States district court for a district wherein any act, omission, or transaction constituting the violation occurred, or in such court for the district wherein the defendant is found or transacts business. In any action under this section, process may be served on a defendant in any other district in which the defendant resides or may be found.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–11 substituted “paragraph (5), (6), (7), or (8) of section 6302(a)” for “section 6302(a)(5)” and “section 6302(a)(6)” for “section 6302(a)(6)”.
+
 2007—Pub. L. 110–140 inserted after second sentence “Any such action to restrain any person from distributing in commerce a general service incandescent lamp that does not comply with the applicable standard established under [section 6295(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/i&num=0&edition=prelim) or an adapter prohibited under [section 6302(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/6&num=0&edition=prelim) may also be brought by the attorney general of a State in the name of the State.”
 
 1978—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.

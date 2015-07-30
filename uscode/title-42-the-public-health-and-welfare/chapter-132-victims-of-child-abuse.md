@@ -50,7 +50,7 @@ For purposes of this subchapter—
 
 (4) the term “census region” means 1 of the 4 census regions (northeast, south, midwest, and west) that are designated as census regions by the Bureau of the Census as of November 4, 1992;
 
-(5) the term “child abuse” means physical or sexual abuse or neglect of a child;
+(5) the term “child abuse” means physical or sexual abuse or neglect of a child, including human trafficking and the production of child pornography;
 
 (6) the term “Director” means the Director of the National Center on Child Abuse and Neglect;
 
@@ -64,6 +64,9 @@ For purposes of this subchapter—
 
 #### Prior Provisions
 A prior section 212 of Pub. L. 101–647 was renumbered section 214 and is classified to [section 13002 of this title](./chapter-132-victims-of-child-abuse.md#section-13002).
+
+#### Amendments
+2015—Par. (5). Pub. L. 114–22 inserted “, including human trafficking and the production of child pornography” before semicolon at end.
 
 
 <a id="section-13001b"></a>
@@ -243,7 +246,9 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 ## § 13002. Local children’s advocacy centers
 **(a) In general** The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, shall make grants to develop and implement multidisciplinary child abuse investigation and prosecution programs.
 
-**(b) Grant criteria**
+**(b) Direct services for victims of child pornography** The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, may make grants to develop and implement specialized programs to identify and provide direct services to victims of child pornography.
+
+**(c) Grant criteria**
 
 (1) The Director shall establish the criteria to be used in evaluating applications for grants under this section consistent with sections 5673 and 5676 of this title.
 
@@ -269,9 +274,9 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
   (J) Such other criteria as the Director shall establish by regulation.
 
-**(c) Distribution of grants** In awarding grants under this section, the Director shall ensure that grants are distributed to both large and small States and to rural, suburban, and urban jurisdictions.
+**(d) Distribution of grants** In awarding grants under this section, the Director shall ensure that grants are distributed to both large and small States and to rural, suburban, and urban jurisdictions.
 
-**(d) Consultation with regional children’s advocacy centers** A grant recipient under this section shall consult from time to time with regional children’s advocacy centers in its census region that are grant recipients under [section 13001b of this title](./chapter-132-victims-of-child-abuse.md#section-13001b).
+**(e) Consultation with regional children’s advocacy centers** A grant recipient under this section shall consult from time to time with regional children’s advocacy centers in its census region that are grant recipients under [section 13001b of this title](./chapter-132-victims-of-child-abuse.md#section-13001b).
 
 ### Statutory Notes
 
@@ -279,6 +284,8 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 A prior section 214 of Pub. L. 101–647 was renumbered section 214B and is classified to [section 13004 of this title](./chapter-132-victims-of-child-abuse.md#section-13004).
 
 #### Amendments
+2015—Subsecs. (b) to (e). Pub. L. 114–22 added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
+
 2002—Subsec. (b)(1). Pub. L. 107–273 substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
 
 1992—Pub. L. 102–586, § 6(c)(1), substituted “Local children’s advocacy centers” for “Authority of Director to make grants” in section catchline.

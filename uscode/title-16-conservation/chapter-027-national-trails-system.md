@@ -393,7 +393,7 @@ Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
 
 (2) the areas adjacent to such trails, to be utilized for scenic, historic, natural, cultural, or developmental, purposes;
 
-(3) the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 (49 Stat. 666);
+(3) the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 (49 Stat. 666; [16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461)); 11 See References in Text note below.
 
 (4) the current status of land ownership and current and potential use along the designated route;
 
@@ -792,7 +792,7 @@ Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
 #### References in Text
 The Chesapeake Bay Initiative Act of 1998, referred to in subsecs. (a)(25)(C)(i)(I) and (c)(40)(C), (43)(B)(i), is title V of Pub. L. 105–312, Oct. 30, 1998, 112 Stat. 2961, which is classified as a note under [section 320101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim), National Park Service and Related Programs. For complete classification of this Act to the Code, see Tables.
 
-The Historic Sites Act of 1935 (49 Stat. 666), referred to in subsec. (b)(3), which is also known as the Historic Sites, Buildings, and Antiquities Act, is act Aug. 21, 1935, ch. 593, 49 Stat. 666. For complete classification of this Act to the Code, see Tables.
+The Historic Sites Act of 1935 (49 Stat. 666; [16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461)), referred to in subsec. (b)(3), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, also known as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, and [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
 Section 603 of the Omnibus Parks and Public Lands Management Act of 1996, referred to in subsec. (c)(40)(C), is section 603 of Pub. L. 104–333, div. I, title VI, Nov. 12, 1996, 110 Stat. 1384, which was formerly set out as a note under [section 1a–5 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1a-5).
 

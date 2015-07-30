@@ -28,7 +28,7 @@ If any provision of Pub. L. 102–242 or any application of any provision thereo
 
 <a id="section-4302"></a>
 ## § 4302. Disclosure of interest rates and terms of accounts
-**(a) In general** Except as provided in subsections (b) and (c) of this section, each advertisement, announcement, or solicitation initiated by any depository institution or deposit broker relating to any demand or interest-bearing account offered by an insured depository institution which includes any reference to a specific rate of interest payable on amounts deposited in such account, or to a specific yield or rate of earnings on amounts so deposited, shall state the following information, to the extent applicable, in a clear and conspicuous manner:
+**(a) In general** Except as provided in subsections (b) and (c), each advertisement, announcement, or solicitation initiated by any depository institution or deposit broker relating to any demand or interest-bearing account offered by an insured depository institution which includes any reference to a specific rate of interest payable on amounts deposited in such account, or to a specific yield or rate of earnings on amounts so deposited, shall state the following information, to the extent applicable, in a clear and conspicuous manner:
 
 (1) The annual percentage yield.
 
@@ -42,7 +42,7 @@ If any provision of Pub. L. 102–242 or any application of any provision thereo
 
 (6) A statement that an interest penalty is required for early withdrawal.
 
-**(b) Broadcast and electronic media and outdoor advertising exception** The Bureau may, by regulation, exempt advertisements, announcements, or solicitations made by any broadcast or electronic medium or outdoor advertising display not on the premises of the depository institution from any disclosure requirements described in paragraph (4) or (5) of subsection (a) of this section if the Bureau finds that any such disclosure would be unnecessarily burdensome.
+**(b) Broadcast and electronic media and outdoor advertising exception** The Bureau may, by regulation, exempt advertisements, announcements, or solicitations made by any broadcast or electronic medium or outdoor advertising display not on the premises of the depository institution from any disclosure requirements described in paragraph (4) or (5) of subsection (a) if the Bureau finds that any such disclosure would be unnecessarily burdensome.
 
 **(c) Disclosure required for on-premises displays** The disclosure requirements contained in this section shall not apply to any sign (including a rate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
 
@@ -81,7 +81,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 ## § 4303. Account schedule
 **(a) In general** Each depository institution shall maintain a schedule of fees, charges, interest rates, and terms and conditions applicable to each class of accounts offered by the depository institution, in accordance with the requirements of this section and regulations which the Bureau shall prescribe. The Bureau shall specify, in regulations, which fees, charges, penalties, terms, conditions, and account restrictions must be included in a schedule required under this subsection. A depository institution need not include in such schedule any information not specified in such regulation.
 
-**(b) Information on fees and charges** The schedule required under subsection (a) of this section with respect to any account shall contain the following information:
+**(b) Information on fees and charges** The schedule required under subsection (a) with respect to any account shall contain the following information:
 
 (1) A description of all fees, periodic service charges, and penalties which may be charged or assessed against the account (or against the account holder in connection with such account), the amount of any such fees, charge, or penalty (or the method by which such amount will be calculated), and the conditions under which any such amount will be assessed.
 
@@ -89,7 +89,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 (3) Any minimum amount required with respect to the initial deposit in order to open the account.
 
-**(c) Information on interest rates** The schedule required under subsection (a) of this section with respect to any account shall include the following information:
+**(c) Information on interest rates** The schedule required under subsection (a) with respect to any account shall include the following information:
 
 (1) Any annual percentage yield.
 
@@ -111,9 +111,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 (10) Any provision or requirement relating to nonpayment of interest, including any charge or penalty for early withdrawal, and the conditions under which any such charge or penalty may be assessed.
 
-**(d) Other information** The schedule required under subsection (a) of this section shall include such other disclosures as the Bureau may determine to be necessary to allow consumers to understand and compare accounts, including frequency of interest rate adjustments, account restrictions, and renewal policies for time accounts.
+**(d) Other information** The schedule required under subsection (a) shall include such other disclosures as the Bureau may determine to be necessary to allow consumers to understand and compare accounts, including frequency of interest rate adjustments, account restrictions, and renewal policies for time accounts.
 
-**(e) Style and format** Schedules required under subsection (a) of this section shall be written in clear and plain language and be presented in a format designed to allow consumers to readily understand the terms of the accounts offered.
+**(e) Style and format** Schedules required under subsection (a) shall be written in clear and plain language and be presented in a format designed to allow consumers to readily understand the terms of the accounts offered.
 
 ### Statutory Notes
 
@@ -201,7 +201,7 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 ## § 4306. Payment of interest
 **(a) Calculated on full amount of principal** Interest on an interest-bearing account at any depository institution shall be calculated by such institution on the full amount of principal in the account for each day of the stated calculation period at the rate or rates of interest disclosed pursuant to this chapter.
 
-**(b) No particular method of compounding interest required** Subsection (a) of this section shall not be construed as prohibiting or requiring the use of any particular method of compounding or crediting of interest.
+**(b) No particular method of compounding interest required** Subsection (a) shall not be construed as prohibiting or requiring the use of any particular method of compounding or crediting of interest.
 
 **(c) Date by which interest must accrue** Interest on accounts that are subject to this chapter shall begin to accrue not later than the business day specified for interest-bearing accounts in [section 4005 of this title](./chapter-041-expedited-funds-availability.md#section-4005), subject to subsections (b) and (c) of such section.
 
@@ -294,11 +294,11 @@ Amendment by section 1604 of Pub. L. 102–550 effective as if included in the F
 
 **(b) Additional enforcement powers**
 
-(1) **Violation of this chapter treated as violation of other Acts** — For purposes of the exercise by any agency referred to in subsection (a) of this section of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
+(1) **Violation of this chapter treated as violation of other Acts** — For purposes of the exercise by any agency referred to in subsection (a) of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
 
-(2) **Enforcement authority under other Acts** — In addition to the powers of any agency referred to in subsection (a) of this section under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law.
+(2) **Enforcement authority under other Acts** — In addition to the powers of any agency referred to in subsection (a) under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law.
 
-**(c) Regulations by agencies other than the Bureau** The authority of the Bureau to issue regulations under this chapter does not impair the authority of any other agency referred to in subsection (a) of this section to make rules regarding its own procedures in enforcing compliance with the requirements imposed under this chapter.
+**(c) Regulations by agencies other than the Bureau** The authority of the Bureau to issue regulations under this chapter does not impair the authority of any other agency referred to in subsection (a) to make rules regarding its own procedures in enforcing compliance with the requirements imposed under this chapter.
 
 ### Statutory Notes
 

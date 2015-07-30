@@ -113,7 +113,7 @@ Richard Nixon.
 
 **(e)**
 
-(1) The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978. The Postmaster General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of Department of the Treasury law enforcement organizations (described in section 9703(p) 11 See References in Text note below. of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Postal Service. Neither the Fund nor any of the funds credited to it shall be subject to apportionment under the provisions of subchapter II of chapter 15 of title 31.
+(1) The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978. The Postmaster General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of Department of the Treasury law enforcement organizations (described in section 9705(o) of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Postal Service. Neither the Fund nor any of the funds credited to it shall be subject to apportionment under the provisions of subchapter II of chapter 15 of title 31.
 
 (2) Funds appropriated to the Postal Service under [section 2401 of this title](./chapter-024-appropriations-and-annual-report.md#section-2401) shall be apportioned as provided in this paragraph. From the total amounts appropriated to the Postal Service for any fiscal year under the authorizations contained in [section 2401 of this title](./chapter-024-appropriations-and-annual-report.md#section-2401), the Secretary of the Treasury shall make available to the Postal Service 25 percent of such amount at the beginning of each quarter of such fiscal year.
 
@@ -130,14 +130,14 @@ Former [section 2202 of title 39](https://uscode.house.gov/view.xhtml?req=granul
 
 The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-[Section 9703(p) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703/p&num=0&edition=prelim), referred to in subsec. (e)(1), probably means the [section 9703 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703&num=0&edition=prelim) added by section 638(b)(1) of Pub. L. 102–393, title VI, Oct. 6, 1992, 106 Stat. 1779.
-
 Section 2004, as in effect before the effective date of this subsection, referred to in subsec. (h), means [section 2004 of this title](./chapter-020-finance.md#section-2004), as in effect before Oct. 1, 1997. Section 2004 was repealed by Pub. L. 105–33, title VII, § 7003(a)(1), Aug. 5, 1997, 111 Stat. 663.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2015—Subsec. (e)(1). Pub. L. 114–22 substituted “section 9705(o)” for “section 9703(p)”.
+
 2006—Subsec. (a). Pub. L. 109–435, § 401(b)(3)(A), substituted “title (other than any of the purposes, functions, or powers for which the Competitive Products Fund is available)” for “title”.
 
 Subsec. (b). Pub. L. 109–435, § 401(b)(3)(B), substituted “Except as otherwise provided in section 2011, there” for “There”.

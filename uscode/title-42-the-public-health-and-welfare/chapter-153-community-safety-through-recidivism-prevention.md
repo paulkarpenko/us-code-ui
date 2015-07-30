@@ -304,7 +304,7 @@ Section 113, referred to in par. (1), means section 113 of Pub. L. 110–199, wh
 
   (A) mentoring eligible offenders, including the provision of support, guidance, and assistance in the community and the workplace to address the challenges faced by such offenders;
 
-  (B) providing job training and job placement services to eligible offenders, including work readiness activities, job referrals, basic skills remediation, educational services, occupational skills training, on-the-job training, work experience, and post-placement support, in coordination with the one-stop partners and one-stop operators (as such terms are defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)) that provide services at any center operated under a one-stop delivery system established under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim), businesses, and educational institutions; and
+  (B) providing job training and job placement services to eligible offenders, including work readiness activities, job referrals, basic skills remediation, educational services, occupational skills training, on-the-job training, work experience, and post-placement support, in coordination with the one-stop partners and one-stop operators (as such terms are defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)) that provide services at any center operated under a one-stop delivery system established under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim), businesses, and educational institutions; and
 
   (C) providing outreach, orientation, intake, assessments, counseling, case management, and other transitional services to eligible offenders, including prerelease outreach and orientation.
 
@@ -326,7 +326,7 @@ Section 113, referred to in par. (1), means section 113 of Pub. L. 110–199, wh
 
     (ii) a description of the mentoring, job training and job placement, and other services to be provided;
 
-    (iii) a description of partnerships that have been established with the criminal justice system (including coordination with demonstration projects carried out under [section 3797w of this title](./chapter-046-justice-system-improvement.md#section-3797w), as amended by this Act, where applicable), the local workforce investment boards established under [section 2832 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim)),11 So in original. The closing parenthesis probably should not appear. and housing authorities that will be used to assist in carrying out grant activities under this section; and
+    (iii) a description of partnerships that have been established with the criminal justice system (including coordination with demonstration projects carried out under [section 3797w of this title](./chapter-046-justice-system-improvement.md#section-3797w), as amended by this Act, where applicable), the local workforce development boards established under [section 3122 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122&num=0&edition=prelim), and housing authorities that will be used to assist in carrying out grant activities under this section; and
 
     (iv) a description of how other Federal, State, local, or private funding will be leveraged to provide support services that are not directly funded under this section, such as mental health and substance abuse treatment and housing.
 
@@ -360,15 +360,6 @@ Section 113, referred to in par. (1), means section 113 of Pub. L. 110–199, wh
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(bb)(1), July 22, 2014, 128 Stat. 1703, 1717, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
-
-(1) in subsection (c)(1)(B), by striking “in coordination with the one-stop partners and one-stop operators (as such terms are defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)) that provide services at any center operated under a one-stop delivery system established under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim),” and inserting “in coordination with the one-stop partners and one-stop operators (as such terms are defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)) that provide services at any center operated under a one-stop delivery system established under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim),”; and
-
-(2) in subsection (d)(1)(B)(iii), by striking “the local workforce investment boards established under [section 2832 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim)),” and inserting “the local workforce development boards established under [section 3122 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122&num=0&edition=prelim),”.
-
-See 2014 Amendment notes below.
-
 #### References in Text
 [Section 3797w of this title](./chapter-046-justice-system-improvement.md#section-3797w), as amended by this Act, referred to in subsec. (d)(1)(B)(iii), is [section 3797w of this title](./chapter-046-justice-system-improvement.md#section-3797w), as amended by Pub. L. 110–199.
 
@@ -378,7 +369,7 @@ See 2014 Amendment notes below.
 Subsec. (d)(1)(B)(iii). Pub. L. 113–128, § 512(bb)(1)(B), substituted “the local workforce development boards established under [section 3122 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122&num=0&edition=prelim),” for “the local workforce investment boards established under [section 2832 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim)),”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-17552"></a>
@@ -483,7 +474,7 @@ Amendment by Pub. L. 113—128 effective on the first day of the first full prog
 
 (5) **Medical care** — The Bureau of Prisons shall provide the United States Probation and Pretrial Services System with relevant information on the medical care needs and the mental health treatment needs of inmates scheduled for release from custody. The United States Probation and Pretrial Services System shall take this information into account when developing supervision plans in an effort to address the medical care and mental health care needs of such individuals. The Bureau of Prisons shall provide inmates with a sufficient amount of all necessary medications (which will normally consist of, at a minimum, a 2-week supply of such medications) upon release from custody.
 
-**(e) Encouragement of employment of former prisoners** The Attorney General, in consultation with the Secretary of Labor, shall take such steps as are necessary to educate employers and the one-stop partners and one-stop operators (as such terms are defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)) that provide services at any center operated under a one-stop delivery system established under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim) regarding incentives (including the Federal bonding program of the Department of Labor and tax credits) for hiring former Federal, State, or local prisoners.
+**(e) Encouragement of employment of former prisoners** The Attorney General, in consultation with the Secretary of Labor, shall take such steps as are necessary to educate employers and the one-stop partners and one-stop operators (as such terms are defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)) that provide services at any center operated under a one-stop delivery system established under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim) regarding incentives (including the Federal bonding program of the Department of Labor and tax credits) for hiring former Federal, State, or local prisoners.
 
 **(f) Omitted**
 
@@ -555,9 +546,6 @@ Amendment by Pub. L. 113—128 effective on the first day of the first full prog
 
 ### Statutory Notes
 
-#### Amendment of Subsection (e)
-Pub. L. 113–128, title V, §§ 506, 512(bb)(2), July 22, 2014, 128 Stat. 1703, 1717, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (e) of this section is amended by striking “the one-stop partners and one-stop operators (as such terms are defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)) that provide services at any center operated under a one-stop delivery system established under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)” and inserting “the one-stop partners and one-stop operators (as such terms are defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)) that provide services at any center operated under a one-stop delivery system established under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)”. See 2014 Amendment note below.
-
 #### Codification
 Section is comprised of section 231 of Pub. L. 110–199. Subsec. (d)(1) of section 231 of Pub. L. 110–199 amended [section 4042(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4042/a&num=0&edition=prelim), Crimes and Criminal Procedure. Subsec. (f) of section 231 of Pub. L. 110–199 amended [section 3621 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3621&num=0&edition=prelim).
 
@@ -565,7 +553,7 @@ Section is comprised of section 231 of Pub. L. 110–199. Subsec. (d)(1) of sect
 2014—Subsec. (e). Pub. L. 113–128 substituted “the one-stop partners and one-stop operators (as such terms are defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)) that provide services at any center operated under a one-stop delivery system established under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)” for “the one-stop partners and one-stop operators (as such terms are defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)) that provide services at any center operated under a one-stop delivery system established under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-17555"></a>

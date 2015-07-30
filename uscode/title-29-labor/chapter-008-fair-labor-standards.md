@@ -1724,6 +1724,9 @@ Subsec. (d). Act Oct. 26, 1949, added par. (d).
 
 1939—Subsec. (a)(11). Act Aug. 9, 1939, added par. (11).
 
+#### Effective Date of of 2014 Amendment
+Amendment by Pub. L. 113–277 effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see section 2(i) of Pub. L. 113–277, set out as a note under [section 5542 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5542&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 1998 Amendment
 Pub. L. 105–334, § 2(b), Oct. 31, 1998, 112 Stat. 3138, provided that: “(1) In general.—This Act [amending this section and enacting provisions set out as a note under [section 201 of this title](./chapter-008-fair-labor-standards.md#section-201)] shall become effective on the date of the enactment of this Act [Oct. 31, 1998]. “(2) Exception.—The amendment made by subsection (a) [amending this section] defining the term ‘occasional and incidental’ shall also apply to any case, action, citation, or appeal pending on the date of the enactment of this Act unless such case, action, citation, or appeal involves property damage or personal injury.”
 

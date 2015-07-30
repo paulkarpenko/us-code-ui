@@ -698,18 +698,15 @@ The State approving agency, upon determining that an educational institution has
 
 **(b)** Each State approving agency shall notify the Secretary of each course which it has disapproved under this section. The Secretary shall notify the State approving agency of the Secretary’s disapproval of any educational institution under chapter 31 of this title.
 
-### Statutory Notes
+**(c)**
 
-#### Amendment of Section
-Pub. L. 113—146, title VII, § 702, Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, § 409(i), Sept. 26, 2014, 128 Stat. 1908, provided that, applicable with respect to educational assistance provided for pursuit of a program of education during a quarter, semester, or term, as applicable, that begins after July 1, 2015, this section is amended by adding at the end the following new subsection:
-
-(c)(1) Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning if the institution charges tuition and fees for that course for covered individuals who are pursuing the course with educational assistance under chapter 30 or 33 of this title while living in the State in which the institution is located at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual’s State of residence.
+(1) Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning if the institution charges tuition and fees for that course for covered individuals who are pursuing the course with educational assistance under chapter 30 or 33 of this title while living in the State in which the institution is located at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual’s State of residence.
 
 (2) For purposes of this subsection, a covered individual is any individual as follows:
 
-(A) A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, or air service less than three years before the date of enrollment in the course concerned.
+  (A) A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, or air service less than three years before the date of enrollment in the course concerned.
 
-(B) An individual who is entitled to assistance under section 3311(b)(9) or 3319 of this title by virtue of such individual’s relationship to a veteran described in subparagraph (A).
+  (B) An individual who is entitled to assistance under section 3311(b)(9) or 3319 of this title by virtue of such individual’s relationship to a veteran described in subparagraph (A).
 
 (3) If after enrollment in a course of education that is subject to disapproval under paragraph (1) by reason of paragraph (2)(A) or (2)(B) a covered individual pursues one or more courses of education at the same public institution of higher learning while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters or terms) at that institution of higher learning, any course so pursued by the covered individual at that institution of higher learning while so continuously enrolled shall also be subject to disapproval under paragraph (1).
 
@@ -719,12 +716,12 @@ Pub. L. 113—146, title VII, § 702, Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113�
 
 (6) Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30 and 33 of this title.
 
-See 2014 Amendment notes below.
+### Statutory Notes
 
 #### Amendments
 2014—Subsec. (c). Pub. L. 113–146 added subsec. (c).
 
-Subsec. (c)(1). Pub. L. 113–175 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning to a covered individual pursuing a course of education with educational assistance under chapter 30 or 33 of this title while living in the State in which the public institution of higher learning is located if the institution charges tuition and fees for that course for the covered individual at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual’s State of residence.”
+Subsec. (c)(1). Pub. L. 113–175, which directed amendment of par. (1) generally, was executed by amending par. (1) as added by Pub. L. 113–146, applicable with respect to educational assistance provided for pursuit of a program of education during a quarter, semester, or term that begins after July 1, 2015, to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning to a covered individual pursuing a course of education with educational assistance under chapter 30 or 33 of this title while living in the State in which the public institution of higher learning is located if the institution charges tuition and fees for that course for the covered individual at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual’s State of residence.” See Effective Date of 2014 Amendment note below.
 
 2011—Subsec. (a). Pub. L. 111–377 inserted “the Secretary or” after “disapproved by” in two places.
 

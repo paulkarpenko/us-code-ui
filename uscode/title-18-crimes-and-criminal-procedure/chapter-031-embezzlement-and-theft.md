@@ -785,29 +785,18 @@ Pub. L. 87–420, § 1, Mar. 20, 1962, 76 Stat. 35, provided: “That this Act [
 
 <a id="section-665"></a>
 ## § 665. Theft or embezzlement from employment and training funds; improper inducement; obstruction of investigations
-**(a)** Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 knowingly enrolls an ineligible participant, embezzles, willfully misapplies, steals, or obtains by fraud any of the moneys, funds, assets, or property which are the subject of a financial assistance agreement or contract pursuant to such Act shall be fined under this title or imprisoned for not more than 2 years, or both; but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $1,000, such person shall be fined under this title or imprisoned not more than 1 year, or both.
+**(a)** Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998 knowingly enrolls an ineligible participant, embezzles, willfully misapplies, steals, or obtains by fraud any of the moneys, funds, assets, or property which are the subject of a financial assistance agreement or contract pursuant to such Act shall be fined under this title or imprisoned for not more than 2 years, or both; but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $1,000, such person shall be fined under this title or imprisoned not more than 1 year, or both.
 
-**(b)** Whoever, by threat or procuring dismissal of any person from employment or of refusal to employ or refusal to renew a contract of employment in connection with a financial assistance agreement or contract under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 induces any person to give up any money or thing of any value to any person (including such organization or agency receiving funds) shall be fined under this title, or imprisoned not more than 1 year, or both.
+**(b)** Whoever, by threat or procuring dismissal of any person from employment or of refusal to employ or refusal to renew a contract of employment in connection with a financial assistance agreement or contract under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998 induces any person to give up any money or thing of any value to any person (including such organization or agency receiving funds) shall be fined under this title, or imprisoned not more than 1 year, or both.
 
-**(c)** Whoever willfully obstructs or impedes or willfully endeavors to obstruct or impede, an investigation or inquiry under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998, or the regulations thereunder, shall be punished by a fine under this title, or by imprisonment for not more than 1 year, or by both such fine and imprisonment.
+**(c)** Whoever willfully obstructs or impedes or willfully endeavors to obstruct or impede, an investigation or inquiry under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998, or the regulations thereunder, shall be punished by a fine under this title, or by imprisonment for not more than 1 year, or by both such fine and imprisonment.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(ee), July 22, 2014, 128 Stat. 1703, 1718, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
-
-(1) in subsection (a), by striking “Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” and inserting “Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998”;
-
-(2) in subsection (b), by striking “a contract of employment in connection with a financial assistance agreement or contract under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” and inserting “a contract of employment in connection with a financial assistance agreement or contract under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998”; and
-
-(3) in subsection (c), by striking “Whoever willfully obstructs or impedes or willfully endeavors to obstruct or impede, an investigation or inquiry under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” and inserting “Whoever willfully obstructs or impedes or willfully endeavors to obstruct or impede, an investigation or inquiry under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998,”.
-
-See 2014 Amendment notes below.
-
 #### References in Text
-The Job Training Partnership Act, referred to in text, is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
+The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
-The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113—128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former § 2801 et seq.) of Title 29, Labor. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section 711(a) of Pub. L. 93–203, cited as a credit to this section, was omitted in the general revision of Pub. L. 93–203 by Pub. L. 95–524.
@@ -846,7 +835,7 @@ Subsec. (b). Pub. L. 95–524 substituted “Comprehensive Employment and Traini
 Subsec. (c). Pub. L. 95–524 added subsec. (c).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-666"></a>

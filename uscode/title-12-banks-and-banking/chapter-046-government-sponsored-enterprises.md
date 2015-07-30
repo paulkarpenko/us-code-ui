@@ -726,7 +726,7 @@ For definitions of terms used in this section, see section 1002(b) of Pub. L. 11
 ## § 4518. Personnel
 **(a) In general** Subject to title III of the Federal Housing Finance Regulatory Reform Act of 2008, the Director may appoint and fix the compensation of such officers and employees of the Agency as the Director considers necessary to carry out the functions of the Director and the Agency. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates.
 
-**(b) Comparability of compensation with Federal banking agencies** In fixing and directing compensation under subsection (a) of this section, the Director shall consult with, and maintain comparability with compensation of officers and employees of the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
+**(b) Comparability of compensation with Federal banking agencies** In fixing and directing compensation under subsection (a), the Director shall consult with, and maintain comparability with compensation of officers and employees of the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
 
 **(c) Personnel of other Federal agencies** In carrying out the duties of the Agency, the Director may use information, services, staff, and facilities of any executive agency, independent agency, or department on a reimbursable basis, with the consent of such agency or department.
 
@@ -772,7 +772,7 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 **(b) Allocation of annual assessment to enterprises**
 
-(1) **Amount of payment** — Each enterprise shall pay to the Director a proportion of the annual assessment made pursuant to subsection (a) of this section that bears the same ratio to the total annual assessment that the total assets of each enterprise bears 11 So in original. Probably should be “bear”. to the total assets of both enterprises.
+(1) **Amount of payment** — Each enterprise shall pay to the Director a proportion of the annual assessment made pursuant to subsection (a) that bears the same ratio to the total annual assessment that the total assets of each enterprise bears 11 So in original. Probably should be “bear”. to the total assets of both enterprises.
 
 (2) **Separate treatment of Federal home loan bank and enterprise assessments** — Assessments collected from the enterprises shall not exceed the amounts sufficient to provide for the costs and expenses described in subsection (a) relating to the enterprises. Assessments collected from the Federal Home Loan Banks shall not exceed the amounts sufficient to provide for the costs and expenses described in subsection (a) relating to the Federal Home Loan Banks.
 
@@ -881,7 +881,7 @@ Pub. L. 103–124, title II, Oct. 28, 1993, 107 Stat. 1290, provided that notwit
 ## § 4519. Examinations
 **(a) Annual examination** The Director shall annually conduct an on-site examination under this section of each regulated entity to determine the condition of the regulated entity for the purpose of ensuring its financial safety and soundness.
 
-**(b) Other examinations** In addition to annual examinations under subsection (a) of this section, the Director may conduct an examination under this section of a regulated entity whenever the Director determines that an examination is necessary or appropriate.
+**(b) Other examinations** In addition to annual examinations under subsection (a), the Director may conduct an examination under this section of a regulated entity whenever the Director determines that an examination is necessary or appropriate.
 
 **(c) Examiners** The Director shall appoint examiners to conduct examinations under this section. The Director may contract with the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation for the services of examiners to conduct examinations under this section. The Director shall reimburse such agencies for any costs of providing examiners from amounts available in the Federal Housing Enterprises Oversight Fund.
 
@@ -941,7 +941,7 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 **(c) Withholding of compensation** In carrying out subsection (a), the Director may require a regulated entity to withhold any payment, transfer, or disbursement of compensation to an executive officer, or to place such compensation in an escrow account, during the review of the reasonableness and comparability of compensation.
 
-**(d) Prohibition of setting compensation** In carrying out subsection (a) of this section, the Director may not prescribe or set a specific level or range of compensation.
+**(d) Prohibition of setting compensation** In carrying out subsection (a), the Director may not prescribe or set a specific level or range of compensation.
 
 **(e) Authority to regulate or prohibit certain forms of benefits to affiliated parties**
 
@@ -1146,7 +1146,7 @@ Subsec. (f). Pub. L. 110–289, § 1116(5), added subsec. (f).
 
 (7) such other matters relating to the Agency and the fulfillment of its mission.
 
-**(b) Report on enforcement actions** Not later than March 15 of each year, the Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a written report describing, for the preceding calendar year, the requests by the Director to the Attorney General for enforcement actions under subchapter III of this chapter and describing the disposition of each request, which shall include statements of—
+**(b) Report on enforcement actions** Not later than March 15 of each year, the Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a written report describing, for the preceding calendar year, the requests by the Director to the Attorney General for enforcement actions under subchapter III and describing the disposition of each request, which shall include statements of—
 
 (1) the total number of requests made by the Director;
 
@@ -1183,19 +1183,19 @@ Subsec. (b). Pub. L. 110–289, § 1161(a)(6), substituted “Committee on Finan
 ## § 4525. Public disclosure of final orders and agreements
 **(a) In general** The Director shall make available to the public—
 
-(1) any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, in the Director’s discretion, determines that public disclosure would be contrary to the public interest or determines under subsection (c) of this section that public disclosure would seriously threaten the financial health or security of the enterprise;
+(1) any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, in the Director’s discretion, determines that public disclosure would be contrary to the public interest or determines under subsection (c) that public disclosure would seriously threaten the financial health or security of the enterprise;
 
-(2) any order that is issued with respect to any administrative enforcement proceeding initiated by the Director under subchapter III of this chapter and that has become final; and
+(2) any order that is issued with respect to any administrative enforcement proceeding initiated by the Director under subchapter III and that has become final; and
 
 (3) any modification to or termination of any final order made public pursuant to this subsection.
 
 **(b) Hearings** All hearings on the record with respect to any action of the Director or notice of charges issued by the Director shall be open to the public, unless the Director, in the Director’s discretion, determines that holding an open hearing would be contrary to the public interest.
 
-**(c) Delay of public disclosure under exceptional circumstances** If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) of this section would seriously threaten the financial health or security of the enterprise, the Director may delay the public disclosure of such order for a reasonable time.
+**(c) Delay of public disclosure under exceptional circumstances** If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) would seriously threaten the financial health or security of the enterprise, the Director may delay the public disclosure of such order for a reasonable time.
 
-**(d) Documents filed under seal in public enforcement hearings** The Director may file any document or part thereof under seal in any hearing under subchapter III of this chapter if the Director determines in writing that disclosure thereof would be contrary to the public interest.
+**(d) Documents filed under seal in public enforcement hearings** The Director may file any document or part thereof under seal in any hearing under subchapter III if the Director determines in writing that disclosure thereof would be contrary to the public interest.
 
-**(e) Retention of documents** The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) of this section and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under subchapter III of this chapter.
+**(e) Retention of documents** The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under subchapter III.
 
 **(f) Disclosures to Congress** This section may not be construed to authorize the withholding of any information from, or to prohibit the disclosure of any information to, the Congress or any committee or subcommittee thereof.
 
@@ -2620,7 +2620,7 @@ A prior section 4585, Pub. L. 102–550, title XIII, § 1345, Oct. 28, 1992, 106
 ## § 4589. Public disclosure of final orders and agreements
 **(a) In general** The Director shall make available to the public—
 
-(1) any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, in the Secretary’s 11 So in original. Probably should be “Director’s”. discretion, determines that public disclosure would be contrary to the public interest or determines under subsection (c) of this section that public disclosure would seriously threaten the financial health or security of the enterprise;
+(1) any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, in the Secretary’s 11 So in original. Probably should be “Director’s”. discretion, determines that public disclosure would be contrary to the public interest or determines under subsection (c) that public disclosure would seriously threaten the financial health or security of the enterprise;
 
 (2) any order that is issued with respect to any administrative enforcement proceeding initiated by the Director under this subpart and that has become final in accordance with sections 4582 and 4583 of this title; and
 
@@ -2628,11 +2628,11 @@ A prior section 4585, Pub. L. 102–550, title XIII, § 1345, Oct. 28, 1992, 106
 
 **(b) Hearings** All hearings with respect to any notice of charges issued by the Director shall be open to the public, unless the Director, in the Secretary’s 1 discretion, determines that holding an open hearing would be contrary to the public interest.
 
-**(c) Delay of public disclosure under exceptional circumstances** If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) of this section would seriously threaten the financial soundness of the enterprise, the Director may delay the public disclosure of such order for a reasonable time.
+**(c) Delay of public disclosure under exceptional circumstances** If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) would seriously threaten the financial soundness of the enterprise, the Director may delay the public disclosure of such order for a reasonable time.
 
 **(d) Documents filed under seal in public enforcement hearings** The Director may file any document or part thereof under seal in any hearing under this subpart if the Director determines in writing that disclosure thereof would be contrary to the public interest.
 
-**(e) Retention of documents** The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) of this section and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under this subpart.
+**(e) Retention of documents** The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under this subpart.
 
 **(f) Disclosures to Congress** This section may not be construed to authorize the withholding, or to prohibit the disclosure, of any information to the Congress or any committee or subcommittee thereof.
 
@@ -2705,7 +2705,7 @@ Section, Pub. L. 102–550, title XIII, § 1349, Oct. 28, 1992, 106 Stat. 3969, 
 
   (C) approve borrowers who have a credit history of delinquencies if the borrower can demonstrate a satisfactory credit history for at least the 12-month period ending on the date of the application for the mortgage.
 
-**(b) Report** Not later than the expiration of the 1-year period beginning on October 28, 1992, each enterprise shall submit to the Secretary, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate a report regarding the study conducted by the enterprise under subsection (a) of this section. Each report shall include any recommendations of the enterprise for better meeting the housing needs of low- and moderate-income families.
+**(b) Report** Not later than the expiration of the 1-year period beginning on October 28, 1992, each enterprise shall submit to the Secretary, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate a report regarding the study conducted by the enterprise under subsection (a). Each report shall include any recommendations of the enterprise for better meeting the housing needs of low- and moderate-income families.
 
 ### Statutory Notes
 
@@ -2924,7 +2924,7 @@ Pub. L. 110–289, div. A, title I, § 1141(b), July 30, 2008, 122 Stat. 2730, p
 
   (C) as critically undercapitalized, if the regulated entity is otherwise classified as significantly undercapitalized.
 
-**(d) Quarterly determination** The Director shall determine the capital classification of the regulated entities for purposes of this subchapter on not less than a quarterly basis (and as appropriate under subsection (c) of this section).
+**(d) Quarterly determination** The Director shall determine the capital classification of the regulated entities for purposes of this subchapter on not less than a quarterly basis (and as appropriate under subsection (c)).
 
 **(e) Restriction on capital distributions**
 
@@ -3048,7 +3048,7 @@ Subsec. (c). Pub. L. 110–289, § 1143(6), added subsec. (c) and struck out for
 
   (B) *Standard for approval* — The Director may approve a capital distribution by a regulated entity classified as significantly undercapitalized only if the Director determines that the distribution (i) will enhance the ability of the regulated entity to meet the risk-based capital level and the minimum capital level for the regulated entity promptly, (ii) will contribute to the long-term financial safety and soundness of the regulated entity, or (iii) is otherwise in the public interest.
 
-**(b) Specific actions** In addition to any other actions taken by the Director (including actions under subsection (a) of this section), the Director shall carry out this section by taking, at any time, 1 or more of the following actions with respect to a regulated entity that is classified as significantly undercapitalized:
+**(b) Specific actions** In addition to any other actions taken by the Director (including actions under subsection (a)), the Director shall carry out this section by taking, at any time, 1 or more of the following actions with respect to a regulated entity that is classified as significantly undercapitalized:
 
 (1) **Limitation on increase in obligations** — Limit any increase in, or order the reduction of, any obligations of the regulated entity, including off-balance sheet obligations.
 
@@ -4065,20 +4065,20 @@ The Federal Home Loan Mortgage Corporation Charter Act, referred to in subsec. (
 
 <a id="section-4623"></a>
 ## § 4623. Notice of classification and enforcement action
-**(a) Notice** Before taking any action referred to in subsection (b) of this section, the Director shall provide to the regulated entity written notice of the proposed action, which states the reasons for the proposed action and the information on which the proposed action is based.
+**(a) Notice** Before taking any action referred to in subsection (b), the Director shall provide to the regulated entity written notice of the proposed action, which states the reasons for the proposed action and the information on which the proposed action is based.
 
-**(b) Applicability** The requirements of subsection (a) of this section shall apply to the following actions:
+**(b) Applicability** The requirements of subsection (a) shall apply to the following actions:
 
 (1) Classification or reclassification of a regulated entity within a particular capital classification under [section 4614 of this title](./chapter-046-government-sponsored-enterprises.md#section-4614).
 
 (2) Any discretionary supervisory action pursuant to [section 4615 of this title](./chapter-046-government-sponsored-enterprises.md#section-4615).
 
 (3) Any discretionary supervisory action pursuant to [section 4616 of this title](./chapter-046-government-sponsored-enterprises.md#section-4616) except a decision to appoint a conservator under section 4616(b)(6) 11 See References in Text note below. of this title.
-Notice of classification under paragraph (1) and notice of supervisory actions under paragraph (2) or (3) may be provided together in a single notice under subsection (a) of this section.
+Notice of classification under paragraph (1) and notice of supervisory actions under paragraph (2) or (3) may be provided together in a single notice under subsection (a).
 
 **(c) Response period**
 
-(1) **In general** — During the 30-day period beginning on the date that a regulated entity is provided notice under subsection (a) of this section of a proposed action, the regulated entity may submit to the Director any information relevant to the action that the regulated entity considers appropriate for consideration by the Director in determining whether to take such action. The Director may, at the discretion of the Director, hold an informal administrative hearing to receive and discuss such information and the proposed determination.
+(1) **In general** — During the 30-day period beginning on the date that a regulated entity is provided notice under subsection (a) of a proposed action, the regulated entity may submit to the Director any information relevant to the action that the regulated entity considers appropriate for consideration by the Director in determining whether to take such action. The Director may, at the discretion of the Director, hold an informal administrative hearing to receive and discuss such information and the proposed determination.
 
 (2) **Extended period** — The Director may extend the period under paragraph (1) for good cause for not more than 30 additional days.
 
@@ -4086,9 +4086,9 @@ Notice of classification under paragraph (1) and notice of supervisory actions u
 
 (4) **Failure to respond** — The failure of a regulated entity to provide information during the response period under this subsection (as extended or shortened) shall waive any right of the regulated entity to comment on the proposed action of the Director.
 
-**(d) Consideration of information and determination** After the expiration of the response period under subsection (c) of this section or upon receipt of information provided during such period by the regulated entity, whichever occurs earlier, the Director shall determine whether to take the action proposed, taking into consideration any relevant information submitted by the regulated entity during the response period. The Director shall provide written notice of a determination to take action and the reasons for such determination to the regulated entity, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such notice shall respond to any information submitted during the response period.
+**(d) Consideration of information and determination** After the expiration of the response period under subsection (c) or upon receipt of information provided during such period by the regulated entity, whichever occurs earlier, the Director shall determine whether to take the action proposed, taking into consideration any relevant information submitted by the regulated entity during the response period. The Director shall provide written notice of a determination to take action and the reasons for such determination to the regulated entity, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such notice shall respond to any information submitted during the response period.
 
-**(e) Effective date of actions** An action referred to in subsection (b) of this section shall take effect upon receipt by the regulated entity of notice of the determination of the Director under subsection (d) of this section, unless otherwise provided in such notice.
+**(e) Effective date of actions** An action referred to in subsection (b) shall take effect upon receipt by the regulated entity of notice of the determination of the Director under subsection (d), unless otherwise provided in such notice.
 
 ### Statutory Notes
 
@@ -4267,7 +4267,7 @@ Subsec. (f). Pub. L. 110–289, § 1151(6), substituted “regulated entity, fin
 
 (2) **Additional requirements** — An order issued under paragraph (1) may include any requirement authorized under sub[section 4631(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4631/d&num=0&edition=prelim).
 
-**(b) Effective date** An order issued pursuant to subsection (a) of this section shall become effective upon service upon the regulated entity, executive officer, director, or entity-affiliated party and, unless set aside, limited, or suspended by a court in proceedings pursuant to subsection (d) of this section, shall remain in effect and enforceable pending the completion of the proceedings pursuant to such notice and shall remain effective until the Director dismisses the charges specified in the notice or until superseded by a cease-and-desist order issued pursuant to [section 4631 of this title](./chapter-046-government-sponsored-enterprises.md#section-4631).
+**(b) Effective date** An order issued pursuant to subsection (a) shall become effective upon service upon the regulated entity, executive officer, director, or entity-affiliated party and, unless set aside, limited, or suspended by a court in proceedings pursuant to subsection (d), shall remain in effect and enforceable pending the completion of the proceedings pursuant to such notice and shall remain effective until the Director dismisses the charges specified in the notice or until superseded by a cease-and-desist order issued pursuant to [section 4631 of this title](./chapter-046-government-sponsored-enterprises.md#section-4631).
 
 **(c) Incomplete or inaccurate records**
 
@@ -4281,7 +4281,7 @@ Subsec. (f). Pub. L. 110–289, § 1151(6), substituted “regulated entity, fin
 
   (A) shall become effective upon service; and
 
-  (B) unless set aside, limited, or suspended by a court in proceedings pursuant to subsection (d) of this section, shall remain in effect and enforceable until the earlier of—
+  (B) unless set aside, limited, or suspended by a court in proceedings pursuant to subsection (d), shall remain in effect and enforceable until the earlier of—
 
     (i) the completion of the proceeding initiated under [section 4631 of this title](./chapter-046-government-sponsored-enterprises.md#section-4631) in connection with the notice of charges; or
 
@@ -4362,7 +4362,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 ## § 4636b. Enforcement and jurisdiction
 **(a) Enforcement** The Director may, in the discretion of the Director, apply to the United States District Court for the District of Columbia, or the United States district court within the jurisdiction of which the headquarters of the regulated entity is located, for the enforcement of any effective and outstanding notice or order issued under this subchapter or subchapter II, or request that the Attorney General of the United States bring such an action. Such court shall have jurisdiction and power to order and require compliance with such notice or order.
 
-**(b) Limitation on jurisdiction** Except as otherwise provided in this subchapter and sections 4619 11 See References in Text note below. and 4623 of this title, no court shall have jurisdiction to affect, by injunction or otherwise, the issuance or enforcement of any notice or order under section 4631, 4632, 4513b, 4636, or 4636a of this title, or subchapter II of this chapter, or to review, modify, suspend, terminate, or set aside any such notice or order.
+**(b) Limitation on jurisdiction** Except as otherwise provided in this subchapter and sections 4619 11 See References in Text note below. and 4623 of this title, no court shall have jurisdiction to affect, by injunction or otherwise, the issuance or enforcement of any notice or order under section 4631, 4632, 4513b, 4636, or 4636a of this title, or subchapter II, or to review, modify, suspend, terminate, or set aside any such notice or order.
 
 ### Statutory Notes
 
@@ -4429,7 +4429,7 @@ Subsec. (b). Pub. L. 110–289, § 1154(2), substituted “4513b, 4636, or 4636a
 
 **(c) Procedures**
 
-(1) **Establishment** — The Director shall establish standards and procedures governing the imposition of civil money penalties under subsections (a) and (b) of this section. Such standards and procedures—
+(1) **Establishment** — The Director shall establish standards and procedures governing the imposition of civil money penalties under subsections (a) and (b). Such standards and procedures—
 
   (A) shall provide for the Director to notify the regulated entity or entity-affiliated party in writing of the Director’s determination to impose the penalty, which shall be made on the record;
 
@@ -4447,11 +4447,11 @@ Subsec. (b). Pub. L. 110–289, § 1154(2), substituted “4513b, 4636, or 4636a
 
 **(f) Availability of other remedies** Any civil money penalty under this section shall be in addition to any other available civil remedy and may be imposed whether or not the Director imposes other administrative sanctions.
 
-**(g) Prohibition of reimbursement or indemnification** A regulated entity may not reimburse or indemnify any individual for any penalty imposed under subsection (b)(3) of this section.
+**(g) Prohibition of reimbursement or indemnification** A regulated entity may not reimburse or indemnify any individual for any penalty imposed under subsection (b)(3).
 
 **(h) Deposit of penalties** The Director shall deposit any civil money penalties collected under this section into the general fund of the Treasury.
 
-**(i) Applicability** A penalty under this section may be imposed only for conduct or violations under subsection (a) of this section occurring after October 28, 1992.
+**(i) Applicability** A penalty under this section may be imposed only for conduct or violations under subsection (a) occurring after October 28, 1992.
 
 ### Statutory Notes
 
@@ -4684,11 +4684,11 @@ A prior section 1379A of Pub. L. 102–550 was renumbered section 1379C and is c
 
 **(b) Hearings** All hearings on the record with respect to any notice of charges issued by the Director shall be open to the public, unless the Director, in the Director’s discretion, determines that holding an open hearing would be contrary to the public interest.
 
-**(c) Delay of public disclosure under exceptional circumstances** If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) of this section would seriously threaten the financial health or security of the regulated entity, the Director may delay the public disclosure of such order for a reasonable time.
+**(c) Delay of public disclosure under exceptional circumstances** If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) would seriously threaten the financial health or security of the regulated entity, the Director may delay the public disclosure of such order for a reasonable time.
 
 **(d) Documents filed under seal in public enforcement hearings** The Director may file any document or part thereof under seal in any hearing commenced by the Director if the Director determines in writing that disclosure thereof would be contrary to the public interest.
 
-**(e) Retention of documents** The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) of this section and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under this subchapter or any other law.
+**(e) Retention of documents** The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under this subchapter or any other law.
 
 **(f) Disclosures to Congress** This section may not be construed to authorize the withholding, or to prohibit the disclosure, of any information to the Congress or any committee or subcommittee thereof.
 

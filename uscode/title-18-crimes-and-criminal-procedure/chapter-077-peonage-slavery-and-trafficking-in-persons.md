@@ -253,18 +253,18 @@ shall be punished as provided under subsection (d).
 ## § 1591. Sex trafficking of children or by force, fraud, or coercion
 **(a)** Whoever knowingly—
 
-(1) in or affecting interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States, recruits, entices, harbors, transports, provides, obtains, or maintains by any means a person; or
+(1) in or affecting interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States, recruits, entices, harbors, transports, provides, obtains, advertises, maintains, patronizes, or solicits by any means a person; or
 
 (2) benefits, financially or by receiving anything of value, from participation in a venture which has engaged in an act described in violation of paragraph (1),
-knowing, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion described in subsection (e)(2), or any combination of such means will be used to cause the person to engage in a commercial sex act, or that the person has not attained the age of 18 years and will be caused to engage in a commercial sex act, shall be punished as provided in subsection (b).
+knowing, or, except where the act constituting the violation of paragraph (1) is advertising, in reckless disregard of the fact, that means of force, threats of force, fraud, coercion described in subsection (e)(2), or any combination of such means will be used to cause the person to engage in a commercial sex act, or that the person has not attained the age of 18 years and will be caused to engage in a commercial sex act, shall be punished as provided in subsection (b).
 
 **(b)** The punishment for an offense under subsection (a) is—
 
-(1) if the offense was effected by means of force, threats of force, fraud, or coercion described in subsection (e)(2), or by any combination of such means, or if the person recruited, enticed, harbored, transported, provided, or obtained had not attained the age of 14 years at the time of such offense, by a fine under this title and imprisonment for any term of years not less than 15 or for life; or
+(1) if the offense was effected by means of force, threats of force, fraud, or coercion described in subsection (e)(2), or by any combination of such means, or if the person recruited, enticed, harbored, transported, provided, obtained, advertised, patronized, or solicited had not attained the age of 14 years at the time of such offense, by a fine under this title and imprisonment for any term of years not less than 15 or for life; or
 
-(2) if the offense was not so effected, and the person recruited, enticed, harbored, transported, provided, or obtained had attained the age of 14 years but had not attained the age of 18 years at the time of such offense, by a fine under this title and imprisonment for not less than 10 years or for life.
+(2) if the offense was not so effected, and the person recruited, enticed, harbored, transported, provided, obtained, advertised, patronized, or solicited had attained the age of 14 years but had not attained the age of 18 years at the time of such offense, by a fine under this title and imprisonment for not less than 10 years or for life.
 
-**(c)** In a prosecution under subsection (a)(1) in which the defendant had a reasonable opportunity to observe the person so recruited, enticed, harbored, transported, provided, obtained or maintained, the Government need not prove that the defendant knew that the person had not attained the age of 18 years.
+**(c)** In a prosecution under subsection (a)(1) in which the defendant had a reasonable opportunity to observe the person so recruited, enticed, harbored, transported, provided, obtained, maintained, patronized, or solicited, the Government need not prove that the defendant knew, or recklessly disregarded the fact, that the person had not attained the age of 18 years.
 
 **(d)** Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be fined under this title, imprisoned for a term not to exceed 20 years, or both.
 
@@ -289,6 +289,22 @@ knowing, or in reckless disregard of the fact, that means of force, threats of f
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–22, § 118(b)(2), inserted “, except where the act constituting the violation of paragraph (1) is advertising,” after “knowing, or” in concluding provisions.
+
+Subsec. (a)(1). Pub. L. 114–22, § 118(b)(1), inserted “advertises,” after “obtains,”.
+
+Pub. L. 114–22, § 108(a)(1), substituted “maintains, patronizes, or solicits” for “or maintains”.
+
+Subsec. (b)(1). Pub. L. 114–22, § 118(b)(3)(A), inserted “advertised,” after “obtained,”.
+
+Pub. L. 114–22, § 108(a)(2)(A), substituted “obtained, patronized, or solicited” for “or obtained”.
+
+Subsec. (b)(2). Pub. L. 114–22, § 118(b)(3)(B), inserted “advertised,” after “obtained,”.
+
+Pub. L. 114–22, § 108(a)(2)(B), substituted “obtained, patronized, or solicited” for “or obtained”.
+
+Subsec. (c). Pub. L. 114–22, § 108(a)(3), substituted “, maintained, patronized, or solicited” for “or maintained” and “knew, or recklessly disregarded the fact, that the person” for “knew that the person”.
+
 2008—Subsec. (a). Pub. L. 110–457, § 222(b)(5)(A)(ii), substituted “, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion described in subsection (e)(2), or any combination of such means” for “that force, fraud, or coercion described in subsection (c)(2)” in concluding provisions.
 
 Subsec. (a)(1). Pub. L. 110–457, § 222(b)(5)(A)(i), substituted “obtains, or maintains” for “or obtains”.
@@ -312,6 +328,12 @@ Subsec. (a)(1). Pub. L. 108–193, § 5(a)(2), substituted “in or affecting in
 Subsec. (b). Pub. L. 108–193, § 5(a)(3), substituted “the person recruited, enticed, harbored, transported, provided, or obtained” for “the person transported” in pars. (1) and (2).
 
 Subsec. (b)(2). Pub. L. 108–21 substituted “40” for “20”.
+
+#### Purpose
+Pub. L. 114–22, title I, § 108(c), May 29, 2015, 129 Stat. 239, provided that: “The purpose of the amendments made by this section [amending this section and [section 7102 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim), Foreign Relations and Intercourse] is to clarify the range of conduct punished as sex trafficking.”
+
+#### Sense of Congress
+Pub. L. 114–22, title I, § 109, May 29, 2015, 129 Stat. 239, provided that: “It is the sense of Congress that— “(1) [section 1591 of title 18](./chapter-077-peonage-slavery-and-trafficking-in-persons.md#section-1591), United States Code, defines a sex trafficker as a person who ‘knowingly. . .recruits, entices, harbors, transports, provides, obtains, or maintains by any means a person. . .knowing, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion. . .or any combination of such means will be used to cause the person to engage in a commercial sex act, or that the person has not attained the age of 18 years and will be caused to engage in a commercial sex act’; “(2) while use of the word ‘obtains’ in section 1591 [of title 18], United States Code, has been interpreted, prior to the date of enactment of this Act [May 29, 2015], to encompass those who purchase illicit sexual acts from trafficking victims, some confusion persists; “(3) in United States vs. Jungers, 702 F.3d 1066 (8th Cir. 2013), the United States Court of Appeals for the Eighth Circuit ruled that [section 1591 of title 18](./chapter-077-peonage-slavery-and-trafficking-in-persons.md#section-1591), United States Code, applied to persons who purchase illicit sexual acts with trafficking victims after the United States District Court for the District of South Dakota erroneously granted motions to acquit these buyers in two separate cases; and “(4) [section 108 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section108&num=0&edition=prelim) [title I of Pub. L. 114–22] amends [section 1591 of title 18](./chapter-077-peonage-slavery-and-trafficking-in-persons.md#section-1591), United States Code, to add the words ‘solicits or patronizes’ to the sex trafficking statute making absolutely clear for judges, juries, prosecutors, and law enforcement officials that criminals who purchase sexual acts from human trafficking victims may be arrested, prosecuted, and convicted as sex trafficking offenders when this is merited by the facts of a particular case.”
 
 
 <a id="section-1592"></a>
@@ -379,25 +401,41 @@ Whoever knowingly benefits, financially or by receiving anything of value, from 
 
 **(d)** The court, in imposing sentence on any person convicted of a violation of this chapter, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person shall forfeit to the United States—
 
-(1) such person’s interest in any property, real or personal, that was used or intended to be used to commit or to facilitate the commission of such violation; and
+(1) such person’s interest in any property, real or personal, that was involved in, used, or intended to be used to commit or to facilitate the commission of such violation, and any property traceable to such property; and
 
-(2) any property, real or personal, constituting or derived from, any proceeds that such person obtained, directly or indirectly, as a result of such violation.
+(2) any property, real or personal, constituting or derived from, any proceeds that such person obtained, directly or indirectly, as a result of such violation, or any property traceable to such property.
 
 **(e)**
 
 (1) The following shall be subject to forfeiture to the United States and no property right shall exist in them:
 
-  (A) Any property, real or personal, used or intended to be used to commit or to facilitate the commission of any violation of this chapter.
+  (A) Any property, real or personal, involved in, used, or intended to be used to commit or to facilitate the commission of any violation of this chapter, and any property traceable to such property.
 
   (B) Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this chapter.
 
 (2) The provisions of chapter 46 of this title relating to civil forfeitures shall extend to any seizure or civil forfeiture under this subsection.
 
-**(f) Witness Protection.—** Any violation of this chapter shall be considered an organized criminal activity or other serious offense for the purposes of application of chapter 224 (relating to witness protection).
+**(f) Transfer of Forfeited Assets.—**
+
+(1) **In general.—** — Notwithstanding any other provision of law, the Attorney General shall transfer assets forfeited pursuant to this section, or the proceeds derived from the sale thereof, to satisfy victim restitution orders arising from violations of this chapter.
+
+(2) **Priority.—** — Transfers pursuant to paragraph (1) shall have priority over any other claims to the assets or their proceeds.
+
+(3) **Use of nonforfeited assets.—** — Transfers pursuant to paragraph (1) shall not reduce or otherwise mitigate the obligation of a person convicted of a violation of this chapter to satisfy the full amount of a restitution order through the use of non-forfeited assets or to reimburse the Attorney General for the value of assets or proceeds transferred under this subsection through the use of nonforfeited assets.
+
+**(g) Witness Protection.—** Any violation of this chapter shall be considered an organized criminal activity or other serious offense for the purposes of application of chapter 224 (relating to witness protection).
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (d)(1). Pub. L. 114–22, § 105(a)(1)(A), substituted “that was involved in, used, or” for “that was used or” and inserted “, and any property traceable to such property” after “such violation”.
+
+Subsec. (d)(2). Pub. L. 114–22, § 105(a)(1)(B), inserted “, or any property traceable to such property” after “such violation”.
+
+Subsec. (e)(1)(A). Pub. L. 114–22, § 105(a)(2), substituted “involved in, used, or” for “used or” and inserted “, and any property traceable to such property” after “any violation of this chapter”.
+
+Subsecs. (f), (g). Pub. L. 114–22, § 105(a)(3), (4), added subsec. (f) and redesignated former subsec. (f) as (g).
+
 2008—Subsecs. (b) to (f). Pub. L. 110–457 added subsecs. (b) and (c) and redesignated former subsecs. (b) to (d) as (d) to (f), respectively.
 
 
@@ -411,11 +449,17 @@ Whoever knowingly benefits, financially or by receiving anything of value, from 
 
 (2) In this subsection, a “criminal action” includes investigation and prosecution and is pending until final adjudication in the trial court.
 
-**(c)** No action may be maintained under this section unless it is commenced not later than 10 years after the cause of action arose.
+**(c)** No action may be maintained under this section unless it is commenced not later than the later of—
+
+(1) 10 years after the cause of action arose; or
+
+(2) 10 years after the victim reaches 18 years of age, if the victim was a minor at the time of the alleged offense.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–22 substituted “not later than the later of—” for “not later than 10 years after the cause of action arose.” and added pars. (1) and (2).
+
 2008—Subsec. (a). Pub. L. 110–457, § 221(2)(A), struck out “of section 1589, 1590, or 1591” after “victim of a violation” and inserted “(or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter)” after “perpetrator”.
 
 Subsec. (c). Pub. L. 110–457, § 221(2)(B), added subsec. (c).

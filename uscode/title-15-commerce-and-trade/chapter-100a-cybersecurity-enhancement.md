@@ -63,6 +63,9 @@ In this chapter:
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 113–274, Dec. 18, 2014, 128 Stat. 2971, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
 #### Short Title
 Pub. L. 113–274, § 1(a), Dec. 18, 2014, 128 Stat. 2971, provided that: “This Act [enacting this chapter and amending sections 272, 278g–3, 7403, and 7406 of this title] may be cited as the ‘Cybersecurity Enhancement Act of 2014’.”
 
@@ -86,7 +89,7 @@ No additional funds are authorized to carry out this Act, and the amendments mad
 ### Statutory Notes
 
 #### References in Text
-This Act, and the amendments made by this Act, referred to in text, is Pub. L. 113–274, Dec. 18, 2014, 128 Stat. 2971, which is enacted this chapter and amended sections 272, 278g–3, 7403, and 7406 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7421 of this title](./chapter-100a-cybersecurity-enhancement.md#section-7421) and Tables.
+This Act, and the amendments made by this Act, referred to in text, is Pub. L. 113–274, Dec. 18, 2014, 128 Stat. 2971, which enacted this chapter and amended sections 272, 278g–3, 7403, and 7406 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7421 of this title](./chapter-100a-cybersecurity-enhancement.md#section-7421) and Tables.
 
 
 <a id="section-7451"></a>
@@ -211,7 +214,7 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 ## § 7461. Cybersecurity competitions and challenges
 **(a) In general** The Secretary of Commerce, Director of the National Science Foundation, and Secretary of Homeland Security, in consultation with the Director of the Office of Personnel Management, shall—
 
-(1) support competitions and challenges under [section 3719 of this title](./chapter-063-technology-innovation.md#section-3719) or any other provision of law, as appropriate—
+(1) support competitions and challenges under [section 3719 of this title](./chapter-063-technology-innovation.md#section-3719) (as amended by section 105 of the America COMPETES Reauthorization Act of 2010 (124 Stat. 3989)) or any other provision of law, as appropriate—
 
   (A) to identify, develop, and recruit talented individuals to perform duties relating to the security of information technology in Federal, State, local, and tribal government agencies, and the private sector; or
 
@@ -268,6 +271,11 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 (2) may empanel advisory committees.
 
 **(f) Internships** The Director of the Office of Personnel Management may support, as appropriate, internships or other work experience in the Federal Government to the winners of the competitions and challenges under this section.
+
+### Statutory Notes
+
+#### References in Text
+[Section 3719 of this title](./chapter-063-technology-innovation.md#section-3719) (as amended by section 105 of the America COMPETES Reauthorization Act of 2010 (124 Stat. 3989)), referred to in subsec. (a)(1), probably means [section 3719 of this title](./chapter-063-technology-innovation.md#section-3719) as enacted by section 105(a) of Pub. L. 111–358.
 
 
 <a id="section-7462"></a>

@@ -185,7 +185,7 @@ The Secretary of Defense shall ensure that the qualifications of officers assign
 ### Statutory Notes
 
 #### Amendments
-2014—Pub. L. 113–291 struck out subsec. (a) designation and heading “Qualifications.—” and struck out subsec. (b) which related to annual report.
+2014—Pub. L. 113–291 struck out subsec. (a) designation and heading “Qualifications.—” before “The Secretary of Defense” and struck out subsec. (b) which related to annual report.
 
 2009—Subsec. (a)(2). Pub. L. 111–84 made technical amendment to directory language of Pub. L. 110–417, § 523(1). See 2008 Amendment note below.
 
@@ -477,7 +477,7 @@ Subsec. (d). Pub. L. 100–180 added subsec. (d) and struck out former subsec. (
 Subsecs. (e) to (g). Pub. L. 100–180 added subsecs. (e) to (g).
 
 #### Effective Date of 2006 Amendment
-Pub. L. 109–364, div. A, title V, § 519(e), Oct. 17, 2006, 120 Stat. 2191, provided that: “The amendments made by this section [amending this section and former section 667 and [section 668 of this title](./chapter-038-joint-officer-management.md#section-668)] shall take effect on October 1, 2007.”
+Pub. L. 109–364, div. A, title V, § 519(e), Oct. 17, 2006, 120 Stat. 2191, provided that: “The amendments made by this section [amending this section, former section 667, and [section 668 of this title](./chapter-038-joint-officer-management.md#section-668)] shall take effect on October 1, 2007.”
 
 #### Retroactive Joint Service Credit for Duty in Certain Joint Task Forces
 Pub. L. 107–107, div. A, title V, § 523, Dec. 28, 2001, 115 Stat. 1097, provided that, in accordance with subsec. (i) of this section, the Secretary of Defense was authorized to award joint service credit to any officer who served on the staff of a United States joint task force headquarters in certain operations and during certain periods, and the Secretary was required to submit to Congress a report of the numbers, by service, grade, and operation, of the officers given joint service credit not later than one year after Dec. 28, 2001.

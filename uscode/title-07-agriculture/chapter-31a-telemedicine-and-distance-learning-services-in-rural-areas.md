@@ -107,7 +107,7 @@ A prior section 950aaa–1, Pub. L. 101–624, title XXIII, § 2332, Nov. 28, 19
 
 (11) service to the greatest practical number of persons within the general geographic area covered by the financial assistance;
 
-(12) conformity with the State strategic plan as prepared under [section 2009c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009c&num=0&edition=prelim); and
+(12) conformity with the State strategic plan as prepared under [section 2009c of this title](./chapter-050-agricultural-credit.md#section-2009c); and
 
 (13) other factors determined appropriate by the Secretary.
 
@@ -159,7 +159,7 @@ A prior section 950aaa–2, Pub. L. 101–624, title XXIII, § 2333, Nov. 28, 19
 2008—Subsec. (c)(1)(C). Pub. L. 110–246, § 6201(a), added subpar. (C).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-950aaa-3"></a>
@@ -226,4 +226,4 @@ A prior section 950aaa–5, Pub. L. 101–624, title XXIII, § 2335A, as added P
 2002—Pub. L. 107–171 substituted “2007” for “2002”.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).

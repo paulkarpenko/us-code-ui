@@ -2,7 +2,7 @@
 title: 18
 chapter: '111'
 heading: SHIPPING
-section_count: 16
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -212,11 +212,11 @@ Minor changes were made in phraseology.
 
   (A) such activity is committed—
 
-    (i) against or on board a ship flying the flag of the United States at the time the prohibited activity is committed;
+    (i) against or on board a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in [section 70502 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70502&num=0&edition=prelim)) at the time the prohibited activity is committed;
 
-    (ii) in the United States; or
+    (ii) in the United States, including the territorial seas; or
 
-    (iii) by a national of the United States or by a stateless person whose habitual residence is in the United States;
+    (iii) by a national of the United States, by a United States corporation or legal entity, or by a stateless person whose habitual residence is in the United States;
 
   (B) during the commission of such activity, a national of the United States is seized, threatened, injured or killed; or
 
@@ -226,15 +226,128 @@ Minor changes were made in phraseology.
 
 (3) in the case of any vessel, if such activity is committed in an attempt to compel the United States to do or abstain from doing any act.
 
-**(c) Bar To Prosecution.—** It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) 11 So in original. Probably should be section “13(c)”. of the Norris-LaGuardia Act, as amended ([29 U.S.C. 113(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section113/c&num=0&edition=prelim)).
+**(c) Bar To Prosecution.—** It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 13(c) of the Norris-LaGuardia Act, as amended ([29 U.S.C. 113(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section113/c&num=0&edition=prelim)).
 
-**(d) Delivery of Suspected Offender.—** The master of a covered ship flying the flag of the United States who has reasonable grounds to believe that there is on board that ship any person who has committed an offense under Article 3 of the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation may deliver such person to the authorities of a State Party to that Convention. Before delivering such person to the authorities of another country, the master shall notify in an appropriate manner the Attorney General of the United States of the alleged offense and await instructions from the Attorney General as to what action to take. When delivering the person to a country which is a State Party to the Convention, the master shall, whenever practicable, and if possible before entering the territorial sea of such country, notify the authorities of such country of the master’s intention to deliver such person and the reasons therefor. If the master delivers such person, the master shall furnish to the authorities of such country the evidence in the master’s possession that pertains to the alleged offense.
+**(d) Definitions.—** As used in this section, section 2280a, section 2281, and section 2281a, the term—
 
-**(e) Definitions.—** In this section—“covered ship” means a ship that is navigating or is scheduled to navigate into, through or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country’s territorial sea with an adjacent country. “national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/22&num=0&edition=prelim)). “territorial sea of the United States” means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law. “ship” means a vessel of any type whatsoever not permanently attached to the sea-bed, including dynamically supported craft, submersibles or any other floating craft, but does not include a warship, a ship owned or operated by a government when being used as a naval auxiliary or for customs or police purposes, or a ship which has been withdrawn from navigation or laid up. “United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
+(1) “applicable treaty” means—
+
+  (A) the Convention for the Suppression of Unlawful Seizure of Aircraft, done at The Hague on 16 December 1970;
+
+  (B) the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on 23 September 1971;
+
+  (C) the Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents, adopted by the General Assembly of the United Nations on 14 December 1973;
+
+  (D) International Convention against the Taking of Hostages, adopted by the General Assembly of the United Nations on 17 December 1979;
+
+  (E) the Convention on the Physical Protection of Nuclear Material, done at Vienna on 26 October 1979;
+
+  (F) the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, supplementary to the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on 24 February 1988;
+
+  (G) the Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms Located on the Continental Shelf, done at Rome on 10 March 1988;
+
+  (H) International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations on 15 December 1997; and
+
+  (I) International Convention for the Suppression of the Financing of Terrorism, adopted by the General Assembly of the United Nations on 9 December 1999;
+
+(2) “armed conflict” does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature;
+
+(3) “biological weapon” means—
+
+  (A) microbial or other biological agents, or toxins whatever their origin or method of production, of types and in quantities that have no justification for prophylactic, protective, or other peaceful purposes; or
+
+  (B) weapons, equipment, or means of delivery designed to use such agents or toxins for hostile purposes or in armed conflict;
+
+(4) “chemical weapon” means, together or separately—
+
+  (A) toxic chemicals and their precursors, except where intended for—
+
+    (i) industrial, agricultural, research, medical, pharmaceutical, or other peaceful purposes;
+
+    (ii) protective purposes, namely those purposes directly related to protection against toxic chemicals and to protection against chemical weapons;
+
+    (iii) military purposes not connected with the use of chemical weapons and not dependent on the use of the toxic properties of chemicals as a method of warfare; or
+
+    (iv) law enforcement including domestic riot control purposes,
+    as long as the types and quantities are consistent with such purposes;
+
+  (B) munitions and devices, specifically designed to cause death or other harm through the toxic properties of those toxic chemicals specified in subparagraph (A), which would be released as a result of the employment of such munitions and devices; and
+
+  (C) any equipment specifically designed for use directly in connection with the employment of munitions and devices specified in subparagraph (B);
+
+(5) “covered ship” means a ship that is navigating or is scheduled to navigate into, through or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country’s territorial sea with an adjacent country;
+
+(6) “explosive material” has the meaning given the term in section 841(c) and includes explosive as defined in [section 844(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section844/j&num=0&edition=prelim);
+
+(7) “infrastructure facility” has the meaning given the term in [section 2332f(e)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332f/e/5&num=0&edition=prelim);
+
+(8) “international organization” has the meaning given the term in [section 831(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section831/f/3&num=0&edition=prelim);
+
+(9) “military forces of a state” means the armed forces of a state which are organized, trained, and equipped under its internal law for the primary purpose of national defense or security, and persons acting in support of those armed forces who are under their formal command, control, and responsibility;
+
+(10) “national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/22&num=0&edition=prelim));
+
+(11) “Non-Proliferation Treaty” means the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow on 1 July 1968;
+
+(12) “Non-Proliferation Treaty State Party” means any State Party to the Non-Proliferation Treaty, to include Taiwan, which shall be considered to have the obligations under the Non-Proliferation Treaty of a party to that treaty other than a Nuclear Weapon State Party to the Non-Proliferation Treaty;
+
+(13) “Nuclear Weapon State Party to the Non-Proliferation Treaty” means a State Party to the Non-Proliferation Treaty that is a nuclear-weapon State, as that term is defined in Article IX(3) of the Non-Proliferation Treaty;
+
+(14) “place of public use” has the meaning given the term in [section 2332f(e)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332f/e/6&num=0&edition=prelim);
+
+(15) “precursor” has the meaning given the term in [section 229F(6)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section229F/6/A&num=0&edition=prelim);
+
+(16) “public transport system” has the meaning given the term in [section 2332f(e)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332f/e/7&num=0&edition=prelim);
+
+(17) “serious injury or damage” means—
+
+  (A) serious bodily injury,
+
+  (B) extensive destruction of a place of public use, State or government facility, infrastructure facility, or public transportation system, resulting in major economic loss, or
+
+  (C) substantial damage to the environment, including air, soil, water, fauna, or flora;
+
+(18) “ship” means a vessel of any type whatsoever not permanently attached to the sea-bed, including dynamically supported craft, submersibles, or any other floating craft, but does not include a warship, a ship owned or operated by a government when being used as a naval auxiliary or for customs or police purposes, or a ship which has been withdrawn from navigation or laid up;
+
+(19) “source material” has the meaning given that term in the International Atomic Energy Agency Statute, done at New York on 26 October 1956;
+
+(20) “special fissionable material” has the meaning given that term in the International Atomic Energy Agency Statute, done at New York on 26 October 1956;
+
+(21) “territorial sea of the United States” means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law;
+
+(22) “toxic chemical” has the meaning given the term in [section 229F(8)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section229F/8/A&num=0&edition=prelim);
+
+(23) “transport” means to initiate, arrange or exercise effective control, including decisionmaking authority, over the movement of a person or item; and
+
+(24) “United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and all territories and possessions of the United States.
+
+**(e) Exceptions.—** This section shall not apply to—
+
+(1) the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
+
+(2) activities undertaken by military forces of a state in the exercise of their official duties.
+
+**(f) Delivery of Suspected Offender.—** The master of a covered ship flying the flag of the United States who has reasonable grounds to believe that there is on board that ship any person who has committed an offense under section 2280 or section 2280a may deliver such person to the authorities of a country that is a party to the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation. Before delivering such person to the authorities of another country, the master shall notify in an appropriate manner the Attorney General of the United States of the alleged offense and await instructions from the Attorney General as to what action to take. When delivering the person to a country which is a state party to the Convention, the master shall, whenever practicable, and if possible before entering the territorial sea of such country, notify the authorities of such country of the master’s intention to deliver such person and the reasons therefor. If the master delivers such person, the master shall furnish to the authorities of such country the evidence in the master’s possession that pertains to the alleged offense.
+
+**(g)**
+
+(1) **Civil Forfeiture.—** — Any real or personal property used or intended to be used to commit or to facilitate the commission of a violation of this section, the gross proceeds of such violation, and any real or personal property traceable to such property or proceeds, shall be subject to forfeiture.
+
+(2) **Applicable Procedures.—** — Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (b)(1)(A)(i). Pub. L. 114–23, § 801(1)(A), substituted “a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in [section 70502 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70502&num=0&edition=prelim))” for “a ship flying the flag of the United States”.
+
+Subsec. (b)(1)(A)(ii). Pub. L. 114–23, § 801(1)(B), inserted “, including the territorial seas” before semicolon.
+
+Subsec. (b)(1)(A)(iii). Pub. L. 114–23, § 801(1)(C), inserted “, by a United States corporation or legal entity,” after “by a national of the United States”.
+
+Subsec. (c). Pub. L. 114–23, § 801(2), substituted “section 13(c)” for “section 2(c)”.
+
+Subsecs. (d) to (g). Pub. L. 114–23, § 801(3)–(5), added subsecs. (d) to (g) and struck out former subsecs. (d) and (e) which related to delivery of suspected offender and definitions, respectively.
+
 1996—Subsec. (a)(1)(H). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts”.
 
 Subsec. (b)(1)(A)(ii). Pub. L. 104–132, § 722(1), struck out “and the activity is not prohibited as a crime by the State in which the activity takes place” after “the United States”.
@@ -248,6 +361,93 @@ Pub. L. 103–322, title VI, § 60019(c), Sept. 13, 1994, 108 Stat. 1979, provid
 
 #### Territorial Sea of United States
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+
+
+<a id="section-2280a"></a>
+## § 2280a. Violence against maritime navigation and maritime transport involving weapons of mass destruction
+**(a) Offenses.—**
+
+(1) **In general.—** — Subject to the exceptions in subsection (c), a person who unlawfully and intentionally—
+
+  (A) when the purpose of the act, by its nature or context, is to intimidate a population, or to compel a government or an international organization to do or to abstain from doing any act—
+
+    (i) uses against or on a ship or discharges from a ship any explosive or radioactive material, biological, chemical, or nuclear weapon or other nuclear explosive device in a manner that causes or is likely to cause death to any person or serious injury or damage;
+
+    (ii) discharges from a ship oil, liquefied natural gas, or another hazardous or noxious substance that is not covered by clause (i), in such quantity or concentration that causes or is likely to cause death to any person or serious injury or damage; or
+
+    (iii) uses a ship in a manner that causes death to any person or serious injury or damage;
+
+  (B) transports on board a ship—
+
+    (i) any explosive or radioactive material, knowing that it is intended to be used to cause, or in a threat to cause, death to any person or serious injury or damage for the purpose of intimidating a population, or compelling a government or an international organization to do or to abstain from doing any act;
+
+    (ii) any biological, chemical, or nuclear weapon or other nuclear explosive device, knowing it to be a biological, chemical, or nuclear weapon or other nuclear explosive device;
+
+    (iii) any source material, special fissionable material, or equipment or material especially designed or prepared for the processing, use, or production of special fissionable material, knowing that it is intended to be used in a nuclear explosive activity or in any other nuclear activity not under safeguards pursuant to an International Atomic Energy Agency comprehensive safeguards agreement, except where—
+
+      (I) such item is transported to or from the territory of, or otherwise under the control of, a Non-Proliferation Treaty State Party; and
+
+      (II) the resulting transfer or receipt (including internal to a country) is not contrary to the obligations under the Non-Proliferation Treaty of the Non-Proliferation Treaty State Party from which, to the territory of which, or otherwise under the control of which such item is transferred;
+
+    (iv) any equipment, materials, or software or related technology that significantly contributes to the design or manufacture of a nuclear weapon or other nuclear explosive device, with the intention that it will be used for such purpose, except where—
+
+      (I) the country to the territory of which or under the control of which such item is transferred is a Nuclear Weapon State Party to the Non-Proliferation Treaty; and
+
+      (II) the resulting transfer or receipt (including internal to a country) is not contrary to the obligations under the Non-Proliferation Treaty of a Non-Proliferation Treaty State Party from which, to the territory of which, or otherwise under the control of which such item is transferred;
+
+    (v) any equipment, materials, or software or related technology that significantly contributes to the delivery of a nuclear weapon or other nuclear explosive device, with the intention that it will be used for such purpose, except where—
+
+      (I) such item is transported to or from the territory of, or otherwise under the control of, a Non-Proliferation Treaty State Party; and
+
+      (II) such item is intended for the delivery system of a nuclear weapon or other nuclear explosive device of a Nuclear Weapon State Party to the Non-Proliferation Treaty; or
+
+    (vi) any equipment, materials, or software or related technology that significantly contributes to the design, manufacture, or delivery of a biological or chemical weapon, with the intention that it will be used for such purpose;
+
+  (C) transports another person on board a ship knowing that the person has committed an act that constitutes an offense under section 2280 or subparagraph (A), (B), (D), or (E) of this section 11 So in original. Probably should be “paragraph”. or an offense set forth in an applicable treaty, as specified in section 2280(d)(1), and intending to assist that person to evade criminal prosecution;
+
+  (D) injures or kills any person in connection with the commission or the attempted commission of any of the offenses set forth in subparagraphs (A) through (C), or subsection (a)(2), to the extent that the subsection (a)(2) offense pertains to subparagraph (A); or
+
+  (E) attempts to do any act prohibited under subparagraph (A), (B) or (D), or conspires to do any act prohibited by subparagraphs (A) through (E) or subsection (a)(2),
+  shall be fined under this title, imprisoned not more than 20 years, or both; and if the death of any person results from conduct prohibited by this paragraph, shall be imprisoned for any term of years or for life.
+
+(2) **Threats.—** — A person who threatens, with apparent determination and will to carry the threat into execution, to do any act prohibited under paragraph (1)(A) shall be fined under this title, imprisoned not more than 5 years, or both.
+
+**(b) Jurisdiction.—** There is jurisdiction over the activity prohibited in subsection (a)—
+
+(1) in the case of a covered ship, if—
+
+  (A) such activity is committed—
+
+    (i) against or on board a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in [section 70502 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70502&num=0&edition=prelim)) at the time the prohibited activity is committed;
+
+    (ii) in the United States, including the territorial seas; or
+
+    (iii) by a national of the United States, by a United States corporation or legal entity, or by a stateless person whose habitual residence is in the United States;
+
+  (B) during the commission of such activity, a national of the United States is seized, threatened, injured, or killed; or
+
+  (C) the offender is later found in the United States after such activity is committed;
+
+(2) in the case of a ship navigating or scheduled to navigate solely within the territorial sea or internal waters of a country other than the United States, if the offender is later found in the United States after such activity is committed; or
+
+(3) in the case of any vessel, if such activity is committed in an attempt to compel the United States to do or abstain from doing any act.
+
+**(c) Exceptions.—** This section shall not apply to—
+
+(1) the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
+
+(2) activities undertaken by military forces of a state in the exercise of their official duties.
+
+**(d)**
+
+(1) **Civil Forfeiture.—** — Any real or personal property used or intended to be used to commit or to facilitate the commission of a violation of this section, the gross proceeds of such violation, and any real or personal property traceable to such property or proceeds, shall be subject to forfeiture.
+
+(2) **Applicable Procedures.—** — Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of terms used in this section, see [section 2280(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2280/d&num=0&edition=prelim).
 
 
 <a id="section-2281"></a>
@@ -285,13 +485,25 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 (3) such activity is committed against or on board a fixed platform located outside the United States and beyond the continental shelf of the United States and the offender is later found in the United States.
 
-**(c) Bar To Prosecution.—** It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) 11 So in original. Probably should be section “13(c)”. of the Norris-LaGuardia Act, as amended ([29 U.S.C. 113(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section113/c&num=0&edition=prelim)), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+**(c) Bar To Prosecution.—** It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 13(c) of the Norris-LaGuardia Act, as amended ([29 U.S.C. 113(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section113/c&num=0&edition=prelim)), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-**(d) Definitions.—** In this section—“continental shelf” means the sea-bed and subsoil of the submarine areas that extend beyond a country’s territorial sea to the limits provided by customary international law as reflected in Article 76 of the 1982 Convention on the Law of the Sea. “fixed platform” means an artificial island, installation or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes. “national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/22&num=0&edition=prelim)). “territorial sea of the United States” means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law. “United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
+**(d) Definitions.—** In this section—“continental shelf” means the sea-bed and subsoil of the submarine areas that extend beyond a country’s territorial sea to the limits provided by customary international law as reflected in Article 76 of the 1982 Convention on the Law of the Sea. “fixed platform” means an artificial island, installation or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.
+
+**(e) Exceptions.—** This section does not apply to—
+
+(1) the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
+
+(2) activities undertaken by military forces of a state in the exercise of their official duties.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–23, § 803(1), substituted “section 13(c)” for “section 2(c)”.
+
+Subsec. (d). Pub. L. 114–23, § 803(2), struck out definitions of “national of the United States”, “territorial sea of the United States”, and “United States”.
+
+Subsec. (e). Pub. L. 114–23, § 803(3), added subsec. (e).
+
 1996—Subsec. (a)(1)(F). Pub. L. 104–132 inserted “or conspires” after “attempts”.
 
 Subsec. (c). Pub. L. 104–294 inserted before period at end “, and the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States”.
@@ -301,6 +513,60 @@ Section effective Mar. 6, 1995, see section 60019(c)(1), (2)(B) of Pub. L. 103�
 
 #### Territorial Sea of United States
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+
+#### Definitions
+For definitions of terms used in this section, see [section 2280(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2280/d&num=0&edition=prelim).
+
+
+<a id="section-2281a"></a>
+## § 2281a. Additional offenses against maritime fixed platforms
+**(a) Offenses.—**
+
+(1) **In general.—** — A person who unlawfully and intentionally—
+
+  (A) when the purpose of the act, by its nature or context, is to intimidate a population, or to compel a government or an international organization to do or to abstain from doing any act—
+
+    (i) uses against or on a fixed platform or discharges from a fixed platform any explosive or radioactive material, biological, chemical, or nuclear weapon in a manner that causes or is likely to cause death or serious injury or damage; or
+
+    (ii) discharges from a fixed platform oil, liquefied natural gas, or another hazardous or noxious substance that is not covered by clause (i), in such quantity or concentration that causes or is likely to cause death or serious injury or damage;
+
+  (B) injures or kills any person in connection with the commission or the attempted commission of any of the offenses set forth in subparagraph (A); or
+
+  (C) attempts or conspires to do anything prohibited under subparagraph (A) or (B),
+  shall be fined under this title, imprisoned not more than 20 years, or both; and if death results to any person from conduct prohibited by this paragraph, shall be imprisoned for any term of years or for life.
+
+(2) **Threat to safety.—** — A person who threatens, with apparent determination and will to carry the threat into execution, to do any act prohibited under paragraph (1)(A), shall be fined under this title, imprisoned not more than 5 years, or both.
+
+**(b) Jurisdiction.—** There is jurisdiction over the activity prohibited in subsection (a) if—
+
+(1) such activity is committed against or on board a fixed platform—
+
+  (A) that is located on the continental shelf of the United States;
+
+  (B) that is located on the continental shelf of another country, by a national of the United States or by a stateless person whose habitual residence is in the United States; or
+
+  (C) in an attempt to compel the United States to do or abstain from doing any act;
+
+(2) during the commission of such activity against or on board a fixed platform located on a continental shelf, a national of the United States is seized, threatened, injured, or killed; or
+
+(3) such activity is committed against or on board a fixed platform located outside the United States and beyond the continental shelf of the United States and the offender is later found in the United States.
+
+**(c) Exceptions.—** This section does not apply to—
+
+(1) the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
+
+(2) activities undertaken by military forces of a state in the exercise of their official duties.
+
+**(d) Definitions.—** In this section—
+
+(1) “continental shelf” means the sea-bed and subsoil of the submarine areas that extend beyond a country’s territorial sea to the limits provided by customary international law as reflected in Article 76 of the 1982 Convention on the Law of the Sea; and
+
+(2) “fixed platform” means an artificial island, installation, or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of terms used in this section, see [section 2280(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2280/d&num=0&edition=prelim).
 
 
 <a id="section-2282a-1"></a>
@@ -340,7 +606,7 @@ Whoever intentionally destroys, seriously damages, alters, moves, or tampers wit
 
 (4) **Explosive or incendiary device.—** — The term “explosive or incendiary device” has the meaning given the term in section 232(5) and includes explosive materials, as that term is defined in section 841(c) and explosive as defined in section 844(j).
 
-(5) **Nuclear material.—** — The term “nuclear material” has the meaning given that term in section 831(f)(1).
+(5) **Nuclear material.—** — The term “nuclear material” has the meaning given that term in section 831(f)(1).11 See References in Text note below.
 
 (6) **Radioactive material.—** — The term “radioactive material” means—
 
@@ -352,9 +618,14 @@ Whoever intentionally destroys, seriously damages, alters, moves, or tampers wit
 
   (D) all refined isotopes of radium.
 
-(8) **11 So in original. No par. (7) has been enacted. Source material.—** — The term “source material” has the meaning given that term in section 11(z) of the Atomic Energy Act of 1954 ([42 U.S.C. 2014(z)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/z&num=0&edition=prelim)).
+(8) **22 So in original. No par. (7) has been enacted. Source material.—** — The term “source material” has the meaning given that term in section 11(z) of the Atomic Energy Act of 1954 ([42 U.S.C. 2014(z)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/z&num=0&edition=prelim)).
 
 (9) **Special nuclear material.—** — The term “special nuclear material” has the meaning given that term in section 11(aa) of the Atomic Energy Act of 1954 ([42 U.S.C. 2014(aa)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/aa&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+Section 831(f)(1), referred to in subsec. (c)(5), was redesignated as section 831(g)(1) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
 
 
 <a id="section-2284"></a>

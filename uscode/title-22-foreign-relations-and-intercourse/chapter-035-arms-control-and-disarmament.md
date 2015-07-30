@@ -86,7 +86,7 @@ Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L
 
 “part d—reporting requirements
 
-“[SEC. 231. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.]
+“[SEC. 231. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.]”
 
 #### Report on Fulfillment of Primary Functions
 Pub. L. 102–228, title IV, § 401(c), Dec. 12, 1991, 105 Stat. 1699, directed Inspector General of Arms Control and Disarmament Agency to submit, not later than Dec. 15, 1992, to President, Speaker of House of Representatives, and chairman of Committee on Foreign Relations of Senate a report on Agency’s fulfillment of primary functions described in [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551) and directed President to submit comments on any recommendations contained in the report dealing with executive branch organization and direction, prior to repeal by Pub. L. 103–236, title I, § 139(18), Apr. 30, 1994, 108 Stat. 398.

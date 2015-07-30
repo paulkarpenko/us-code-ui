@@ -86,7 +86,7 @@ In this chapter:
 
   (B) a program carried out by a center for independent living, such as a center described in part C of title VII of the Rehabilitation Act of 1973 ([29 U.S.C. 796f](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796f) et seq.);
 
-  (C) a program carried out by an employment support agency connected to adult vocational rehabilitation, such as a one-stop partner, as defined in [section 2801 of this title](./chapter-030-workforce-investment-systems.md#section-2801); and
+  (C) a program carried out by an employment support agency connected to adult vocational rehabilitation, such as a one-stop partner, as defined in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102); and
 
   (D) a program carried out by another organization or vender licensed or registered by the designated State agency, as defined in section 7 of the Rehabilitation Act of 1973 ([29 U.S.C. 705](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-705)).
 
@@ -210,9 +210,6 @@ In this chapter:
 
 ### Statutory Notes
 
-#### Amendment of Paragraph (1)(C)
-Pub. L. 113–128, title V, §§ 506, 512(b)(1), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (1)(C) of this section is amended by striking “such as a one-stop partner, as defined in [section 2801 of this title](./chapter-030-workforce-investment-systems.md#section-2801)” and inserting “such as a one-stop partner, as defined in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)”. See 2014 Amendment note below.
-
 #### References in Text
 The Rehabilitation Act of 1973, referred to in pars. (1)(B) and (16)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Part C of title VII of the Act is classified generally to subpart 3 (§ 796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) and Tables.
 
@@ -234,7 +231,7 @@ Par. (13). Pub. L. 113–128, § 491(o)(1), substituted “Health and Human Serv
 2000—Subsec. (a)(11)(A). Pub. L. 106–402 substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6041](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6041&num=0&edition=prelim) et seq.)”.
 
 #### Effective Date of 2014 Amendment
-Amendment by section 512(b)(1) of Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Amendment by section 512(b)(1) of Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3003"></a>
@@ -318,7 +315,7 @@ Amendment by section 512(b)(1) of Pub. L. 113–128 effective on the first day o
 
       (III) a representative of a State center for independent living described in part C of title VII of the Rehabilitation Act of 1973 ([29 U.S.C. 796f](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796f) et seq.);
 
-      (IV) a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821](./chapter-030-workforce-investment-systems.md#section-2821));
+      (IV) a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](./chapter-032-workforce-innovation-and-opportunity.md#section-3111)];
 
       (V) a representative of the State educational agency, as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim); and
 
@@ -436,7 +433,7 @@ Amendment by section 512(b)(1) of Pub. L. 113–128 effective on the first day o
 
   (D) *Device demonstrations*
 
-    (i) *In general* — The State shall directly, or in collaboration with public and private entities, such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801)), demonstrate a variety of assistive technology devices and assistive technology services (including assisting individuals in making informed choices regarding, and providing experiences with, the devices and services), using personnel who are familiar with such devices and services and their applications.
+    (i) *In general* — The State shall directly, or in collaboration with public and private entities, such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3102](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)], demonstrate a variety of assistive technology devices and assistive technology services (including assisting individuals in making informed choices regarding, and providing experiences with, the devices and services), using personnel who are familiar with such devices and services and their applications.
 
     (ii) *Comprehensive information* — The State shall directly, or through referrals, provide to individuals, to the extent practicable, comprehensive information about State and local assistive technology venders, providers, and repair services.
 
@@ -472,7 +469,7 @@ Amendment by section 512(b)(1) of Pub. L. 113–128 effective on the first day o
 
       (I) *In general* — The State shall conduct public-awareness activities designed to provide information to targeted individuals and entities relating to the availability, benefits, appropriateness, and costs of assistive technology devices and assistive technology services, including—
 
-        (aa) the development of procedures for providing direct communication between providers of assistive technology and targeted individuals and entities, which may include partnerships with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.), State vocational rehabilitation centers, public and private employers, or elementary and secondary public schools;
+        (aa) the development of procedures for providing direct communication between providers of assistive technology and targeted individuals and entities, which may include partnerships with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act, State vocational rehabilitation centers, public and private employers, or elementary and secondary public schools;
 
         (bb) the development and dissemination, to targeted individuals and entities, of information about State efforts related to assistive technology; and
 
@@ -552,17 +549,6 @@ Amendment by section 512(b)(1) of Pub. L. 113–128 effective on the first day o
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(b)(2), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended:
-
-(1) in subsection (c)(2)(B)(i)(IV), by striking “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821](./chapter-030-workforce-investment-systems.md#section-2821))” and inserting “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act”;
-
-(2) in subsection (e)(2)(D)(i), by striking “such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801)),” and inserting “such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,”; and
-
-(3) in subsection (e)(3)(B)(ii)(I)(aa), by striking “with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.),” and inserting “with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,”.
-
-See 2014 Amendment notes below.
-
 #### References in Text
 [Section 3011 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3011&num=0&edition=prelim), referred to in subsec. (b)(2)(A), was omitted in the general amendment of this chapter by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707.
 
@@ -574,17 +560,17 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (d)(3)(
 
 The Americans with Disabilities Act of 1990, referred to in subsecs. (d)(6)(E) and (e)(2)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (e)(3)(B)(ii)(I)(aa), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (e)(3)(B)(ii)(I)(aa), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Amendments
-2014—Subsec. (c)(2)(B)(i)(IV). Pub. L. 113–128, § 512(b)(2)(A), substituted “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act” for “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821](./chapter-030-workforce-investment-systems.md#section-2821))”.
+2014—Subsec. (c)(2)(B)(i)(IV). Pub. L. 113–128, § 512(b)(2)(A), substituted “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act” for “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821&num=0&edition=prelim))”.
 
 Subsec. (e)(2)(D)(i). Pub. L. 113–128, § 512(b)(2)(B)(i), substituted “such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,” for “such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801)),”.
 
 Subsec. (e)(3)(B)(ii)(I)(aa). Pub. L. 113–128, § 512(b)(2)(B)(ii), substituted “with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,” for “with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.),”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3004"></a>

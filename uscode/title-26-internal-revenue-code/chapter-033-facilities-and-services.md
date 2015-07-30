@@ -466,11 +466,9 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
 
       (I) is not located within 75 miles of another airport which is not described in clause (i),
 
-      (II) is receiving essential air service subsidies as of the date of Bthe enactment of this paragraph, or
+      (II) is receiving essential air service subsidies as of the date of the enactment of this paragraph, or
 
       (III) is not connected by paved roads to another airport.
-
-  (C) *Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(104)(A), Dec. 19, 2014, 128 Stat. 4053]*
 
 (2) **Amounts paid outside the United States** — In the case of amounts paid outside the United States for taxable transportation, the taxes imposed by subsections (a) and (b) shall apply only if such transportation begins and ends in the United States.
 
@@ -500,8 +498,6 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
   (C) *Taxable event* — For purposes of subparagraph (A), in the case of the tax imposed by subsection (b), the beginning of the domestic segment shall be treated as the taxable event.
 
   (D) *Special rule for amounts paid for domestic segments beginning after 2002* — If an amount is paid during a calendar year for a domestic segment beginning in a later calendar year, then the rate of tax under subsection (b) on such amount shall be the rate in effect for the calendar year in which such amount is paid.
-
-(5) **Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(104)(B), Dec. 19, 2014, 128 Stat. 4053]**
 
 **(f) Exemption for certain uses** No tax shall be imposed under subsection (a) or (b) on air transportation—
 
@@ -549,9 +545,9 @@ The Airport and Airway Development Act of 1970, referred to in subsec. (f), is t
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (k)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
-2014—Subsec. (e)(1)(C). Pub. L. 113–295, § 221(a)(104)(A), struck out subpar. (C), which provided for no phasein of reduced ticket tax for certain transportation
+2014—Subsec. (e)(1)(C). Pub. L. 113–295, § 221(a)(104)(A), struck out subpar. (C) which provided for no phasein of reduced ticket tax for certain transportation.
 
-Subsec. (e)(5). Pub. L. 113–295, § 221(a)(104)(B), struck out par. (5), which related to rates of ticket tax for transportation beginning before October 1, 1999.
+Subsec. (e)(5). Pub. L. 113–295, § 221(a)(104)(B), struck out par. (5) which related to rates of ticket tax for transportation beginning before Oct. 1, 1999.
 
 2012—Subsec. (j). Pub. L. 112–95, § 1103(c), added subsec. (j). Former subsec. (j) redesignated (k).
 
@@ -1217,7 +1213,7 @@ Section 4273, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to registr
 A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under [section 6415 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6415).
 
 #### Amendments
-2014—Pub. L. 113–295 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The taxes imposed by sections 4261 and 4271 shall not apply to transportation by an aircraft having a maximum certificated takeoff weight of 6,000 pounds or less, except when such aircraft is operated on an established line or when such aircraft is a jet aircraft. For purposes of the preceding sentence, the term ‘maximum certificated takeoff weight’ means the maximum such weight contained in the type certificate or airworthiness certificate. For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing.”
+2014—Pub. L. 113–295 amended section generally. Prior to amendment, text read as follows: “The taxes imposed by sections 4261 and 4271 shall not apply to transportation by an aircraft having a maximum certificated takeoff weight of 6,000 pounds or less, except when such aircraft is operated on an established line or when such aircraft is a jet aircraft. For purposes of the preceding sentence, the term ‘maximum certificated takeoff weight’ means the maximum such weight contained in the type certificate or airworthiness certificate. For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing.”
 
 2012—Pub. L. 112–95 inserted “or when such aircraft is a jet aircraft” after “an established line” in first sentence.
 

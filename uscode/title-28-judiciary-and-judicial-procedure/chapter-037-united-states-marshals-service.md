@@ -116,9 +116,11 @@ A prior section 565, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 62
 
   (A) provide for the personal protection of Federal jurists, court officers, witnesses, and other threatened persons in the interests of justice where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding;
 
-  (B) investigate such fugitive matters, both within and outside the United States, as directed by the Attorney General; and
+  (B) investigate such fugitive matters, both within and outside the United States, as directed by the Attorney General;
 
-  (C) issue administrative subpoenas in accordance with [section 3486 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3486&num=0&edition=prelim), solely for the purpose of investigating unregistered sex offenders (as defined in such section 3486).
+  (C) issue administrative subpoenas in accordance with [section 3486 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3486&num=0&edition=prelim), solely for the purpose of investigating unregistered sex offenders (as defined in such section 3486); and
+
+  (D) assist State, local, and other Federal law enforcement agencies, upon the request of such an agency, in locating and recovering missing children.
 
 (2) Nothing in paragraph (1)(B) shall be construed to interfere with or supersede the authority of other Federal agencies or bureaus.
 
@@ -140,6 +142,8 @@ A prior section 565, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 62
 A prior section 566, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 92–310, title II, § 206(b), June 6, 1972, 86 Stat. 203, provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by Pub. L. 100–690, § 7608(a)(1).
 
 #### Amendments
+2015—Subsec. (e)(1)(D). Pub. L. 114–22 added subpar. (D).
+
 2012—Subsec. (e)(1)(C). Pub. L. 112–206 added subpar. (C).
 
 2008—Subsec. (a). Pub. L. 110–177, § 102(a), substituted “, the Court of International Trade, and the United States Tax Court, as provided by law” for “and the Court of International Trade”.

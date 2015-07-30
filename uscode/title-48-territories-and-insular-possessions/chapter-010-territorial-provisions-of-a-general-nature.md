@@ -481,7 +481,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (5) electric power transmission and distribution lines in insular areas are inadequate to withstand damage caused by the hurricanes and typhoons which frequently occur in insular areas and such damage often costs millions of dollars to repair; and
 
-(6) the refinement of renewable energy technologies since the publication of the 1982 Territorial Energy Assessment prepared pursuant to subsection (c) of this section reveals the need to reassess the state of energy production, consumption, infrastructure, reliance on imported energy, opportunities for energy conservation and increased energy efficiency, and indigenous sources in regard to the insular areas.
+(6) the refinement of renewable energy technologies since the publication of the 1982 Territorial Energy Assessment prepared pursuant to subsection (c) reveals the need to reassess the state of energy production, consumption, infrastructure, reliance on imported energy, opportunities for energy conservation and increased energy efficiency, and indigenous sources in regard to the insular areas.
 
 **(b) Congressional declaration of policy** The Congress declares that it is the policy of the Federal Government to—
 
@@ -505,9 +505,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(e) Updating of plans; submission to Congress**
 
-(1) The Secretary of the Interior, in consultation with the Secretary of Energy and the head of government of each insular area, shall update the plans required under subsection (c) of this section by—
+(1) The Secretary of the Interior, in consultation with the Secretary of Energy and the head of government of each insular area, shall update the plans required under subsection (c) by—
 
-  (A) updating the contents required by subsection (c) of this section;
+  (A) updating the contents required by subsection (c);
 
   (B) drafting long-term energy plans for such insular areas with the objective of reducing, to the extent feasible, their reliance on energy imports by the year 2012, increasing energy conservation and energy efficiency, and maximizing, to the extent feasible, use of indigenous energy sources; and
 
@@ -621,7 +621,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
   (A) the term “insular area” means American Samoa, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Republic of Palau, and the Virgin Islands; and
 
-  (B) the term “1982 Territorial Energy Assessment” means the comprehensive energy plan prepared by the Secretary of Energy pursuant to subsection (c) of this section.
+  (B) the term “1982 Territorial Energy Assessment” means the comprehensive energy plan prepared by the Secretary of Energy pursuant to subsection (c).
 
 ### Statutory Notes
 
@@ -644,7 +644,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 
 <a id="section-1492a"></a>
-## § 1492a. Study of Electric Rates in the Insular Areas
+## § 1492a. Study of electric rates in the insular areas
 **(a) Definitions** In this section:
 
 (1) **Comprehensive energy plan** — The term “comprehensive energy plan” means a comprehensive energy plan prepared and updated under subsections (c) and (e) of [section 1492 of this title](./chapter-010-territorial-provisions-of-a-general-nature.md#section-1492).
@@ -740,7 +740,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (2) the efforts and success of Federal agencies in preventing the illegal entry from other nations, including states freely associated with the United States, of controlled substances into the United States territories, the Trust Territory of the Pacific Islands, and the commonwealths for use in the territories, the Trust Territory of the Pacific Islands, and commonwealths or for transshipment to the United States and the nature and extent of such illegal entry and use.
 
-**(b) Transmission date** The annual reports required by subsection (a) of this section shall be transmitted to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate not later than the first day of October each year.
+**(b) Transmission date** The annual reports required by subsection (a) shall be transmitted to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate not later than the first day of October each year.
 
 ### Statutory Notes
 

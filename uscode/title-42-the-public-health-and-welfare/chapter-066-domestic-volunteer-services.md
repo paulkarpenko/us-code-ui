@@ -221,7 +221,7 @@ Pub. L. 103–82, title III, § 322(b), Sept. 21, 1993, 107 Stat. 899, provided 
 
 (3) The Director shall consult with the Director of the Peace Corps to coordinate the recruitment and public awareness activities carried out under this subsection with those of the Peace Corps and to develop joint procedures and activities for the recruitment of volunteers to serve under this part.
 
-**(d) Provision of plans to volunteers for job advancement; coordination with private industry councils or local workforce investment boards** The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce investment board established under [section 2832 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim).
+**(d) Provision of plans to volunteers for job advancement; coordination with private industry councils or local workforce investment boards** The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under [section 3122 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122&num=0&edition=prelim).
 
 **(e) Educational and vocational counseling for volunteers; Director to provide** The Director may provide or arrange for educational and vocational counseling of volunteers and recent former volunteers under this part to (1) encourage them to use, in the national interest, the skills and experience which they have derived from their training and service, particularly working in combating poverty as members of the helping professions, and (2) promote the development of appropriate opportunities for the use of such skills and experience, and the placement therein of such volunteers.
 
@@ -234,9 +234,6 @@ Pub. L. 103–82, title III, § 322(b), Sept. 21, 1993, 107 Stat. 899, provided 
 **(i) Agreements with nonprofit organizations** The Director may enter into agreements under which public and private nonprofit organizations, with sufficient financial capacity and size, pay for all or a portion of the costs of supporting the service of volunteers under this part.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 113–128, title V, §§ 506, 512(h), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (d) of this section is amended by striking “employment.” and all that follows and inserting the following: “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under [section 3122 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122&num=0&edition=prelim).”. See 2014 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsec. (a)(6), was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
@@ -387,7 +384,7 @@ Subsec. (f). Pub. L. 98–288, § 4(c)(1)(A), (d), redesignated subsec. (d) as (
 Subsec. (d). Pub. L. 96–143, § 2(b), inserted “in a program or project” after “work” and “or project” after “program” and inserted provisions requiring notification by a Governor or other chief executive officer to the Director that such Governor or other chief executive officer has disapproved a program or project under this section and requiring the Director to terminate a program or project under this section in the event of a timely request by the Governor or other chief executive officer not later than 30 days after the date such request is received or at such date agreed upon by the Director and such Governor or other chief executive officer.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).

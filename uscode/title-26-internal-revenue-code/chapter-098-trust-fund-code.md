@@ -723,11 +723,11 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 
     (ii) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
 
-  (B) *Exception for prior obligations* — Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before June 1, 2015, in accordance with the provisions of this section.
+  (B) *Exception for prior obligations* — Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before August 1, 2015, in accordance with the provisions of this section.
 
 **(c) Expenditures from Highway Trust Fund**
 
-(1) **Federal-aid highway program** — Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before June 1, 2015, to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the Highway and Transportation Funding Act of 2014 or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+(1) **Federal-aid highway program** — Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before August 1, 2015, to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the Highway and Transportation Funding Act of 2015 or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
 
 (2) **Floor stocks refunds** — The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2017, under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
 
@@ -828,7 +828,7 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 
   (E) 9.71 cents per MCF (determined at standard temperature and pressure) in the case of compressed natural gas.
 
-(3) **Expenditures from Account** — Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before June 1, 2015, in accordance with the Highway and Transportation Funding Act of 2014 or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+(3) **Expenditures from Account** — Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before August 1, 2015, in accordance with the Highway and Transportation Funding Act of 2015 or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
 
 (4) **Limitation** — Rules similar to the rules of subsection (d) shall apply to the Mass Transit Account.
 
@@ -873,11 +873,11 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Highway and Transportation Funding Act of 2014, referred to in subsecs. (c)(1) and (e)(3), is Pub. L. 113–159, Aug. 8, 2014, 128 Stat. 1839. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
+The Highway and Transportation Funding Act of 2015, referred to in subsecs. (c)(1) and (e)(3), is Pub. L. 114–21, May 29, 2015, 129 Stat. 218. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
-The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (c)(1), means the provisions of law referred to in subsec. (c)(1) before the date of enactment of the Highway and Transportation Funding Act of 2014 (Pub. L. 113–159), which was approved Aug. 8, 2014. Those provisions are section 209 of the Highway Revenue Act of 1956, titles I and II of the Surface Transportation Assistance Act of 1982, the Surface Transportation and Uniform Relocation Assistance Act of 1987, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, and the MAP–21. See notes below.
+The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (c)(1), means the provisions of law referred to in subsec. (c)(1) before the date of enactment of the Highway and Transportation Funding Act of 2015 (Pub. L. 114–21), which was approved May 29, 2015. Those provisions are section 209 of the Highway Revenue Act of 1956, titles I and II of the Surface Transportation Assistance Act of 1982, the Surface Transportation and Uniform Relocation Assistance Act of 1987, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, the MAP–21, and the Highway and Transportation Funding Act of 2014. See notes below.
 
-The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (e)(3), means the provisions of law referred to in subsec. (e)(3) before the date of enactment of the Highway and Transportation Funding Act of 2014 (Pub. L. 113–159), which was approved Aug. 8, 2014. Those provisions are section 5338(a)(1) and (b)(1) of title 49, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, and the MAP–21. See notes below.
+The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (e)(3), means the provisions of law referred to in subsec. (e)(3) before the date of enactment of the Highway and Transportation Funding Act of 2015 (Pub. L. 114–21), which was approved May 29, 2015. Those provisions are section 5338(a)(1) and (b)(1) of title 49, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, the MAP–21, and the Highway and Transportation Funding Act of 2014. See notes below.
 
 Section 209 of the Highway Revenue Act of 1956, referred to in former subsec. (c)(1), is section 209 of act June 29, 1956, ch. 462, title II, 70 Stat. 397, which was set out as a note under [section 120 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section120&num=0&edition=prelim), Highways. Section 209 was repealed, except for subsection (b) thereof, by Pub. L. 97–424, title V, § 531(b), Jan. 6, 1983, 96 Stat. 2191.
 
@@ -933,7 +933,13 @@ The Temporary Surface Transportation Extension Act of 2012, referred to in forme
 
 The MAP–21, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 112–141, July 6, 2012, 126 Stat. 405, also known as the Moving Ahead for Progress in the 21st Century Act. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
+The Highway and Transportation Funding Act of 2014, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 113–159, Aug. 8, 2014, 128 Stat. 1839. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
+
 #### Amendments
+2015—Subsec. (b)(6)(B). Pub. L. 114–21, § 2001(a)(1), substituted “August 1, 2015” for “June 1, 2015”.
+
+Subsecs. (c)(1), (e)(3). Pub. L. 114–21, § 2001(a), substituted “August 1, 2015” for “June 1, 2015” and “Highway and Transportation Funding Act of 2015” for “Highway and Transportation Funding Act of 2014”.
+
 2014—Subsec. (b)(1). Pub. L. 113–295 inserted “and taxes received under section 4081 shall be determined without regard to tax receipts attributable to the rate specified in section 4081(a)(2)(C)” before period at end of concluding provisions.
 
 Subsec. (b)(6)(B). Pub. L. 113–159, § 2001(a)(1), substituted “June 1, 2015” for “October 1, 2014”.
@@ -1639,11 +1645,11 @@ Pub. L. 102–240, title VIII, § 8003(d), Dec. 18, 1991, 105 Stat. 2206, provid
 
 (2) **Expenditures from Trust Fund** — Amounts in the Sport Fish Restoration and Boating Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—
 
-  (A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2014),
+  (A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2015),
 
-  (B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2014), and
+  (B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2015), and
 
-  (C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2014).
+  (C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2015).
   Amounts transferred to such account under section 9503(c)(4) may be used only for making expenditures described in subparagraph (C) of this paragraph.
 
 **(c) Expenditures from Boat Safety Account** Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts thereafter credited to the Account under section 9602(b), shall be available, without further appropriation, for making expenditures before October 1, 2010, to carry out the purposes of section 15 of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users). For purposes of section 9602, the Boat Safety Account shall be treated as a Trust Fund established by this subchapter.
@@ -1656,7 +1662,7 @@ Pub. L. 102–240, title VIII, § 8003(d), Dec. 18, 1991, 105 Stat. 2206, provid
 
   (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before June 1, 2015, in accordance with the provisions of this section.
+(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before August 1, 2015, in accordance with the provisions of this section.
 
 **(e) Cross reference** For provision transferring motorboat fuels taxes to Sport Fish Restoration and Boating Trust Fund, see section 9503(c)(3).
 
@@ -1667,7 +1673,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b)(2)(A) and (c), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of Title 16, Conservation. Section 15 of the Act is classified to [section 777n of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777n&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 777 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) and Tables.
 
-The date of the enactment of the Highway and Transportation Funding Act of 2014, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of Pub. L. 113–159, which was approved Aug. 8, 2014.
+The date of the enactment of the Highway and Transportation Funding Act of 2015, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of Pub. L. 114–21, which was approved May 29, 2015.
 
 Section 7404(d) of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(2)(B), is classified to [section 777g–1(d) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777g–1/d&num=0&edition=prelim), Conservation.
 
@@ -1676,6 +1682,10 @@ The Coastal Wetlands Planning, Protection and Restoration Act, referred to in su
 The date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, referred to in subsec. (c), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+2015—Subsec. (b)(2)(A) to (C). Pub. L. 114–21, § 2001(b)(1), substituted “Highway and Transportation Funding Act of 2015” for “Highway and Transportation Funding Act of 2014”.
+
+Subsec. (d)(2). Pub. L. 114–21, § 2001(b)(2), substituted “August 1, 2015” for “June 1, 2015”.
+
 2014—Subsec. (b)(2)(A) to (C). Pub. L. 113–159, § 2001(b)(1), substituted “Highway and Transportation Funding Act of 2014” for “MAP–21”.
 
 Subsec. (d)(2). Pub. L. 113–159, § 2001(b)(2), substituted “June 1, 2015” for “October 1, 2014”.
@@ -2152,7 +2162,7 @@ For purposes of this subsection, there shall not be taken into account the taxes
 
   (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
 
-(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before June 1, 2015, in accordance with the provisions of this section.
+(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before August 1, 2015, in accordance with the provisions of this section.
 
 ### Statutory Notes
 
@@ -2166,6 +2176,8 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (d)(2), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (e)(2). Pub. L. 114–21 substituted “August 1, 2015” for “June 1, 2015”.
+
 2014—Subsec. (c)(1). Pub. L. 113–159, § 2002(b)(2), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
 Subsec. (c)(3). Pub. L. 113–159, § 2002(b)(1), added par. (3).

@@ -36,7 +36,7 @@ Pub. L. 105–206, title III, § 3421, July 22, 1998, 112 Stat. 758, provided th
 
 (2) **Special rule for tax due in September**
 
-  (A) *Amounts considered collected* — In the case of a person required to make deposits of the tax imposed by sections 4251, 4261, or 4271 with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
+  (A) *Amounts considered collected* — In the case of a person required to make deposits of the tax imposed by sections 11 So in original. Probably should be “section”. 4251, 4261, or 4271 with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
 
   (B) *Special rule where September 29 is on Saturday or Sunday* — If September 29 falls on a Saturday or Sunday, the due date under subparagraph (A) shall be—
 
@@ -1554,7 +1554,7 @@ Section applicable to collection actions initiated after the date which is 180 d
 
   (C) any annuity or pension payment under the Railroad Retirement Act or benefit under the Railroad Unemployment Insurance Act.
 
-(3) **Increase in levy for certain payments** — Paragraph (1) shall be applied by substituting “100 percent” for “15 percent” in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government and by substituting “30 percent” for “15 percent” in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act.
+(3) **Increase in levy for certain payments** — Paragraph (1) shall be applied by substituting “100 percent” for “15 percent” in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government and by substituting “100 percent” for “15 percent” in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act.
 
 **(i) No levy during pendency of proceedings for refund of divisible tax**
 
@@ -1656,6 +1656,8 @@ The Railroad Unemployment Insurance Act, referred to in subsec. (h)(2)(C), is ac
 The Social Security Act, referred to in subsec. (h)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (h)(3). Pub. L. 114–10 substituted “and by substituting ‘100 percent’ ” for “and by substituting ‘30 percent’ ”.
+
 2014—Subsec. (h)(3). Pub. L. 113–295 inserted “and by substituting ‘30 percent’ for ‘15 percent’ in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act” before period at end.
 
 2011—Subsec. (h)(3). Pub. L. 112–56 substituted “property, goods, or services” for “goods or services”.
@@ -1715,6 +1717,9 @@ Subsec. (d)(3). Pub. L. 94–455, § 1209(d)(1), added par. (3).
 1971—Subsecs. (d), (e). Pub. L. 92–178 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1966—Subsec. (b). Pub. L. 89–719 inserted sentence providing that a levy shall extend only to property possessed and obligations existing at the time thereof.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–10, title IV, § 413(b), Apr. 16, 2015, 129 Stat. 162, provided that: “The amendment made by this section [amending this section] shall apply to payments made after 180 days after the date of the enactment of this Act [Apr. 16, 2015].”
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–295, div. B, title II, § 209(b), Dec. 19, 2014, 128 Stat. 4074, provided that: “The amendment made by this section [amending this section] shall apply to payments made after 180 days after the date of the enactment of this Act [Dec. 19, 2014].”
@@ -1959,7 +1964,7 @@ The Railroad Unemployment Insurance Act, referred to in subsec. (a)(6), is act J
 
 The Social Security Act, referred to in subsecs. (a)(11)(A) and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§ 601 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Section 207 of the Social Security Act is classified to [section 407 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section407&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3101) and Tables.
 
 #### Amendments
 1998—Subsec. (a)(2). Pub. L. 105–206, § 3431(a), substituted “$6,250” for “$2,500”.

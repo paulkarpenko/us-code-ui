@@ -120,17 +120,21 @@ Pub. L. 100–618, § 1, Nov. 5, 1988, 102 Stat. 3195, provided that: “This Ac
 
 **(d) Reporting of Emergency Disclosures.—** On an annual basis, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing—
 
-(1) the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (b)(8); and
+(1) the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (b)(8);
 
 (2) a summary of the basis for disclosure in those instances where—
 
   (A) voluntary disclosures under subsection (b)(8) were made to the Department of Justice; and
 
-  (B) the investigation pertaining to those disclosures was closed without the filing of criminal charges.
+  (B) the investigation pertaining to those disclosures was closed without the filing of criminal charges; and
+
+(3) the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (c)(4).
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (d)(3). Pub. L. 114–23 added par. (3).
+
 2008—Subsecs. (b)(6), (c)(5). Pub. L. 110–401 substituted “section 2258A” for “section 227 of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13032](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13032&num=0&edition=prelim))”.
 
 2006—Subsec. (a). Pub. L. 109–177, § 107(c), inserted “or (c)” after “Except as provided in subsection (b)”.
@@ -484,7 +488,7 @@ The remedies and sanctions described in this chapter are the only judicial remed
 ## § 2709. Counterintelligence access to telephone toll and transactional records
 **(a) Duty to Provide.—** A wire or electronic communication service provider shall comply with a request for subscriber information and toll billing records information, or electronic communication transactional records in its custody or possession made by the Director of the Federal Bureau of Investigation under subsection (b) of this section.
 
-**(b) Required Certification.—** The Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, may—
+**(b) Required Certification.—** The Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, may, using a term that specifically identifies a person, entity, telephone number, or account as the basis for a request—
 
 (1) request the name, address, length of service, and local and long distance toll billing records of a person or entity if the Director (or his designee) certifies in writing to the wire or electronic communication service provider to which the request is made that the name, address, length of service, and toll billing records sought are relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and
 
@@ -492,23 +496,57 @@ The remedies and sanctions described in this chapter are the only judicial remed
 
 **(c) Prohibition of Certain Disclosure.—**
 
-(1) If the Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, certifies that otherwise there may result a danger to the national security of the United States, interference with a criminal, counterterrorism, or counterintelligence investigation, interference with diplomatic relations, or danger to the life or physical safety of any person, no wire or electronic communications service provider, or officer, employee, or agent thereof, shall disclose to any person (other than those to whom such disclosure is necessary to comply with the request or an attorney to obtain legal advice or legal assistance with respect to the request) that the Federal Bureau of Investigation has sought or obtained access to information or records under this section.
+(1) **Prohibition.—**
 
-(2) The request shall notify the person or entity to whom the request is directed of the nondisclosure requirement under paragraph (1).
+  (A) *In general.—* — If a certification is issued under subparagraph (B) and notice of the right to judicial review under subsection (d) is provided, no wire or electronic communication service provider that receives a request under subsection (b), or officer, employee, or agent thereof, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to information or records under this section.
 
-(3) Any recipient disclosing to those persons necessary to comply with the request or to an attorney to obtain legal advice or legal assistance with respect to the request shall inform such person of any applicable nondisclosure requirement. Any person who receives a disclosure under this subsection shall be subject to the same prohibitions on disclosure under paragraph (1).
+  (B) *Certification.—* — The requirements of subparagraph (A) shall apply if the Director of the Federal Bureau of Investigation, or a designee of the Director whose rank shall be no lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office, certifies that the absence of a prohibition of disclosure under this subsection may result in—
 
-(4) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, except that nothing in this section shall require a person to inform the Director or such designee of the identity of an attorney to whom disclosure was made or will be made to obtain legal advice or legal assistance with respect to the request under subsection (a).
+    (i) a danger to the national security of the United States;
 
-**(d) Dissemination by Bureau.—** The Federal Bureau of Investigation may disseminate information and records obtained under this section only as provided in guidelines approved by the Attorney General for foreign intelligence collection and foreign counterintelligence investigations conducted by the Federal Bureau of Investigation, and, with respect to dissemination to an agency of the United States, only if such information is clearly relevant to the authorized responsibilities of such agency.
+    (ii) interference with a criminal, counterterrorism, or counterintelligence investigation;
 
-**(e) Requirement That Certain Congressional Bodies Be Informed.—** On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.
+    (iii) interference with diplomatic relations; or
 
-**(f) Libraries.—** A library (as that term is defined in section 213(1) of the Library Services and Technology Act ([20 U.S.C. 9122(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9122/1&num=0&edition=prelim)), the services of which include access to the Internet, books, journals, magazines, newspapers, or other similar forms of communication in print or digitally by patrons for their use, review, examination, or circulation, is not a wire or electronic communication service provider for purposes of this section, unless the library is providing the services defined in section 2510(15) (“electronic communication service”) of this title.
+    (iv) danger to the life or physical safety of any person.
+
+(2) **Exception.—**
+
+  (A) *In general.—* — A wire or electronic communication service provider that receives a request under subsection (b), or officer, employee, or agent thereof, may disclose information otherwise subject to any applicable nondisclosure requirement to—
+
+    (i) those persons to whom disclosure is necessary in order to comply with the request;
+
+    (ii) an attorney in order to obtain legal advice or assistance regarding the request; or
+
+    (iii) other persons as permitted by the Director of the Federal Bureau of Investigation or the designee of the Director.
+
+  (B) *Application.—* — A person to whom disclosure is made under subparagraph (A) shall be subject to the nondisclosure requirements applicable to a person to whom a request is issued under subsection (b) in the same manner as the person to whom the request is issued.
+
+  (C) *Notice.—* — Any recipient that discloses to a person described in subparagraph (A) information otherwise subject to a nondisclosure requirement shall notify the person of the applicable nondisclosure requirement.
+
+  (D) *Identification of disclosure recipients.—* — At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under clause (i) or (iii) of subparagraph (A) shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
+
+**(d) Judicial Review.—**
+
+(1) **In general.—** — A request under subsection (b) or a nondisclosure requirement imposed in connection with such request under subsection (c) shall be subject to judicial review under section 3511.
+
+(2) **Notice.—** — A request under subsection (b) shall include notice of the availability of judicial review described in paragraph (1).
+
+**(e) Dissemination by Bureau.—** The Federal Bureau of Investigation may disseminate information and records obtained under this section only as provided in guidelines approved by the Attorney General for foreign intelligence collection and foreign counterintelligence investigations conducted by the Federal Bureau of Investigation, and, with respect to dissemination to an agency of the United States, only if such information is clearly relevant to the authorized responsibilities of such agency.
+
+**(f) Requirement That Certain Congressional Bodies Be Informed.—** On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.
+
+**(g) Libraries.—** A library (as that term is defined in section 213(1) of the Library Services and Technology Act ([20 U.S.C. 9122(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9122/1&num=0&edition=prelim)), the services of which include access to the Internet, books, journals, magazines, newspapers, or other similar forms of communication in print or digitally by patrons for their use, review, examination, or circulation, is not a wire or electronic communication service provider for purposes of this section, unless the library is providing the services defined in section 2510(15) (“electronic communication service”) of this title.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–23, § 501(a), substituted “may, using a term that specifically identifies a person, entity, telephone number, or account as the basis for a request” for “may” in introductory provisions.
+
+Subsec. (c). Pub. L. 114–23, § 502(a), added subsec. (c) and struck out former subsec. (c) which related to prohibition of certain disclosure.
+
+Subsecs. (d) to (g). Pub. L. 114–23, § 503(a), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+
 2006—Subsec. (c). Pub. L. 109–177 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No wire or electronic communication service provider, or officer, employee, or agent thereof, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to information or records under this section.”
 
 Subsec. (c)(4). Pub. L. 109–178, § 4(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”

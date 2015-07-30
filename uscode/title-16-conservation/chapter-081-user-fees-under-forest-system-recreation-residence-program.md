@@ -503,7 +503,7 @@ Pub. L. 113–291, div. B, title XXX, § 3024(k), Dec. 19, 2014, 128 Stat. 3766,
 
 **(f) Annual fee**
 
-(1) **Base** — After the date on which appraised lot values have been adjusted in accordance with subsection (e), the annual fee assessed prospectively by the Secretary for recreational residences on National Forest System land shall be in accordance with the following tiered fee structure: Fee TierApproximate Percent of Permits NationallyFee Amount Tier 16 percent$650 Tier 216 percent$1,150 Tier 3 26 percent$1,650 Tier 4 22 percent$2,150 Tier 5 10 percent$2,650 Tier 65 percent$3,150 Tier 7 5 percent$3,650 Tier 8 3 percent$4,150 Tier 9 3 percent$4,650 Tier 10 3 percent$5,150 Tier 111 percent$5,650.
+(1) **Base** — After the date on which appraised lot values have been adjusted in accordance with subsection (e), the annual fee assessed prospectively by the Secretary for recreational residences on National Forest System land shall be in accordance with the following tiered fee structure: Fee TierApproximate Percent of Permits NationallyFee Amount Tier 16 percent$650 Tier 216 percent$1,150 Tier 326 percent$1,650 Tier 422 percent$2,150 Tier 510 percent$2,650 Tier 65 percent$3,150 Tier 75 percent$3,650 Tier 83 percent$4,150 Tier 93 percent$4,650 Tier 103 percent$5,150 Tier 111 percent$5,650.
 
 (2) **Inflation adjustment** — The Secretary shall increase or decrease the annual fees set forth in the table under paragraph (1) to reflect changes in the Implicit Price Deflator for the Gross Domestic Product published by the Bureau of Economic Analysis of the Department of Commerce, applied on a 5-year rolling average.
 

@@ -11051,7 +11051,7 @@ A prior section 1070d–1d, Pub. L. 89–329, title IV, § 417F, as added Pub. L
 
     (i) who themselves, or whose immediate family, have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork; or
 
-    (ii) who are eligible to participate, or have participated within the preceding 2 years, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6391](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6391) et seq.] or [section 2912 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2912&num=0&edition=prelim); and
+    (ii) who are eligible to participate, or have participated within the preceding 2 years, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6391](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6391) et seq.] or [section 3222 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3222&num=0&edition=prelim); and
 
   (C) who lack a high school diploma or its equivalent;
 
@@ -11081,7 +11081,7 @@ A prior section 1070d–1d, Pub. L. 89–329, title IV, § 417F, as added Pub. L
 
 (1) Services authorized by this subpart for the college assistance migrant program include—
 
-  (A) outreach and recruitment services to reach persons who themselves or whose immediate family have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6391](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6391) et seq.] or [section 2912 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2912&num=0&edition=prelim), and who meet the minimum qualifications for attendance at a college or university;
+  (A) outreach and recruitment services to reach persons who themselves or whose immediate family have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6391](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6391) et seq.] or [section 3222 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3222&num=0&edition=prelim), and who meet the minimum qualifications for attendance at a college or university;
 
   (B) supportive and instructional services to improve placement, persistence, and retention in postsecondary education, which include:
 
@@ -11177,9 +11177,6 @@ A prior section 1070d–1d, Pub. L. 89–329, title IV, § 417F, as added Pub. L
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(n)(1), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsections (b)(1)(B)(ii) and (c)(1)(A) of this section are amended by striking “[section 2912 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2912&num=0&edition=prelim)” and inserting “[section 3222 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3222&num=0&edition=prelim)”. See 2014 Amendment note below.
-
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B)(ii) and (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part C of title I of the Act is classified generally to part C (§ 6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
@@ -11258,7 +11255,7 @@ Subsec. (g). Pub. L. 102–325, § 405(d), amended subsec. (g) generally, substi
 1987—Subsec. (g). Pub. L. 100–50 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “There is authorized to be appropriated for this part $9,000,000 for fiscal year 1987, and such sums as may be necessary for the 4 succeeding fiscal years.”
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendments
 Amendment by section 101(f) [title VIII, § 405(d)(15)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(12)(A)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
@@ -20848,8 +20845,6 @@ For transition rules relating to amendments made by section 3(a)(1)(B) of Pub. L
 #### Effective Date
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
-2014—Subsec. (d). Pub. L. 113–235 amended subsec. (d) generally. Prior to amendment, text of subsec. (d) read as follows: “In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law.”
-
 
 <a id="section-1087kk"></a>
 ## § 1087kk. Amount of need
@@ -21841,7 +21836,7 @@ An individual is not required to qualify or file for the earned income credit in
 
 **(d) Definitions** In this section:
 
-(1) **Dislocated worker** — The term “dislocated worker” has the meaning given the term in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim).
+(1) **Dislocated worker** — The term “dislocated worker” has the meaning given the term in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim).
 
 (2) **Means-tested Federal benefit program** — The term “means-tested Federal benefit program” means a mandatory spending program of the Federal Government, other than a program under this subchapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the program’s benefits, or the amount of such benefits, are determined on the basis of income or resources of the individual or family seeking the benefit, and may include such programs as—
 
@@ -21858,9 +21853,6 @@ An individual is not required to qualify or file for the earned income credit in
   (F) other programs identified by the Secretary.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)(1)
-Pub. L. 113–128, title V, §§ 506, 512(n)(2), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (d)(1) of this section is amended by striking “The term ‘dislocated worker’ has the meaning given the term in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)” and inserting “The term ‘dislocated worker’ has the meaning given the term in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)”. See 2014 Amendment note below.
 
 #### References in Text
 The Social Security Act, referred to in subsec. (d)(2)(A), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
@@ -21962,7 +21954,7 @@ Subsec. (b)(6). Pub. L. 100–50, § 14(24)(B)–(D), added par. (6).
 Subsec. (c). Pub. L. 100–50, § 14(25), added subsec. (c).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–74 effective July 1, 2012, see section 309(g) of Pub. L. 112–74, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -21999,7 +21991,7 @@ Pub. L. 109–171, title VIII, § 8018(b), Feb. 8, 2006, 120 Stat. 175, provided
 
 <a id="section-1087tt"></a>
 ## § 1087tt. Discretion of student financial aid administrators
-**(a) In general** Nothing in this part shall be interpreted as limiting the authority of the financial aid administrator, on the basis of adequate documentation, to make adjustments on a case-by-case basis to the cost of attendance or the values of the data items required to calculate the expected student or parent contribution (or both) to allow for treatment of an individual eligible applicant with special circumstances. However, this authority shall not be construed to permit aid administrators to deviate from the contributions expected in the absence of special circumstances. Special circumstances may include tuition expenses at an elementary or secondary school, medical, dental, or nursing home expenses not covered by insurance, unusually high child care or dependent care costs, recent unemployment of a family member or an independent student, a student or family member who is a dislocated worker (as defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)), the number of parents enrolled at least half-time in a degree, certificate, or other program leading to a recognized educational credential at an institution with a program participation agreement under [section 1094 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1094), a change in housing status that results in an individual being homeless (as defined in [section 11302 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11302&num=0&edition=prelim)), or other changes in a family’s income, a family’s assets, or a student’s status. Special circumstances shall be conditions that differentiate an individual student from a class of students rather than conditions that exist across a class of students. Adequate documentation for such adjustments shall substantiate such special circumstances of individual students. In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator in such cases (1) to request and use supplementary information about the financial status or personal circumstances of eligible applicants in selecting recipients and determining the amount of awards under this subchapter and part C of subchapter I of chapter 34 of title 42, or (2) to offer a dependent student financial assistance under [section 1078–8 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-8) or a Federal Direct Unsubsidized Stafford Loan without requiring the parents of such student to file the financial aid form prescribed under [section 1090 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090) if the student financial aid administrator verifies that the parent or parents of such student have ended financial support of such student and refuse to file such form. No student or parent shall be charged a fee for collecting, processing, or delivering such supplementary information.
+**(a) In general** Nothing in this part shall be interpreted as limiting the authority of the financial aid administrator, on the basis of adequate documentation, to make adjustments on a case-by-case basis to the cost of attendance or the values of the data items required to calculate the expected student or parent contribution (or both) to allow for treatment of an individual eligible applicant with special circumstances. However, this authority shall not be construed to permit aid administrators to deviate from the contributions expected in the absence of special circumstances. Special circumstances may include tuition expenses at an elementary or secondary school, medical, dental, or nursing home expenses not covered by insurance, unusually high child care or dependent care costs, recent unemployment of a family member or an independent student, a student or family member who is a dislocated worker (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)), the number of parents enrolled at least half-time in a degree, certificate, or other program leading to a recognized educational credential at an institution with a program participation agreement under [section 1094 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1094), a change in housing status that results in an individual being homeless (as defined in [section 11302 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11302&num=0&edition=prelim)), or other changes in a family’s income, a family’s assets, or a student’s status. Special circumstances shall be conditions that differentiate an individual student from a class of students rather than conditions that exist across a class of students. Adequate documentation for such adjustments shall substantiate such special circumstances of individual students. In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator in such cases (1) to request and use supplementary information about the financial status or personal circumstances of eligible applicants in selecting recipients and determining the amount of awards under this subchapter and part C of subchapter I of chapter 34 of title 42, or (2) to offer a dependent student financial assistance under [section 1078–8 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-8) or a Federal Direct Unsubsidized Stafford Loan without requiring the parents of such student to file the financial aid form prescribed under [section 1090 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090) if the student financial aid administrator verifies that the parent or parents of such student have ended financial support of such student and refuse to file such form. No student or parent shall be charged a fee for collecting, processing, or delivering such supplementary information.
 
 **(b) Adjustments to assets taken into account** A student financial aid administrator shall be considered to be making a necessary adjustment in accordance with subsection (a) of this section if—
 
@@ -22010,9 +22002,6 @@ Pub. L. 109–171, title VIII, § 8018(b), Feb. 8, 2006, 120 Stat. 175, provided
 **(c) Refusal or adjustment of loan certifications** On a case-by-case basis, an eligible institution may refuse to certify a statement that permits a student to receive a loan under part B or C of this subchapter, or may certify a loan amount or make a loan that is less than the student’s determination of need (as determined under this part), if the reason for the action is documented and provided in written form to the student. No eligible institution shall discriminate against any borrower or applicant in obtaining a loan on the basis of race, national origin, religion, sex, marital status, age, or disability status.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 113–128, title V, §§ 506, 512(n)(3), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a) of this section is amended by striking “a dislocated worker (as defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))” and inserting “a dislocated worker (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))”. See 2014 Amendment note below.
 
 #### Prior Provisions
 A prior section 1087tt, Pub. L. 89–329, title IV, § 479A, as added Pub. L. 99–498, title IV, § 406(a), Oct. 17, 1986, 100 Stat. 1472, related to discretion of student financial aid administrators under this part, prior to repeal by section 14(26) of Pub. L. 100–50.
@@ -22035,7 +22024,7 @@ Subsec. (c). Pub. L. 105–244, § 478(2), amended heading and text of subsec. (
 1989—Subsec. (a). Pub. L. 101–239 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selecting recipients and determining the amount of awards under subparts 1 and 2 of part A and parts B and D of this subchapter and part C of subchapter I of chapter 34 of title 42.”
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2007 Amendment
 Pub. L. 110–84, title VI, § 603(b), Sept. 27, 2007, 121 Stat. 806, as amended by Pub. L. 110–315, title IV, § 472(b), Aug. 14, 2008, 122 Stat. 3270, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of the Higher Education Opportunity Act [Aug. 14, 2008].”
@@ -22147,7 +22136,7 @@ As used in this part:
 
   (H) payments to individual retirement accounts and Keogh accounts excluded from income for Federal income tax purposes; and
 
-  (I) any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, or railroad retirement benefits, or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.).
+  (I) any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, or railroad retirement benefits, or benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.].
 
 (2) The term “untaxed income and benefits” shall not include—
 
@@ -22325,13 +22314,10 @@ As used in this part:
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(1)(I)
-Pub. L. 113–128, title V, §§ 506, 512(n)(4), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (b)(1)(I) of this section is amended by striking “benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
 #### References in Text
 The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(3), and (j)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§ 12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§ 12511 et seq.) of chapter 129 of Title 42 and amended this section and [section 1070a–6 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a–6&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12501&num=0&edition=prelim) and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(I), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(I), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and E of title IV of the Act are classified generally to parts A (§ 601 et seq.) and E (§ 670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -22458,7 +22444,7 @@ Subsec. (d)(2)(F). Pub. L. 100–50, § 14(28)(F), substituted “annual total r
 Subsecs. (f) to (h). Pub. L. 100–50, § 14(28)(G), added subsecs. (f) to (h).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -34353,124 +34339,14 @@ There are authorized to be appropriated to carry out this subpart such sums as m
 
 
 <a id="section-1151"></a>
-## § 1151. Grants to States for workplace and community transition training for incarcerated individuals
-**(a) Definition** In this section, the term “incarcerated individual” means a male or female offender who is—
-
-(1) 35 years of age or younger; and
-
-(2) incarcerated in a State prison, including a prerelease facility.
-
-**(b) Grant program** The Secretary of Education (in this section referred to as the “Secretary”)—
-
-(1) shall establish a program in accordance with this section to provide grants to the State correctional education agencies in the States to assist and encourage incarcerated individuals who have obtained a secondary school diploma or its recognized equivalent to acquire educational and job skills through—
-
-  (A) coursework to prepare such individuals to pursue a postsecondary education certificate, an associate’s degree, or bachelor’s degree while in prison;
-
-  (B) the pursuit of a postsecondary education certificate, an associate’s degree, or bachelor’s degree while in prison; and
-
-  (C) employment counseling and other related services, which start during incarceration and end not later than two years after release from incarceration; and
-
-(2) may establish such performance objectives and reporting requirements for State correctional education agencies receiving grants under this section as the Secretary determines are necessary to assess the effectiveness of the program under this section.
-
-**(c) Application** To be eligible for a grant under this section, a State correctional education agency shall submit to the Secretary a proposal for an incarcerated individual program that—
-
-(1) identifies the scope of the problem, including the number of incarcerated individuals in need of postsecondary education and career and technical training;
-
-(2) lists the accredited public or private educational institution or institutions that will provide postsecondary educational services;
-
-(3) lists the cooperating agencies, public and private, or businesses that will provide related services, such as counseling in the areas of career development, substance abuse, health, and parenting skills;
-
-(4) describes specific performance objectives and evaluation methods (in addition to, and consistent with, any objectives established by the Secretary under subsection (b)(2)) that the State correctional education agency will use in carrying out its proposal, including—
-
-  (A) specific and quantified student outcome measures that are referenced to outcomes for non-program participants with similar demographic characteristics; and
-
-  (B) measures, consistent with the data elements and definitions described in subsection (d)(1)(A), of—
-
-    (i) program completion, including an explicit definition of what constitutes a program completion within the proposal;
-
-    (ii) knowledge and skill attainment, including specification of instruments that will measure knowledge and skill attainment;
-
-    (iii) attainment of employment both prior to and subsequent to release;
-
-    (iv) success in employment indicated by job retention and advancement; and
-
-    (v) recidivism, including such subindicators as time before subsequent offense and severity of offense;
-
-(5) describes how the proposed program is to be integrated with existing State correctional education programs (such as adult education, graduate education degree programs, and career and technical training) and State industry programs;
-
-(6) describes how the proposed program will—
-
-  (A) deliver services under this section; and
-
-  (B) utilize technology to deliver such services; and
-
-(7) describes how incarcerated individuals will be selected so that only those eligible under subsection (e) will be enrolled in postsecondary programs.
-
-**(d) Program requirements** Each State correctional education agency receiving a grant under this section shall—
-
-(1) annually report to the Secretary regarding—
-
-  (A) the results of the evaluations conducted using data elements and definitions provided by the Secretary for the use of State correctional education programs;
-
-  (B) any objectives or requirements established by the Secretary pursuant to subsection (b)(2);
-
-  (C) the additional performance objectives and evaluation methods contained in the proposal described in subsection (c)(4) as necessary to document the attainment of project performance objectives;
-
-  (D) how the funds provided under this section are being allocated among postsecondary preparatory education, postsecondary academic programs, and career and technical education programs; and
-
-  (E) the service delivery methods being used for each course offering; and
-
-(2) provide for each student eligible under subsection (e) not more than—
-
-  (A) $3,000 annually for tuition, books, and essential materials; and
-
-  (B) $300 annually for related services such as career development, substance abuse counseling, parenting skills training, and health education.
-
-**(e) Student eligibility** An incarcerated individual who has obtained a secondary school diploma or its recognized equivalent shall be eligible for participation in a program receiving a grant under this section if such individual—
-
-(1) is eligible to be released within seven years (including an incarcerated individual who is eligible for parole within such time);
-
-(2) is 35 years of age or younger; and
-
-(3) has not been convicted of—
-
-  (A) a “criminal offense against a victim who is a minor” or a “sexually violent offense”, as such terms are defined in the Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act ([42 U.S.C. 14071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14071&num=0&edition=prelim) et seq.); 11 See References in Text note below. or
-
-  (B) murder, as described in [section 1111 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1111&num=0&edition=prelim).
-
-**(f) Length of participation** A State correctional education agency receiving a grant under this section shall provide educational and related services to each participating incarcerated individual for a period not to exceed seven years, not more than two years of which may be devoted to study in a graduate education degree program or to coursework to prepare such individuals to take college level courses. Educational and related services shall start during the period of incarceration in prison or prerelease, and the related services may continue for not more than two years after release from confinement.
-
-**(g) Education delivery systems** State correctional education agencies and cooperating institutions shall, to the extent practicable, use high-tech applications in developing programs to meet the requirements and goals of this section.
-
-**(h) Allocation of funds**
-
-(1) **Fiscal year 2009** — From the funds appropriated pursuant to subsection (i) for fiscal year 2009, the Secretary shall allot to each State an amount that bears the same relationship to such funds as the total number of incarcerated individuals described in paragraphs (1) and (2) of subsection (e) in the State bears to the total number of such individuals in all States.
-
-(2) **Future fiscal years** — From the funds appropriated pursuant to subsection (i) for each fiscal year after fiscal year 2009, the Secretary shall allot to each State an amount that bears the same relationship to such funds as the total number of students eligible under subsection (e) in such State bears to the total number of such students in all States.
-
-**(i) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2009 through 2014.
+## § 1151. Repealed. Pub. L. 113–128, title V, § 511(b), July 22, 2014, 128 Stat. 1705
 
 ### Statutory Notes
 
-#### Repeal of Section
-Pub. L. 113–128, title V, §§ 506, 511(b), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
-
-#### References in Text
-The Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act, referred to in subsec. (e)(3)(A), is subtitle A of title XVII of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2038, which was classified generally to subchapter VI (§ 14071 et seq.) of chapter 136 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 109–248, title I, § 129(a), July 27, 2006, 120 Stat. 600.
-
-#### Codification
-Section was enacted as part of the Higher Education Amendments of 1998, and not as part of the Higher Education Act of 1965 which comprises this chapter.
-
-#### Amendments
-2009—Subsec. (h). Pub. L. 111–39 amended subsec. (h) generally. Prior to amendment, text read as follows: “From the funds appropriated pursuant to subsection (i) for each fiscal year, the Secretary shall allot to each State an amount that bears the same relationship to such funds as the total number of students eligible under subsection (e) in such State bears to the total number of such students in all States.”
-
-2008—Pub. L. 110–315 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (j) relating to grants to States for workplace and community transition training for incarcerated youth offenders.
+Section, Pub. L. 105–244, title VIII, § 821, Oct. 7, 1998, 112 Stat. 1813; Pub. L. 110–315, title IX, § 932, Aug. 14, 2008, 122 Stat. 3456; Pub. L. 111–39, title VIII, § 802(a)(1), July 1, 2009, 123 Stat. 1956, related to grants to States for workplace and community transition training for incarcerated individuals.
 
 #### Effective Date of Repeal
-Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
-
-#### Effective Date of 2009 Amendment
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-1152"></a>
@@ -35007,7 +34883,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 **(i) Report to Congress** Not later than 36 months after the first grant is awarded under this section, the Comptroller General shall report to the authorizing committees recommendations—
 
-(1) for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 [[20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.] and the Workforce Investment Act of 1998 (including titles I and II [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.; [20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
+(1) for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 [[20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.] and the Workforce Innovation and Opportunity Act (including titles I and II [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq., 3271 et seq.]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
 
 (2) for other changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts to otherwise strengthen the links between business and industry workforce needs, workforce development programs, and other degree credit offerings at institutions of higher education.
 
@@ -35019,11 +34895,11 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
     (i) one or more institutions of higher education, one of which serves as the fiscal agent and grant recipient for the eligible partnership;
 
-    (ii) except as provided in subparagraph (B), an employer, group of employers, local board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))), or workforce intermediary, or any combination thereof; and
+    (ii) except as provided in subparagraph (B), an employer, group of employers, local board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)]), or workforce intermediary, or any combination thereof; and
 
     (iii) where applicable, one or more labor organizations that represent workers locally in the businesses or industries that are the focus of the partnership, including as a result of such an organization’s representation of employees at a worksite at which the partnership proposes to conduct activities under this section.
 
-  (B) *State and local boards* — Notwithstanding subparagraph (A), if an institution of higher education that is participating in an eligible partnership under this section is located in a State that does not operate local boards, an eligible partnership may include a State board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))).
+  (B) *State and local boards* — Notwithstanding subparagraph (A), if an institution of higher education that is participating in an eligible partnership under this section is located in a State that does not operate local boards, an eligible partnership may include a State board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)]).
 
   (C) *Rule of construction* — Nothing in this subsection shall be construed to prohibit an eligible partnership that is in existence on August 14, 2008, from applying for a grant under this section.
 
@@ -35049,23 +34925,10 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(n)(5), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended:
-
-(1) in subsection (i)(1), by striking “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Investment Act of 1998 (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education” and inserting “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Innovation and Opportunity Act (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education”; and
-
-(2) in subsection (j)(1)—
-
-(A) in subparagraph (A)(ii), by striking “local board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)))” and inserting “local board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)”; and
-
-(B) in subparagraph (B), by striking “a State board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)))” and inserting “a State board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)”.
-
-See 2014 Amendment notes below.
-
 #### References in Text
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (i)(1), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301) and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (i)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, which enacted chapter 73 (§ 9201 et seq.) of this title, and chapter 30 (§ 2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29. Title II of the Act is classified generally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (i)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Titles I and II of the Act are classified generally to subchapters I (§ 3111 et seq.) and II (§ 3271 et seq.), respectively, of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (i)(1). Pub. L. 113–128, § 512(n)(5)(A), substituted “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Innovation and Opportunity Act (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education” for “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Investment Act of 1998 (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education”.
@@ -35075,7 +34938,7 @@ Subsec. (j)(1)(A)(ii). Pub. L. 113–128, § 512(n)(5)(B)(i), substituted “loc
 Subsec. (j)(1)(B). Pub. L. 113–128, § 512(n)(5)(B)(ii), substituted “a State board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)” for “a State board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)))”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-1161d"></a>
@@ -36533,7 +36396,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
   (A) one or more local educational agencies serving a rural area; and
 
-  (B) one or more regional employers or local boards (as such term is defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)) serving a rural area.
+  (B) one or more regional employers or local boards (as such term is defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)) serving a rural area.
 
 (2) **Optional partners** — A rural-serving institution of higher education, or a consortium of rural-serving institutions of higher education, that receives a grant under this section, may carry out the activities of the grant in partnership with—
 
@@ -36587,14 +36450,11 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 ### Statutory Notes
 
-#### Amendment of Subection (c)(1)(B)
-Pub. L. 113–128, title V, §§ 506, 512(n)(6), July 22, 2014, 128 Stat. 1703, 1711, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(1)(B) of this section is amended by striking “local boards (as such term is defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))” and inserting “local boards (as such term is defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))”. See 2014 Amendment note below.
-
 #### Amendments
-2014—Subsec. (c)(1)(B). Pub. L. 113–128 substituted “local boards (as such term is defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))” for “local boards (as such term is defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)”.
+2014—Subsec. (c)(1)(B). Pub. L. 113–128 substituted “local boards (as such term is defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))” for “local boards (as such term is defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-1161r"></a>
@@ -36648,7 +36508,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
   (D) A description of the manner in which the eligible entity intends to continue providing the training and assistance to be funded by the grant after the end of the grant period, including any partnerships or arrangements established for that purpose.
 
-  (E) A description of how the eligible entity will work with local boards (as defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)) to ensure that training and assistance to be funded with the grant will further local workforce goals, including the creation of educational opportunities for individuals who are from economically disadvantaged backgrounds or are displaced workers.
+  (E) A description of how the eligible entity will work with local boards (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)) to ensure that training and assistance to be funded with the grant will further local workforce goals, including the creation of educational opportunities for individuals who are from economically disadvantaged backgrounds or are displaced workers.
 
   (F) Additional information, if any, on the eligibility of the eligible entity for priority in the making of grants under subsection (a)(3).
 
@@ -36700,14 +36560,11 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(2)(E)
-Pub. L. 113–128, title V, §§ 506, 512(n)(7), July 22, 2014, 128 Stat. 1703, 1711, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (b)(2)(E) of this section is amended by striking “local boards (as defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))” and inserting “local boards (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))”. See 2014 Amendment note below.
-
 #### Amendments
 2014—Subsec. (b)(2)(E). Pub. L. 113–128 substituted “local boards (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))” for “local boards (as defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-1161t"></a>

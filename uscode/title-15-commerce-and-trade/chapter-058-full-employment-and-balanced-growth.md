@@ -219,7 +219,7 @@ For definition of “this chapter”, referred to in subsec. (b), see References
 ## § 3132. Job training, counseling and reservoirs of employment projects
 **(a) Policies, procedures and recommendations** Further to promote achievement of full employment under this chapter and the Employment Act of 1946 [[15 U.S.C. 1021](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) et seq.], the President, through the Secretary of Labor, shall develop policies and procedures and, as necessary, recommend programs for providing employment opportunities to individuals aged 16 and over in the civilian labor force who are able, willing, and seeking to work but who, despite serious efforts to obtain employment, remain unemployed.
 
-**(b) Utilization of authority under other laws** In meeting the responsibilities under subsection (a) of this section, the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.] and other relevant provisions of law to—
+**(b) Utilization of authority under other laws** In meeting the responsibilities under subsection (a) of this section, the Secretary of Labor shall, as appropriate, fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.] and other relevant provisions of law to—
 
 (1) assure the availability of counseling, training, and other support activities necessary to prepare persons willing and seeking work for employment;
 
@@ -229,7 +229,7 @@ For definition of “this chapter”, referred to in subsec. (b), see References
 
 **(c) Establishment of project reservoirs; restrictions and requirements of new programs**
 
-(1) To the extent that individuals aged sixteen and over and able, willing, and seeking to work are not and in the judgment of the President cannot be provided with private job opportunities or job opportunities under other programs and actions in existence, in accord with the goals and timetables set forth in the Employment Act of 1946 [[15 U.S.C. 1021](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) et seq.], the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.] and other existing employment and training projects or through such new programs as are determined necessary by the President or through both such projects and such programs.
+(1) To the extent that individuals aged sixteen and over and able, willing, and seeking to work are not and in the judgment of the President cannot be provided with private job opportunities or job opportunities under other programs and actions in existence, in accord with the goals and timetables set forth in the Employment Act of 1946 [[15 U.S.C. 1021](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) et seq.], the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.] and other existing employment and training projects or through such new programs as are determined necessary by the President or through both such projects and such programs.
 
 (2) New programs as may be authorized by law after October 27, 1978, referred to in paragraph (c)(1)—
 
@@ -257,23 +257,12 @@ For definition of “this chapter”, referred to in subsec. (b), see References
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(m), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended:
-
-(1) in subsection (b), in the matter preceding paragraph (1), by striking “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” and inserting “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act”; and
-
-(2) in subsection (c)(1), by striking “the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998” and inserting “the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities under title I of the Workforce Innovation and Opportunity Act”.
-
-See 2014 Amendment notes below.
-
 #### References in Text
 For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
 
 The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
-
-The Workforce Investment Act of 1998, referred to in subsecs. (b) and (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (b) and (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (b). Pub. L. 113–128, § 512(m)(1), substituted “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act” for “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” in introductory provisions.
@@ -291,7 +280,7 @@ Subsec. (c)(1). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(10)(B)], str
 Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(ii)], substituted “activities carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “CETA”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(12)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(10)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.

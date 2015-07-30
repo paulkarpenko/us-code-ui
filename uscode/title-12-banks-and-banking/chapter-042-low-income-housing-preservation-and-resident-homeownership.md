@@ -88,9 +88,9 @@ The Secretary shall carry out this subsection in a manner consistent with the pr
 
 **(c) Guidelines** The Secretary shall provide written guidelines for appraisals of preservation value, which shall assume repayment of the existing federally assisted mortgage, termination of the existing low-income affordability restrictions, simultaneous termination of any Federal rental assistance, and costs of compliance with any State or local laws of general applicability. The guidelines may permit reliance upon assessments of rehabilitation needs and other conversion costs determined by an appropriate State agency, as determined by the Secretary. The guidelines shall instruct the appraiser to use the greater of actual project operating expenses at the time of the appraisal (based on the average of the actual project operating expenses during the preceding 3 years) or projected operating expenses after conversion in determining preservation value. The guidelines established by the Secretary shall not be inconsistent with customary appraisal standards. The guidelines shall also meet the following requirements:
 
-(1) **Residential rental value** — In the case of preservation value determined under subsection (b)(1) of this section, the guidelines shall assume conversion of the housing to market-rate rental housing and shall establish methods for (A) determining rehabilitation expenditures that would be necessary to bring the housing up to quality standards required to attract and sustain a market rate tenancy upon conversion, and (B) assessing other costs that the owner could reasonably be expected to incur if the owner converted the property to market-rate multifamily rental housing.
+(1) **Residential rental value** — In the case of preservation value determined under subsection (b)(1), the guidelines shall assume conversion of the housing to market-rate rental housing and shall establish methods for (A) determining rehabilitation expenditures that would be necessary to bring the housing up to quality standards required to attract and sustain a market rate tenancy upon conversion, and (B) assessing other costs that the owner could reasonably be expected to incur if the owner converted the property to market-rate multifamily rental housing.
 
-(2) **Highest and best use value** — In the case of preservation value determined under subsection (b)(2) of this section, the guidelines shall assume conversion of the housing to highest and best use for the property and shall establish methods for (A) determining any rehabilitation expenditures that would be necessary to convert the housing to such use, and (B) assessing other costs that the owner could reasonably be expected to incur if the owner converted the property to its highest and best use.
+(2) **Highest and best use value** — In the case of preservation value determined under subsection (b)(2), the guidelines shall assume conversion of the housing to highest and best use for the property and shall establish methods for (A) determining any rehabilitation expenditures that would be necessary to convert the housing to such use, and (B) assessing other costs that the owner could reasonably be expected to incur if the owner converted the property to its highest and best use.
 
 ### Statutory Notes
 
@@ -106,7 +106,7 @@ The Secretary shall carry out this subsection in a manner consistent with the pr
 
 (1) **Extension of affordability limits** — The aggregate preservation rent for purposes of receiving incentives pursuant to extension of the low-income affordability restrictions under [section 4109 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4109) shall be the gross potential income for the project, determined by the Secretary, that would be required to support the following costs:
 
-  (A) The annual authorized return determined under subsection (a) of this section.
+  (A) The annual authorized return determined under subsection (a).
 
   (B) Debt service on any rehabilitation loan for the housing.
 
@@ -173,9 +173,9 @@ The Secretary shall carry out this subsection in a manner consistent with the pr
 
 (3) **Federal cost limits** — A statement of the applicable Federal cost limits for the market area (or relevant local market area, if applicable) in which the housing is located, which shall explain the limitations under sections 4109 and 4110 of this title of the amount of assistance that the Secretary may provide based on such cost limits.
 
-(4) **Federal cost limit analysis** — A statement of whether the aggregate preservation rents exceed the Federal cost limits and a direction to the owner to file a plan of action under [section 4107 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4107) or submit a second notice of intent under subsection (d) of this section, whichever is applicable.
+(4) **Federal cost limit analysis** — A statement of whether the aggregate preservation rents exceed the Federal cost limits and a direction to the owner to file a plan of action under [section 4107 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4107) or submit a second notice of intent under subsection (d), whichever is applicable.
 
-**(c) Availability to tenants** The Secretary shall make any information provided to the owner under subsections (a) and (b) of this section available to the tenants of the housing, together with other information relating to the rights and opportunities of the tenants.
+**(c) Availability to tenants** The Secretary shall make any information provided to the owner under subsections (a) and (b) available to the tenants of the housing, together with other information relating to the rights and opportunities of the tenants.
 
 **(d) Second notice of intent**
 
@@ -264,11 +264,11 @@ Subsec. (c). Pub. L. 102–550, § 304(b), inserted before period at end “and 
 
 **(b) Standards and procedure for written findings**
 
-(1) **Standards** — A written finding under subsection (a) of this section shall be based on an analysis of the evidence considered by the Secretary in reaching such finding and shall contain documentation of such evidence.
+(1) **Standards** — A written finding under subsection (a) shall be based on an analysis of the evidence considered by the Secretary in reaching such finding and shall contain documentation of such evidence.
 
-(2) **Procedure and criteria** — The Secretary shall, by regulation, develop (A) a procedure for determining whether the conditions under paragraphs (1) and (2) of subsection (a) of this section exist, (B) requirements for evidence on which such determinations are based, and (C) criteria on which such determinations are based.
+(2) **Procedure and criteria** — The Secretary shall, by regulation, develop (A) a procedure for determining whether the conditions under paragraphs (1) and (2) of subsection (a) exist, (B) requirements for evidence on which such determinations are based, and (C) criteria on which such determinations are based.
 
-**(c) Disapproval** If the Secretary determines a plan of action to prepay a mortgage or terminate an insurance contract fails to meet the requirements of subsection (a) of this section, the Secretary shall disapprove the plan, the notice of intent filed under [section 4102 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4102) by such owner shall not be effective for purposes of this subchapter, and the owner may, in order to receive incentives under this subchapter, file a new notice of intent under such section.
+**(c) Disapproval** If the Secretary determines a plan of action to prepay a mortgage or terminate an insurance contract fails to meet the requirements of subsection (a), the Secretary shall disapprove the plan, the notice of intent filed under [section 4102 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4102) by such owner shall not be effective for purposes of this subchapter, and the owner may, in order to receive incentives under this subchapter, file a new notice of intent under such section.
 
 ### Statutory Notes
 
@@ -329,7 +329,7 @@ Pub. L. 102–550, title III, § 318, Oct. 28, 1992, 106 Stat. 3772, provided th
 
 (3) **Information** — Within 30 days of receipt of an expression of interest by a priority purchaser, the Secretary shall provide such purchaser with information on the assistance available from the Federal Government to facilitate a transfer and the owner shall provide appropriate information on the housing, as determined by the Secretary.
 
-**(c) Right of refusal for other qualified purchasers** If no bona fide offer to purchase any eligible low-income housing subject to this section that meets the requirements of subsection (b) of this section is made and accepted during the period under such subsection, during the 3-month period beginning upon the expiration of the 12-month period under subsection (b)(1) of this section, the owner of the housing may offer to sell and may sell the housing only to qualified purchasers. The negotiated sale price may not exceed the preservation value of the housing determined under [section 4103(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4103/b/2&num=0&edition=prelim). The owner or purchaser shall submit a plan of action under [section 4107 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4107) for any sale under this subsection, which shall include any request for assistance under this section, upon the acceptance of any bona fide offer meeting the requirements of this paragraph.11 So in original. Probably should be “subsection.”
+**(c) Right of refusal for other qualified purchasers** If no bona fide offer to purchase any eligible low-income housing subject to this section that meets the requirements of subsection (b) is made and accepted during the period under such subsection, during the 3-month period beginning upon the expiration of the 12-month period under subsection (b)(1), the owner of the housing may offer to sell and may sell the housing only to qualified purchasers. The negotiated sale price may not exceed the preservation value of the housing determined under [section 4103(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4103/b/2&num=0&edition=prelim). The owner or purchaser shall submit a plan of action under [section 4107 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4107) for any sale under this subsection, which shall include any request for assistance under this section, upon the acceptance of any bona fide offer meeting the requirements of this paragraph.11 So in original. Probably should be “subsection.”
 
 **(d) Assistance**
 
@@ -390,7 +390,7 @@ Subsec. (d)(3)(A). Pub. L. 102–550, § 307(e), struck out “any residual rece
 
 (3) **Information from Secretary** — Not later than 30 days after receipt of any notice under paragraph (2), the Secretary shall provide such purchaser with information on the assistance available from the Federal Government to facilitate a transfer and the owner shall provide such purchaser with appropriate information on the housing, as determined by the Secretary.
 
-**(c) Right of refusal for other qualified purchasers** If no bona fide offer to purchase any eligible low-income housing subject to this section that meets the requirements of subsection (b) of this section is made during the period under such subsection, during the 3-month period beginning upon the expiration of the 12-month period under subsection (b)(1) of this section, the owner of the housing may offer to sell and may sell the housing only to qualified purchasers. If, during such period, a qualified purchaser makes a bona fide offer to purchase the housing for a sale price not less than the preservation value of the housing determined under [section 4103(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4103/b/2&num=0&edition=prelim), the Secretary shall require the owner to sell the housing pursuant to such offer.
+**(c) Right of refusal for other qualified purchasers** If no bona fide offer to purchase any eligible low-income housing subject to this section that meets the requirements of subsection (b) is made during the period under such subsection, during the 3-month period beginning upon the expiration of the 12-month period under subsection (b)(1), the owner of the housing may offer to sell and may sell the housing only to qualified purchasers. If, during such period, a qualified purchaser makes a bona fide offer to purchase the housing for a sale price not less than the preservation value of the housing determined under [section 4103(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4103/b/2&num=0&edition=prelim), the Secretary shall require the owner to sell the housing pursuant to such offer.
 
 **(d) Assistance**
 
@@ -414,9 +414,9 @@ Subsec. (d)(3)(A). Pub. L. 102–550, § 307(e), struck out “any residual rece
 
 (2) binding commitments have been made to ensure that—
 
-  (A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c) of this section);
+  (A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c));
 
-  (B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d) of this section, as determined by inspections conducted under such subsection by the Secretary;
+  (B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d), as determined by inspections conducted under such subsection by the Secretary;
 
   (C) current tenants will not be involuntarily displaced (except for good cause);
 
@@ -444,9 +444,9 @@ Subsec. (d)(3)(A). Pub. L. 102–550, § 307(e), struck out “any residual rece
 
     (ii) subject to a procedure, established by the Secretary, for owners to apply for rent increases not adequately compensated by annual adjustment under clause (i), under which the Secretary may increase rents in excess of the amount determined under clause (i) only if the Secretary determines such increases are necessary to reflect extraordinary necessary expenses of owning and maintaining the housing; and
 
-  (H) any savings from reductions in operating expenses due to management efficiencies shall be deposited in project reserves for replacement and the owner shall have periodic access to such reserves, to the extent the Secretary determines that the level of reserves is adequate and that the housing is maintained in accordance with the standards established under subsection (d) of this section; and
+  (H) any savings from reductions in operating expenses due to management efficiencies shall be deposited in project reserves for replacement and the owner shall have periodic access to such reserves, to the extent the Secretary determines that the level of reserves is adequate and that the housing is maintained in accordance with the standards established under subsection (d); and
 
-(3) no incentives under [section 4109 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4109) (other than to purchasers under [section 4110 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4110)) may be provided until the Secretary determines the project meets housing standards under subsection (d) of this section, except that incentives under such section and other incentives designed to correct deficiencies in the project may be provided.
+(3) no incentives under [section 4109 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4109) (other than to purchasers under [section 4110 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4110)) may be provided until the Secretary determines the project meets housing standards under subsection (d), except that incentives under such section and other incentives designed to correct deficiencies in the project may be provided.
 
 **(b) Implementation** Any agreement to maintain the low-income affordability restrictions for the remaining useful life of the housing may be made through execution of a new regulatory agreement, modifications to the existing regulatory agreement or mortgage, or, in the case of the prepayment of a mortgage or voluntary termination of mortgage insurance, a recorded instrument.
 
@@ -563,7 +563,7 @@ Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported J
 
 **(f) Enhanced voucher assistance for certain tenants**
 
-(1) **Authority** — In lieu of benefits under subsections (b), (c), and (d) of this section, and subject to the availability of appropriated amounts, each family described in paragraph (2) shall be offered enhanced voucher assistance under [section 1437f(t) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f/t&num=0&edition=prelim).
+(1) **Authority** — In lieu of benefits under subsections (b), (c), and (d), and subject to the availability of appropriated amounts, each family described in paragraph (2) shall be offered enhanced voucher assistance under [section 1437f(t) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f/t&num=0&edition=prelim).
 
 (2) **Eligible families** — A family described in this paragraph is a family that is—
 
@@ -623,7 +623,7 @@ At least 30 days before making a request under this subsection, an owner shall n
 
 (2) **Opportunity to revise** — The Secretary shall subsequently give the owner a reasonable opportunity to revise the plan of action and seek approval.
 
-**(c) Delayed approval** If the Secretary does not approve a plan of action within the period under subsection (b) of this section, the Secretary shall provide incentives and assistance under this subchapter in the amount that the owner would have received if the Secretary had complied with such time limitations. The preceding sentence shall not apply if the plan of action was not approved because of deficiencies. An owner may bring an action in the appropriate Federal district court to enforce this subsection.
+**(c) Delayed approval** If the Secretary does not approve a plan of action within the period under subsection (b), the Secretary shall provide incentives and assistance under this subchapter in the amount that the owner would have received if the Secretary had complied with such time limitations. The preceding sentence shall not apply if the plan of action was not approved because of deficiencies. An owner may bring an action in the appropriate Federal district court to enforce this subsection.
 
 
 <a id="section-4116"></a>
@@ -860,7 +860,7 @@ Where a provision of this subchapter requires that information or material be gi
 
 **(b) Qualified purchaser** The term “qualified purchaser” means any entity that agrees to maintain low-income affordability restrictions for the remaining useful life of the housing (as determined under [section 4112(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4112/c&num=0&edition=prelim)), and includes for-profit entities and priority purchasers.
 
-**(c) Related parties** Except as provided in subsection (d) of this section, the terms “qualified purchaser” and “priority purchaser” do not include any entity that, either directly or indirectly, is wholly or partially owned or controlled by the owner of the housing being transferred under this subchapter, is under whole or partial common control with such owner, or has any financial interest in such owner or in which such owner has any financial interest. The Secretary shall issue any regulations appropriate to implement the preceding sentence.
+**(c) Related parties** Except as provided in subsection (d), the terms “qualified purchaser” and “priority purchaser” do not include any entity that, either directly or indirectly, is wholly or partially owned or controlled by the owner of the housing being transferred under this subchapter, is under whole or partial common control with such owner, or has any financial interest in such owner or in which such owner has any financial interest. The Secretary shall issue any regulations appropriate to implement the preceding sentence.
 
 **(d) Management exception** A qualified purchaser shall not be precluded from retaining as a property management entity a company that is owned or controlled by the selling owner or a principal thereof if retention of the management company is neither a condition of sale nor part of consideration paid for sale and the property management contract is negotiated by the qualified purchaser on an arm’s length basis.
 
@@ -906,7 +906,7 @@ This Act, referred to in text, is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 181
 ## § 4124. Authorization of appropriations
 **(a) In general** There are authorized to be appropriated for assistance and incentives authorized under this subchapter $638,252,784 for fiscal year 1993 and $665,059,401 for fiscal year 1994.
 
-**(b) Grants** Subject to approval in appropriation Acts, not more than $50,000,000 of the amounts made available under subsection (a) of this section for fiscal year 1993, and not more than $50,000,000 of the amounts made available under subsection (a) of this section for fiscal year 1994, shall be available for grants under [section 4111(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4111/d/2&num=0&edition=prelim).
+**(b) Grants** Subject to approval in appropriation Acts, not more than $50,000,000 of the amounts made available under subsection (a) for fiscal year 1993, and not more than $50,000,000 of the amounts made available under subsection (a) for fiscal year 1994, shall be available for grants under [section 4111(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4111/d/2&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -970,9 +970,9 @@ This title, referred to in pars. (1) and (3), means title II of Pub. L. 100–24
 ## § 4143. Grants for building resident capacity and funding predevelopment costs
 **(a) In general** Assistance made available under this section shall be used for direct assistance grants to resident organizations and community-based nonprofit housing developers and resident councils to assist the acquisition of specific projects (including the payment of reasonable administrative expenses to participating intermediaries).
 
-**(b) Allocation** 30 percent of the assistance made available under this section shall be used for resident capacity grants in accordance with subsection (d) of this section. The remainder shall be used for predevelopment grants in connection with specific projects in accordance with subsection (e) of this section.
+**(b) Allocation** 30 percent of the assistance made available under this section shall be used for resident capacity grants in accordance with subsection (d). The remainder shall be used for predevelopment grants in connection with specific projects in accordance with subsection (e).
 
-**(c) Limitation on grant amounts** A resident capacity grant under subsection (d) of this section may not exceed $30,000 per project and a grant under subsection (e) of this section for predevelopment costs may not exceed $200,000 per project, exclusive of any fees paid to a participating intermediary by the Secretary for administering the program.
+**(c) Limitation on grant amounts** A resident capacity grant under subsection (d) may not exceed $30,000 per project and a grant under subsection (e) for predevelopment costs may not exceed $200,000 per project, exclusive of any fees paid to a participating intermediary by the Secretary for administering the program.
 
 **(d) Resident capacity grants**
 
@@ -988,9 +988,9 @@ This title, referred to in pars. (1) and (3), means title II of Pub. L. 100–24
 
 (3) **Phase-in of grant payments** — Grant payments under this subsection shall be made in phases, based on performance benchmarks established by the Secretary in consultation with intermediaries selected under [section 4145(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4145/b&num=0&edition=prelim).
 
-**(f) Grant applications** Grant applications for assistance under subsections (d) and (e) of this section shall be received monthly on a rolling basis and approved or rejected on at least a quarterly basis by intermediaries selected under [section 4145(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4145/b&num=0&edition=prelim).
+**(f) Grant applications** Grant applications for assistance under subsections (d) and (e) shall be received monthly on a rolling basis and approved or rejected on at least a quarterly basis by intermediaries selected under [section 4145(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4145/b&num=0&edition=prelim).
 
-**(g) Appeal** If an application for assistance under subsections 11 So in original. Probably should be “subsection”. (d) or (e) of this section is denied, the applicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
+**(g) Appeal** If an application for assistance under subsections 11 So in original. Probably should be “subsection”. (d) or (e) is denied, the applicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
 
 ### Statutory Notes
 
@@ -1017,7 +1017,7 @@ This title, referred to in par. (2), means title II of Pub. L. 100–242, as ame
 
 <a id="section-4145"></a>
 ## § 4145. Delivery of assistance through intermediaries
-**(a) In general** The Secretary shall approve and disburse assistance under [section 4143 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4143) through eligible intermediaries selected by the Secretary under subsection (b) of this section. If the Secretary does not receive an acceptable proposal from an intermediary offering to administer assistance under this section in a given State, the Secretary shall administer the program in such State directly.
+**(a) In general** The Secretary shall approve and disburse assistance under [section 4143 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4143) through eligible intermediaries selected by the Secretary under subsection (b). If the Secretary does not receive an acceptable proposal from an intermediary offering to administer assistance under this section in a given State, the Secretary shall administer the program in such State directly.
 
 **(b) Selection of eligible intermediaries**
 
@@ -1039,7 +1039,7 @@ This title, referred to in par. (2), means title II of Pub. L. 100–242, as ame
 
 (6) **Preference** — With respect to assistance made available under [section 4144 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4144), preference shall be given to eligible regional, State, and local intermediaries, over national nonprofit organizations.
 
-**(c) Conflicts of interest** Eligible intermediaries selected under subsection (b) of this section to disburse assistance under [section 4143 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4143) shall certify that they will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
+**(c) Conflicts of interest** Eligible intermediaries selected under subsection (b) to disburse assistance under [section 4143 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4143) shall certify that they will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
 
 (1) establish appropriate procedures for grant administration and fiscal management, pursuant to standards established by the Secretary; and
 

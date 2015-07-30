@@ -12,7 +12,7 @@ source: >-
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 95–344, title III, § 301, Aug. 15, 1978, 92 Stat. 477, related to Congressional statement of findings and purpose. Subsec. (b), which related to purpose, was transferred and is set out as a note under [section 101521 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101521&num=0&edition=prelim), National Park Service and Related Programs. Subsec. (a), which related to findings, was omitted from the Code following the enactment of Title 54.
+Section, Pub. L. 95–344, title III, § 301, Aug. 15, 1978, 92 Stat. 477, related to Congressional statement of findings and purpose. Subsec. (b), which related to purpose, was transferred and is set out as a note under [section 101521 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101521&num=0&edition=prelim), National Park Service and Related Programs. Subsec. (a), which related to findings, was omitted from the Code following the enactment of Title 54 by Pub. L. 113–287.
 
 
 <a id="section-2302"></a>
@@ -44,7 +44,7 @@ Section, Pub. L. 95–344, title III, § 304, Aug. 15, 1978, 92 Stat. 479; Pub. 
 
 ### Statutory Notes
 
-Section, Pub. L. 95–344, title III, § 305, Aug. 15, 1978, 92 Stat. 479, related to report to Congress.
+Section, Pub. L. 95–344, title III, § 305, Aug. 15, 1978, 92 Stat. 479, required a report to Congress within 3 years of Aug. 15, 1978.
 
 
 <a id="section-2306"></a>
@@ -52,4 +52,4 @@ Section, Pub. L. 95–344, title III, § 305, Aug. 15, 1978, 92 Stat. 479, relat
 
 ### Statutory Notes
 
-Section, Pub. L. 95–344, title III, § 306, Aug. 15, 1978, 92 Stat. 480, related to authorization of appropriations; availability of amounts.
+Section, Pub. L. 95–344, title III, § 306, Aug. 15, 1978, 92 Stat. 480, related to authorizations of appropriations for fiscal years 1979 to 1981 and availability of amounts.

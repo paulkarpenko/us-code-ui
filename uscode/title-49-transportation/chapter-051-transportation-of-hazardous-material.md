@@ -2377,7 +2377,7 @@ A prior section 5127 was renumbered [section 5128 of this title](./chapter-051-t
 
 (2) $42,762,000 for fiscal year 2014; and
 
-(3) $28,468,948 for the period beginning on October 1, 2014, and ending on May 31, 2015.
+(3) $35,615,474 for the period beginning on October 1, 2014, and ending on July 31, 2015.
 
 **(b) Hazardous Materials Emergency Preparedness Fund.—**
 
@@ -2393,19 +2393,19 @@ A prior section 5127 was renumbered [section 5128 of this title](./chapter-051-t
 
   (E) $1,000,000 to carry out section 5116(j).
 
-(2) **Fiscal year 2015.—** — From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on May 31, 2015—
+(2) **Fiscal year 2015.—** — From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on July 31, 2015—
 
-  (A) $125,162 to carry out section 5115;
+  (A) $156,581 to carry out section 5115;
 
-  (B) $14,513,425 to carry out subsections (a) and (b) of section 5116, of which not less than $9,087,534 shall be available to carry out section 5116(b);
+  (B) $18,156,712 to carry out subsections (a) and (b) of section 5116, of which not less than $11,368,767 shall be available to carry out section 5116(b);
 
-  (C) $99,863 to carry out section 5116(f);
+  (C) $124,932 to carry out section 5116(f);
 
-  (D) $416,096 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+  (D) $520,548 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
 
-  (E) $665,753 to carry out section 5116(j).
+  (E) $832,877 to carry out section 5116(j).
 
-**(c) Hazardous Materials Training Grants.—** From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 and $2,663,014 for the period beginning on October 1, 2014, and ending on May 31, 2015, to carry out section 5107(e).
+**(c) Hazardous Materials Training Grants.—** From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 and $3,331,507 for the period beginning on October 1, 2014, and ending on July 31, 2015, to carry out section 5107(e).
 
 **(d) Credits to Appropriations.—**
 
@@ -2436,6 +2436,22 @@ In subsection (c), the text of 49 App.:1815(i)(3)(A) is omitted as obsolete.
 In subsection (c)(2), the words “relating to dissemination of the curriculum” are omitted as surplus.
 
 #### Amendments
+2015—Subsec. (a)(3). Pub. L. 114–21, § 1301(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “$28,468,948 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
+
+Subsec. (b)(2). Pub. L. 114–21, § 1301(b), amended par. (2) generally. Prior to amendment, text read as follows: “From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on May 31, 2015—
+
+“(A) $125,162 to carry out section 5115;
+
+“(B) $14,513,425 to carry out subsections (a) and (b) of section 5116, of which not less than $9,087,534 shall be available to carry out section 5116(b);
+
+“(C) $99,863 to carry out section 5116(f);
+
+“(D) $416,096 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+
+“(E) $665,753 to carry out section 5116(j).”
+
+Subsec. (c). Pub. L. 114–21, § 1301(c), substituted “and $3,331,507 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $2,663,014 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
+
 2014—Subsec. (a)(3). Pub. L. 113–159, § 1301(a), added par. (3).
 
 Subsec. (b). Pub. L. 113–159, § 1301(b), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and realigned margins, and added par. (2).

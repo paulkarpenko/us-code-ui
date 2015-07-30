@@ -134,13 +134,13 @@ The Federal banking agencies shall work jointly—
 
 **(b) Uniform reports and simplification of instructions** The Federal banking agencies shall, consistent with the principles of safety and soundness, work jointly—
 
-(1) to adopt a single form for the filing of core information required to be submitted under Federal law to all such agencies in the reports and statements referred to in subsection (a) of this section; and
+(1) to adopt a single form for the filing of core information required to be submitted under Federal law to all such agencies in the reports and statements referred to in subsection (a); and
 
 (2) to simplify instructions accompanying such reports and statements and to provide an index to the instructions that is adequate to meet the needs of both filers and users.
 
 **(c) Review of call report schedule** Each Federal banking agency shall—
 
-(1) review the information required by schedules supplementing the core information referred to in subsection (b) of this section; and
+(1) review the information required by schedules supplementing the core information referred to in subsection (b); and
 
 (2) eliminate requirements that are not warranted for reasons of safety and soundness or other public purposes.
 
@@ -164,13 +164,13 @@ Provisions similar to this section are contained in [section 4805a of this title
 
 **(b) Uniform reports and simplification of instructions** The Federal banking agencies shall, consistent with the principles of safety and soundness, work jointly—
 
-(1) to adopt a single form for the filing of core information required to be submitted under Federal law to all such agencies in the reports and statements referred to in subsection (a) of this section; and
+(1) to adopt a single form for the filing of core information required to be submitted under Federal law to all such agencies in the reports and statements referred to in subsection (a); and
 
 (2) to simplify instructions accompanying such reports and statements and to provide an index to the instructions that is adequate to meet the needs of both filers and users.
 
 **(c) Review of call report schedule** Each Federal banking agency shall—
 
-(1) review the information required by schedules supplementing the core information referred to in subsection (b) of this section; and
+(1) review the information required by schedules supplementing the core information referred to in subsection (b); and
 
 (2) eliminate requirements that are not warranted for reasons of safety and soundness or other public purposes.
 
@@ -188,7 +188,7 @@ Provisions similar to this section are contained in [section 4805 of this title]
 ## § 4806. Regulatory appeals process, ombudsman, and alternative dispute resolution
 **(a) In general** Not later than 180 days after September 23, 1994, each appropriate Federal banking agency and the National Credit Union Administration Board shall establish an independent intra-agency appellate process. The process shall be available to review material supervisory determinations made at insured depository institutions or at insured credit unions that the agency supervises.
 
-**(b) Review process** In establishing the independent appellate process under subsection (a) of this section, each agency shall ensure that—
+**(b) Review process** In establishing the independent appellate process under subsection (a), each agency shall ensure that—
 
 (1) any appeal of a material supervisory determination by an insured depository institution or insured credit union is heard and decided expeditiously; and
 
@@ -274,7 +274,7 @@ For termination of Administrative Conference of United States, see provision of 
 ## § 4807. Time limit on agency consideration of completed applications
 **(a) In general** Each Federal banking agency shall take final action on any application to the agency before the end of the 1-year period beginning on the date on which a completed application is received by the agency.
 
-**(b) Waiver by applicant authorized** Any person submitting an application to a Federal banking agency may waive the applicability of subsection (a) of this section with respect to such application at any time.
+**(b) Waiver by applicant authorized** Any person submitting an application to a Federal banking agency may waive the applicability of subsection (a) with respect to such application at any time.
 
 
 <a id="section-4808"></a>
@@ -304,7 +304,7 @@ For termination of Administrative Conference of United States, see provision of 
 ## § 4809. “Plain language” requirement for Federal banking agency rules
 **(a) In general** Each Federal banking agency shall use plain language in all proposed and final rulemakings published by the agency in the Federal Register after January 1, 2000.
 
-**(b) Report** Not later than March 1, 2001, each Federal banking agency shall submit to the Congress a report that describes how the agency has complied with subsection (a) of this section.
+**(b) Report** Not later than March 1, 2001, each Federal banking agency shall submit to the Congress a report that describes how the agency has complied with subsection (a).
 
 **(c) Definition** For purposes of this section, the term “Federal banking agency” has the meaning given that term in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
 

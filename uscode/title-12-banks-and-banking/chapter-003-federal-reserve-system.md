@@ -181,7 +181,7 @@ Pub. L. 95–523, title I, § 108(b), Oct. 27, 1978, 92 Stat. 1898, provided tha
 
   (A) the efforts, activities, objectives and plans of the Board and the Federal Open Market Committee with respect to the conduct of monetary policy; and
 
-  (B) economic developments and prospects for the future described in the report required in subsection (b) of this section.
+  (B) economic developments and prospects for the future described in the report required in subsection (b).
 
 (2) **Schedule** — The Chairman of the Board shall appear—
 
@@ -301,7 +301,7 @@ Act Aug. 23, 1935, ch. 614, title III, § 346, 49 Stat. 723, provided: “If any
 <a id="section-241"></a>
 ## § 241. Creation; membership; compensation and expenses
 
-The Board of Governors of the Federal Reserve System (hereinafter referred to as the “Board”) shall be composed of seven members, to be appointed by the President, by and with the advice and consent of the Senate, after August 23, 1935, for terms of fourteen years except as hereinafter provided, but each appointive member of the Federal Reserve Board in office on such date shall continue to serve as a member of the Board until February 1, 1936, and the Secretary of the Treasury and the Comptroller of the Currency shall continue to serve as members of the Board until February 1, 1936. In selecting the members of the Board, not more than one of whom shall be selected from any one Federal Reserve district, the President shall have due regard to a fair representation of the financial, agricultural, industrial, and commercial interests, and geographical divisions of the country. The members of the Board shall devote their entire time to the business of the Board and shall each receive basic compensation at the rate of $15,000 per annum, payable monthly, together with actual necessary traveling expenses.
+The Board of Governors of the Federal Reserve System (hereinafter referred to as the “Board”) shall be composed of seven members, to be appointed by the President, by and with the advice and consent of the Senate, after August 23, 1935, for terms of fourteen years except as hereinafter provided, but each appointive member of the Federal Reserve Board in office on such date shall continue to serve as a member of the Board until February 1, 1936, and the Secretary of the Treasury and the Comptroller of the Currency shall continue to serve as members of the Board until February 1, 1936. In selecting the members of the Board, not more than one of whom shall be selected from any one Federal Reserve district, the President shall have due regard to a fair representation of the financial, agricultural, industrial, and commercial interests, and geographical divisions of the country. In selecting members of the Board, the President shall appoint at least 1 member with demonstrated primary experience working in or supervising community banks having less than $10,000,000,000 in total assets. The members of the Board shall devote their entire time to the business of the Board and shall each receive basic compensation at the rate of $15,000 per annum, payable monthly, together with actual necessary traveling expenses.
 
 ### Statutory Notes
 
@@ -309,10 +309,15 @@ The Board of Governors of the Federal Reserve System (hereinafter referred to as
 Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2–7 and 8 of section 10; par. 9 of section 10, as added June 3, 1922, ch. 205, 42 Stat. 621; par. 10 of section 10, as added Aug. 23, 1935, ch. 614, § 203(d), 49 Stat. 705; and par. (12) of section 10, as added Pub. L. 111–203, title XI, § 1108(b), July 21, 2010, 124 Stat. 2126, are classified to sections 242 to 247, 1, 522, 247a, and 247b, respectively, of this title. No par. between pars. (10) and (12) has been enacted.
 
 #### Amendments
+2015—Pub. L. 114–1 inserted after second sentence “In selecting members of the Board, the President shall appoint at least 1 member with demonstrated primary experience working in or supervising community banks having less than $10,000,000,000 in total assets.”
+
 1935—Act Aug. 23, 1935, § 203(b), increased the appointive membership from six to seven, terminated the membership of the Secretary of the Treasury and the Comptroller of the Currency, raised the tenure from twelve to fourteen years and increased the annual salary from $12,000 to $15,000.
 
 #### Change of Name
 Act Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, provided that: “Hereafter the Federal Reserve Board shall be known as the ‘Board of Governors of the Federal Reserve System,’ and the governor and the vice governor of the Federal Reserve Board shall be known as the ‘chairman’ and the ‘vice chairman,’ respectively, of the Board of Governors of the Federal Reserve System.”
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–1, title I, § 109(b), Jan. 12, 2015, 129 Stat. 9, provided that: “The amendment made by this section [amending this section] shall take effect on the date of enactment of this Act [Jan. 12, 2015] and apply to appointments made on and after that effective date, excluding any nomination pending in the Senate on that date.”
 
 #### Repeals
 Act Oct. 15, 1949, ch. 695, § 4, 63 Stat. 880, formerly cited as a credit to this section, which was used as authority to substitute “$16,000” for “$15,000” in the last sentence, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655.
@@ -744,7 +749,7 @@ Ex. Ord. No. 10547, July 27, 1954, 19 F.R. 4661, required statistical transcript
 ## § 248a. Pricing of services
 **(a) Publication of pricing principles and proposed schedule of fees; effective date of schedule of fees** Not later than the first day of the sixth month after March 31, 1980, the Board shall publish for public comment a set of pricing principles in accordance with this section and a proposed schedule of fees based upon those principles for Federal Reserve bank services to depository institutions, and not later than the first day of the eighteenth month after March 31, 1980, the Board shall begin to put into effect a schedule of fees for such services which is based on those principles.
 
-**(b) Covered services** The services which shall be covered by the schedule of fees under subsection (a) of this section are—
+**(b) Covered services** The services which shall be covered by the schedule of fees under subsection (a) are—
 
 (1) currency and coin services;
 
@@ -1671,9 +1676,9 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 **(b) Use of banking premises prohibited** A State member bank may not permit—
 
-(1) the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a) of this section, or
+(1) the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a), or
 
-(2) direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a) of this section.
+(2) direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a).
 
 **(c) Definitions** As used in this section—
 
@@ -1717,7 +1722,7 @@ Section effective Apr. 1, 1968, see section 6 of Pub. L. 90–203, set out as a 
 
 (2) **Powers** — The conservator or receiver for an uninsured State member bank referred to in paragraph (1) shall exercise the same powers, functions, and duties, subject to the same limitations, as a conservator or receiver for a national bank.
 
-**(b) Board authority** The Board shall have the same authority with respect to any conservator or receiver appointed under subsection (a) of this section, and the uninsured State member bank for which the conservator or receiver has been appointed, as the Comptroller of the Currency has with respect to a conservator or receiver for a national bank and the national bank for which the conservator or receiver has been appointed.
+**(b) Board authority** The Board shall have the same authority with respect to any conservator or receiver appointed under subsection (a), and the uninsured State member bank for which the conservator or receiver has been appointed, as the Comptroller of the Currency has with respect to a conservator or receiver for a national bank and the national bank for which the conservator or receiver has been appointed.
 
 **(c) Bankruptcy proceedings** The Board (in the case of an uninsured State member bank which operates, or operates as, such a multilateral clearing organization) may direct a conservator or receiver appointed for the bank to file a petition pursuant to title 11, in which case, title 11 shall apply to the bank in lieu of otherwise applicable Federal or State insolvency law.
 
@@ -2686,7 +2691,7 @@ Pub. L. 96–161, title II, § 213, Dec. 28, 1979, 93 Stat. 1240, provided that 
 
 **(c) “Exposure” defined**
 
-(1) **In general** — For purposes of subsection (b) of this section, an insured depository institution’s “exposure” to another depository institution means—
+(1) **In general** — For purposes of subsection (b), an insured depository institution’s “exposure” to another depository institution means—
 
   (A) all extensions of credit to the other depository institution, regardless of name or description, including—
 
@@ -2733,7 +2738,7 @@ Pub. L. 102–242, title III, § 308(b), Dec. 19, 1991, 105 Stat. 2362, provided
 
 (3) A member bank and its subsidiaries may not purchase a low-quality asset from an affiliate unless the bank or such subsidiary, pursuant to an independent credit evaluation, committed itself to purchase such asset prior to the time such asset was acquired by the affiliate.
 
-(4) Any covered transactions and any transactions exempt under subsection (d) of this section between a member bank and an affiliate shall be on terms and conditions that are consistent with safe and sound banking practices.
+(4) Any covered transactions and any transactions exempt under subsection (d) between a member bank and an affiliate shall be on terms and conditions that are consistent with safe and sound banking practices.
 
 **(b) Definitions** For the purpose of this section—
 
@@ -2841,9 +2846,9 @@ Pub. L. 102–242, title III, § 308(b), Dec. 19, 1991, 105 Stat. 2362, provided
 
 (4) The collateral requirements of this paragraph shall not be applicable to an acceptance that is already fully secured either by attached documents or by other property having an ascertainable market value that is involved in the transaction.
 
-**(d) Exemptions** The provisions of this section, except subsection (a)(4) of this section, shall not be applicable to—
+**(d) Exemptions** The provisions of this section, except paragraph (a)(4),11 So in original. Probably should read “subsection (a)(4),”. shall not be applicable to—
 
-(1) any transaction, subject to the prohibition contained in subsection (a)(3) of this section, with a bank—
+(1) any transaction, subject to the prohibition contained in subsection (a)(3), with a bank—
 
   (A) which controls 80 per centum or more of the voting shares of the member bank;
 
@@ -2865,7 +2870,7 @@ Pub. L. 102–242, title III, § 308(b), Dec. 19, 1991, 105 Stat. 2362, provided
 
 (5) purchasing securities issued by any company of the kinds described in [section 1843(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/c/1&num=0&edition=prelim);
 
-(6) purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or, subject to the prohibition contained in subsection (a)(3) of this section, purchasing loans on a nonrecourse basis from affiliated banks; and
+(6) purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or, subject to the prohibition contained in subsection (a)(3), purchasing loans on a nonrecourse basis from affiliated banks; and
 
 (7) purchasing from an affiliate a loan or extension of credit that was originated by the member bank and sold to the affiliate subject to a repurchase agreement or with recourse.
 
@@ -2981,9 +2986,9 @@ Subsec. (e). Pub. L. 106–102, § 121(b)(1)(B), added subsec. (e). Former subse
 
 Subsec. (f). Pub. L. 106–102, § 121(b)(1)(A), (3), redesignated subsec. (e) as (f) and added par. (3).
 
-1983—Subsec. (d)(1). Pub. L. 97–457, § 22(1), substituted “subject to the prohibition contained in subsection (a)(3) of this section” for “except for the purchase of a low-quality asset which is prohibited”.
+1983—Subsec. (d)(1). Pub. L. 97–457, § 22(1), substituted “subject to the prohibition contained in subsection (a)(3)” for “except for the purchase of a low-quality asset which is prohibited”.
 
-Subsec. (d)(6). Pub. L. 97–457, § 22(2), inserted “, subject to the prohibition contained in subsection (a)(3) of this section,” after “market quotation or”.
+Subsec. (d)(6). Pub. L. 97–457, § 22(2), inserted “, subject to the prohibition contained in subsection (a)(3),” after “market quotation or”.
 
 1982—Pub. L. 97–320 amended section generally by substituting provisions in lettered subsections relating to restrictions on transactions with affiliates, collateral for such transactions, exemptions for certain transactions and rulemaking and additional exemptions, for prior undesignated paragraphs which read as follows:
 
@@ -3085,7 +3090,7 @@ Pub. L. 97–320, title IV, § 410(c), Oct. 15, 1982, 96 Stat. 1520, provided th
 
 (1) the term “affiliate” has the meaning given to such term in [section 371c of this title](./chapter-003-federal-reserve-system.md#section-371c) (but does not include any company described in section 11 So in original. Probably should be “subsection”. (b)(2) of such section or any bank);
 
-(2) the terms “bank”, “subsidiary”, “person”, and “security” (other than security as used in subsection (b) of this section) have the meanings given to such terms in [section 371c of this title](./chapter-003-federal-reserve-system.md#section-371c); and
+(2) the terms “bank”, “subsidiary”, “person”, and “security” (other than security as used in subsection (b)) have the meanings given to such terms in [section 371c of this title](./chapter-003-federal-reserve-system.md#section-371c); and
 
 (3) the term “covered transaction” has the meaning given to such term in [section 371c of this title](./chapter-003-federal-reserve-system.md#section-371c) (but does not include any transaction which is exempt from such definition under subsection (d) of such section).
 
@@ -3170,13 +3175,13 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 (iii) which are secured at the time of acceptance by a warehouse receipt or other such document conveying or securing title covering readily marketable staples.
 
-**(b) Ratio limit of bills to unimpaired capital stock and surplus** Except as provided in subsection (c) of this section, no institution shall accept such bills, or be obligated for a participation share in such bills, in an amount equal at any time in the aggregate to more than 150 per centum of its paid up and unimpaired capital stock and surplus or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h) of this section.
+**(b) Ratio limit of bills to unimpaired capital stock and surplus** Except as provided in subsection (c), no institution shall accept such bills, or be obligated for a participation share in such bills, in an amount equal at any time in the aggregate to more than 150 per centum of its paid up and unimpaired capital stock and surplus or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h).
 
-**(c) Authorization for special ratio limit; foreign banks** The Board, under such conditions as it may prescribe, may authorize, by regulation or order, any institution to accept such bills, or be obligated for a participation share in such bills, in an amount not exceeding at any time in the aggregate 200 per centum of its paid up and unimpaired capital stock and surplus or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h) of this section.
+**(c) Authorization for special ratio limit; foreign banks** The Board, under such conditions as it may prescribe, may authorize, by regulation or order, any institution to accept such bills, or be obligated for a participation share in such bills, in an amount not exceeding at any time in the aggregate 200 per centum of its paid up and unimpaired capital stock and surplus or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h).
 
-**(d) Ratio limit for domestic transactions** Notwithstanding subsections (b) and (c) of this section, with respect to any institution, the aggregate acceptances, including obligations for a participation share in such acceptances, growing out of domestic transactions shall not exceed 50 per centum of the aggregate of all acceptances, including obligations for a participation share in such acceptances, authorized for such institution under this section.
+**(d) Ratio limit for domestic transactions** Notwithstanding subsections (b) and (c), with respect to any institution, the aggregate acceptances, including obligations for a participation share in such acceptances, growing out of domestic transactions shall not exceed 50 per centum of the aggregate of all acceptances, including obligations for a participation share in such acceptances, authorized for such institution under this section.
 
-**(e) Ratio limit for single entity; foreign banks; secu­rity** No institution shall accept bills, or be obligated for a participation share in such bills, whether in a foreign or domestic transaction, for any one person, partnership, corporation, association or other entity in an amount equal at any time in the aggregate to more than 10 per centum of its paid up and unimpaired capital stock and surplus, or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h) of this section, unless the institution is secured either by attached documents or by some other actual security growing out of the same transaction as the acceptance.
+**(e) Ratio limit for single entity; foreign banks; secu­rity** No institution shall accept bills, or be obligated for a participation share in such bills, whether in a foreign or domestic transaction, for any one person, partnership, corporation, association or other entity in an amount equal at any time in the aggregate to more than 10 per centum of its paid up and unimpaired capital stock and surplus, or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h), unless the institution is secured either by attached documents or by some other actual security growing out of the same transaction as the acceptance.
 
 **(f) Exception for participation agreements** With respect to an institution which issues an acceptance, the limitations contained in this section shall not apply to that portion of an acceptance which is issued by such institution and which is covered by a participation agreement sold to another institution.
 
@@ -3201,7 +3206,7 @@ Subsec. (b). Pub. L. 97–290 designated second independent clause of second sen
 
 Subsec. (c). Pub. L. 97–290 designated first proviso of second sentence of existing provisions as subsec. (c), struck out provision applying the subsec. to all banks regardless of capital stock or surplus, substituted a limit of 200 per centum for 100 per centum, and inserted provisions relating to a United States branch or agency of a foreign bank.
 
-Subsec. (d). Pub. L. 97–290 designated second proviso of second sentence of existing provisions as subsec. (d), substituted “Notwithstanding subsections (b) and (c) of this section, with respect to any institution, the aggregate acceptances, including obligations for a participation share in such acceptances, growing out of domestic transactions shall not exceed 50 per centum of the aggregate of all acceptances, including obligations for a participation share in such acceptances, authorized for such institution under this section.” for “Provided further, That the aggregate of acceptances growing out of domestic transactions shall in no event exceed 50 per centum of such capital stock and surplus.”
+Subsec. (d). Pub. L. 97–290 designated second proviso of second sentence of existing provisions as subsec. (d), substituted “Notwithstanding subsections (b) and (c), with respect to any institution, the aggregate acceptances, including obligations for a participation share in such acceptances, growing out of domestic transactions shall not exceed 50 per centum of the aggregate of all acceptances, including obligations for a participation share in such acceptances, authorized for such institution under this section.” for “Provided further, That the aggregate of acceptances growing out of domestic transactions shall in no event exceed 50 per centum of such capital stock and surplus.”
 
 Subsec. (e). Pub. L. 97–290 designated first independent clause of second sentence of existing provisions as subsec. (e), substituted “institution” for “member bank” and “bank” and “accept bills, or be obligated for a participation share in such bills, whether in a foreign or domestic transaction, for any one person, partnership, corporation, association or other entity in an amount” for “accept, whether in a foreign or domestic transaction, for any one person, company, firm, or corporation to an amount”, and inserted provisions relating to a United States branch or agency of a foreign bank.
 
@@ -3962,7 +3967,7 @@ Section 448 related to exchange of one-year gold notes for 3 per centum gold bon
 
 **(b) Additional definitions; required amounts of reserves maintained against transaction accounts; waiver of ratio limits in extraordinary circumstances; supplemental reserves; reserves related to foreign obligations or assets; exemption for certain deposits; discount and borrowing; transitional adjustments; additional exemptions and waivers; earnings on balances**
 
-(1) The following definitions and rules apply to this subsection, subsection (c) of this section, and sections 248–1, 248a, 342, 360, and 412 of this title:
+(1) The following definitions and rules apply to this subsection, subsection (c), and sections 248–1, 248a, 342, 360, and 412 of this title:
 
   (A) The term “depository institution” means—
 
@@ -4098,13 +4103,13 @@ Section 448 related to exchange of one-year gold notes for 3 per centum gold bon
 
 **(c) Promulgation of rules and regulations respecting maintenance of balances**
 
-(1) Reserves held by a depository institution to meet the requirements imposed pursuant to subsection (b) of this section shall, subject to such rules and regulations as the Board shall prescribe, be in the form of—
+(1) Reserves held by a depository institution to meet the requirements imposed pursuant to subsection (b) shall, subject to such rules and regulations as the Board shall prescribe, be in the form of—
 
-  (A) balances maintained for such purposes by such depository institution in the Federal Reserve bank of which it is a member or at which it maintains an account, except that (i) the Board may, by regulation or order, permit depository institutions to maintain all or a portion of their required reserves in the form of vault cash, except that any portion so permitted shall be identical for all depository institutions, and (ii) vault cash may be used to satisfy any supplemental reserve requirement imposed pursuant to subsection (b)(4) of this section, except that all such vault cash shall be excluded from any computation of earnings pursuant to subsection (b) of this section; and
+  (A) balances maintained for such purposes by such depository institution in the Federal Reserve bank of which it is a member or at which it maintains an account, except that (i) the Board may, by regulation or order, permit depository institutions to maintain all or a portion of their required reserves in the form of vault cash, except that any portion so permitted shall be identical for all depository institutions, and (ii) vault cash may be used to satisfy any supplemental reserve requirement imposed pursuant to subsection (b)(4), except that all such vault cash shall be excluded from any computation of earnings pursuant to subsection (b); and
 
   (B) balances maintained by a depository institution in a depository institution which maintains required reserve balances at a Federal Reserve bank, in a Federal Home Loan Bank, or in the National Credit Union Administration Central Liquidity Facility, if such depository institution, Federal Home Loan Bank, or National Credit Union Administration Central Liquidity Facility maintains such funds in the form of balances in a Federal Reserve bank of which it is a member or at which it maintains an account. Balances received by a depository institution from a second depository institution and used to satisfy the reserve requirement imposed on such second depository institution by this section shall not be subject to the reserve requirements of this section imposed on such first depository institution, and shall not be subject to assessments or reserves imposed on such first depository institution pursuant to section 7 of the Federal Deposit Insurance Act ([12 U.S.C. 1817](./chapter-016-federal-deposit-insurance-corporation.md#section-1817)), section 404 of the National Housing Act ([12 U.S.C. 1727](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1727&num=0&edition=prelim)),1 or section 202 of the Federal Credit Union Act ([12 U.S.C. 1782](./chapter-014-federal-credit-unions.md#section-1782)).
 
-(2) The balances maintained to meet the reserve requirements of subsection (b) of this section by a depository institution in a Federal Reserve bank or passed through a Federal Home Loan Bank or the National Credit Union Administration Central Liquidity Facility or another depository institution to a Federal Reserve bank may be used to satisfy liquidity requirements which may be imposed under other provisions of Federal or State law.
+(2) The balances maintained to meet the reserve requirements of subsection (b) by a depository institution in a Federal Reserve bank or passed through a Federal Home Loan Bank or the National Credit Union Administration Central Liquidity Facility or another depository institution to a Federal Reserve bank may be used to satisfy liquidity requirements which may be imposed under other provisions of Federal or State law.
 
 ### Statutory Notes
 
@@ -4463,7 +4468,7 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 ## § 484. Limitation on visitorial powers
 **(a)** No national bank shall be subject to any visitorial powers except as authorized by Federal law, vested in the courts of justice or such as shall be, or have been exercised or directed by Congress or by either House thereof or by any committee of Congress or of either House duly authorized.
 
-**(b)** Notwithstanding subsection (a) of this section, lawfully authorized State auditors and examiners may, at reasonable times and upon reasonable notice to a bank, review its records solely to ensure compliance with applicable State unclaimed property or escheat laws upon reasonable cause to believe that the bank has failed to comply with such laws.
+**(b)** Notwithstanding subsection (a), lawfully authorized State auditors and examiners may, at reasonable times and upon reasonable notice to a bank, review its records solely to ensure compliance with applicable State unclaimed property or escheat laws upon reasonable cause to believe that the bank has failed to comply with such laws.
 
 ### Statutory Notes
 
@@ -4597,11 +4602,11 @@ In text, “sections 375, 375a, 375b, and 376 of this title” was in the origin
 ## § 504. Civil money penalty
 **(a) First tier** Any member bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/u&num=0&edition=prelim)) with respect to such member bank who, violates any provision of section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title, or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
-**(b) Second tier** Notwithstanding subsection (a) of this section, any member bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/u&num=0&edition=prelim)) with respect to such member bank who 11 So in original. Probably should be followed by a dash.
+**(b) Second tier** Notwithstanding subsection (a), any member bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/u&num=0&edition=prelim)) with respect to such member bank who 11 So in original. Probably should be followed by a dash.
 
 (1)
 
-  (A) commits any violation described in subsection (a) of this section;
+  (A) commits any violation described in subsection (a);
 
   (B) recklessly engages in an unsafe or unsound practice in conducting the affairs of such member bank; or
 
@@ -4616,20 +4621,20 @@ In text, “sections 375, 375a, 375b, and 376 of this title” was in the origin
   (C) results in pecuniary gain or other benefit to such party,
 shall forfeit and pay a civil penalty of not more than $25,000 for each day during which such violation, practice, or breach continues.
 
-**(c) Third tier** Notwithstanding subsections (a) and (b) of this section, any member bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/u&num=0&edition=prelim)) with respect to such member bank who—
+**(c) Third tier** Notwithstanding subsections (a) and (b), any member bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/u&num=0&edition=prelim)) with respect to such member bank who—
 
 (1) knowingly—
 
-  (A) commits any violation described in subsection (a) of this section;
+  (A) commits any violation described in subsection (a);
 
   (B) engages in any unsafe or unsound practice in conducting the affairs of such credit union; 22 So in original. Probably should be “such member bank”. or
 
   (C) breaches any fiduciary duty; and
 
 (2) knowingly or recklessly causes a substantial loss to such credit union 2 or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
-shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subsection (d) of this section for each day during which such violation, practice, or breach continues.
+shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subsection (d) for each day during which such violation, practice, or breach continues.
 
-**(d) Maximum amounts of penalties for any violation described in subsection (c)** The maximum daily amount of any civil penalty which may be assessed pursuant to subsection (c) of this section for any violation, practice, or breach described in such subsection is—
+**(d) Maximum amounts of penalties for any violation described in subsection (c)** The maximum daily amount of any civil penalty which may be assessed pursuant to subsection (c) for any violation, practice, or breach described in such subsection is—
 
 (1) in the case of any person other than a member bank, an amount to not exceed $1,000,000; and
 
@@ -4639,7 +4644,7 @@ shall forfeit and pay a civil penalty in an amount not to exceed the applicable 
 
   (B) 1 percent of the total assets of such member bank.
 
-**(e) Assessment; etc.** Any penalty imposed under subsection (a), (b), or (c) of this section shall be assessed and collected 33 So in original. Probably should be followed by a dash rather than “by”. by
+**(e) Assessment; etc.** Any penalty imposed under subsection (a), (b), or (c) shall be assessed and collected 33 So in original. Probably should be followed by a dash rather than “by”. by
 
 (1) in the case of a national bank, by the Comptroller of the Currency; and
 

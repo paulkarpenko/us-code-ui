@@ -43,16 +43,14 @@ Section 1501, Pub. L. 97–300, § 2, Oct. 13, 1982, 96 Stat. 1324; Pub. L. 102�
 
 Section 1502, Pub. L. 97–300, § 3, Oct. 13, 1982, 96 Stat. 1324; Pub. L. 100–418, title VI, § 6303, Aug. 23, 1988, 102 Stat. 1538; Pub. L. 100–628, title VII, § 714(d), Nov. 7, 1988, 102 Stat. 3256; Pub. L. 101–549, title XI, § 1101(b)(2), Nov. 15, 1990, 104 Stat. 2712; Pub. L. 102–367, title I, § 102(a), Sept. 7, 1992, 106 Stat. 1023, authorized appropriations.
 
-Section 1503, Pub. L. 97–300, § 4, Oct. 13, 1982, 96 Stat. 1325; Pub. L. 98–524, § 4(a)(1), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 99–159, title VII, § 713(b)(1), Nov. 22, 1985, 99 Stat. 907; Pub. L. 99–496, §§ 14(b)(1), 15(a), Oct. 16, 1986, 100 Stat. 1265; Pub. L. 100–77, title VII, § 740(a), July 22, 1987, 101 Stat. 531; Pub. L. 102–54, § 13(k)(2)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–235, § 3, Dec. 12, 1991, 105 Stat. 1807; Pub. L. 102–367, title I, § 103(a), (b)(1), title VII, § 702(a)(1)–(3), Sept. 7, 1992, 106 Stat. 1024, 1026, 1111, 1112; Pub. L. 103–382, title III, § 391(n)(1), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 104–193, title I, § 110(n)(1), Aug. 22, 1996, 110 Stat. 2174, defined terms used in this chapter. See [section 2801 of this title](./chapter-030-workforce-investment-systems.md#section-2801).
+Section 1503, Pub. L. 97–300, § 4, Oct. 13, 1982, 96 Stat. 1325; Pub. L. 98–524, § 4(a)(1), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 99–159, title VII, § 713(b)(1), Nov. 22, 1985, 99 Stat. 907; Pub. L. 99–496, §§ 14(b)(1), 15(a), Oct. 16, 1986, 100 Stat. 1265; Pub. L. 100–77, title VII, § 740(a), July 22, 1987, 101 Stat. 531; Pub. L. 102–54, § 13(k)(2)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–235, § 3, Dec. 12, 1991, 105 Stat. 1807; Pub. L. 102–367, title I, § 103(a), (b)(1), title VII, § 702(a)(1)–(3), Sept. 7, 1992, 106 Stat. 1024, 1026, 1111, 1112; Pub. L. 103–382, title III, § 391(n)(1), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 104–193, title I, § 110(n)(1), Aug. 22, 1996, 110 Stat. 2174, defined terms used in this chapter.
 
-Section 1504, Pub. L. 97–300, title VI, § 604, formerly title V, § 504, Oct. 13, 1982, 96 Stat. 1399; renumbered title VI, § 604, Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248, related to enforcement of Military Selective Service Act. See [section 2939 of this title](./chapter-030-workforce-investment-systems.md#section-2939).
+Section 1504, Pub. L. 97–300, title VI, § 604, formerly title V, § 504, Oct. 13, 1982, 96 Stat. 1399; renumbered title VI, § 604, Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248, related to enforcement of Military Selective Service Act.
 
 Section 1505, Pub. L. 97–300, title VI, § 605, formerly title V, § 505, as added Pub. L. 100–418, title VI, § 6307(a), Aug. 23, 1988, 102 Stat. 1541; renumbered title VI, § 505, Pub. L. 100–628, title VII, § 712(a)(1), Nov. 7, 1988, 102 Stat. 3248; renumbered § 605, Pub. L. 102–367, title VII, § 702(a)(20), Sept. 7, 1992, 106 Stat. 1113, related to State job bank systems.
 
 #### Effective Date of Repeal
-Pub. L. 105–220, title I, § 199(c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that: “The repeal made by subsection (b)(2) [repealing this chapter and provisions set out as a note under [section 801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section801&num=0&edition=prelim)] shall take effect on July 1, 2000.”
-
-[Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 199(c)(2)(B) of Pub. L. 105–220, set out above, is repealed.]
+Pub. L. 105–220, title I, § 199(c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, which provided that the repeal made by subsection (b)(2) [repealing this chapter and provisions set out as a note under [section 801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section801&num=0&edition=prelim)] would take effect on July 1, 2000, was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
 
 #### Short Title of 1992 Amendment
 Pub. L. 102–367, § 1, Sept. 7, 1992, 106 Stat. 1021, provided that: “This Act [enacting sections 1519, 1601 to 1606, 1630 to 1635, 1641 to 1646, 1673, 1734, 1735, 1782 to 1784b, and 1792 to 1792b of this title, amending sections 1501 to 1503, 1505, 1511, 1512, 1514 to 1518, 1531 to 1535, 1551 to 1554, 1571, 1572, 1574 to 1577, 1580, 1583, 1652, 1661, 1661c, 1661d, 1662a, 1662c, 1662e, 1671, 1672, 1693, 1696 to 1698, 1703, 1703a, 1706, 1707, 1731 to 1733, 1737, 1752 to 1754, 1772, 1773, 1781, and 1791 to 1791h of this title, [section 2014 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2014&num=0&edition=prelim), Agriculture, and sections 1205a and 2322 of Title 20, Education, repealing sections 1591, 1601 to 1605, 1630 to 1634, and 1734 to 1736 of this title, omitting sections 1791i and 1791j of this title, and enacting provisions set out as notes under sections 1501, 1602, and 1642 of this title] may be cited as the ‘Job Training Reform Amendments of 1992’.”
@@ -78,7 +76,7 @@ Pub. L. 97–300, § 1, Oct. 13, 1982, 96 Stat. 1322, which provided that Pub. L
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 101–649, title VIII, § 801, Nov. 29, 1990, 104 Stat. 5087, which related to educational assistance and training, was transferred to [section 2920 of this title](./chapter-030-workforce-investment-systems.md#section-2920).
+Section, Pub. L. 101–649, title VIII, § 801, Nov. 29, 1990, 104 Stat. 5087, which related to educational assistance and training, was transferred to [section 2920 of this title](./chapter-030-workforce-investment-systems.md#section-2920), prior to transfer to [section 3293 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3293).
 
 
 <a id="section-1551-to-1555"></a>
@@ -123,9 +121,9 @@ Section 1534, Pub. L. 97–300, title I, § 124, Oct. 13, 1982, 96 Stat. 1341; P
 
 Section 1535, Pub. L. 97–300, title I, § 125, Oct. 13, 1982, 96 Stat. 1342; Pub. L. 97–404, § 1(e), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 98–524, § 4(a)(3), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 102–367, title I, § 124, title VII, § 702(a)(6), Sept. 7, 1992, 106 Stat. 1041, 1112, related to State labor market information programs.
 
-Section 1536, Pub. L. 97–300, title I, § 126, Oct. 13, 1982, 96 Stat. 1343, related to authority of State legislature. See [section 2941 of this title](./chapter-030-workforce-investment-systems.md#section-2941).
+Section 1536, Pub. L. 97–300, title I, § 126, Oct. 13, 1982, 96 Stat. 1343, related to authority of State legislature.
 
-Section 1537, Pub. L. 97–300, title I, § 127, Oct. 13, 1982, 96 Stat. 1343, related to interstate agreements. See [section 2941 of this title](./chapter-030-workforce-investment-systems.md#section-2941).
+Section 1537, Pub. L. 97–300, title I, § 127, Oct. 13, 1982, 96 Stat. 1343, related to interstate agreements.
 
 #### Effective Date of Repeal
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under [section 1501 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1501&num=0&edition=prelim).
@@ -138,11 +136,11 @@ Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, se
 
 Section 1551, Pub. L. 97–300, title I, § 141, Oct. 13, 1982, 96 Stat. 1343; Pub. L. 97–404, § 1(f), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 100–77, title VII, § 740(b), July 22, 1987, 101 Stat. 531; Pub. L. 102–367, title I, § 131, Sept. 7, 1992, 106 Stat. 1042; Pub. L. 102–484, div. D, title XLIV, § 4467(f), Oct. 23, 1992, 106 Stat. 2751; Pub. L. 103–160, div. A, title XIII, § 1336, Nov. 30, 1993, 107 Stat. 1805, related to general program requirements for service delivery system.
 
-Section 1552, Pub. L. 97–300, title I, § 142, Oct. 13, 1982, 96 Stat. 1345; Pub. L. 97–404, § 1(g), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 102–367, title I, § 132, Sept. 7, 1992, 106 Stat. 1045, related to benefits for participating individuals. See [section 2931(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2931/a&num=0&edition=prelim).
+Section 1552, Pub. L. 97–300, title I, § 142, Oct. 13, 1982, 96 Stat. 1345; Pub. L. 97–404, § 1(g), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 102–367, title I, § 132, Sept. 7, 1992, 106 Stat. 1045, related to benefits for participating individuals.
 
-Section 1553, Pub. L. 97–300, title I, § 143, Oct. 13, 1982, 96 Stat. 1345; Pub. L. 97–404, § 1(h), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 102–367, title I, § 133, Sept. 7, 1992, 106 Stat. 1045, related to labor standards. See [section 2931(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2931/b&num=0&edition=prelim).
+Section 1553, Pub. L. 97–300, title I, § 143, Oct. 13, 1982, 96 Stat. 1345; Pub. L. 97–404, § 1(h), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 102–367, title I, § 133, Sept. 7, 1992, 106 Stat. 1045, related to labor standards.
 
-Section 1554, Pub. L. 97–300, title I, § 144, Oct. 13, 1982, 96 Stat. 1346; Pub. L. 102–367, title I, § 134(a), Sept. 7, 1992, 106 Stat. 1045, related to grievance procedure. See [section 2931(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2931/c&num=0&edition=prelim).
+Section 1554, Pub. L. 97–300, title I, § 144, Oct. 13, 1982, 96 Stat. 1346; Pub. L. 102–367, title I, § 134(a), Sept. 7, 1992, 106 Stat. 1045, related to grievance procedure.
 
 Section 1555, Pub. L. 97–300, title I, § 145, Oct. 13, 1982, 96 Stat. 1347, prohibited Federal control of education.
 
@@ -155,27 +153,27 @@ Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, se
 
 ### Statutory Notes
 
-Section 1571, Pub. L. 97–300, title I, § 161, Oct. 13, 1982, 96 Stat. 1347; Pub. L. 100–495, § 1, Oct. 17, 1988, 102 Stat. 2454; Pub. L. 102–367, title VII, § 702(a)(7), (8), Sept. 7, 1992, 106 Stat. 1112, related to program year. See [section 2939(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2939/g&num=0&edition=prelim).
+Section 1571, Pub. L. 97–300, title I, § 161, Oct. 13, 1982, 96 Stat. 1347; Pub. L. 100–495, § 1, Oct. 17, 1988, 102 Stat. 2454; Pub. L. 102–367, title VII, § 702(a)(7), (8), Sept. 7, 1992, 106 Stat. 1112, related to program year.
 
-Section 1572, Pub. L. 97–300, title I, § 162, Oct. 13, 1982, 96 Stat. 1347; Pub. L. 102–367, title I, § 141, Sept. 7, 1992, 106 Stat. 1046, related to prompt allocation of funds. See [section 2932 of this title](./chapter-030-workforce-investment-systems.md#section-2932).
+Section 1572, Pub. L. 97–300, title I, § 162, Oct. 13, 1982, 96 Stat. 1347; Pub. L. 102–367, title I, § 141, Sept. 7, 1992, 106 Stat. 1046, related to prompt allocation of funds.
 
-Section 1573, Pub. L. 97–300, title I, § 163, Oct. 13, 1982, 96 Stat. 1348, related to monitoring for compliance with chapter. See [section 2933 of this title](./chapter-030-workforce-investment-systems.md#section-2933).
+Section 1573, Pub. L. 97–300, title I, § 163, Oct. 13, 1982, 96 Stat. 1348, related to monitoring for compliance with chapter.
 
-Section 1574, Pub. L. 97–300, title I, § 164, Oct. 13, 1982, 96 Stat. 1348; Pub. L. 102–367, title I, § 142, Sept. 7, 1992, 106 Stat. 1046, related to fiscal controls and sanctions. See [section 2934 of this title](./chapter-030-workforce-investment-systems.md#section-2934).
+Section 1574, Pub. L. 97–300, title I, § 164, Oct. 13, 1982, 96 Stat. 1348; Pub. L. 102–367, title I, § 142, Sept. 7, 1992, 106 Stat. 1046, related to fiscal controls and sanctions.
 
-Section 1575, Pub. L. 97–300, title I, § 165, Oct. 13, 1982, 96 Stat. 1350; Pub. L. 102–367, title I, § 143, Sept. 7, 1992, 106 Stat. 1048, related to reports, recordkeeping, and investigations. See [section 2935 of this title](./chapter-030-workforce-investment-systems.md#section-2935).
+Section 1575, Pub. L. 97–300, title I, § 165, Oct. 13, 1982, 96 Stat. 1350; Pub. L. 102–367, title I, § 143, Sept. 7, 1992, 106 Stat. 1048, related to reports, recordkeeping, and investigations.
 
-Section 1576, Pub. L. 97–300, title I, § 166, Oct. 13, 1982, 96 Stat. 1351; Pub. L. 102–367, title I, § 134(b), Sept. 7, 1992, 106 Stat. 1046, related to administrative adjudication. See [section 2936 of this title](./chapter-030-workforce-investment-systems.md#section-2936).
+Section 1576, Pub. L. 97–300, title I, § 166, Oct. 13, 1982, 96 Stat. 1351; Pub. L. 102–367, title I, § 134(b), Sept. 7, 1992, 106 Stat. 1046, related to administrative adjudication.
 
-Section 1577, Pub. L. 97–300, title I, § 167, Oct. 13, 1982, 96 Stat. 1352; Pub. L. 102–367, title I, §§ 103(b)(2), 144, Sept. 7, 1992, 106 Stat. 1026, 1051, related to requirements for nondiscrimination. See [section 2938 of this title](./chapter-030-workforce-investment-systems.md#section-2938).
+Section 1577, Pub. L. 97–300, title I, § 167, Oct. 13, 1982, 96 Stat. 1352; Pub. L. 102–367, title I, §§ 103(b)(2), 144, Sept. 7, 1992, 106 Stat. 1026, 1051, related to requirements for nondiscrimination.
 
-Section 1578, Pub. L. 97–300, title I, § 168, Oct. 13, 1982, 96 Stat. 1353, related to judicial review. See [section 2937 of this title](./chapter-030-workforce-investment-systems.md#section-2937).
+Section 1578, Pub. L. 97–300, title I, § 168, Oct. 13, 1982, 96 Stat. 1353, related to judicial review.
 
-Section 1579, Pub. L. 97–300, title I, § 169, Oct. 13, 1982, 96 Stat. 1353, contained administrative provisions. See [section 2939 of this title](./chapter-030-workforce-investment-systems.md#section-2939).
+Section 1579, Pub. L. 97–300, title I, § 169, Oct. 13, 1982, 96 Stat. 1353, contained administrative provisions.
 
-Section 1580, Pub. L. 97–300, title I, § 170, Oct. 13, 1982, 96 Stat. 1354; Pub. L. 102–367, title I, § 145, Sept. 7, 1992, 106 Stat. 1052, related to utilization of services and facilities. See [section 2939(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2939/e&num=0&edition=prelim).
+Section 1580, Pub. L. 97–300, title I, § 170, Oct. 13, 1982, 96 Stat. 1354; Pub. L. 102–367, title I, § 145, Sept. 7, 1992, 106 Stat. 1052, related to utilization of services and facilities.
 
-Section 1581, Pub. L. 97–300, title I, § 171, Oct. 13, 1982, 96 Stat. 1354, related to obligational authority. See [section 2939(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2939/f&num=0&edition=prelim).
+Section 1581, Pub. L. 97–300, title I, § 171, Oct. 13, 1982, 96 Stat. 1354, related to obligational authority.
 
 Section 1582, Pub. L. 97–300, title I, § 172, as added Pub. L. 99–496, § 4, Oct. 16, 1986, 100 Stat. 1261, related to Presidential awards for outstanding private sector involvement in job training programs.
 
@@ -374,11 +372,11 @@ Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, se
 
 ### Statutory Notes
 
-Section 1671, Pub. L. 97–300, title IV, § 401, Oct. 13, 1982, 96 Stat. 1368; Pub. L. 97–404, § 4(a), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 102–367, title IV, § 401(a)–(d), Sept. 7, 1992, 106 Stat. 1074–1076, related to Native American employment and training programs. See [section 2911 of this title](./chapter-030-workforce-investment-systems.md#section-2911).
+Section 1671, Pub. L. 97–300, title IV, § 401, Oct. 13, 1982, 96 Stat. 1368; Pub. L. 97–404, § 4(a), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 102–367, title IV, § 401(a)–(d), Sept. 7, 1992, 106 Stat. 1074–1076, related to Native American employment and training programs.
 
-Section 1672, Pub. L. 97–300, title IV, § 402, Oct. 13, 1982, 96 Stat. 1369; Pub. L. 97–404, § 4(b), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 102–367, title IV, § 401(e), (f), Sept. 7, 1992, 106 Stat. 1076, related to migrant and seasonal farmworker employment and training programs. See [section 2912 of this title](./chapter-030-workforce-investment-systems.md#section-2912).
+Section 1672, Pub. L. 97–300, title IV, § 402, Oct. 13, 1982, 96 Stat. 1369; Pub. L. 97–404, § 4(b), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 102–367, title IV, § 401(e), (f), Sept. 7, 1992, 106 Stat. 1076, related to migrant and seasonal farmworker employment and training programs.
 
-Section 1673, Pub. L. 97–300, title IV, § 403, as added Pub. L. 102–367, title IV, § 401(g), Sept. 7, 1992, 106 Stat. 1076, related to grant procedures. See [section 2912(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2912/g&num=0&edition=prelim).
+Section 1673, Pub. L. 97–300, title IV, § 403, as added Pub. L. 102–367, title IV, § 401(g), Sept. 7, 1992, 106 Stat. 1076, related to grant procedures.
 
 #### Effective Date of Repeal
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under [section 1501 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1501&num=0&edition=prelim).
@@ -389,45 +387,45 @@ Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, se
 
 ### Statutory Notes
 
-Section 1691, Pub. L. 97–300, title IV, § 421, Oct. 13, 1982, 96 Stat. 1370, stated purpose of Job Corps program. See [section 2881 of this title](./chapter-030-workforce-investment-systems.md#section-2881).
+Section 1691, Pub. L. 97–300, title IV, § 421, Oct. 13, 1982, 96 Stat. 1370, stated purpose of Job Corps program.
 
-Section 1692, Pub. L. 97–300, title IV, § 422, Oct. 13, 1982, 96 Stat. 1370, established the Job Corps. See [section 2883 of this title](./chapter-030-workforce-investment-systems.md#section-2883).
+Section 1692, Pub. L. 97–300, title IV, § 422, Oct. 13, 1982, 96 Stat. 1370, established the Job Corps.
 
-Section 1693, Pub. L. 97–300, title IV, § 423, Oct. 13, 1982, 96 Stat. 1370; Pub. L. 102–367, title I, § 103(b)(4), title IV, § 402(a), Sept. 7, 1992, 106 Stat. 1026, 1076, related to eligibility of individuals for the Job Corps. See [section 2884 of this title](./chapter-030-workforce-investment-systems.md#section-2884).
+Section 1693, Pub. L. 97–300, title IV, § 423, Oct. 13, 1982, 96 Stat. 1370; Pub. L. 102–367, title I, § 103(b)(4), title IV, § 402(a), Sept. 7, 1992, 106 Stat. 1026, 1076, related to eligibility of individuals for the Job Corps.
 
-Section 1694, Pub. L. 97–300, title IV, § 424, Oct. 13, 1982, 96 Stat. 1371, contained general provisions relating to screening and selection of applicants. See [section 2885 of this title](./chapter-030-workforce-investment-systems.md#section-2885).
+Section 1694, Pub. L. 97–300, title IV, § 424, Oct. 13, 1982, 96 Stat. 1371, contained general provisions relating to screening and selection of applicants.
 
-Section 1695, Pub. L. 97–300, title IV, § 425, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 98–473, title II, § 231, Oct. 12, 1984, 98 Stat. 2031, contained special limitations relating to screening and selection of applicants. See [section 2885 of this title](./chapter-030-workforce-investment-systems.md#section-2885).
+Section 1695, Pub. L. 97–300, title IV, § 425, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 98–473, title II, § 231, Oct. 12, 1984, 98 Stat. 2031, contained special limitations relating to screening and selection of applicants.
 
-Section 1696, Pub. L. 97–300, title IV, § 426, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 102–367, title IV, § 402(b), Sept. 7, 1992, 106 Stat. 1076, related to enrollment and assignment. See [section 2886 of this title](./chapter-030-workforce-investment-systems.md#section-2886).
+Section 1696, Pub. L. 97–300, title IV, § 426, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 102–367, title IV, § 402(b), Sept. 7, 1992, 106 Stat. 1076, related to enrollment and assignment.
 
-Section 1697, Pub. L. 97–300, title IV, § 427, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 98–524, § 4(a)(4), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 102–367, title IV, § 402(c), (d), Sept. 7, 1992, 106 Stat. 1076, 1077, related to Job Corps centers. See [section 2887 of this title](./chapter-030-workforce-investment-systems.md#section-2887).
+Section 1697, Pub. L. 97–300, title IV, § 427, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 98–524, § 4(a)(4), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 102–367, title IV, § 402(c), (d), Sept. 7, 1992, 106 Stat. 1076, 1077, related to Job Corps centers.
 
-Section 1698, Pub. L. 97–300, title IV, § 428, Oct. 13, 1982, 96 Stat. 1373; Pub. L. 102–367, title IV, § 402(e), Sept. 7, 1992, 106 Stat. 1077, related to program activities. See [section 2888 of this title](./chapter-030-workforce-investment-systems.md#section-2888).
+Section 1698, Pub. L. 97–300, title IV, § 428, Oct. 13, 1982, 96 Stat. 1373; Pub. L. 102–367, title IV, § 402(e), Sept. 7, 1992, 106 Stat. 1077, related to program activities.
 
-Section 1699, Pub. L. 97–300, title IV, § 429, Oct. 13, 1982, 96 Stat. 1374; Pub. L. 103–239, title VII, § 731, May 4, 1994, 108 Stat. 607; Pub. L. 104–193, title I, § 110(n)(11), Aug. 22, 1996, 110 Stat. 2174, related to allowances and support. See [section 2890 of this title](./chapter-030-workforce-investment-systems.md#section-2890).
+Section 1699, Pub. L. 97–300, title IV, § 429, Oct. 13, 1982, 96 Stat. 1374; Pub. L. 103–239, title VII, § 731, May 4, 1994, 108 Stat. 607; Pub. L. 104–193, title I, § 110(n)(11), Aug. 22, 1996, 110 Stat. 2174, related to allowances and support.
 
-Section 1700, Pub. L. 97–300, title IV, § 430, Oct. 13, 1982, 96 Stat. 1375, related to standards of conduct. See [section 2892 of this title](./chapter-030-workforce-investment-systems.md#section-2892).
+Section 1700, Pub. L. 97–300, title IV, § 430, Oct. 13, 1982, 96 Stat. 1375, related to standards of conduct.
 
 Section 1701, Pub. L. 97–300, title IV, § 431, Oct. 13, 1982, 96 Stat. 1375, related to community participation.
 
-Section 1702, Pub. L. 97–300, title IV, § 432, Oct. 13, 1982, 96 Stat. 1376, related to counseling and placement. See sections 2889 and 2890 of this title.
+Section 1702, Pub. L. 97–300, title IV, § 432, Oct. 13, 1982, 96 Stat. 1376, related to counseling and placement.
 
-Section 1703, Pub. L. 97–300, title IV, § 433, Oct. 13, 1982, 96 Stat. 1376; Pub. L. 102–367, title VII, § 702(a)(13), Sept. 7, 1992, 106 Stat. 1112, related to experimental and developmental projects and coordination with other programs. See [section 2896 of this title](./chapter-030-workforce-investment-systems.md#section-2896).
+Section 1703, Pub. L. 97–300, title IV, § 433, Oct. 13, 1982, 96 Stat. 1376; Pub. L. 102–367, title VII, § 702(a)(13), Sept. 7, 1992, 106 Stat. 1112, related to experimental and developmental projects and coordination with other programs.
 
 Section 1703a, Pub. L. 97–300, title IV, § 433A, as added Pub. L. 101–645, title VI, § 622, Nov. 29, 1990, 104 Stat. 4744; amended Pub. L. 102–367, title VII, § 702(a)(14), Sept. 7, 1992, 106 Stat. 1112, related to Job Corps centers for homeless families.
 
-Section 1704, Pub. L. 97–300, title IV, § 434, Oct. 13, 1982, 96 Stat. 1378, related to advisory boards and committees. See [section 2895 of this title](./chapter-030-workforce-investment-systems.md#section-2895).
+Section 1704, Pub. L. 97–300, title IV, § 434, Oct. 13, 1982, 96 Stat. 1378, related to advisory boards and committees.
 
 Section 1705, Pub. L. 97–300, title IV, § 435, Oct. 13, 1982, 96 Stat. 1378, related to participation of the States.
 
-Section 1706, Pub. L. 97–300, title IV, § 436, Oct. 13, 1982, 96 Stat. 1378; Pub. L. 102–367, title VII, § 702(a)(15), Sept. 7, 1992, 106 Stat. 1112, related to application of provisions of Federal law. See [section 2897 of this title](./chapter-030-workforce-investment-systems.md#section-2897).
+Section 1706, Pub. L. 97–300, title IV, § 436, Oct. 13, 1982, 96 Stat. 1378; Pub. L. 102–367, title VII, § 702(a)(15), Sept. 7, 1992, 106 Stat. 1112, related to application of provisions of Federal law.
 
-Section 1707, Pub. L. 97–300, title IV, § 437, Oct. 13, 1982, 96 Stat. 1379; Pub. L. 99–496, § 12, Oct. 16, 1986, 100 Stat. 1264; Pub. L. 102–367, title IV, § 402(f), Sept. 7, 1992, 106 Stat. 1077, contained special provisions relating to enrollment of women, documents and data, taxation, and management fees. See [section 2898 of this title](./chapter-030-workforce-investment-systems.md#section-2898).
+Section 1707, Pub. L. 97–300, title IV, § 437, Oct. 13, 1982, 96 Stat. 1379; Pub. L. 99–496, § 12, Oct. 16, 1986, 100 Stat. 1264; Pub. L. 102–367, title IV, § 402(f), Sept. 7, 1992, 106 Stat. 1077, contained special provisions relating to enrollment of women, documents and data, taxation, and management fees.
 
-Section 1708, Pub. L. 97–300, title IV, § 438, Oct. 13, 1982, 96 Stat. 1379, contained general provisions relating to dissemination of information, collections, and expenditures. See [section 2900 of this title](./chapter-030-workforce-investment-systems.md#section-2900).
+Section 1708, Pub. L. 97–300, title IV, § 438, Oct. 13, 1982, 96 Stat. 1379, contained general provisions relating to dissemination of information, collections, and expenditures.
 
-Section 1709, Pub. L. 97–300, title IV, § 439, Oct. 13, 1982, 96 Stat. 1380, related to donations. See [section 2898(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2898/f&num=0&edition=prelim).
+Section 1709, Pub. L. 97–300, title IV, § 439, Oct. 13, 1982, 96 Stat. 1380, related to donations.
 
 #### Effective Date of Repeal
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under [section 1501 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1501&num=0&edition=prelim).
@@ -438,7 +436,7 @@ Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, se
 
 ### Statutory Notes
 
-Section, Pub. L. 97–300, title IV, § 441, Oct. 13, 1982, 96 Stat. 1380; Pub. L. 99–619, § 2(b)(3), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 102–54, § 13(k)(2)(C), June 13, 1991, 105 Stat. 277; Pub. L. 103–446, title XII, § 1203(c)(2), Nov. 2, 1994, 108 Stat. 4690, authorized veterans’ employment programs. See [section 2913 of this title](./chapter-030-workforce-investment-systems.md#section-2913).
+Section, Pub. L. 97–300, title IV, § 441, Oct. 13, 1982, 96 Stat. 1380; Pub. L. 99–619, § 2(b)(3), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 102–54, § 13(k)(2)(C), June 13, 1991, 105 Stat. 277; Pub. L. 103–446, title XII, § 1203(c)(2), Nov. 2, 1994, 108 Stat. 4690, authorized veterans’ employment programs.
 
 #### Effective Date of Repeal
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under [section 1501 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1501&num=0&edition=prelim).

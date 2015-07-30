@@ -76,7 +76,7 @@ Subsec. (b)(1). Pub. L. 111–8, § 523(b), substituted “10001(d)” for “10
 
 <a id="section-10003"></a>
 ## § 10003. Uses of funds by local educational agencies
-**(a) In general** A local educational agency that receives funds under this chapter may use the funds for any activity authorized by the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.) (“ESEA”), the Individuals with Disabilities Education Act ([20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.) (“IDEA”), the Adult Education and Family Literacy Act ([20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.), or the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.) (“the Perkins Act”) or for modernization, renovation, or repair of public school facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
+**(a) In general** A local educational agency that receives funds under this chapter may use the funds for any activity authorized by the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.) (“ESEA”), the Individuals with Disabilities Education Act ([20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.) (“IDEA”), the Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.], or the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.) (“the Perkins Act”) or for modernization, renovation, or repair of public school facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
 
 **(b) Prohibition** A local educational agency may not use funds received under this chapter for—
 
@@ -97,12 +97,12 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), 
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (a), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (a), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301) and Tables.
 
 #### Amendments
-2009—Subsec. (a). Pub. L. 111–8 substituted “the Adult Education and Family Literacy Act ([20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.)” for “the Adult and Family Literacy Act ([20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.)”.
+2009—Subsec. (a). Pub. L. 111–8 substituted “the Adult Education and Family Literacy Act ([20 U.S.C. 9201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim) et seq.)” for “the Adult and Family Literacy Act ([20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.)”.
 
 
 <a id="section-10004"></a>
@@ -205,7 +205,7 @@ Subsec. (d)(5). Pub. L. 111–8, § 523(f), substituted “1116(b)(7)(C)(iv)” 
 
 (2) **Remainder** — Of the remaining funds, the Secretary shall, in fiscal year 2010, make grants to States that have made significant progress in meeting the objectives of paragraphs (2), (3), (4), and (5) of [section 10005(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section10005/d&num=0&edition=prelim).
 
-**(b) Basis for grants** The Secretary shall determine which States receive grants under this section, and the amount of those grants, on the basis of information provided in State applications under [section 10005 of this title](./chapter-080-state-fiscal-stabilization-fund.md#section-10005) and such other criteria as the Secretary determines appropriate, which may include a State’s need for assistance to help meet the objective of paragraphs (2), (3), (4), (5), or (6) of [section 10005(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section10005/d&num=0&edition=prelim).
+**(b) Basis for grants** The Secretary shall determine which States receive grants under this section, and the amount of those grants, on the basis of information provided in State applications under [section 10005 of this title](./chapter-080-state-fiscal-stabilization-fund.md#section-10005) and such other criteria as the Secretary determines appropriate, which may include a State’s need for assistance to help meet the objective of paragraphs 11 So in original. Probably should be “paragraph”. (2), (3), (4), (5), or (6) of [section 10005(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section10005/d&num=0&edition=prelim).
 
 **(c) Subgrants to local educational agencies**
 
@@ -333,6 +333,7 @@ No recipient of funds under this chapter shall use such funds to provide financi
 
 ### Statutory Notes
 
+#### References in Text
 The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 #### Amendments
@@ -349,7 +350,7 @@ The Individuals with Disabilities Education Act, referred to in text, is title V
 
 **(d) Maintenance of effort** Upon prior approval from the Secretary, a State or local educational agency that receives funds under this chapter may treat any portion of such funds that is used for elementary, secondary, or postsecondary education as non-Federal funds for the purpose of any requirement to maintain fiscal effort under any other program, including part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431](./chapter-033-education-of-individuals-with-disabilities.md#section-1431) et seq.), administered by the Secretary.
 
-**(e) Subsequent level of effort** Notwithstanding (d), 11 So in original. Probably should be “subsection (d),”. the level of effort required by a State or local educational agency for the following fiscal year shall not be reduced.
+**(e) Subsequent level of effort** Notwithstanding (d),11 So in original. Probably should be “subsection (d),”. the level of effort required by a State or local educational agency for the following fiscal year shall not be reduced.
 
 ### Statutory Notes
 

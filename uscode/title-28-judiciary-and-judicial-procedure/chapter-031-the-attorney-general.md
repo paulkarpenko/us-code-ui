@@ -1482,7 +1482,7 @@ The words “General Accounting Office” are substituted for “First Auditor o
 
       (V) contracting for services directly related to the identification of forfeitable assets, and the processing of and accounting for forfeitures;
 
-  (B) the payment of awards for information or assistance directly relating to violations of the criminal drug laws of the United States or of sections 1956 and 1957 of title 18, sections 5313 and 5324 of title 31, and section 6050I of the Internal Revenue Code of 1986;
+  (B) the payment of awards for information or assistance directly relating to violations of the criminal drug laws of the United States or of chapter 77 of title 18, sections 1956 and 1957 of title 18, sections 5313 and 5324 of title 31, and section 6050I of the Internal Revenue Code of 1986;
 
   (C) at the discretion of the Attorney General, the payment of awards for information or assistance leading to a civil or criminal forfeiture involving any Federal agency participating in the Fund;
 
@@ -1523,7 +1523,7 @@ The words “General Accounting Office” are substituted for “First Auditor o
 
   (B) all amounts representing the Federal equitable share from the forfeiture of property under any Federal, State, local or foreign law, for any Federal agency participating in the Fund;
 
-  (C) all amounts transferred by the Secretary of the Treasury pursuant to section 9703(g)(4)(A)(ii) 11 See References in Text note below. of title 31; and
+  (C) all amounts transferred by the Secretary of the Treasury pursuant to [section 9705(g)(4)(A) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705/g/4/A&num=0&edition=prelim); and
 
   (D) all amounts collected—
 
@@ -1581,9 +1581,9 @@ The words “General Accounting Office” are substituted for “First Auditor o
 
   (B) For fiscal years 2002 and 2003, the Attorney General is authorized to transfer, under such terms and conditions as the Attorney General shall specify, real or personal property of limited or marginal value, to a State or local government agency, or its designated contractor or transferee, for use to support drug abuse treatment, drug and crime prevention and education, housing, job skills, and other community-based public health and safety programs. Each such transfer shall be subject to satisfaction by the recipient involved of any outstanding lien against the property transferred, but no such transfer shall create or confer any private right of action in any person against the United States.
 
-(10) The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in section 9703(p) 1 of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
+(10) The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in section 9705(o) of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
 
-(11) For purposes of this subsection and notwithstanding section 9703 1 of title 31 or any other law, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
+(11) For purposes of this subsection and notwithstanding [section 9705 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705&num=0&edition=prelim) or any other law, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
 
   (A) a judicial forfeiture proceeding when the underlying seizure was made by an officer of a Federal law enforcement agency participating in the Department of Justice Assets Forfeiture Fund or the property was maintained by the United States Marshals Service; or
 
@@ -1603,7 +1603,7 @@ The words “General Accounting Office” are substituted for “First Auditor o
 
 (4) Evidences of any intangible personal property (other than money) accepted hereunder shall be deposited with the Secretary of the Treasury, who may hold or liquidate them, except that they shall be liquidated upon the request of the Attorney General.
 
-(5) For purposes of federal 22 So in original. Probably should be capitalized. income, estate, and gift taxes, property accepted hereunder shall be considered a gift, devise, or bequest to, or for the use of, the United States.
+(5) For purposes of federal 11 So in original. Probably should be capitalized. income, estate, and gift taxes, property accepted hereunder shall be considered a gift, devise, or bequest to, or for the use of, the United States.
 
 ### Statutory Notes
 
@@ -1629,8 +1629,6 @@ The Controlled Substances Act, referred to in subsec. (c)(1)(G), is title II of 
 
 The Controlled Substances Import and Export Act, referred to in subsec. (c)(1)(G), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
 
-[Section 9703 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703&num=0&edition=prelim), referred to in subsec. (c)(4)(C), (10), (11), probably means the [section 9703 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703&num=0&edition=prelim), Money and Finance, added by Pub. L. 102–393, title VI, § 638(b)(1), Oct. 6, 1992, 106 Stat. 1779. Cl. (ii) of subsec. (g)(4)(A) of that section was repealed by Pub. L. 103–322, title IX, § 90205(c)(2)(B), Sept. 13, 1994, 108 Stat. 1995.
-
 The effective date of the Comprehensive Forfeiture Act of 1983, referred to in subsec. (c)(7), probably means the date of enactment of the Comprehensive Forfeiture Act of 1984, chapter III (§§ 301 to 323) of title II of Pub. L. 98–473, which was approved Oct. 12, 1984.
 
 Section 6073 of the Anti-Drug Abuse Act of 1988, referred to in subsec. (c)(8)(B), was classified to [section 1509 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1509&num=0&edition=prelim), Food and Drugs, prior to repeal by Pub. L. 109–469, title XI, § 1101(b), Dec. 29, 2006, 120 Stat. 3539.
@@ -1641,6 +1639,14 @@ Section 605 of Public Law 103–121, referred to in subsec. (c)(8)(E), is sectio
 Amendment by Pub. L. 104–91 is based on section 109 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
+2015—Subsec. (c)(1)(B). Pub. L. 114–22, § 105(b), inserted “chapter 77 of title 18,” after “criminal drug laws of the United States or of”.
+
+Subsec. (c)(4)(C). Pub. L. 114–22, § 105(c)(2)(A)(i)(I), substituted “section 9705(g)(4)(A)” for “section 9703(g)(4)(A)(ii)”.
+
+Subsec. (c)(10). Pub. L. 114–22, § 105(c)(2)(A)(i)(II), substituted “section 9705(o)” for “section 9703(p)”.
+
+Subsec. (c)(11). Pub. L. 114–22, § 105(c)(2)(A)(i)(III), substituted “section 9705” for “section 9703”.
+
 2011—Subsec. (c)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim)), title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) and following)” in concluding provisions.
 
 2002—Subsec. (a). Pub. L. 107–273, § 204(a)(1), inserted “to the Attorney General” after “available” in introductory provisions.

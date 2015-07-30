@@ -62,7 +62,7 @@ source: >-
 
   (A) Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available only for—
 
-    (i) the United States Attorneys Offices and the Federal Bureau of Investigation to provide and improve services for the benefit of crime victims in the Federal criminal justice system (as described in 3771 22 So in original. Probably should be preceded by “section”. of title 18 and [section 10607 of this title](./chapter-112-victim-compensation-and-assistance.md#section-10607)) through victim coordinators, victims’ specialists, and advocates, including for the administrative support of victim coordinators and advocates providing such services; and
+    (i) the United States Attorneys Offices and the Federal Bureau of Investigation to provide and improve services for the benefit of crime victims in the Federal criminal justice system (as described in [section 3771 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3771&num=0&edition=prelim) and [section 10607 of this title](./chapter-112-victim-compensation-and-assistance.md#section-10607)) through victim coordinators, victims’ specialists, and advocates, including for the administrative support of victim coordinators and advocates providing such services; and
 
     (ii) a Victim Notification System.
 
@@ -104,7 +104,7 @@ source: >-
 
 (2) The Attorney General may use 5 percent of the funds available under subsection (d)(2) of this section (prior to distribution) for grants to Indian tribes to establish child victim assistance programs, as appropriate.
 
-(3) As used in this subsection, the term “tribe” 33 So in original. Probably should be “ ‘Indian tribe’ ”. has the meaning given that term in section 450b(b) 1 of title 25.
+(3) As used in this subsection, the term “tribe” 22 So in original. Probably should be “ ‘Indian tribe’ ”. has the meaning given that term in section 450b(b) 1 of title 25.
 
 ### Statutory Notes
 
@@ -122,6 +122,8 @@ The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classifi
 [Section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim), referred to in subsec. (g)(3), has been amended, and subsec. (b) of section 450b no longer defines the term “Indian tribe”. However, such term is defined elsewhere in that section.
 
 #### Amendments
+2015—Subsec. (d)(3)(A)(i). Pub. L. 114–22 inserted “section” before “3771”.
+
 2014—Subsec. (d)(3). Pub. L. 113–163 designated existing provisions as subpar. (A), substituted “available only for—” for “available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system, and for a Victim Notification System.”, added cls. (i) and (ii) of subpar. (A), and added subpar. (B).
 
 2006—Subsec. (b)(1)(B)(ii). Pub. L. 109–435 substituted “404(a)(7)” for “404(a)(8)”.

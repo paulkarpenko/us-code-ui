@@ -69,7 +69,7 @@ The Territory of American Samoa shall be represented in the United States Congre
 
 **(c) Establishment of primary elections** The legislature of American Samoa may, but is not required to, provide for primary elections for the election of Delegate.
 
-**(d) Effect of establishment of primary elections** Notwithstanding subsection (a) of this section, if the legislature of American Samoa provides for primary elections for the election of Delegate, the Delegate shall be elected by a majority of votes cast in any subsequent general election for the office of Delegate for which such primary elections were held.
+**(d) Effect of establishment of primary elections** Notwithstanding subsection (a), if the legislature of American Samoa provides for primary elections for the election of Delegate, the Delegate shall be elected by a majority of votes cast in any subsequent general election for the office of Delegate for which such primary elections were held.
 
 ### Statutory Notes
 

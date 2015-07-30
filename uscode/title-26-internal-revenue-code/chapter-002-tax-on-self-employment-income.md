@@ -41,7 +41,7 @@ Section 233 of the Social Security Act, referred to in subsec. (c), is classifie
 | Beginning after: | And before: | Percent: |
 | December 31, 1983 | January 1, 1988 | 11.40 |
 | December 31, 1987 | January 1, 1990 | 12.12 |
-| December 31, 1989 | 12.40” |  |
+| December 31, 1989 | 12.40”. |  |
 
 Subsec. (b)(1). Pub. L. 113–295, § 221(a)(90), substituted “2.9 percent of the amount of the self-employment income for such taxable year.” for “the following percent of the amount of the self-employment income for such taxable year:
 
@@ -414,7 +414,7 @@ The Federal Insurance Contributions Act, referred to in subsec. (d), is act Aug.
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2014—Subsec. (e)(3). Pub. L. 113–295 struck out “whichever of the following dates is later: (A)” after “before” and “; or (B) the due date of the return (including any extension thereof) for his second taxable year ending after 1967” after “or (c)(5)”.
+2014—Subsec. (e)(3). Pub. L. 113–295 struck out “whichever of the following dates is later: (A)” after “before” and “; or (B) the due date of the return (including any extension thereof) for his second taxable year ending after 1967” after “or (c)(5)”. Amendment was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
 
 2010—Subsec. (a)(12)(B). Pub. L. 111–148 inserted “(determined without regard to the rate imposed under paragraph (2) of section 1401(b))” after “for such year”.
 

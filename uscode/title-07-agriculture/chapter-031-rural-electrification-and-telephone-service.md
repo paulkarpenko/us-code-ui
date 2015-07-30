@@ -31,10 +31,10 @@ Pub. L. 101–624, title XXIII, § 2351(a), Nov. 28, 1990, 104 Stat. 4038, provi
 Pub. L. 94–570, § 1, Oct. 20, 1976, 90 Stat. 2701, provided: “That this Act [amending sections 931 and 935 of this title and enacting provisions set out as a note under [section 935 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-935)] may be cited as the ‘Rural Electrification Administration Technical Amendments Act of 1976’.”
 
 #### Regulations
-Pub. L. 103–129, § 6, Nov. 1, 1993, 107 Stat. 1367, provided that: “Except as provided in section 2(b) of the Rural Electrification Act of 1936 [[7 U.S.C. 902(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section902/b&num=0&edition=prelim)] and section 370 of the Consolidated Farm and Rural Development Act [[7 U.S.C. 2008e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2008e&num=0&edition=prelim)], as added by sections 2(c)(1)(C) and 5 of this Act, not later than 45 days after the date of enactment of this Act [Nov. 1, 1993], interim final regulations shall be issued by— “(1) the Administrator of the Rural Electrification Administration to carry out the amendments made by this Act [see Short Title of 1993 Amendment note above] to programs administered by the Administrator; “(2) the Administrator of the Rural Development Administration to carry out the amendments made by this Act to programs administered by the Administrator; and “(3) the Secretary of Agriculture to carry out the amendments made by this Act to programs administered by the Farmers Home Administration.”
+Pub. L. 103–129, § 6, Nov. 1, 1993, 107 Stat. 1367, provided that: “Except as provided in section 2(b) of the Rural Electrification Act of 1936 [[7 U.S.C. 902(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section902/b&num=0&edition=prelim)] and section 370 of the Consolidated Farm and Rural Development Act [[7 U.S.C. 2008e](./chapter-050-agricultural-credit.md#section-2008e)], as added by sections 2(c)(1)(C) and 5 of this Act, not later than 45 days after the date of enactment of this Act [Nov. 1, 1993], interim final regulations shall be issued by— “(1) the Administrator of the Rural Electrification Administration to carry out the amendments made by this Act [see Short Title of 1993 Amendment note above] to programs administered by the Administrator; “(2) the Administrator of the Rural Development Administration to carry out the amendments made by this Act to programs administered by the Administrator; and “(3) the Secretary of Agriculture to carry out the amendments made by this Act to programs administered by the Farmers Home Administration.”
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 Rural Electrification Administration and its functions and activities transferred to Department of Agriculture, to be administered therein by Administrator under general direction and supervision of Secretary of Agriculture, by 1939 Reorg. Plan No. II, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of that plan for provisions relating to transfer of functions, records, property, personnel, and funds.
 
@@ -69,7 +69,7 @@ Subsec. (b). Pub. L. 104–127, § 771(3), added subsec. (b) and struck out form
 1949—Act Oct. 28, 1949, authorized loans to furnish and improve rural telephone service; and inserted “title I,” in credit of act May 20, 1936.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-903"></a>
@@ -174,7 +174,7 @@ Pub. L. 110–246, § 6101, inserted “efficiency and” before “conservation
 Act Sept. 21, 1944, extended limit of self-liquidating period from 25 to 35 years and changing the rate of interest.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-905"></a>
@@ -343,7 +343,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 1949—Act Oct. 28, 1949, inserted “or section 922” after “904” in first proviso, and inserted “title I,” in credit of act May 20, 1936.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-912a"></a>
@@ -400,7 +400,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 1949—Act Oct. 28, 1949, inserted “title I,” in credit of act May 20, 1936.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-914"></a>
@@ -447,15 +447,15 @@ In order to insure coordination of electric generation and transmission financin
 
 **(c) “Rural development programs” defined** In this section, the term “rural development program” means the following:
 
-(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 11 See References in Text note below. and subtitle E [[7 U.S.C. 2009](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009&num=0&edition=prelim) et seq.] of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1924(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1924/b&num=0&edition=prelim), 1926, 1926a, 1926c, 1926d, and 1932).
+(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 11 See References in Text note below. and subtitle E [[7 U.S.C. 2009](./chapter-050-agricultural-credit.md#section-2009) et seq.] of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1924(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1924/b&num=0&edition=prelim), 1926, 1926a, 1926c, 1926d, and 1932).
 
 (2) Subtitle G 1 of title XVI and sections 2281 [[42 U.S.C. 5177a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5177a&num=0&edition=prelim)], 2333, and 2381 [[7 U.S.C. 950aaa–2](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa-2), 3125b] of the Food, Agriculture, Conservation, and Trade Act of 1990.
 
-(3) Subtitle C of title IX of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; [7 U.S.C. 5930](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5930&num=0&edition=prelim) note).
+(3) Subtitle C of title IX of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; [7 U.S.C. 5930](./chapter-088-research.md#section-5930) note).
 
-(4) Section 1323(b) of the Food Security Act of 1985 (Public Law 99–198; [7 U.S.C. 1932](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932&num=0&edition=prelim) note).
+(4) Section 1323(b) of the Food Security Act of 1985 (Public Law 99–198; [7 U.S.C. 1932](./chapter-050-agricultural-credit.md#section-1932) note).
 
-(5) Title V [[7 U.S.C. 2661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2661&num=0&edition=prelim) et seq.] and section 603(c) [[7 U.S.C. 2204a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2204a&num=0&edition=prelim)] of the Rural Development Act of 1972.
+(5) Title V [[7 U.S.C. 2661](./chapter-059-rural-fire-protection-development-and-small-farm-research-and-education.md#section-2661) et seq.] and section 603(c) [[7 U.S.C. 2204a](./chapter-055-department-of-agriculture.md#section-2204a)] of the Rural Development Act of 1972.
 
 (6) Sections 905 and 940a 1 of this title and subchapter IV of this chapter.
 
@@ -464,13 +464,13 @@ In order to insure coordination of electric generation and transmission financin
 ### Statutory Notes
 
 #### References in Text
-Section 375 of the Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), was classified to [section 2008j of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2008j&num=0&edition=prelim) prior to repeal by Pub. L. 87–128, title III, § 375(j)(7), as added Pub. L. 106–78, title VIII, § 816(d), Oct. 22, 1999, 113 Stat. 1182.
+Section 375 of the Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), was classified to [section 2008j of this title](./chapter-050-agricultural-credit.md#section-2008j) prior to repeal by Pub. L. 87–128, title III, § 375(j)(7), as added Pub. L. 106–78, title VIII, § 816(d), Oct. 22, 1999, 113 Stat. 1182.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), is Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle E of the Act is classified generally to subchapter V (§ 2009 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), is Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle E of the Act is classified generally to subchapter V (§ 2009 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by Pub. L. 107–171, title VI, § 6201(a), May 13, 2002, 116 Stat. 418. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 1421 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by Pub. L. 107–171, title VI, § 6201(a), May 13, 2002, 116 Stat. 418. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
-The Rural Development Act of 1972, referred to in subsec. (c)(5), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. Title V of the Act is classified generally to subchapter II (§ 2661 et seq.) of chapter 59 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Rural Development Act of 1972, referred to in subsec. (c)(5), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. Title V of the Act is classified generally to subchapter II (§ 2661 et seq.) of chapter 59 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 Sections 905 and 940a of this title, referred to in subsec. (c)(6), were repealed by Pub. L. 104–127, title VII, §§ 774(a), 780, Apr. 4, 1996, 110 Stat. 1150, 1151.
 
@@ -1133,7 +1133,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 1975—Pub. L. 94–124 authorized assignment of guaranteed loans and their related guarantees and inserted “initially” before “made, held, and serviced” in provision defining guaranteed loans as that term is used in this subchapter.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date
 Section effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as a note under [section 930 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-930).
@@ -1417,7 +1417,7 @@ The date of enactment of this section, referred to in subsec. (d), is the date o
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-937"></a>
@@ -1475,12 +1475,12 @@ Section effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as a 
 <a id="section-940"></a>
 ## § 940. Refinancing of rural development loans
 
-At the request of the borrower, the Secretary is authorized and directed to refinance with loans which will be insured under this chapter at the interest rates provided in [section 935 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-935) any loans made for rural electric and telephone facilities under any provision of the Consolidated Farm and Rural Development Act [[7 U.S.C. 1921](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) et seq.].
+At the request of the borrower, the Secretary is authorized and directed to refinance with loans which will be insured under this chapter at the interest rates provided in [section 935 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-935) any loans made for rural electric and telephone facilities under any provision of the Consolidated Farm and Rural Development Act [[7 U.S.C. 1921](./chapter-050-agricultural-credit.md#section-1921) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
-The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 1994—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
@@ -1613,7 +1613,7 @@ A borrower of an insured or guaranteed electric loan under this chapter may, wit
 ### Statutory Notes
 
 #### Codification
-The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -1629,12 +1629,12 @@ Subsec. (c)(2), (3). Pub. L. 110–246, § 6106(a)(2), added pars. (2) and (3) a
 Subsec. (f). Pub. L. 110–246, § 6106(a)(3), substituted “2012” for “2007”.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Regulations and Implementation
 Pub. L. 110–234, title VI, § 6106(b), May 22, 2008, 122 Stat. 1197, and Pub. L. 110–246, § 4(a), title VI, § 6106(b), June 18, 2008, 122 Stat. 1664, 1959, provided that: “The Secretary [of Agriculture] shall continue to carry out section 313A of the Rural Electrification Act of 1936 ([7 U.S.C. 940c–1](./chapter-031-rural-electrification-and-telephone-service.md#section-940c-1)) in the same manner as on the day before the date of enactment of this Act [June 18, 2008], except without regard to the limitations prescribed in subsection (b)(1) of that section, until such time as any regulations necessary to carry out the amendments made by this section [amending this section] are fully implemented.”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
 Pub. L. 108–199, div. A, title VII, § 750(b), Jan. 23, 2004, 118 Stat. 38, provided that: “The Secretary shall publish a proposed rule to carry out section 313A of the Rural Electrification Act of 1936 [[7 U.S.C. 940c–1](./chapter-031-rural-electrification-and-telephone-service.md#section-940c-1)] within 60 days of enactment of this Act [Jan. 23, 2004].”
 
@@ -1721,7 +1721,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 2008—Pub. L. 110–246, § 6107, amended section generally, substituting provisions relating to expansion of access, loan security, emergency communications equipment providers, and authorization of appropriations, consisting of subsecs. (a) to (d), for provisions relating to expansion of access and authorization of appropriations, consisting of subsecs. (a) and (b).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-940f"></a>
@@ -1772,7 +1772,7 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-940h"></a>
@@ -1790,7 +1790,7 @@ The Secretary shall review the bonding requirements for all programs administere
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-941"></a>
@@ -1992,7 +1992,7 @@ General Accounting Office redesignated Government Accountability Office by secti
 Pub. L. 101–624, title XXIII, § 2368, Nov. 28, 1990, 104 Stat. 4045, provided that: “(a) In General.—Except as provided in subsection (b), this subtitle and the amendments made by this subtitle [subtitle F (§§ 2351–2368) of title XXIII of Pub. L. 101–624, enacting sections 918 and 925 to 928 of this title, amending this section and sections 924, 932, 935, 936, 939, 945, 948, and 950 of this title and enacting provisions set out as notes under [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901)] shall take effect on the date of enactment of this Act [Nov. 28, 1990]. “(b) Technical Amendments.—The amendments made by section 2367 [amending this section and [section 948 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-948)] shall take effect as if such amendments had been included in chapter 2 [§§ 1411–1414] of subtitle D of title I of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203] on the date of enactment of such chapter [Dec. 22, 1987].”
 
 #### Effective Date of 1981 Amendment
-Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4301&num=0&edition=prelim).
+Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–32 effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as an Effective Date note under [section 930 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-930).
@@ -2268,7 +2268,7 @@ The Secretary shall—
 1991—Pars. (6) to (8). Pub. L. 102–237 inserted “and” at end of par. (6), redesignated par. (8) as (7), and struck out former par. (7) which read as follows: “review the advice and recommendations of the Rural Educational Opportunities Board as established under section 601(f); and”.
 
 #### Effective Date of 1991 Amendment
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(8) of Pub. L. 102–237, set out as a note under [section 1421 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim).
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(8) of Pub. L. 102–237, set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421).
 
 
 <a id="section-950aa-1"></a>
@@ -2437,7 +2437,7 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
       (IV) any changes in broadband service adoption rates, including new subscribers generated from demand-side projects; and
 
-      (V) any metrics the Secretary determines to be appropriate;
+      (V) any metrics the Secretary determines to be appropriate; 11 So in original. The semicolon probably should be a period.
 
   (B) *Additional reporting* — The Secretary may require any additional reporting and information by any recipient of any assistance under this section so as to ensure compliance with this section.
 
@@ -2569,7 +2569,7 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (j), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
-The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -2580,7 +2580,7 @@ Subsec. (d)(1)(A)(i). Pub. L. 113–79, § 6104(a)(2)(A), added cl. (i) and stru
 
 Subsec. (d)(2)(A)(i). Pub. L. 113–79, § 6104(a)(2)(B)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “not less than 25 percent of the households in the proposed service territory is offered broadband service by not more than 1 incumbent service provider; and”.
 
-2014—Subsec. (d)(2)(B). Pub. L. 113–79, § 6104(a)(2)(B)(ii), struck out “25” before “percent” in heading.
+Subsec. (d)(2)(B). Pub. L. 113–79, § 6104(a)(2)(B)(ii), struck out “25” before “percent” in heading.
 
 Subsec. (d)(2)(C). Pub. L. 113–79, § 6104(a)(2)(B)(iii)(I), struck out “3 or more” before “incumbent” in heading.
 
@@ -2611,16 +2611,16 @@ Subsecs. (k)(1), (l). Pub. L. 113–79, § 6104(a)(6), substituted “2018” fo
 “(B) is not located in an area designated as a standard metropolitan statistical area.”
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Pub. L. 110–234, title VI, § 6110(c), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, § 4(a), title VI, § 6110(c), June 18, 2008, 122 Stat. 1664, 1964, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to— “(1) an application submitted under section 601 of the Rural Electrification Act of 1936 ([7 U.S.C. 950bb](./chapter-031-rural-electrification-and-telephone-service.md#section-950bb)) (as it existed before the amendment made by subsection (a)) that—“(A) was pending on the date that is 45 days prior to the date of enactment of this Act [June 18, 2008]; and “(B) is pending on the date of enactment of this Act [June 18, 2008]; or “(2) a petition for reconsideration of a decision on an application described in paragraph (1).”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
 #### Regulations
 Pub. L. 110–234, title VI, § 6110(b), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, § 4(a), title VI, § 6110(b), June 18, 2008, 122 Stat. 1664, 1964, provided that: “The Secretary [of Agriculture] may implement the amendment made by subsection (a) [amending this section] through the promulgation of an interim regulation.”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
 Pub. L. 107–171, title VI, § 6103(b), May 13, 2002, 116 Stat. 418, provided that: “(1) In general.—Not later than 180 days after the date of enactment of this Act [May 13, 2002], the Secretary of Agriculture shall promulgate such regulations as are necessary to implement the amendment made by subsection (a) [enacting this section]. “(2) Procedure.—The promulgation of the regulations shall be made without regard to—“(A) the notice and comment provisions of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code; “(B) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and “(C) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’). “(3) Congressional review of agency rulemaking.—In carrying out this subsection, the Secretary shall use the authority provided under [section 808 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section808&num=0&edition=prelim), United States Code.”
 
@@ -2665,7 +2665,7 @@ Pub. L. 107–171, title VI, § 6103(b), May 13, 2002, 116 Stat. 418, provided t
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-950bb-2"></a>

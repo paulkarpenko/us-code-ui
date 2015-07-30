@@ -1706,6 +1706,8 @@ Pub. L. 112–96, title VII, § 7001, Feb. 22, 2012, 126 Stat. 256, as amended b
 [Pub. L. 113–295, div. A, title II, § 203(b), Dec. 19, 2014, 128 Stat. 4025, provided that: “The amendment made by subsection (a) [amending section 7001 of Pub. L. 112–96, set out above] shall take effect as if included in section 7001 of the Middle Class Tax Relief and Job Creation Act of 2012 [Pub. L. 112–96].” ]
 
 #### Payment of Corporate Estimated Taxes
+Pub. L. 114–27, title VIII, § 803, June 29, 2015, 129 Stat. 415, provided that: “Notwithstanding section 6655 of the Internal Revenue Code of 1986, in the case of a corporation with assets of not less than $1,000,000,000 (determined as of the end of the preceding taxable year)— “(1) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2020 shall be increased by 8 percent of such amount (determined without regard to any increase in such amount not contained in such Code); and “(2) the amount of the next required installment after an installment referred to in paragraph (1) shall be appropriately reduced to reflect the amount of the increase by reason of such paragraph.”
+
 Pub. L. 112–163, § 4, Aug. 10, 2012, 126 Stat. 1277, provided that: “Notwithstanding section 6655 of the Internal Revenue Code of 1986— “(1) in the case of a corporation with assets of not less than $1,000,000,000 (determined as of the end of the preceding taxable year), the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2017 shall be 100.25 percent of such amount; and “(2) the amount of the next required installment after an installment referred to in paragraph (1) shall be appropriately reduced to reflect the amount of the increase by reason of such paragraph.”
 
 Notwithstanding this section, in the case of a corporation with assets of not less than $1,000,000,000, any required installment of corporate estimated tax due in July, August, or September of 2012 and July, August, or September of 2016 to be increased by 0.25 percent, and the amount of the next required installment thereafter to be appropriately reduced to reflect the amount of the increase, see section 502 of Pub. L. 112–43, set out in a note under [section 3805 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3805&num=0&edition=prelim), Customs Duties.
@@ -4558,7 +4560,7 @@ Section applicable to failures occurring after Feb. 17, 2009, see section 3001(a
 ## § 6721. Failure to file correct information returns
 **(a) Imposition of penalty**
 
-(1) **In general** — In the case of a failure described in paragraph (2) by any person with respect to an information return, such person shall pay a penalty of $100 for each return with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $1,500,000.
+(1) **In general** — In the case of a failure described in paragraph (2) by any person with respect to an information return, such person shall pay a penalty of $250 for each return with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $3,000,000.
 
 (2) **Failures subject to penalty** — For purposes of paragraph (1), the failures described in this paragraph are—
 
@@ -4570,15 +4572,15 @@ Section applicable to failures occurring after Feb. 17, 2009, see section 3001(a
 
 (1) **Correction within 30 days** — If any failure described in subsection (a)(2) is corrected on or before the day 30 days after the required filing date—
 
-  (A) the penalty imposed by subsection (a) shall be $30 in lieu of $100, and
+  (A) the penalty imposed by subsection (a) shall be $50 in lieu of $250, and
 
-  (B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $250,000.
+  (B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $500,000.
 
 (2) **Failures corrected on or before August 1** — If any failure described in subsection (a)(2) is corrected after the 30th day referred to in paragraph (1) but on or before August 1 of the calendar year in which the required filing date occurs—
 
-  (A) the penalty imposed by subsection (a) shall be $60 in lieu of $100, and
+  (A) the penalty imposed by subsection (a) shall be $100 in lieu of $250, and
 
-  (B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $500,000.
+  (B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $1,500,000.
 
 **(c) Exception for de minimis failures to include all required information**
 
@@ -4601,11 +4603,11 @@ Section applicable to failures occurring after Feb. 17, 2009, see section 3001(a
 
 (1) **In general** — If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such calendar year—
 
-  (A) subsection (a)(1) shall be applied by substituting “$500,000” for “$1,500,000”,
+  (A) subsection (a)(1) shall be applied by substituting “$1,000,000” for “$3,000,000”,
 
-  (B) subsection (b)(1)(B) shall be applied by substituting “$75,000” for “$250,000”, and
+  (B) subsection (b)(1)(B) shall be applied by substituting “$175,000” for “$500,000”, and
 
-  (C) subsection (b)(2)(B) shall be applied by substituting “$200,000” for “$500,000”.
+  (C) subsection (b)(2)(B) shall be applied by substituting “$500,000” for “$1,500,000”.
 
 (2) **Gross receipts test**
 
@@ -4617,7 +4619,7 @@ Section applicable to failures occurring after Feb. 17, 2009, see section 3001(a
 
 (1) subsections (b), (c), and (d) shall not apply,
 
-(2) the penalty imposed under subsection (a) shall be $250, or, if greater—
+(2) the penalty imposed under subsection (a) shall be $500, or, if greater—
 
   (A) in the case of a return other than a return required under section 6045(a), 6041A(b), 6050H, 6050I, 6050J, 6050K, or 6050L, 10 percent of the aggregate amount of the items required to be reported correctly,
 
@@ -4633,7 +4635,7 @@ Section applicable to failures occurring after Feb. 17, 2009, see section 3001(a
 
 (3) in the case of any penalty determined under paragraph (2)—
 
-  (A) the $1,500,000 limitation under subsection (a) shall not apply, and
+  (A) the $3,000,000 limitation under subsection (a) shall not apply, and
 
   (B) such penalty shall not be taken into account in applying such limitation (or any similar limitation under subsection (b)) to penalties not determined under paragraph (2).
 
@@ -4650,6 +4652,26 @@ Section applicable to failures occurring after Feb. 17, 2009, see section 3001(a
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–27, § 806(a), substituted “$250” for “$100” and “$3,000,000” for “$1,500,000”.
+
+Subsec. (b)(1)(A). Pub. L. 114–27, § 806(b)(1)(A), (B), substituted “$50” for “$30” and “$250” for “$100”.
+
+Subsec. (b)(1)(B). Pub. L. 114–27, § 806(b)(1)(C), substituted “$500,000” for “$250,000”.
+
+Subsec. (b)(2)(A). Pub. L. 114–27, § 806(b)(2)(A), (B), substituted “$100” for “$60” and “$250” for “$100”.
+
+Subsec. (b)(2)(B). Pub. L. 114–27, § 806(b)(2)(C), substituted “$1,500,000” for “$500,000”.
+
+Subsec. (d)(1)(A). Pub. L. 114–27, § 806(c)(1), substituted “$1,000,000” for “$500,000” and “$3,000,000” for “$1,500,000”.
+
+Subsec. (d)(1)(B). Pub. L. 114–27, § 806(c)(2), substituted “$175,000” for “$75,000” and “$500,000” for “$250,000”.
+
+Subsec. (d)(1)(C). Pub. L. 114–27, § 806(c)(3), substituted “$500,000” for “$200,000” and “$1,500,000” for “$500,000”.
+
+Subsec. (e)(2). Pub. L. 114–27, § 806(d)(1), substituted “$500” for “$250”.
+
+Subsec. (e)(3)(A). Pub. L. 114–27, § 806(d)(2), substituted “$3,000,000” for “$1,500,000”.
+
 2014—Subsec. (f)(1). Pub. L. 113–295 substituted “In the case of any failure relating to a return required to be filed in a calendar year beginning after 2014” for “For each fifth calendar year beginning after 2012”.
 
 2010—Subsec. (a)(1). Pub. L. 111–240, § 2102(a), substituted “$100” for “$50” and “$1,500,000” for “$250,000”.
@@ -4684,6 +4706,9 @@ Subsec. (f). Pub. L. 111–240, § 2102(f), added subsec. (f).
 
 1988—Subsec. (b)(1)(A). Pub. L. 100–690 inserted “(or, if greater, in the case of a return filed under section 6050I, 10 percent of the taxable income derived from the transaction)” after “reported”.
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–27, title VIII, § 806(f), June 29, 2015, 129 Stat. 418, provided that: “The amendments made by this section [amending this section and [section 6722 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6722)] shall apply with respect to returns and statements required to be filed after December 31, 2015.”
+
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 applicable to returns required to be filed after Dec. 31, 2014, see section 208(h) of Pub. L. 113–295, set out as a note under [section 6651 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6651).
 
@@ -4710,7 +4735,7 @@ Pub. L. 99–514, title XV, § 1501(e), Oct. 22, 1986, 100 Stat. 2741, provided 
 ## § 6722. Failure to furnish correct payee statements
 **(a) Imposition of penalty**
 
-(1) **General rule** — In the case of each failure described in paragraph (2) by any person with respect to a payee statement, such person shall pay a penalty of $100 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $1,500,000.
+(1) **General rule** — In the case of each failure described in paragraph (2) by any person with respect to a payee statement, such person shall pay a penalty of $250 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $3,000,000.
 
 (2) **Failures subject to penalty** — For purposes of paragraph (1), the failures described in this paragraph are—
 
@@ -4722,15 +4747,15 @@ Pub. L. 99–514, title XV, § 1501(e), Oct. 22, 1986, 100 Stat. 2741, provided 
 
 (1) **Correction within 30 days** — If any failure described in subsection (a)(2) is corrected on or before the day 30 days after the date prescribed for furnishing such statement—
 
-  (A) the penalty imposed by subsection (a) shall be $30 in lieu of $100, and
+  (A) the penalty imposed by subsection (a) shall be $50 in lieu of $250, and
 
-  (B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $250,000.
+  (B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $500,000.
 
 (2) **Failures corrected on or before August 1** — If any failure described in subsection (a)(2) is corrected after the 30th day referred to in paragraph (1) but on or before August 1 of the calendar year in which the date prescribed for furnishing such statement occurs—
 
-  (A) the penalty imposed by subsection (a) shall be $60 in lieu of $100, and
+  (A) the penalty imposed by subsection (a) shall be $100 in lieu of $250, and
 
-  (B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $500,000.
+  (B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $1,500,000.
 
 **(c) Exception for de minimis failures**
 
@@ -4753,11 +4778,11 @@ for purposes of this section, such statement shall be treated as having been fur
 
 (1) **In general** — If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such calendar year—
 
-  (A) subsection (a)(1) shall be applied by substituting “$500,000” for “$1,500,000”,
+  (A) subsection (a)(1) shall be applied by substituting “$1,000,000” for “$3,000,000”,
 
-  (B) subsection (b)(1)(B) shall be applied by substituting “$75,000” for “$250,000”, and
+  (B) subsection (b)(1)(B) shall be applied by substituting “$175,000” for “$500,000”, and
 
-  (C) subsection (b)(2)(B) shall be applied by substituting “$200,000” for “$500,000”.
+  (C) subsection (b)(2)(B) shall be applied by substituting “$500,000” for “$1,500,000”.
 
 (2) **Gross receipts test** — A person meets the gross receipts test of this paragraph if such person meets the gross receipts test of section 6721(d)(2).
 
@@ -4765,7 +4790,7 @@ for purposes of this section, such statement shall be treated as having been fur
 
 (1) subsections (b), (c), and (d) shall not apply,
 
-(2) the penalty imposed under subsection (a)(1) shall be $250, or, if greater—
+(2) the penalty imposed under subsection (a)(1) shall be $500, or, if greater—
 
   (A) in the case of a payee statement other than a statement required under section 6045(b), 6041A(e) (in respect of a return required under section 6041A(b)), 6050H(d), 6050J(e), 6050K(b), or 6050L(c), 10 percent of the aggregate amount of the items required to be reported correctly, or
 
@@ -4773,7 +4798,7 @@ for purposes of this section, such statement shall be treated as having been fur
 
 (3) in the case of any penalty determined under paragraph (2)—
 
-  (A) the $1,500,000 limitation under subsection (a) shall not apply, and
+  (A) the $3,000,000 limitation under subsection (a) shall not apply, and
 
   (B) such penalty shall not be taken into account in applying such limitation to penalties not determined under paragraph (2).
 
@@ -4790,6 +4815,26 @@ for purposes of this section, such statement shall be treated as having been fur
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–27, § 806(e)(1), substituted “$250” for “$100” and “$3,000,000” for “$1,500,000”.
+
+Subsec. (b)(1)(A). Pub. L. 114–27, § 806(e)(2)(A)(i), (ii), substituted “$50” for “$30” and “$250” for “$100”.
+
+Subsec. (b)(1)(B). Pub. L. 114–27, § 806(e)(2)(A)(iii), substituted “$500,000” for “$250,000”.
+
+Subsec. (b)(2)(A). Pub. L. 114–27, § 806(e)(2)(B)(i), (ii), substituted “$100” for “$60” and “$250” for “$100”.
+
+Subsec. (b)(2)(B). Pub. L. 114–27, § 806(e)(2)(B)(iii), substituted “$1,500,000” for “$500,000”.
+
+Subsec. (d)(1)(A). Pub. L. 114–27, § 806(e)(3)(A), substituted “$1,000,000” for “$500,000” and “$3,000,000” for “$1,500,000”.
+
+Subsec. (d)(1)(B). Pub. L. 114–27, § 806(e)(3)(B), substituted “$175,000” for “$75,000” and “$500,000” for “$250,000”.
+
+Subsec. (d)(1)(C). Pub. L. 114–27, § 806(e)(3)(C), substituted “$500,000” for “$200,000” and “$1,500,000” for “$500,000”.
+
+Subsec. (e)(2). Pub. L. 114–27, § 806(e)(4)(A), substituted “$500” for “$250” in introductory provisions.
+
+Subsec. (e)(3)(A). Pub. L. 114–27, § 806(e)(4)(B), substituted “$3,000,000” for “$1,500,000”.
+
 2014—Subsecs. (b)(1), (2), (c)(1)(C). Pub. L. 113–295, § 207(a)(2), substituted “the date prescribed for furnishing such statement” for “the required filing date”.
 
 Subsec. (c)(2)(B). Pub. L. 113–295, § 207(a)(3), substituted “furnished” for “filed”.
@@ -4799,6 +4844,9 @@ Subsec. (f)(1). Pub. L. 113–295, § 208(g), substituted “In the case of any 
 2010—Pub. L. 111–240 amended section generally. Prior to amendment, section related to: in subsec. (a), general rule for imposition of penalty for failure to furnish correct payee statements; in subsec. (b), failures subject to penalty; and, in subsec. (c), penalty in case of intentional disregard.
 
 1989—Pub. L. 101–239 substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–27 applicable with respect to returns and statements required to be filed after Dec. 31, 2015, see section 806(f) of Pub. L. 114–27, set out as a note under [section 6721 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6721).
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–295, div. A, title II, § 207(b), Dec. 19, 2014, 128 Stat. 4028, provided that: “The amendments made by this section [amending this section and provisions set out as a note under [section 6721 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6721)] shall take effect as if included in the provision of the Creating Small Business Jobs Act of 2010 [Pub. L. 111–240, title II] to which they relate.”
@@ -5022,6 +5070,8 @@ Section applicable to returns the due date for which (determined without regard 
 
 **(e) Special rule for certain partnership returns** If any partnership return under section 6031(a) is required under section 6011(e) to be filed on magnetic media or in other machine-readable form, for purposes of this part, each schedule required to be included with such return with respect to each partner shall be treated as a separate information return.
 
+**(f) Special rule for returns of educational institutions related to higher education tuition and related expenses** No penalty shall be imposed under section 6721 or 6722 solely by reason of failing to provide the TIN of an individual on a return or statement required by section 6050S(a)(1) if the eligible educational institution required to make such return contemporaneously makes a true and accurate certification under penalty of perjury (and in such form and manner as may be prescribed by the Secretary) that it has complied with standards promulgated by the Secretary for obtaining such individual’s TIN.
+
 ### Statutory Notes
 
 #### Codification
@@ -5030,6 +5080,8 @@ Section 1211(b)(1) of Pub. L. 109–280, which directed the amendment of section
 Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 104–188 were executed before amendments by sections 1116(b)(2)(B) and 1455(a)(2) of Pub. L. 104–188, to reflect the probable intent of Congress.
 
 #### Amendments
+2015—Subsec. (f). Pub. L. 114–27 added subsec. (f).
+
 2014—Subsec. (d)(2)(FF). Pub. L. 113–295 substituted “section 6050W(f)” for “section 6050W(c)”.
 
 2010—Subsec. (c). Pub. L. 111–147, § 522(b), inserted before period at end “or with respect to a return described in section 6011(e)(4)”.
@@ -5316,6 +5368,9 @@ Pub. L. 100–418, § 1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A)
 
 Subsec. (d)(2)(B). Pub. L. 100–647, § 1015(a), substituted “6031(b) or (c)” for “6031(b)”.
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–27, title VIII, § 805(b), June 29, 2015, 129 Stat. 416, provided that: “The amendments made by this section [amending this section] shall apply to returns required to be made, and statements required to be furnished, after December 31, 2015.”
+
 #### Effective Date of 2010 Amendment
 Amendment by section 1502(b) of Pub. L. 111–148 applicable to calendar years beginning after 2013, see section 1502(e) of Pub. L. 111–148, set out as an Effective Date note under [section 6055 of this title](./chapter-061-information-and-returns.md#section-6055).
 
@@ -5402,7 +5457,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 Section applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as a note under [section 6721 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6721).
 
 #### Construction of 2002 Amendment
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under [section 2918 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918&num=0&edition=prelim), Labor.
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
 
 #### Plan Amendments Not Required Until January 1, 1998
 For provisions directing that if any amendments made by subtitle D [§§ 1401–1465] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).

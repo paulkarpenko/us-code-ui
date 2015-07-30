@@ -95,11 +95,11 @@ The International Banking Act of 1978, referred to in par. (2)(B), is Pub. L. 95
 ## § 3904a. Additional reserve requirements
 **(a) In general** Each appropriate Federal banking agency shall review the exposure to risk of United States banking institutions arising from the medium- and long-term loans made by such institutions that are outstanding to any highly indebted country. Each agency shall provide direction to such institutions regarding additions to general reserves maintained by each banking institution for potential loan losses and special reserves required by such agency arising from such review.
 
-**(b) Determination of institutional exposure to risk** In determining the exposure of an institution to risk for purposes of subsection (a) of this section, the appropriate Federal banking agency—
+**(b) Determination of institutional exposure to risk** In determining the exposure of an institution to risk for purposes of subsection (a), the appropriate Federal banking agency—
 
 (1) shall determine whether any country exposure that is, and has been for at least 2 years, rated in the category “Other Transfer Risk Problems” or the category “Substandard” by the Interagency Country Exposure Review Committee should be reevaluated;
 
-(2) may exempt, in full or in part, from reserve requirements established pursuant to subsection (a) of this section, any loan—
+(2) may exempt, in full or in part, from reserve requirements established pursuant to subsection (a), any loan—
 
   (A) to a country that enters into a debt reduction, debt service reduction, or financing program with its bank creditors that is supported by the International Bank for Reconstruction and Development or the International Monetary Fund; or
 
@@ -111,11 +111,11 @@ The International Banking Act of 1978, referred to in par. (2)(B), is Pub. L. 95
 
 **(c) Timing and report**
 
-(1) **Determined by agency** — Except as provided in paragraph (3), each appropriate Federal banking agency shall determine the timing of any addition to reserves required by subsection (a) of this section.
+(1) **Determined by agency** — Except as provided in paragraph (3), each appropriate Federal banking agency shall determine the timing of any addition to reserves required by subsection (a).
 
 (2) **Report** — Each appropriate Federal banking agency shall include in each report required to be made under section 3912(d) 11 See References in Text note below. of this title after 1989 a report on the actions taken pursuant to this section.
 
-(3) **Deadline** — Each Federal agency required to undertake a review described in subsection (a) of this section shall complete the review not later than December 31, 1990.
+(3) **Deadline** — Each Federal agency required to undertake a review described in subsection (a) shall complete the review not later than December 31, 1990.
 
 **(d) “Highly indebted country” defined** As used in this section, the term “highly indebted country” means any country designated as a “Highly Indebted Country” in the annual World Debt Tables most recently published by the International Bank for Reconstruction and Development before December 19, 1989.
 
@@ -142,7 +142,7 @@ Pub. L. 101–240, title IV, § 402(a), Dec. 19, 1989, 103 Stat. 2501, provided 
 
 **(b)**
 
-(1) Subject to subsection (a) of this section, the appropriate Federal banking agencies shall promulgate regulations for accounting for agency, commitment, management and other fees charged by a banking institution in connection with an international loan.
+(1) Subject to subsection (a), the appropriate Federal banking agencies shall promulgate regulations for accounting for agency, commitment, management and other fees charged by a banking institution in connection with an international loan.
 
 (2) Such regulations shall establish the accounting treatment of such fees for regulatory, supervisory, and disclosure purposes to assure that the appropriate portion of such fees is accrued in income over the effective life of each such loan.
 
@@ -168,11 +168,11 @@ Pub. L. 101–240, title IV, § 402(a), Dec. 19, 1989, 103 Stat. 2501, provided 
 
 **(b)**
 
-(1) Failure of a banking institution to maintain capital at or above its minimum level as established pursuant to subsection (a) of this section may be deemed by the appropriate Federal banking agency, in its discretion, to constitute an unsafe and unsound practice within the meaning of [section 1818 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1818).
+(1) Failure of a banking institution to maintain capital at or above its minimum level as established pursuant to subsection (a) may be deemed by the appropriate Federal banking agency, in its discretion, to constitute an unsafe and unsound practice within the meaning of [section 1818 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1818).
 
 (2)
 
-  (A) In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the appropriate Federal banking agency may issue a directive to a banking institution that fails to maintain captial 11 So in original. Probably should be “capital”. at or above its required level as established pursuant to subsection (a) of this section.
+  (A) In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the appropriate Federal banking agency may issue a directive to a banking institution that fails to maintain captial 11 So in original. Probably should be “capital”. at or above its required level as established pursuant to subsection (a).
 
   (B)
 

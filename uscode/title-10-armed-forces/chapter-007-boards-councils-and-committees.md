@@ -1067,7 +1067,7 @@ Subsec. (b)(4). Pub. L. 109–163 substituted “under [section 2611 of this tit
 #### Effective Date of 2008 Amendment
 Pub. L. 110–417, [div. A], title IX, § 941(a)(2), Oct. 14, 2008, 122 Stat. 4576, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code (as so amended), that begin on or after that date.”
 
-#### Redesignation of the Asia-Pacific Center for Security Studies as the Daniel k. Inouye Asia-Pacific Center for Security Studies
+#### Redesignation of the Asia-Pacific Center for Security Studies as the Daniel K. Inouye Asia-Pacific Center for Security Studies
 Pub. L. 113–291, div. B, title XXVIII, § 2861(a), Dec. 19, 2014, 128 Stat. 3715, provided that: “The Department of Defense regional center for security studies known as the Asia-Pacific Center for Security Studies is hereby renamed the ‘Daniel K. Inouye Asia-Pacific Center for Security Studies’.”
 
 Pub. L. 113–291, div. B, title XXVIII, § 2861(c), Dec. 19, 2014, 128 Stat. 3716, provided that: “Any reference to the Department of Defense Asia-Pacific Center for Security Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Daniel K. Inouye Asia-Pacific Center for Security Studies.”

@@ -59,12 +59,9 @@ Amendment by Pub. L. 103–465 effective 6 months after Dec. 8, 1994, and applic
 <a id="section-173"></a>
 ## § 173. Term of design patent
 
-Patents for designs shall be granted for the term of fourteen years from the date of grant.
+Patents for designs shall be granted for the term of 15 years from the date of grant.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–211, title I, §§ 102(7), 103, Dec. 18, 2012, 126 Stat. 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended by substituting “15 years” for “fourteen years”. See 2012 Amendment note below.
 
 #### Historical and Revision Notes
 Based on Title 35, U.S.C., 1946 ed., § 77 (R.S. 4931). Language is changed slightly.
@@ -77,7 +74,7 @@ Based on Title 35, U.S.C., 1946 ed., § 77 (R.S. 4931). Language is changed slig
 1982—Pub. L. 97–247 substituted “Patents for designs shall be granted for the term of fourteen years” for “Patents for designs may be granted for the term of three years and six months, or for seven years, or for fourteen years, as the applicant, in his application, elects”.
 
 #### Effective Date of 2012 Amendment
-Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–465 effective 6 months after Dec. 8, 1994, and applicable to all patent applications filed in the United States on or after that effective date, with provisions relating to earliest filed patent application, see section 534(b)(1), (3) of Pub. L. 103–465, set out as a note under [section 154 of this title](./chapter-014-issue-of-patent.md#section-154).

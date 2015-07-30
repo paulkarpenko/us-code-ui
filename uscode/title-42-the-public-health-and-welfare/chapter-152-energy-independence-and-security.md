@@ -2,7 +2,7 @@
 title: 42
 chapter: '152'
 heading: ENERGY INDEPENDENCE AND SECURITY
-section_count: 119
+section_count: 123
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -163,6 +163,11 @@ This Act, referred to in text, is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 14
 
 #### Effective Date
 Chapter effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–11, § 1(a), Apr. 30, 2015, 129 Stat. 182, provided that: “This Act [enacting sections 17062, 17063, 17084, and 17085 of this title, amending sections 6295, 6302 to 6304, and 17091 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Energy Efficiency Improvement Act of 2015’.”
+
+Pub. L. 114–11, title I, § 101, Apr. 30, 2015, 129 Stat. 182, provided that: “This title [enacting sections 17062, 17084, and 17085 of this title] may be cited as the ‘Better Buildings Act of 2015’.”
 
 #### Short Title
 Pub. L. 110–140, § 1(a), Dec. 19, 2007, 121 Stat. 1492, provided that: “This Act [see Tables for classification] may be cited as the ‘Energy Independence and Security Act of 2007’.”
@@ -801,7 +806,185 @@ Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided 
 
 
 <a id="section-17061"></a>
-## § 17061. Research and development
+## § 17061. Energy efficiency for data center buildings
+**(a) Definitions** In this section:
+
+(1) **Data center** — The term “data center” means any facility that primarily contains electronic equipment used to process, store, and transmit digital information, which may be—
+
+  (A) a free-standing structure; or
+
+  (B) a facility within a larger structure, that uses environmental control equipment to maintain the proper conditions for the operation of electronic equipment.
+
+(2) **Data center operator** — The term “data center operator” means any person or government entity that builds or operates a data center or purchases data center services, equipment, and facilities.
+
+**(b) Voluntary national information program**
+
+(1) **In general** — Not later than 90 days after December 19, 2007, the Secretary and the Administrator of the Environmental Protection Agency shall, after consulting with information technology industry and other interested parties, initiate a voluntary national information program for those types of data centers and data center equipment and facilities that are widely used and for which there is a potential for significant data center energy savings as a result of the program.
+
+(2) **Requirements** — The program described in paragraph (1) shall—
+
+  (A) address data center efficiency holistically, reflecting the total energy consumption of data centers as whole systems, including both equipment and facilities;
+
+  (B) consider prior work and studies undertaken in this area, including by the Environmental Protection Agency and the Department of Energy;
+
+  (C) consistent with the objectives described in paragraph (1), determine the type of data center and data center equipment and facilities to be covered under the program;
+
+  (D) produce specifications, measurements, best practices, and benchmarks that will enable data center operators to make more informed decisions about the energy efficiency and costs of data centers, and that take into account—
+
+    (i) the performance and use of servers, data storage devices, and other information technology equipment;
+
+    (ii) the efficiency of heating, ventilation, and air conditioning, cooling, and power conditioning systems, provided that no modification shall be required of a standard then in effect under the Energy Policy and Conservation Act ([42 U.S.C. 6201](./chapter-077-energy-conservation.md#section-6201) et seq.) for any covered heating, ventilation, air-conditioning, cooling or power-conditioning product;
+
+    (iii) energy savings from the adoption of software and data management techniques; and
+
+    (iv) other factors determined by the organization described in subsection (c);
+
+  (E) allow for creation of separate specifications, measurements, and benchmarks based on data center size and function, as well as other appropriate characteristics;
+
+  (F) advance the design and implementation of efficiency technologies to the maximum extent economically practical;
+
+  (G) provide to data center operators in the private sector and the Federal Government information about best practices and purchasing decisions that reduce the energy consumption of data centers; and
+
+  (H) publish the information described in subparagraph (G), which may be disseminated through catalogs, trade publications, the Internet, or other mechanisms, that will allow data center operators to assess the energy consumption and potential cost savings of alternative data centers and data center equipment and facilities.
+
+(3) **Procedures** — The program described in paragraph (1) shall be developed in consultation with and coordinated by the organization described in subsection (c) according to commonly accepted procedures for the development of specifications, measurements, and benchmarks.
+
+**(c) Data center efficiency organization**
+
+(1) **In general** — After the establishment of the program described in subsection (b), the Secretary and the Administrator shall jointly designate an information technology industry organization to consult with and to coordinate the program.
+
+(2) **Requirements** — The organization designated under paragraph (1), whether preexisting or formed specifically for the purposes of subsection (b), shall—
+
+  (A) consist of interested parties that have expertise in energy efficiency and in the development, operation, and functionality of computer data centers, information technology equipment, and software, as well as representatives of hardware manufacturers, data center operators, and facility managers;
+
+  (B) obtain and address input from Department of Energy National Laboratories or any college, university, research institution, industry association, company, or public interest group with applicable expertise in any of the areas listed in paragraph (1);
+
+  (C) follow commonly accepted procedures for the development of specifications and accredited standards development processes;
+
+  (D) have a mission to develop and promote energy efficiency for data centers and information technology; and
+
+  (E) have the primary responsibility to consult in the development and publishing of the information, measurements, and benchmarks described in subsection (b) and transmission of the information to the Secretary and the Administrator for consideration under subsection (d).
+
+**(d) Measurements and specifications**
+
+(1) **In general** — The Secretary and the Administrator shall consider the specifications, measurements, and benchmarks described in subsection (b) for use by the Federal Energy Management Program, the Energy Star Program, and other efficiency programs of the Department of Energy and Environmental Protection Agency, respectively.
+
+(2) **Rejections** — If the Secretary or the Administrator rejects 1 or more specifications, measurements, or benchmarks described in subsection (b), the rejection shall be made consistent with section 12(d) of the National Technology Transfer and Advancement Act of 1995 ([15 U.S.C. 272](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272&num=0&edition=prelim) note; Public Law 104–113).
+
+(3) **Determination of impracticability** — A determination that a specification, measurement, or benchmark described in subsection (b) is impractical may include consideration of the maximum efficiency that is technologically feasible and economically justified.
+
+**(e) Monitoring** The Secretary and the Administrator shall—
+
+(1) monitor and evaluate the efforts to develop the program described in subsection (b); and
+
+(2) not later than 3 years after December 19, 2007, make a determination as to whether the program is consistent with the objectives of subsection (b).
+
+**(f) Alternative system** If the Secretary and the Administrator make a determination under subsection (e) that a voluntary national information program for data centers consistent with the objectives of subsection (b) has not been developed, the Secretary and the Administrator shall, after consultation with the National Institute of Standards and Technology and not later than 2 years after the determination, develop and implement the program under subsection (b).
+
+**(g) Protection of proprietary information** The Secretary, the Administrator, or the data center efficiency organization shall not disclose any proprietary information or trade secrets provided by any individual or company for the purposes of carrying out this section or the program established under this section.
+
+### Statutory Notes
+
+#### References in Text
+The Energy Policy and Conservation Act, referred to in subsec. (b)(2)(D)(ii), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+
+
+<a id="section-17062"></a>
+## § 17062. Demonstration project
+**(a) In general** The Federal Director and the Commercial Director shall establish guidelines to implement a demonstration project to contribute to the research goals of the Office of Commercial High-Performance Green Buildings and the Office of Federal High-Performance Green Buildings.
+
+**(b) Projects** In accordance with guidelines established by the Federal Director and the Commercial Director under subsection (a) and the duties of the Federal Director and the Commercial Director described in this title,11 See References in Text note below. the Federal Director or the Commercial Director shall carry out—
+
+(1) for each of fiscal years 2009 through 2014, 1 demonstration project per year of green features in a Federal building selected by the Federal Director in accordance with relevant agencies and described in subsection (c)(1), that—
+
+  (A) provides for instrumentation, monitoring, and data collection related to the green features, for study of the impact of the features on overall energy use and operational costs, and for the evaluation of the information obtained through the conduct of projects and activities under this title; 1 and
+
+  (B) achieves the highest rating offered by the high performance green building system identified pursuant to [section 17092(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17092/h&num=0&edition=prelim);
+
+(2) no fewer than 4 demonstration projects at 4 universities, that, as competitively selected by the Commercial Director in accordance with subsection (c)(2), have—
+
+  (A) appropriate research resources and relevant projects to meet the goals of the demonstration project established by the Office of Commercial High-Performance Green Buildings; and
+
+  (B) the ability—
+
+    (i) to serve as a model for high-performance green building initiatives, including research and education 22 So in original. A comma probably should appear. by achieving the highest rating offered by the high performance green building system identified pursuant to [section 17092(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17092/h&num=0&edition=prelim);
+
+    (ii) to identify the most effective ways to use high-performance green building and landscape technologies to engage and educate undergraduate and graduate students;
+
+    (iii) to effectively implement a high-performance green building education program for students and occupants;
+
+    (iv) to demonstrate the effectiveness of various high-performance technologies, including their impacts on energy use and operational costs, in each of the 4 climatic regions of the United States described in subsection (c)(2)(B); and
+
+    (v) to explore quantifiable and nonquantifiable beneficial impacts on public health and employee and student performance;
+
+(3) demonstration projects to evaluate replicable approaches of achieving high performance in actual building operation in various types of commercial buildings in various climates; and
+
+(4) deployment activities to disseminate information on and encourage widespread adoption of technologies, practices, and policies to achieve zero-net-energy commercial buildings or low energy use and effective monitoring of energy use in commercial buildings.
+
+**(c) Criteria**
+
+(1) **Federal facilities** — With respect to the existing or proposed Federal facility at which a demonstration project under this section is conducted, the Federal facility shall—
+
+  (A) be an appropriate model for a project relating to—
+
+    (i) the effectiveness of high-performance technologies;
+
+    (ii) analysis of materials, components, systems, and emergency operations in the building, and the impact of those materials, components, and systems, including the impact on the health of building occupants;
+
+    (iii) life-cycle costing and life-cycle assessment of building materials and systems; and
+
+    (iv) location and design that promote access to the Federal facility through walking, biking, and mass transit; and
+
+  (B) possess sufficient technological and organizational adaptability.
+
+(2) **Universities** — With respect to the 4 universities at which a demonstration project under this section is conducted—
+
+  (A) the universities should be selected, after careful review of all applications received containing the required information, as determined by the Commercial Director, based on—
+
+    (i) successful and established public-private research and development partnerships;
+
+    (ii) demonstrated capabilities to construct or renovate buildings that meet high indoor environmental quality standards;
+
+    (iii) organizational flexibility;
+
+    (iv) technological adaptability;
+
+    (v) the demonstrated capacity of at least 1 university to replicate lessons learned among nearby or sister universities, preferably by participation in groups or consortia that promote sustainability;
+
+    (vi) the demonstrated capacity of at least 1 university to have officially-adopted, institution-wide “high-performance green building” guidelines for all campus building projects; and
+
+    (vii) the demonstrated capacity of at least 1 university to have been recognized by similar institutions as a national leader in sustainability education and curriculum for students of the university; and
+
+  (B) each university shall be located in a different climatic region of the United States, each of which regions shall have, as determined by the Office of Commercial High-Performance Green Buildings—
+
+    (i) a hot, dry climate;
+
+    (ii) a hot, humid climate;
+
+    (iii) a cold climate; or
+
+    (iv) a temperate climate (including a climate with cold winters and humid summers).
+
+**(d) Applications** To receive a grant under subsection (b), an eligible applicant shall submit to the Federal Director or the Commercial Director an application at such time, in such manner, and containing such information as the Director may require, including a written assurance that all laborers and mechanics employed by contractors or subcontractors during construction, alteration, or repair that is financed, in whole or in part, by a grant under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141 through 3144, 3146, and 3147 of title 40. The Secretary of Labor shall, with respect to the labor standards described in this subsection, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
+
+**(e) Report** Not later than 1 year after December 19, 2007, and annually thereafter through September 30, 2014—
+
+(1) the Federal Director and the Commercial Director shall submit to the Secretary a report that describes the status of the demonstration projects; and
+
+(2) each University at which a demonstration project under this section is conducted shall submit to the Secretary a report that describes the status of the demonstration projects under this section.
+
+**(f) Authorization of appropriations** There is authorized to be appropriated to carry out the demonstration project described in section 33 So in original. Probably should be “subsection”. (b)(1), $10,000,000 for the period of fiscal years 2008 through 2012, and to carry out the demonstration project described in section 3 (b)(2), $10,000,000 for the period of fiscal years 2008 through 2012, to remain available until expended.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (b), is title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1596, which enacted this subchapter, part C (§ 6341 et seq.) of subchapter III of chapter 77 of this title, sections 6371h–1 and 7628 of this title, and subchapter V (§ 2695 et seq.) of chapter 53 of Title 15, Commerce and Trade, amended sections 6832, 6834, 6862, 6872, 8253, 8254, and 12709 of this title, and enacted provisions set out as notes under sections 6834 and 6872 of this title. For complete classification of title IV to the Code, see Tables.
+
+Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-17063"></a>
+## § 17063. Research and development
 **(a) Establishment** The Federal Director and the Commercial Director, jointly and in coordination with the Advisory Committee, shall—
 
 (1)
@@ -1059,7 +1242,103 @@ Sections 511 through 525, referred to in par. (6)(C), are sections 511 to 525 of
 
 
 <a id="section-17083"></a>
-## § 17083. Energy Code improvements applicable to manufactured housing
+## § 17083. Energy efficiency in Federal and other buildings
+**(a) Definitions** In this section:
+
+(1) **Administrator** — The term “Administrator” means the Administrator of General Services.
+
+(2) **Cost-effective energy efficiency measure** — The term “cost-effective energy efficiency measure” means any building product, material, equipment, or service, and the installing, implementing, or operating thereof, that provides energy savings in an amount that is not less than the cost of such installing, implementing, or operating.
+
+(3) **Cost-effective water efficiency measure** — The term “cost-effective water efficiency measure” means any building product, material, equipment, or service, and the installing, implementing, or operating thereof, that provides water savings in an amount that is not less than the cost of such installing, implementing, or operating.
+
+**(b) Model provisions, policies, and best practices**
+
+(1) **In general** — Not later than 180 days after April 30, 2015, the Administrator, in consultation with the Secretary of Energy and after providing the public with an opportunity for notice and comment, shall develop model commercial leasing provisions and best practices in accordance with this subsection.
+
+(2) **Commercial leasing**
+
+  (A) *In general* — The model commercial leasing provisions developed under this subsection shall, at a minimum, align the interests of building owners and tenants with regard to investments in cost-effective energy efficiency measures and cost-effective water efficiency measures to encourage building owners and tenants to collaborate to invest in such measures.
+
+  (B) *Use of model provisions* — The Administrator may use the model commercial leasing provisions developed under this subsection in any standard leasing document that designates a Federal agency (or other client of the Administrator) as a landlord or tenant.
+
+  (C) *Publication* — The Administrator shall periodically publish the model commercial leasing provisions developed under this subsection, along with explanatory materials, to encourage building owners and tenants in the private sector to use such provisions and materials.
+
+(3) **Realty services** — The Administrator shall develop policies and practices to implement cost-effective energy efficiency measures and cost-effective water efficiency measures for the realty services provided by the Administrator to Federal agencies (or other clients of the Administrator), including periodic training of appropriate Federal employees and contractors on how to identify and evaluate those measures.
+
+(4) **State and local assistance** — The Administrator, in consultation with the Secretary of Energy, shall make available model commercial leasing provisions and best practices developed under this subsection to State, county, and municipal governments for use in managing owned and leased building space in accordance with the goal of encouraging investment in all cost-effective energy efficiency measures and cost-effective water efficiency measures.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Better Buildings Act of 2015, and also as part of the Energy Efficiency Improvement Act of 2015, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
+
+
+<a id="section-17084"></a>
+## § 17084. Energy information for commercial buildings
+**(a) Omitted**
+
+**(b) Study**
+
+(1) **In general** — Not later than 2 years after April 30, 2015, the Secretary of Energy, in collaboration with the Administrator of the Environmental Protection Agency, shall complete a study—
+
+  (A) on the impact of—
+
+    (i) State and local performance benchmarking and disclosure policies, and any associated building efficiency policies, for commercial and multifamily buildings; and
+
+    (ii) programs and systems in which utilities provide aggregated information regarding whole building energy consumption and usage information to owners of multitenant commercial, residential, and mixed-use buildings;
+
+  (B) that identifies best practice policy approaches studied under subparagraph (A) that have resulted in the greatest improvements in building energy efficiency; and
+
+  (C) that considers—
+
+    (i) compliance rates and the benefits and costs of the policies and programs on building owners, utilities, tenants, and other parties;
+
+    (ii) utility practices, programs, and systems that provide aggregated energy consumption information to multitenant building owners, and the impact of public utility commissions and State privacy laws on those practices, programs, and systems;
+
+    (iii) exceptions to compliance in existing laws where building owners are not able to gather or access whole building energy information from tenants or utilities;
+
+    (iv) the treatment of buildings with—
+
+      (I) multiple uses;
+
+      (II) uses for which baseline information is not available; and
+
+      (III) uses that require high levels of energy intensities, such as data centers, trading floors, and televisions 11 So in original. Probably should be “television”. studios;
+
+    (v) implementation practices, including disclosure methods and phase-in of compliance;
+
+    (vi) the safety and security of benchmarking tools offered by government agencies, and the resiliency of those tools against cyber attacks; and
+
+    (vii) international experiences with regard to building benchmarking and disclosure laws and data aggregation for multitenant buildings.
+
+(2) **Submission to Congress** — At the conclusion of the study, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and Committee on Energy and Natural Resources of the Senate a report on the results of the study.
+
+**(c) Creation and maintenance of database**
+
+(1) **In general** — Not later than 18 months after April 30, 2015, and following opportunity for public notice and comment, the Secretary of Energy, in coordination with other relevant agencies, shall maintain, and if necessary create, a database for the purpose of storing and making available public energy-related information on commercial and multifamily buildings, including—
+
+  (A) data provided under Federal, State, local, and other laws or programs regarding building benchmarking and energy information disclosure;
+
+  (B) information on buildings that have disclosed energy ratings and certifications; and
+
+  (C) energy-related information on buildings provided voluntarily by the owners of the buildings, only in an anonymous form unless the owner provides otherwise.
+
+(2) **Complementary programs** — The database maintained pursuant to paragraph (1) shall complement and not duplicate the functions of the Environmental Protection Agency’s Energy Star Portfolio Manager tool.
+
+**(d) Input from stakeholders** The Secretary of Energy shall seek input from stakeholders to maximize the effectiveness of the actions taken under this section.
+
+**(e) Report** Not later than 2 years after April 30, 2015, and every 2 years thereafter, the Secretary of Energy shall submit to the Committee on Energy and Commerce of the House of Representatives and Committee on Energy and Natural Resources of the Senate a report on the progress made in complying with this section.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 301 of Pub. L. 114–11. Subsec. (a) of section 301 of Pub. L. 114–11 amended [section 17091 of this title](./chapter-152-energy-independence-and-security.md#section-17091).
+
+Section was enacted as part of the Energy Efficiency Improvement Act of 2015, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
+
+
+<a id="section-17085"></a>
+## § 17085. Energy Code improvements applicable to manufactured housing
 **(a) Establishment of standards**
 
 (1) **In general** — Not later than 4 years after December 19, 2007, the Secretary shall by regulation establish standards for energy efficiency in manufactured housing.
@@ -1298,7 +1577,85 @@ The Commercial Director and Federal Director, in coordination with the Consortiu
 
 
 <a id="section-17094"></a>
-## § 17094. Leasing
+## § 17094. Separate spaces with high-performance energy efficiency measures
+**(a) Definitions** In this section:
+
+(1) **High-performance energy efficiency measure** — The term “high-performance energy efficiency measure” means a technology, product, or practice that will result in substantial operational cost savings by reducing energy consumption and utility costs.
+
+(2) **Separate spaces** — The term “separate spaces” means areas within a commercial building that are leased or otherwise occupied by a tenant or other occupant for a period of time pursuant to the terms of a written agreement.
+
+**(b) Study**
+
+(1) **In general** — Not later than 1 year after April 30, 2015, the Secretary, acting through the Assistant Secretary of Energy Efficiency and Renewable Energy, shall complete a study on the feasibility of—
+
+  (A) significantly improving energy efficiency in commercial buildings through the design and construction, by owners and tenants, of separate spaces with high-performance energy efficiency measures; and
+
+  (B) encouraging owners and tenants to implement high-performance energy efficiency measures in separate spaces.
+
+(2) **Scope** — The study shall, at a minimum, include—
+
+  (A) descriptions of—
+
+    (i) high-performance energy efficiency measures that should be considered as part of the initial design and construction of separate spaces;
+
+    (ii) processes that owners, tenants, architects, and engineers may replicate when designing and constructing separate spaces with high-performance energy efficiency measures;
+
+    (iii) policies and best practices to achieve reductions in energy intensities for lighting, plug loads, heating, cooling, cooking, laundry, and other systems to satisfy the needs of the commercial building tenant;
+
+    (iv) return on investment and payback analyses of the incremental cost and projected energy savings of the proposed set of high-performance energy efficiency measures, including consideration of available incentives;
+
+    (v) models and simulation methods that predict the quantity of energy used by separate spaces with high-performance energy efficiency measures and that compare that predicted quantity to the quantity of energy used by separate spaces without high-performance energy efficiency measures but that otherwise comply with applicable building code requirements;
+
+    (vi) measurement and verification platforms demonstrating actual energy use of high-performance energy efficiency measures installed in separate spaces, and whether such measures generate the savings intended in the initial design and construction of the separate spaces;
+
+    (vii) best practices that encourage an integrated approach to designing and constructing separate spaces to perform at optimum energy efficiency in conjunction with the central systems of a commercial building; and
+
+    (viii) any impact on employment resulting from the design and construction of separate spaces with high-performance energy efficiency measures; and
+
+  (B) case studies reporting economic and energy savings returns in the design and construction of separate spaces with high-performance energy efficiency measures.
+
+(3) **Public participation** — Not later than 90 days after April 30, 2015, the Secretary shall publish a notice in the Federal Register requesting public comments regarding effective methods, measures, and practices for the design and construction of separate spaces with high-performance energy efficiency measures.
+
+(4) **Publication** — The Secretary shall publish the study on the website of the Department of Energy.
+
+
+<a id="section-17095"></a>
+## § 17095. Tenant Star program
+**(a) Definitions** In this section:
+
+(1) **High-performance energy efficiency measure** — The term “high-performance energy efficiency measure” has the meaning given the term in [section 17084 of this title](./chapter-152-energy-independence-and-security.md#section-17084).
+
+(2) **Separate spaces** — The term “separate spaces” has the meaning given the term in [section 17084 of this title](./chapter-152-energy-independence-and-security.md#section-17084).
+
+**(b) Tenant Star** The Administrator of the Environmental Protection Agency, in consultation with the Secretary of Energy, shall develop a voluntary program within the Energy Star program established by [section 6294a of this title](./chapter-077-energy-conservation.md#section-6294a), which may be known as “Tenant Star”, to promote energy efficiency in separate spaces leased by tenants or otherwise occupied within commercial buildings.
+
+**(c) Expanding survey data** The Secretary of Energy, acting through the Administrator of the Energy Information Administration, shall—
+
+(1) collect, through each Commercial Buildings Energy Consumption Survey of the Energy Information Administration that is conducted after April 30, 2015, data on—
+
+  (A) categories of building occupancy that are known to consume significant quantities of energy, such as occupancy by data centers, trading floors, and restaurants; and
+
+  (B) other aspects of the property, building operation, or building occupancy determined by the Administrator of the Energy Information Administration, in consultation with the Administrator of the Environmental Protection Agency, to be relevant in lowering energy consumption;
+
+(2) with respect to the first Commercial Buildings Energy Consumption Survey conducted after April 30, 2015, to the extent full compliance with the requirements of paragraph (1) is not feasible, conduct activities to develop the capability to collect such data and begin to collect such data; and
+
+(3) make data collected under paragraphs (1) and (2) available to the public in aggregated form and provide such data, and any associated results, to the Administrator of the Environmental Protection Agency for use in accordance with subsection (d).
+
+**(d) Recognition of owners and tenants**
+
+(1) **Occupancy-based recognition** — Not later than 1 year after the date on which sufficient data is received pursuant to subsection (c), the Administrator of the Environmental Protection Agency shall, following an opportunity for public notice and comment—
+
+  (A) in a manner similar to the Energy Star rating system for commercial buildings, develop policies and procedures to recognize tenants in commercial buildings that voluntarily achieve high levels of energy efficiency in separate spaces;
+
+  (B) establish building occupancy categories eligible for Tenant Star recognition based on the data collected under subsection (c) and any other appropriate data sources; and
+
+  (C) consider other forms of recognition for commercial building tenants or other occupants that lower energy consumption in separate spaces.
+
+(2) **Design- and construction-based recognition** — After the study required by [section 17084(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17084/b&num=0&edition=prelim) is completed, the Administrator of the Environmental Protection Agency, in consultation with the Secretary and following an opportunity for public notice and comment, may develop a voluntary program to recognize commercial building owners and tenants that use high-performance energy efficiency measures in the design and construction of separate spaces.
+
+
+<a id="section-17096"></a>
+## § 17096. Leasing
 **(a) In general** Except as provided in subsection (b), effective beginning on the date that is 3 years after December 19, 2007, no Federal agency shall enter into a contract to lease space in a building that has not earned the Energy Star label in the most recent year.
 
 **(b) Exception**
@@ -1313,7 +1670,19 @@ The Commercial Director and Federal Director, in coordination with the Consortiu
 
   (D) the lease is for not more than 10,000 gross square feet of space.
 
-(2) **Buildings without Energy Star label** — If one of the conditions described in paragraph (2) 11 So in original. Probably should be “(1)”. is met, the agency may enter into a contract to lease space in a building that has not earned the Energy Star label in the most recent year if the lease contract includes provisions requiring that, prior to occupancy or, in the case of a contract described in paragraph (1)(B), not later than 1 year after signing the contract, the space will be renovated for all energy efficiency and conservation improvements that would be cost effective over the life of the lease, including improvements in lighting, windows, and heating, ventilation, and air conditioning systems.
+(2) **Buildings without Energy Star label** — If one of the conditions described in paragraph (1) is met, the agency may enter into a contract to lease space in a building that has not earned the Energy Star label in the most recent year if the lease contract includes provisions requiring that, prior to occupancy or, in the case of a contract described in paragraph (1)(B), not later than 1 year after signing the contract, the following requirements are met:
+
+  (A) The space is renovated for all energy efficiency and conservation improvements that would be cost effective over the life of the lease, including improvements in lighting, windows, and heating, ventilation, and air conditioning systems.
+
+  (B)
+
+    (i) Subject to clause (ii), the space is benchmarked under a nationally recognized, online, free benchmarking program, with public disclosure, unless the space is a space for which owners cannot access whole building utility consumption data, including spaces—
+
+      (I) that are located in States with privacy laws that provide that utilities shall not provide such aggregated information to multitenant building owners; and
+
+      (II) for which tenants do not provide energy consumption information to the commercial building owner in response to a request from the building owner.
+
+    (ii) A Federal agency that is a tenant of the space shall provide to the building owner, or authorize the owner to obtain from the utility, the energy consumption information of the space for the benchmarking and disclosure required by this subparagraph.
 
 **(c) Revision of Federal Acquisition Regulation**
 
@@ -1328,9 +1697,12 @@ In subsec. (c)(1), “section 1121(b) and (c)(1) of title 41” substituted for 
 
 In subsec. (c)(2), “[section 1302(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1302/a&num=0&edition=prelim)” substituted for “section 25 of the Office of Federal Procurement Policy Act ([41 U.S.C. 421](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section421&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
+#### Amendments
+2015—Subsec. (b)(2). Pub. L. 114–11 substituted “paragraph (1) is met” for “paragraph (2) is met” and “signing the contract, the following requirements are met:” for “signing the contract, the space will be renovated for all energy efficiency and conservation improvements that would be cost effective over the life of the lease, including improvements in lighting, windows, and heating, ventilation, and air conditioning systems.” and added subpars. (A) and (B).
 
-<a id="section-17095"></a>
-## § 17095. High-performance green Federal buildings
+
+<a id="section-17111"></a>
+## § 17111. High-performance green Federal buildings
 **(a) Establishment of Office** Not later than 60 days after December 19, 2007, the Administrator shall establish within the General Services Administration an Office of Federal High-Performance Green Buildings, and appoint an individual to serve as Federal Director in, a position in the career-reserved Senior Executive service, to—
 
 (1) establish and manage the Office of Federal High-Performance Green Buildings; and
@@ -1461,8 +1833,8 @@ This part, referred to in subsecs. (a)(2), (c)(6), (f)(1) and (h)(2)(B), was in 
 Section 474, referred to in subsec. (c)(3), probably means section 494 of Pub. L. 110–140, which is classified to [section 17123 of this title](./chapter-152-energy-independence-and-security.md#section-17123).
 
 
-<a id="section-17096"></a>
-## § 17096. Federal green building performance
+<a id="section-17112"></a>
+## § 17112. Federal green building performance
 **(a) In general** Not later than October 31 of each of the 2 fiscal years following the fiscal year in which this Act is enacted, and at such times thereafter as the Comptroller General of the United States determines to be appropriate, the Comptroller General of the United States shall, with respect to the fiscal years that have passed since the preceding report—
 
 (1) conduct an audit of the implementation of this part, [section 6834(a)(3)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6834/a/3/D&num=0&edition=prelim), and [section 17091 of this title](./chapter-152-energy-independence-and-security.md#section-17091); and
@@ -1493,14 +1865,14 @@ This Act, referred to in subsec. (a), is Pub. L. 110–140, which was approved D
 This part, referred to in subsec. (a)(1), was in the original “this subtitle”, meaning subtitle C (§§ 431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under [section 6834 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6834). For complete classification of subtitle C to the Code, see Tables.
 
 
-<a id="section-17111"></a>
-## § 17111. Storm water runoff requirements for Federal development projects
+<a id="section-17121"></a>
+## § 17121. Storm water runoff requirements for Federal development projects
 
 The sponsor of any development or redevelopment project involving a Federal facility with a footprint that exceeds 5,000 square feet shall use site planning, design, construction, and maintenance strategies for the property to maintain or restore, to the maximum extent technically feasible, the predevelopment hydrology of the property with regard to the temperature, rate, volume, and duration of flow.
 
 
-<a id="section-17112"></a>
-## § 17112. Cost-effective technology acceleration program
+<a id="section-17122"></a>
+## § 17122. Cost-effective technology acceleration program
 **(a) Definition of Administrator** In this section, the term “Administrator” means the Administrator of General Services.
 
 **(b) Establishment**
@@ -1607,8 +1979,8 @@ Section 525, referred to in subsec. (d)(2), is section 525 of Pub. L. 110–140,
 This part, referred to in subsec. (d)(3)(C)(i), was in the original “this subtitle”, meaning subtitle C (§§ 431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under [section 6834 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6834). For complete classification of subtitle C to the Code, see Tables.
 
 
-<a id="section-17121"></a>
-## § 17121. Authorization of appropriations
+<a id="section-17123"></a>
+## § 17123. Authorization of appropriations
 
 There is authorized to be appropriated to carry out sections 434 through 439 and 482 11 See References in Text note below. $4,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
 
@@ -1618,8 +1990,8 @@ There is authorized to be appropriated to carry out sections 434 through 439 and
 Sections 434 through 439, referred to in text, are sections 434 to 439 of Pub. L. 110–140, which enacted sections 17091 to 17095 of this title and amended [section 8253 of this title](./chapter-091-national-energy-conservation-policy.md#section-8253). Section 482 is unidentifiable because Pub. L. 110–140 does not contain a section 482.
 
 
-<a id="section-17122"></a>
-## § 17122. Energy-intensive industries program
+<a id="section-17124"></a>
+## § 17124. Energy-intensive industries program
 **(a) Definitions** In this section:
 
 (1) **Eligible entity** — The term “eligible entity” means—
@@ -1749,184 +2121,6 @@ Sections 434 through 439, referred to in text, are sections 434 to 439 of Pub. L
 (2) **Partnership activities** — Of the amounts made available under paragraph (1), not less than 50 percent shall be used to pay the Federal share of partnership activities under subsection (c).
 
 (3) **Coordination and nonduplication** — The Secretary shall coordinate efforts under this section with other programs of the Department and other Federal agencies to avoid duplication of effort.
-
-
-<a id="section-17123"></a>
-## § 17123. Energy efficiency for data center buildings
-**(a) Definitions** In this section:
-
-(1) **Data center** — The term “data center” means any facility that primarily contains electronic equipment used to process, store, and transmit digital information, which may be—
-
-  (A) a free-standing structure; or
-
-  (B) a facility within a larger structure, that uses environmental control equipment to maintain the proper conditions for the operation of electronic equipment.
-
-(2) **Data center operator** — The term “data center operator” means any person or government entity that builds or operates a data center or purchases data center services, equipment, and facilities.
-
-**(b) Voluntary national information program**
-
-(1) **In general** — Not later than 90 days after December 19, 2007, the Secretary and the Administrator of the Environmental Protection Agency shall, after consulting with information technology industry and other interested parties, initiate a voluntary national information program for those types of data centers and data center equipment and facilities that are widely used and for which there is a potential for significant data center energy savings as a result of the program.
-
-(2) **Requirements** — The program described in paragraph (1) shall—
-
-  (A) address data center efficiency holistically, reflecting the total energy consumption of data centers as whole systems, including both equipment and facilities;
-
-  (B) consider prior work and studies undertaken in this area, including by the Environmental Protection Agency and the Department of Energy;
-
-  (C) consistent with the objectives described in paragraph (1), determine the type of data center and data center equipment and facilities to be covered under the program;
-
-  (D) produce specifications, measurements, best practices, and benchmarks that will enable data center operators to make more informed decisions about the energy efficiency and costs of data centers, and that take into account—
-
-    (i) the performance and use of servers, data storage devices, and other information technology equipment;
-
-    (ii) the efficiency of heating, ventilation, and air conditioning, cooling, and power conditioning systems, provided that no modification shall be required of a standard then in effect under the Energy Policy and Conservation Act ([42 U.S.C. 6201](./chapter-077-energy-conservation.md#section-6201) et seq.) for any covered heating, ventilation, air-conditioning, cooling or power-conditioning product;
-
-    (iii) energy savings from the adoption of software and data management techniques; and
-
-    (iv) other factors determined by the organization described in subsection (c);
-
-  (E) allow for creation of separate specifications, measurements, and benchmarks based on data center size and function, as well as other appropriate characteristics;
-
-  (F) advance the design and implementation of efficiency technologies to the maximum extent economically practical;
-
-  (G) provide to data center operators in the private sector and the Federal Government information about best practices and purchasing decisions that reduce the energy consumption of data centers; and
-
-  (H) publish the information described in subparagraph (G), which may be disseminated through catalogs, trade publications, the Internet, or other mechanisms, that will allow data center operators to assess the energy consumption and potential cost savings of alternative data centers and data center equipment and facilities.
-
-(3) **Procedures** — The program described in paragraph (1) shall be developed in consultation with and coordinated by the organization described in subsection (c) according to commonly accepted procedures for the development of specifications, measurements, and benchmarks.
-
-**(c) Data center efficiency organization**
-
-(1) **In general** — After the establishment of the program described in subsection (b), the Secretary and the Administrator shall jointly designate an information technology industry organization to consult with and to coordinate the program.
-
-(2) **Requirements** — The organization designated under paragraph (1), whether preexisting or formed specifically for the purposes of subsection (b), shall—
-
-  (A) consist of interested parties that have expertise in energy efficiency and in the development, operation, and functionality of computer data centers, information technology equipment, and software, as well as representatives of hardware manufacturers, data center operators, and facility managers;
-
-  (B) obtain and address input from Department of Energy National Laboratories or any college, university, research institution, industry association, company, or public interest group with applicable expertise in any of the areas listed in paragraph (1);
-
-  (C) follow commonly accepted procedures for the development of specifications and accredited standards development processes;
-
-  (D) have a mission to develop and promote energy efficiency for data centers and information technology; and
-
-  (E) have the primary responsibility to consult in the development and publishing of the information, measurements, and benchmarks described in subsection (b) and transmission of the information to the Secretary and the Administrator for consideration under subsection (d).
-
-**(d) Measurements and specifications**
-
-(1) **In general** — The Secretary and the Administrator shall consider the specifications, measurements, and benchmarks described in subsection (b) for use by the Federal Energy Management Program, the Energy Star Program, and other efficiency programs of the Department of Energy and Environmental Protection Agency, respectively.
-
-(2) **Rejections** — If the Secretary or the Administrator rejects 1 or more specifications, measurements, or benchmarks described in subsection (b), the rejection shall be made consistent with section 12(d) of the National Technology Transfer and Advancement Act of 1995 ([15 U.S.C. 272](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272&num=0&edition=prelim) note; Public Law 104–113).
-
-(3) **Determination of impracticability** — A determination that a specification, measurement, or benchmark described in subsection (b) is impractical may include consideration of the maximum efficiency that is technologically feasible and economically justified.
-
-**(e) Monitoring** The Secretary and the Administrator shall—
-
-(1) monitor and evaluate the efforts to develop the program described in subsection (b); and
-
-(2) not later than 3 years after December 19, 2007, make a determination as to whether the program is consistent with the objectives of subsection (b).
-
-**(f) Alternative system** If the Secretary and the Administrator make a determination under subsection (e) that a voluntary national information program for data centers consistent with the objectives of subsection (b) has not been developed, the Secretary and the Administrator shall, after consultation with the National Institute of Standards and Technology and not later than 2 years after the determination, develop and implement the program under subsection (b).
-
-**(g) Protection of proprietary information** The Secretary, the Administrator, or the data center efficiency organization shall not disclose any proprietary information or trade secrets provided by any individual or company for the purposes of carrying out this section or the program established under this section.
-
-### Statutory Notes
-
-#### References in Text
-The Energy Policy and Conservation Act, referred to in subsec. (b)(2)(D)(ii), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
-
-
-<a id="section-17124"></a>
-## § 17124. Demonstration project
-**(a) In general** The Federal Director and the Commercial Director shall establish guidelines to implement a demonstration project to contribute to the research goals of the Office of Commercial High-Performance Green Buildings and the Office of Federal High-Performance Green Buildings.
-
-**(b) Projects** In accordance with guidelines established by the Federal Director and the Commercial Director under subsection (a) and the duties of the Federal Director and the Commercial Director described in this title,11 See References in Text note below. the Federal Director or the Commercial Director shall carry out—
-
-(1) for each of fiscal years 2009 through 2014, 1 demonstration project per year of green features in a Federal building selected by the Federal Director in accordance with relevant agencies and described in subsection (c)(1), that—
-
-  (A) provides for instrumentation, monitoring, and data collection related to the green features, for study of the impact of the features on overall energy use and operational costs, and for the evaluation of the information obtained through the conduct of projects and activities under this title; 1 and
-
-  (B) achieves the highest rating offered by the high performance green building system identified pursuant to [section 17092(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17092/h&num=0&edition=prelim);
-
-(2) no fewer than 4 demonstration projects at 4 universities, that, as competitively selected by the Commercial Director in accordance with subsection (c)(2), have—
-
-  (A) appropriate research resources and relevant projects to meet the goals of the demonstration project established by the Office of Commercial High-Performance Green Buildings; and
-
-  (B) the ability—
-
-    (i) to serve as a model for high-performance green building initiatives, including research and education 22 So in original. A comma probably should appear. by achieving the highest rating offered by the high performance green building system identified pursuant to [section 17092(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17092/h&num=0&edition=prelim);
-
-    (ii) to identify the most effective ways to use high-performance green building and landscape technologies to engage and educate undergraduate and graduate students;
-
-    (iii) to effectively implement a high-performance green building education program for students and occupants;
-
-    (iv) to demonstrate the effectiveness of various high-performance technologies, including their impacts on energy use and operational costs, in each of the 4 climatic regions of the United States described in subsection (c)(2)(B); and
-
-    (v) to explore quantifiable and nonquantifiable beneficial impacts on public health and employee and student performance;
-
-(3) demonstration projects to evaluate replicable approaches of achieving high performance in actual building operation in various types of commercial buildings in various climates; and
-
-(4) deployment activities to disseminate information on and encourage widespread adoption of technologies, practices, and policies to achieve zero-net-energy commercial buildings or low energy use and effective monitoring of energy use in commercial buildings.
-
-**(c) Criteria**
-
-(1) **Federal facilities** — With respect to the existing or proposed Federal facility at which a demonstration project under this section is conducted, the Federal facility shall—
-
-  (A) be an appropriate model for a project relating to—
-
-    (i) the effectiveness of high-performance technologies;
-
-    (ii) analysis of materials, components, systems, and emergency operations in the building, and the impact of those materials, components, and systems, including the impact on the health of building occupants;
-
-    (iii) life-cycle costing and life-cycle assessment of building materials and systems; and
-
-    (iv) location and design that promote access to the Federal facility through walking, biking, and mass transit; and
-
-  (B) possess sufficient technological and organizational adaptability.
-
-(2) **Universities** — With respect to the 4 universities at which a demonstration project under this section is conducted—
-
-  (A) the universities should be selected, after careful review of all applications received containing the required information, as determined by the Commercial Director, based on—
-
-    (i) successful and established public-private research and development partnerships;
-
-    (ii) demonstrated capabilities to construct or renovate buildings that meet high indoor environmental quality standards;
-
-    (iii) organizational flexibility;
-
-    (iv) technological adaptability;
-
-    (v) the demonstrated capacity of at least 1 university to replicate lessons learned among nearby or sister universities, preferably by participation in groups or consortia that promote sustainability;
-
-    (vi) the demonstrated capacity of at least 1 university to have officially-adopted, institution-wide “high-performance green building” guidelines for all campus building projects; and
-
-    (vii) the demonstrated capacity of at least 1 university to have been recognized by similar institutions as a national leader in sustainability education and curriculum for students of the university; and
-
-  (B) each university shall be located in a different climatic region of the United States, each of which regions shall have, as determined by the Office of Commercial High-Performance Green Buildings—
-
-    (i) a hot, dry climate;
-
-    (ii) a hot, humid climate;
-
-    (iii) a cold climate; or
-
-    (iv) a temperate climate (including a climate with cold winters and humid summers).
-
-**(d) Applications** To receive a grant under subsection (b), an eligible applicant shall submit to the Federal Director or the Commercial Director an application at such time, in such manner, and containing such information as the Director may require, including a written assurance that all laborers and mechanics employed by contractors or subcontractors during construction, alteration, or repair that is financed, in whole or in part, by a grant under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141 through 3144, 3146, and 3147 of title 40. The Secretary of Labor shall, with respect to the labor standards described in this subsection, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
-
-**(e) Report** Not later than 1 year after December 19, 2007, and annually thereafter through September 30, 2014—
-
-(1) the Federal Director and the Commercial Director shall submit to the Secretary a report that describes the status of the demonstration projects; and
-
-(2) each University at which a demonstration project under this section is conducted shall submit to the Secretary a report that describes the status of the demonstration projects under this section.
-
-**(f) Authorization of appropriations** There is authorized to be appropriated to carry out the demonstration project described in section 33 So in original. Probably should be “subsection”. (b)(1), $10,000,000 for the period of fiscal years 2008 through 2012, and to carry out the demonstration project described in section 3 (b)(2), $10,000,000 for the period of fiscal years 2008 through 2012, to remain available until expended.
-
-### Statutory Notes
-
-#### References in Text
-This title, referred to in subsec. (b), is title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1596, which enacted this subchapter, part C (§ 6341 et seq.) of subchapter III of chapter 77 of this title, sections 6371h–1 and 7628 of this title, and subchapter V (§ 2695 et seq.) of chapter 53 of Title 15, Commerce and Trade, amended sections 6832, 6834, 6862, 6872, 8253, 8254, and 12709 of this title, and enacted provisions set out as notes under sections 6834 and 6872 of this title. For complete classification of title IV to the Code, see Tables.
-
-Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-17131"></a>

@@ -18,7 +18,7 @@ source: >-
 
 **(c) Limitation on growth of total assets** During the 2-year period beginning on February 10, 1996, the aggregate on-balance sheet assets of the Corporation plus the outstanding principal of the off-balance sheet obligations of the Corporation may not exceed $3,000,000,000 if the core capital of the Corporation is less than $25,000,000.
 
-**(d) Enforcement** If the Corporation fails to carry out subsection (a) of this section by the date required under paragraph (1) or (2) of subsection (a) of this section, the Corporation may not purchase a new qualified loan or issue or guarantee a new loan-backed security until the core capital of the Corporation is increased to an amount equal to or greater than $25,000,000.
+**(d) Enforcement** If the Corporation fails to carry out subsection (a) by the date required under paragraph (1) or (2) of subsection (a), the Corporation may not purchase a new qualified loan or issue or guarantee a new loan-backed security until the core capital of the Corporation is increased to an amount equal to or greater than $25,000,000.
 
 
 <a id="section-2002"></a>
@@ -67,7 +67,7 @@ source: >-
 
   (C) *Contractual arrangements* — The conservator or receiver may contract with any governmental entity, including the Farm Credit System Insurance Corporation, to make personnel, services, and facilities of the entity available to the conservator or receiver on such terms and compensation arrangements as shall be mutually agreed, and each entity may provide the same to the conservator or receiver.
 
-(3) **Expenses** — A valid claim for expenses of the conservatorship or receivership (including compensation under paragraph (2)) and a valid claim with respect to a loan made under subsection (f) of this section shall—
+(3) **Expenses** — A valid claim for expenses of the conservatorship or receivership (including compensation under paragraph (2)) and a valid claim with respect to a loan made under subsection (f) shall—
 
   (A) be paid by the conservator or receiver from funds of the Corporation before any other valid claim against the Corporation; and
 
@@ -79,7 +79,7 @@ source: >-
 
 **(d) Judicial review of appointment**
 
-(1) **In general** — Notwithstanding subsection (i)(1) of this section, not later than 30 days after a conservator or receiver is appointed under subsection (b) of this section, the Corporation may bring an action in the United States District Court for the District of Columbia for an order requiring the Farm Credit Administration Board to remove the conservator or receiver. The court shall, on the merits, dismiss the action or direct the Farm Credit Administration Board to remove the conservator or receiver.
+(1) **In general** — Notwithstanding subsection (i)(1), not later than 30 days after a conservator or receiver is appointed under subsection (b), the Corporation may bring an action in the United States District Court for the District of Columbia for an order requiring the Farm Credit Administration Board to remove the conservator or receiver. The court shall, on the merits, dismiss the action or direct the Farm Credit Administration Board to remove the conservator or receiver.
 
 (2) **Stay of other actions** — On the commencement of an action under paragraph (1), any court having jurisdiction of any other action or enforcement proceeding authorized under this chapter to which the Corporation is a party shall stay the action or proceeding during the pendency of the action for removal of the conservator or receiver.
 
@@ -369,7 +369,7 @@ Each Farm Credit Bank shall be a body corporate and, subject to regulation by th
 
 (23) as may be authorized by the board of directors of the bank, agree with other Farm Credit System institutions to share loan and other losses, whether to protect against capital impairment or for any other purpose; and
 
-(24) operate as an originator and become certified as a certified facility under subchapter VIII of this chapter.
+(24) operate as an originator and become certified as a certified facility under subchapter VIII.
 
 ### Statutory Notes
 
@@ -462,7 +462,7 @@ A prior section 2014, Pub. L. 92–181, title I, § 1.6, Dec. 10, 1971, 85 Stat.
 
     (iii) has limited access to national or regional capital markets; and
 
-    (iv) does not use such services to expand its financing activities to persons and for purposes other than those authorized under subchapter II of this chapter.
+    (iv) does not use such services to expand its financing activities to persons and for purposes other than those authorized under subchapter II.
 
   (C) *Fees* — The regulations may authorize a Farm Credit Bank to charge reasonable fees for any commitment to extend service under this section to such a financing institution.
 
@@ -590,7 +590,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 (1) **In general** — Loans to persons furnishing farm-related services to farmers and ranchers directly related to their on-farm operating needs may be made for the necessary capital structures and equipment and initial working capital for such services.
 
-(2) **Facilities** — The banks may own and lease, or lease with option to purchase, to persons eligible for credit under this subchapter or subchapter II of this chapter, equipment or facilities needed in the operations of such persons.
+(2) **Facilities** — The banks may own and lease, or lease with option to purchase, to persons eligible for credit under this subchapter or subchapter II, equipment or facilities needed in the operations of such persons.
 
 ### Statutory Notes
 
@@ -602,7 +602,7 @@ A prior section 2019, Pub. L. 92–181, title I, § 1.11, Dec. 10, 1971, 85 Stat
 
 1990—Subsec. (a). Pub. L. 101–624 designated existing provisions as par. (1), inserted heading, substituted “some portion” for “at least 20 percent, or such larger percent as may be required by the board of directors of the bank under regulations of the Farm Credit Administration,”, and added par. (2).
 
-1988—Subsec. (c)(2). Pub. L. 100–399 substituted “this subchapter or subchapter II of this chapter, equipment or facilities” for “this subchapter, facilities”.
+1988—Subsec. (c)(2). Pub. L. 100–399 substituted “this subchapter or subchapter II, equipment or facilities” for “this subchapter, facilities”.
 
 #### Effective Date of 1991 Amendment
 Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(4) of Pub. L. 102–237, set out as a note under [section 1421 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim), Agriculture.
@@ -617,7 +617,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **(b) Authority to pass along cost of insurance premiums**
 
-(1) **In general** — Each Farm Credit Bank may assess each production credit association, other association making direct loans under the authority provided under [section 2279b of this title](./chapter-023-farm-credit-system.md#section-2279b), and other financing institution described in [section 2015(b)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2015/b/1/B&num=0&edition=prelim) in the district in which the bank is located to cover the costs of making premium payments under part E of subchapter V of this chapter.
+(1) **In general** — Each Farm Credit Bank may assess each production credit association, other association making direct loans under the authority provided under [section 2279b of this title](./chapter-023-farm-credit-system.md#section-2279b), and other financing institution described in [section 2015(b)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2015/b/1/B&num=0&edition=prelim) in the district in which the bank is located to cover the costs of making premium payments under part E of subchapter V.
 
 (2) **Computation** — The assessment on any association or other financing institution described in paragraph (1) for any period shall be computed in an equitable manner, as determined by the Corporation.
 
@@ -869,7 +869,7 @@ Each production credit association shall be a body corporate and, subject to sup
 
 (20) exercise by the board of directors or authorized officers or employees of the association, all such incidental powers as may be necessary or expedient to carry on the business of the association; and
 
-(21) operate as an originator and become certified as a certified facility under subchapter VIII of this chapter.
+(21) operate as an originator and become certified as a certified facility under subchapter VIII.
 
 ### Statutory Notes
 
@@ -897,7 +897,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 <a id="section-2076"></a>
 ## § 2076. Production credit association capitalization
-**(a) In general** In accordance with [section 2154a of this title](./chapter-023-farm-credit-system.md#section-2154a), each production credit association shall provide, through its bylaws and subject to Farm Credit Administration regulations, for its capitalization and the manner in which its stock shall be issued, held, transferred, and retired and, except as provided in subsection (b) of this section, its earnings distributed.
+**(a) In general** In accordance with [section 2154a of this title](./chapter-023-farm-credit-system.md#section-2154a), each production credit association shall provide, through its bylaws and subject to Farm Credit Administration regulations, for its capitalization and the manner in which its stock shall be issued, held, transferred, and retired and, except as provided in subsection (b), its earnings distributed.
 
 **(b) Application of earnings** At the end of each fiscal year, each production credit association shall apply the amount of the earnings of the association for the fiscal year in excess of the operating expenses of the association (including provision for valuation reserves against loan assets in accordance with generally accepted accounting principles)—
 
@@ -938,7 +938,7 @@ A prior section 2074, Pub. L. 92–181, title II, § 2.3, Dec. 10, 1971, 85 Stat
 
 **(c) Interest rates and charges**
 
-(1) **In general** — Loans authorized in subsection (a) of this section shall bear such rate or rates of interest as are determined under standards prescribed by the board of the bank subject to the provisions of [section 2205 of this title](./chapter-023-farm-credit-system.md#section-2205), and shall be made upon such terms, conditions, and upon such security, if any, as shall be authorized in such standards.
+(1) **In general** — Loans authorized in subsection (a) shall bear such rate or rates of interest as are determined under standards prescribed by the board of the bank subject to the provisions of [section 2205 of this title](./chapter-023-farm-credit-system.md#section-2205), and shall be made upon such terms, conditions, and upon such security, if any, as shall be authorized in such standards.
 
 (2) **Setting of rates** — In setting rates and charges, it shall be the objective to provide the types of credit needed by eligible borrowers, at the lowest reasonable cost on a sound business basis, taking into account the cost of money to the association, necessary reserves and expenses of the association, and services provided to borrowers and members.
 
@@ -1151,7 +1151,7 @@ Each Federal land bank association shall be a body corporate and, subject to sup
 
 (21) contribute to the capital of the bank; and
 
-(22) operate as an originator and become certified as a certified facility under subchapter VIII of this chapter.
+(22) operate as an originator and become certified as a certified facility under subchapter VIII.
 
 ### Statutory Notes
 
@@ -1593,11 +1593,11 @@ shall be eligible to borrow from a bank for cooperatives. Any such association t
 
   (A) Cooperatives and other entities that have received a loan, loan commitment, or loan guarantee from the Rural Electrification Administration, or a loan or loan commitment from the Rural Telephone Bank, or that are eligible under the Rural Electrification Act of 1936 ([7 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) et seq.) for a loan, loan commitment, or loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and subsidiaries of such cooperatives or other entities.
 
-  (B) Any legal entity that (i) holds more than 50 percent of the voting control of an association or other entity that is eligible to borrow from a bank for cooperatives under subsection (a) of this section or subparagraph (A) of this paragraph, and (ii) borrows for the purpose of making funds available to that association or entity, and makes funds available to that association or entity under the same terms and conditions that the funds are borrowed from a bank for cooperatives.
+  (B) Any legal entity that (i) holds more than 50 percent of the voting control of an association or other entity that is eligible to borrow from a bank for cooperatives under subsection (a) or subparagraph (A) of this paragraph, and (ii) borrows for the purpose of making funds available to that association or entity, and makes funds available to that association or entity under the same terms and conditions that the funds are borrowed from a bank for cooperatives.
 
   (C) Any cooperative or other entity described in subsection (b) or (f) of [section 2128 of this title](./chapter-023-farm-credit-system.md#section-2128).
 
-  (D) Any creditworthy private entity that satisfies the requirements for a service cooperative under paragraphs (1), (2), and (4), or under the last sentence, of subsection (a) of this section and subsidiaries of the entity, if the entity is organized to benefit agriculture in furtherance of the welfare of its farmer-members and is operated on a not-for-profit basis.
+  (D) Any creditworthy private entity that satisfies the requirements for a service cooperative under paragraphs (1), (2), and (4), or under the last sentence, of subsection (a) and subsidiaries of the entity, if the entity is organized to benefit agriculture in furtherance of the welfare of its farmer-members and is operated on a not-for-profit basis.
 
 (2) Notwithstanding the provisions of [section 2130 of this title](./chapter-023-farm-credit-system.md#section-2130), the board of directors of a bank for cooperatives may determine that, with respect to a loan to any borrower eligible to borrow from a bank under paragraph (1)(A) that is fully guaranteed by the United States, no stock purchase requirement shall apply, other than the requirement that a borrower eligible to own voting stock shall purchase one share of such stock.
 
@@ -1615,7 +1615,7 @@ The Rural Electrification Act of 1936, referred to in subsec. (b)(1)(A), is act 
 
 Subsec. (b)(1)(A). Pub. L. 104–105, § 205, substituted “are eligible under the Rural Electrification Act of 1936 ([7 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) et seq.) for” for “have been certified by the Administrator of the Rural Electrification Administration to be eligible for such” and “loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and” for “loan guarantee, and”.
 
-Subsec. (b)(1)(D). Pub. L. 104–105, § 204(b), substituted “and (4), or under the last sentence, of subsection (a) of this section” for “and (4) of subsection (a) of this section”.
+Subsec. (b)(1)(D). Pub. L. 104–105, § 204(b), substituted “and (4), or under the last sentence, of subsection (a)” for “and (4) of subsection (a)”.
 
 1994—Subsec. (b)(1)(B) to (E). Pub. L. 103–376 redesignated subpars. (C) to (E) as (B) to (D), respectively, realigned margin of subpar. (D), and struck out former subpar. (B) which read as follows: “Any legal entity more than 50 percent of the voting control of which is held by one or more associations or other entities that are eligible to borrow from a bank for cooperatives under subsection (a) of this section or subparagraph (A) of this paragraph, except that any such legal entity, when considered together with one or more such associations or other entities that hold such control, meet the requirement of subsection (a)(3) of this section.”
 
@@ -1815,11 +1815,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
   (A) *In general* — The members of the board of directors of the consolidated bank shall serve for a term of 3 years.
 
-  (B) *Timing of elections* — Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that the beginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a) of this section.
+  (B) *Timing of elections* — Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that the beginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a).
 
 (4) **FCA regulations** — The nomination and election of the members of the board of directors of the consolidated bank under this subsection shall be carried out in accordance with regulations issued by the Farm Credit Administration.
 
-**(c) Modification of board of directors provisions** The provisions of subsection (b) of this section relating to the board of directors of the consolidated bank, other than the provisions relating to the initial composition, nomination, and election of the members of the board, may be modified on an affirmative vote of at least two-thirds of the voting stockholders of the bank, with each such stockholder to have, for such purposes, only one vote. Any proposals for modifying such provisions shall be submitted for a vote by such stockholders in accordance with procedures prescribed by the Farm Credit Administration.
+**(c) Modification of board of directors provisions** The provisions of subsection (b) relating to the board of directors of the consolidated bank, other than the provisions relating to the initial composition, nomination, and election of the members of the board, may be modified on an affirmative vote of at least two-thirds of the voting stockholders of the bank, with each such stockholder to have, for such purposes, only one vote. Any proposals for modifying such provisions shall be submitted for a vote by such stockholders in accordance with procedures prescribed by the Farm Credit Administration.
 
 ### Statutory Notes
 
@@ -1915,7 +1915,7 @@ The Farm Credit Administration may not establish lending limits for the consolid
 
 (3) describes the adequacy of credit and other assistance services provided to smaller cooperatives.
 
-**(b) Availability** A copy of the report required in subsection (a) of this section shall be made available to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+**(b) Availability** A copy of the report required in subsection (a) shall be made available to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
 ### Statutory Notes
 
@@ -2016,9 +2016,9 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 **(b) Failure to maintain minimum levels; directives; plans for achieving minimum levels; proposals affecting compliance**
 
-(1) Failure of a System institution to maintain capital at or above its minimum level as established under subsection (a) of this section may be deemed by the Farm Credit Administration, in its discretion, to constitute an unsafe and unsound practice within the meaning of this chapter.
+(1) Failure of a System institution to maintain capital at or above its minimum level as established under subsection (a) may be deemed by the Farm Credit Administration, in its discretion, to constitute an unsafe and unsound practice within the meaning of this chapter.
 
-(2) In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the Farm Credit Administration may issue a directive to a System institution that fails to maintain capital at or above its required level as established under subsection (a) of this section. Such directive may require the System institution to submit and adhere to a plan acceptable to the Farm Credit Administration describing the means and timing by which the System institution shall achieve its required capital level, but may not require merger or consolidation without a majority vote of the voting stockholders or the contributors to the guaranty fund of the institution.
+(2) In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the Farm Credit Administration may issue a directive to a System institution that fails to maintain capital at or above its required level as established under subsection (a). Such directive may require the System institution to submit and adhere to a plan acceptable to the Farm Credit Administration describing the means and timing by which the System institution shall achieve its required capital level, but may not require merger or consolidation without a majority vote of the voting stockholders or the contributors to the guaranty fund of the institution.
 
 (3) The Farm Credit Administration may consider such System institution’s progress in adhering to any plan required under paragraph (2) whenever such System institution, or an affiliate thereof, seeks the requisite approval of the Farm Credit Administration for any proposal that would divert earnings, diminish capital, or otherwise impede such System institution’s progress in achieving its minimum capital level. The Farm Credit Administration may deny such approval where it determines that such proposal would adversely affect the ability of the System institution to comply with such plan.
 
@@ -2071,11 +2071,11 @@ Pub. L. 100–233, title III, § 301(a), Jan. 6, 1988, 101 Stat. 1608, as amende
 
 (2) **Stock** — The term “stock” means voting and nonvoting stock (including preferred stock), equivalent contributions to a guaranty fund, participation certificates, allocated equities, and other forms and types of equities.
 
-**(b) Adoption of bylaws** Subject to approval by shareholders under subsection (c)(2) of this section, each bank and association shall adopt bylaws, developed by its board of directors, that provide for the capitalization of the institution in accordance with subsection (c)(1) of this section.
+**(b) Adoption of bylaws** Subject to approval by shareholders under subsection (c)(2), each bank and association shall adopt bylaws, developed by its board of directors, that provide for the capitalization of the institution in accordance with subsection (c)(1).
 
 **(c) Requirements of bylaws**
 
-(1) **In general** — Notwithstanding any other provision of this chapter, the bylaws adopted under subsection (b) of this section—
+(1) **In general** — Notwithstanding any other provision of this chapter, the bylaws adopted under subsection (b)—
 
   (A) shall provide for such classes, par value, and amounts of the stock of the institution, the manner in which such stock shall be issued, transferred, and retired, and the payment of dividends and patronage refunds, as determined appropriate by the Board of Directors, subject to this section;
 
@@ -2109,7 +2109,7 @@ Pub. L. 100–233, title III, § 301(a), Jan. 6, 1988, 101 Stat. 1608, as amende
 
   (J) shall permit stock to be transferable.
 
-(2) **Effective date** — The bylaws adopted by the board of directors of a System institution under subsection (b) of this section shall take effect only on approval of a majority of the stockholders of such institution present and voting, or voting by written proxy, at a duly authorized stockholders’ meeting.
+(2) **Effective date** — The bylaws adopted by the board of directors of a System institution under subsection (b) shall take effect only on approval of a majority of the stockholders of such institution present and voting, or voting by written proxy, at a duly authorized stockholders’ meeting.
 
 **(d) Reduction of capital**
 
@@ -2117,23 +2117,23 @@ Pub. L. 100–233, title III, § 301(a), Jan. 6, 1988, 101 Stat. 1608, as amende
 
 (2) **Exceptions** — Paragraph (1) shall not apply to the payment of noncash patronage refunds by any institution exempt from Federal income tax if the entire refund paid qualifies as permanent capital. Notwithstanding paragraph (1), any System institution subject to Federal income tax may pay patronage refunds partially in cash as long as the cash portion of the refund is the minimum amount required to qualify the refund as a deductible patronage distribution for Federal income tax purposes and the remaining portion of the refund paid qualifies as permanent capital.
 
-**(e) Compliance** The Farm Credit Administration may issue a directive that requires compliance with subsection (d) of this section, to the board of directors of any System institution that fails to comply therewith.
+**(e) Compliance** The Farm Credit Administration may issue a directive that requires compliance with subsection (d), to the board of directors of any System institution that fails to comply therewith.
 
 **(f) Loans designated for sale or sold into secondary market**
 
-(1) **In general** — Subject to paragraph (2) and notwithstanding any other provision of this section, the bylaws adopted by a bank or association under subsection (b) of this section may provide—
+(1) **In general** — Subject to paragraph (2) and notwithstanding any other provision of this section, the bylaws adopted by a bank or association under subsection (b) may provide—
 
   (A) in the case of a loan made on or after February 10, 1996, that is designated, at the time the loan is made, for sale into a secondary market, that no voting stock or participation certificate purchase requirement shall apply to the borrower for the loan; and
 
-  (B) in the case of a loan made before February 10, 1996, that is sold into a secondary market, that all outstanding voting stock or participation certificates held by the borrower with respect to the loan shall, subject to subsection (d)(1) of this section, be retired.
+  (B) in the case of a loan made before February 10, 1996, that is sold into a secondary market, that all outstanding voting stock or participation certificates held by the borrower with respect to the loan shall, subject to subsection (d)(1), be retired.
 
-(2) **Applicability** — Notwithstanding any other provision of this section, in the case of a loan sold to a secondary market under subchapter VIII of this chapter, paragraph (1) shall apply regardless of whether the bank or association retains a subordinated participation interest in a loan or pool of loans or contributes to a cash reserve.
+(2) **Applicability** — Notwithstanding any other provision of this section, in the case of a loan sold to a secondary market under subchapter VIII, paragraph (1) shall apply regardless of whether the bank or association retains a subordinated participation interest in a loan or pool of loans or contributes to a cash reserve.
 
 (3) **Exception**
 
   (A) *In general* — Subject to subparagraph (B) and notwithstanding any other provision of this section, if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
 
-  (B) *Retirement* — The bylaws adopted by a bank or association under subsection (b) of this section may provide that if a loan described in subparagraph (A) is sold into a secondary market after the end of the 180-day period described in the subparagraph, all outstanding voting stock or participation certificates held by the borrower with respect to the loan shall, subject to subsection (d)(1) of this section, be retired.
+  (B) *Retirement* — The bylaws adopted by a bank or association under subsection (b) may provide that if a loan described in subparagraph (A) is sold into a secondary market after the end of the 180-day period described in the subparagraph, all outstanding voting stock or participation certificates held by the borrower with respect to the loan shall, subject to subsection (d)(1), be retired.
 
 **(g) Construction** This section shall not be construed to affect the provisions of this chapter that confer on System institutions a lien on borrower stock or other equities and the privilege to retire or cancel such stock or other equities for application against the indebtedness on a defaulted or restructured loan.
 
@@ -2194,7 +2194,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
   (F) On making such a call with respect to obligations issued on behalf of a System bank, the Farm Credit Administration shall appoint a receiver for the bank, which shall expeditiously liquidate or otherwise wind up the affairs of the bank.
 
-**(b) Resolutions as to liability; execution of obligations** Each bank participating in an issue shall by appropriate resolution undertake such responsibility as provided in subsection (a) of this section, and in the case of consolidated or System-wide obligations shall authorize the execution of such long-term notes, bonds, debentures, or other obligations on its behalf. When a consolidated or System-wide issue is approved, the notes, bonds, debentures, or other obligations shall be executed and the banks shall be liable thereon as provided herein.
+**(b) Resolutions as to liability; execution of obligations** Each bank participating in an issue shall by appropriate resolution undertake such responsibility as provided in subsection (a), and in the case of consolidated or System-wide obligations shall authorize the execution of such long-term notes, bonds, debentures, or other obligations on its behalf. When a consolidated or System-wide issue is approved, the notes, bonds, debentures, or other obligations shall be executed and the banks shall be liable thereon as provided herein.
 
 **(c) United States liability** The United States shall not be liable or assume any liability directly or indirectly thereon.
 
@@ -2372,7 +2372,7 @@ Repeal effective immediately after enactment of Pub. L. 100–233, approved Jan.
 
 (2) to cancel borrower stock at par value under [section 2202b of this title](./chapter-023-farm-credit-system.md#section-2202b); or
 
-(3) to apply, against any outstanding indebtedness to a System association arising out of or in connection with a liquidation referred to in subsection (d)(2) of this section, the par value of borrower stock frozen in such liquidation.
+(3) to apply, against any outstanding indebtedness to a System association arising out of or in connection with a liquidation referred to in subsection (d)(2), the par value of borrower stock frozen in such liquidation.
 
 **(c) Inability to retire stock at par value** If an institution is unable to retire eligible borrower stock at par value due to the liquidation of the institution, the receiver of the institution shall retire such stock at par value as would have been retired in the ordinary course of business of the institution, and—
 
@@ -2593,7 +2593,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 **(d) Independent appraisal**
 
-(1) **In general** — An appeal filed with a credit review committee under this section may include, as a part of the request for a review of the decision filed under subsection (b)(1) or (2) of this section, a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
+(1) **In general** — An appeal filed with a credit review committee under this section may include, as a part of the request for a review of the decision filed under subsection (b)(1) or (2), a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
 
 (2) **Arrangement and cost** — Within 30 days after a request for an appraisal under paragraph (1), the credit review committee shall present the borrower with a list of three appraisers approved by the appropriate qualified lender from which the borrower shall select an appraiser to conduct the appraisal the cost of which shall be borne by the borrower, and shall consider the results of such appraisal in any final determination with respect to the loan.
 
@@ -2662,7 +2662,7 @@ Pub. L. 100–399, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1006, provided
 
   (A) a foreclosure or similar legal proceeding to enforce a lien on property, whether real or personal, that secures a nonaccrual or distressed loan; or
 
-  (B) the seizing of and realizing on nonreal property collateral, other than collateral subject to a statutory lien arising under subchapter I or II of this chapter, to effect collection of a nonaccrual or distressed loan.
+  (B) the seizing of and realizing on nonreal property collateral, other than collateral subject to a statutory lien arising under subchapter I or II, to effect collection of a nonaccrual or distressed loan.
 
 (5) **Loan**
 
@@ -2690,7 +2690,7 @@ Pub. L. 100–399, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1006, provided
 
 (1) **In general** — On a determination by a qualified lender that a loan made by the lender is or has become a distressed loan, the lender shall provide written notice to the borrower that the loan may be suitable for restructuring, and include with such notice—
 
-  (A) a copy of the policy of the lender established under subsection (g) of this section that governs the treatment of distressed loans; and
+  (A) a copy of the policy of the lender established under subsection (g) that governs the treatment of distressed loans; and
 
   (B) all materials necessary to enable the borrower to submit an application for restructuring on the loan.
 
@@ -2758,7 +2758,7 @@ Pub. L. 100–399, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1006, provided
 
 **(j) Permitted foreclosures** This section shall not be construed to prevent any qualified lender from enforcing any contractual provision that allows the lender to foreclose a loan, or from taking such other lawful action as the lender deems appropriate, if the lender has reasonable grounds to believe that the loan collateral will be destroyed, dissipated, consumed, concealed, or permanently removed from the State in which the collateral is located.
 
-**(k) Application of section** The time limitation prescribed in subsection (b)(2) of this section, and the requirements of subsection (c) of this section, shall not apply to a loan that became a distressed loan before January 6, 1988, if the borrower and lender of the loan are in the process of negotiating loan restructuring with respect to the loan.
+**(k) Application of section** The time limitation prescribed in subsection (b)(2), and the requirements of subsection (c), shall not apply to a loan that became a distressed loan before January 6, 1988, if the borrower and lender of the loan are in the process of negotiating loan restructuring with respect to the loan.
 
 **(l) Assistance in restructuring** Each Farm Credit Bank, on request of any production credit association, may assist the association in restructuring loans under this section.
 
@@ -2792,7 +2792,7 @@ Pub. L. 100–233, title I, § 102(b), Jan. 6, 1988, 101 Stat. 1579, provided th
 
 **(b) Production credit association** If a production credit association forgives and writes off, under [section 2202a of this title](./chapter-023-farm-credit-system.md#section-2202a), any of the principal outstanding on a loan made to any borrower, the association shall cancel the same dollar amount of borrower stock held by the borrower in respect of the loan, up to the total amount of such stock.
 
-**(c) Retention of stock** Notwithstanding subsections (a) and (b) of this section, the borrower shall be entitled to retain at least one share of stock to maintain the borrower’s membership and voting interest in the association.
+**(c) Retention of stock** Notwithstanding subsections (a) and (b), the borrower shall be entitled to retain at least one share of stock to maintain the borrower’s membership and voting interest in the association.
 
 ### Statutory Notes
 
@@ -2821,7 +2821,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 (1) **Establishment** — A National Special Asset Council shall be established by the Assistance Board to—
 
-  (A) monitor compliance with the restructuring requirements of this section by qualified lenders certified to issue preferred stock under [section 2278b–7 of this title](./chapter-023-farm-credit-system.md#section-2278b-7), and by special asset groups established under subsection (b) of this section; and
+  (A) monitor compliance with the restructuring requirements of this section by qualified lenders certified to issue preferred stock under [section 2278b–7 of this title](./chapter-023-farm-credit-system.md#section-2278b-7), and by special asset groups established under subsection (b); and
 
   (B) review a sample of determinations made by each special asset group that a loan will not be restructured.
 
@@ -2943,7 +2943,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
   (B) has operations that are functionally similar to a person that is eligible for a loan from the Farm Credit Bank or association in that the person derives a majority of the income of the person from, or has a majority of the assets of the person invested in, the conduct of activities that are functionally similar to the activities that are conducted by an eligible person.
 
-**(b) Loan participation authority** Notwithstanding any other provision of this chapter, any Farm Credit Bank or direct lender association chartered under this chapter may participate in any loan of a type otherwise authorized under subchapter I or II of this chapter made to a similar entity by any person in the business of extending credit, except that a Farm Credit Bank or direct lender association may not participate in a loan under this section if—
+**(b) Loan participation authority** Notwithstanding any other provision of this chapter, any Farm Credit Bank or direct lender association chartered under this chapter may participate in any loan of a type otherwise authorized under subchapter I or II made to a similar entity by any person in the business of extending credit, except that a Farm Credit Bank or direct lender association may not participate in a loan under this section if—
 
 (1) the participation would cause the total amount of all participations by the Farm Credit Bank or association under this section involving a single credit risk to exceed 10 percent (or the applicable higher lending limit authorized under regulations issued by the Farm Credit Administration if the stockholders of the respective Farm Credit Bank or association so approve) of the total capital of the Farm Credit Bank or association;
 
@@ -2971,16 +2971,14 @@ Subsec. (c). Pub. L. 107–171, § 5401(b)(2), struck out heading and text of su
 ## § 2209. Young, beginning, and small farmers and ranchers
 **(a)** Under policies of the district Farm Credit Bank board, each Federal land bank association and production credit association shall prepare a program for furnishing sound and constructive credit and related services to young, beginning, and small farmers and ranchers. Such programs shall assure that such credit and services are available in coordination with other units of the Farm Credit System serving the territory and with other governmental and private sources of credit. Each program shall be subject to review and approval by the supervising bank.
 
-**(b)** The Farm Credit Bank for each district shall annually obtain from associations under its supervision reports of activities under programs developed pursuant to subsection (a) of this section and progress toward program objectives. On the basis of such reports, the bank shall provide to the Farm Credit Administration an annual report summarizing the operations and achievements in its district under such programs.
+**(b)** The Farm Credit Bank for each district shall annually obtain from associations under its supervision reports of activities under programs developed pursuant to subsection (a) and progress toward program objectives. On the basis of such reports, the bank shall provide to the Farm Credit Administration an annual report summarizing the operations and achievements in its district under such programs.
 
 ### Statutory Notes
 
 #### Amendments
 1988—Subsec. (a). Pub. L. 100–399, § 901(i), inserted “Farm Credit Bank” after “district”.
 
-Subsec. (b). Pub. L. 100–399, § 901(j)(1), (2), (4), (5), substituted “The Farm Credit Bank for each district” for “The Federal land bank and the Federal intermediate credit bank for each district”, “under its supervision” for “under their supervision”, “the bank shall” for “the banks shall”, “an annual report” for “a joint annual report”, and “achievements in its district” for “achievements in their district”.
-
-Pub. L. 100–399, § 901(j)(3), substituted “subsection (a)” for “subsection (a) of this section”, which for purposes of codification was translated as “subsection (a) of this section”, requiring no change in text.
+Subsec. (b). Pub. L. 100–399, § 901(j), substituted “The Farm Credit Bank for each district” for “The Federal land bank and the Federal intermediate credit bank for each district”, “under its supervision” for “under their supervision”, “subsection (a)” for “subsection (a) of this section”, “the bank shall” for “the banks shall”, “an annual report” for “a joint annual report”, and “achievements in its district” for “achievements in their district”.
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
@@ -3005,7 +3003,7 @@ In any election or merger vote, or other proceeding subject to a vote of the sto
 ## § 2212. Compensation of bank directors
 **(a) In general** The Farm Credit Administration shall monitor the compensation of members of the board of directors of a System bank received as compensation for serving as a director of the bank to ensure that the amount of the compensation does not exceed a level of $20,000 per year, as adjusted to reflect changes in the Consumer Price Index for all urban consumers published by the Bureau of Labor Statistics, unless the Farm Credit Administration determines that such level adversely affects the safety and soundness of the bank.
 
-**(b) Waiver** The Farm Credit Administration may waive the limitation prescribed in subsection (a) of this section under exceptional circumstances, as determined in accordance with regulations promulgated by the Farm Credit Administration.
+**(b) Waiver** The Farm Credit Administration may waive the limitation prescribed in subsection (a) under exceptional circumstances, as determined in accordance with regulations promulgated by the Farm Credit Administration.
 
 ### Statutory Notes
 
@@ -3098,7 +3096,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 <a id="section-2218"></a>
 ## § 2218. “Bank” defined
 
-In this part, the term “bank” includes each association operating under subchapter II of this chapter.
+In this part, the term “bank” includes each association operating under subchapter II.
 
 ### Statutory Notes
 
@@ -3145,7 +3143,7 @@ Repeal effective 15 days after Jan. 6, 1988, see section 207(b) of Pub. L. 100�
 
 (1) The regulations of the Farm Credit Administration governing financially related services that the banks and associations of the Farm Credit System may provide under subchapters I and II of this chapter may authorize the sale to any member of or borrower from any such bank or association, on an optional basis, of credit or term life and credit disability insurance appropriate to protect the loan commitment in the event of death or disability of the debtors and other insurance necessary to protect the member’s farm or aquatic unit, but limited to, hail and multiple-peril crop insurance, title insurance, and insurance to protect the facilities and equipment of aquatic borrowers. A member or borrower shall have the option, without coercion from the bank or association of such member or borrower, to accept or reject such insurance.
 
-(2) In making insurance available through private insurers, the banks shall approve the programs of more than two insurers for each type of insurance offered in the district, if more than two insurers for each type of insurance have proposed programs to a bank that will, in all likelihood, have long-term viability and meet the requirements of subsection (b)(2)(D) of this section. The banks may provide comparative information relating to costs and quality of approved programs and the financial conditions of approved companies. Associations shall offer at least two insurers for each program from among those approved by the Farm Credit Banks, if at least two insurers have been approved in accordance with this paragraph.
+(2) In making insurance available through private insurers, the banks shall approve the programs of more than two insurers for each type of insurance offered in the district, if more than two insurers for each type of insurance have proposed programs to a bank that will, in all likelihood, have long-term viability and meet the requirements of subsection (b)(2)(D). The banks may provide comparative information relating to costs and quality of approved programs and the financial conditions of approved companies. Associations shall offer at least two insurers for each program from among those approved by the Farm Credit Banks, if at least two insurers have been approved in accordance with this paragraph.
 
 **(b) Contents of regulations** Such regulations shall provide that—
 
@@ -3165,7 +3163,7 @@ Repeal effective 15 days after Jan. 6, 1988, see section 207(b) of Pub. L. 100�
 
     (ii) licensed under State law to do business in the State; and
 
-  (E) in making insurance available through approved insurers, the board of directors of the association or bank selects and offers at least two approved insurers for each type of insurance made available to the members and borrowers, if at least two insurers have been approved in accordance with subsection (a)(2) of this section; and
+  (E) in making insurance available through approved insurers, the board of directors of the association or bank selects and offers at least two approved insurers for each type of insurance made available to the members and borrowers, if at least two insurers have been approved in accordance with subsection (a)(2); and
 
 (3) no bank or association shall directly or indirectly discriminate in any manner against any agent, broker, or insurer that is not affiliated with such bank or association, or against any party who purchases insurance through any such nonaffiliated insurance agent, broker, or insurer.
 
@@ -3174,9 +3172,9 @@ Repeal effective 15 days after Jan. 6, 1988, see section 207(b) of Pub. L. 100�
 ### Statutory Notes
 
 #### Amendments
-1990—Subsec. (a)(2). Pub. L. 101–624, § 1834(1), inserted “, if more than two insurers for each type of insurance have proposed programs to a bank that will, in all likelihood, have long-term viability and meet the requirements of subsection (b)(2)(D) of this section” before period at end of first sentence, and “, if at least two insurers have been approved in accordance with this paragraph” before period at end of third sentence.
+1990—Subsec. (a)(2). Pub. L. 101–624, § 1834(1), inserted “, if more than two insurers for each type of insurance have proposed programs to a bank that will, in all likelihood, have long-term viability and meet the requirements of subsection (b)(2)(D)” before period at end of first sentence, and “, if at least two insurers have been approved in accordance with this paragraph” before period at end of third sentence.
 
-Subsec. (b)(2)(E). Pub. L. 101–624, § 1834(2), inserted before semicolon at end “, if at least two insurers have been approved in accordance with subsection (a)(2) of this section”.
+Subsec. (b)(2)(E). Pub. L. 101–624, § 1834(2), inserted before semicolon at end “, if at least two insurers have been approved in accordance with subsection (a)(2)”.
 
 1988—Subsec. (a). Pub. L. 100–233, § 422(a)(1), designated existing provisions as par. (1), struck out “of this Act” to conform to style of original enactment, resulting in no change in text, inserted “or borrower from” before “any such bank”, inserted provision at end giving a member or borrower the option, without coercion from the bank or association of such member or borrower, to accept or reject such insurance, and added par. (2).
 
@@ -3406,7 +3404,7 @@ Pub. L. 99–205, title IV, § 402, Dec. 23, 1985, 99 Stat. 1709, provided that:
 ## § 2244. Farm Credit Administration Board
 **(a) Appointment** The management of the Farm Credit Administration shall be vested in a Farm Credit Administration Board (referred to in this part as “the Board”). The Board shall consist of three members, who shall be citizens of the United States and broadly representative of the public interest. Members of the Board shall be appointed by the President, by and with the advice and consent of the Senate. Not more than two members of the Board shall be members of the same political party. Of the persons thus appointed, one shall be designated by the President to serve as Chairman of the Board for the duration of the member’s term. The members of the Board shall be ineligible during the time they are in office and for two years thereafter to hold any office, position, or employment in any institution of the Farm Credit System.
 
-**(b) Terms of office** The term of office of each member of the Board shall be six years, except that the terms of the two members, other than the Chairman, first appointed under subsection (a) of this section shall expire, one on the expiration of two years after the date of appointment, and one on the expiration of four years after the date of appointment. Members of the Board shall not be appointed to succeed themselves, except that the members first appointed under subsection (a) of this section for a term of less than six years may be reappointed for a full six-year term and members appointed to fill unexpired terms of three years or less may be reappointed for a full six-year term. Any vacancy shall be filled for the unexpired term on like appointment. Any member of the Board shall continue to serve as such after the expiration of the member’s term until a successor has been appointed and qualified.
+**(b) Terms of office** The term of office of each member of the Board shall be six years, except that the terms of the two members, other than the Chairman, first appointed under subsection (a) shall expire, one on the expiration of two years after the date of appointment, and one on the expiration of four years after the date of appointment. Members of the Board shall not be appointed to succeed themselves, except that the members first appointed under subsection (a) for a term of less than six years may be reappointed for a full six-year term and members appointed to fill unexpired terms of three years or less may be reappointed for a full six-year term. Any vacancy shall be filled for the unexpired term on like appointment. Any member of the Board shall continue to serve as such after the expiration of the member’s term until a successor has been appointed and qualified.
 
 **(c) Organization** Each member of the Board, within fifteen days after notice of appointment, shall subscribe to the oath of office. The Board may transact business if a vacancy exists, provided a quorum is present. A quorum shall consist of two members of the Board. The Board shall hold at least one meeting each month and such additional meetings at such times and places as it may fix and determine. Such meetings shall be held on the call of the Chairman or any two Board members. The Board shall adopt such rules as it deems appropriate for the transaction of business by the Board, and shall keep permanent and accurate records and minutes of the actions and proceedings of the Board.
 
@@ -3645,7 +3643,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
   (B) the amount of assessments that will be required to pay such administrative expenses, taking into consideration the funds contained in the Administrative Expense Account, and maintain a necessary reserve; and
 
-  (C) the amount of assessments that will be required to pay the costs of supervising and examining the Mortgage Corporation established under subchapter VIII of this chapter.
+  (C) the amount of assessments that will be required to pay the costs of supervising and examining the Mortgage Corporation established under subchapter VIII.
 
 (2) **Apportionments** — On the basis of the determinations made under paragraph (1), the Farm Credit Administration shall—
 
@@ -3657,7 +3655,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 **(b) Deposits into fund**
 
-(1) **Treasury fund** — The amounts collected under subsection (a) of this section shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall be maintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 900](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) et seq.], to pay the expenses of the Farm Credit Administration.
+(1) **Treasury fund** — The amounts collected under subsection (a) shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall be maintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 900](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) et seq.], to pay the expenses of the Farm Credit Administration.
 
 (2) **Nongovernment funds** — The funds contained in the Expense Account shall not be construed to be Federal Government funds or appropriated moneys.
 
@@ -3741,7 +3739,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 (1) Modify the boundaries of farm credit districts, with due regard for the farm credit needs of the country, as approved by the Board, with the concurrence of the district banks involved.
 
-(2) Where necessary or appropriate to carry out the policy and objectives of this chapter, issue and approve amendments to Federal charters of institutions of the System; approve change in names of banks operating under this chapter; approve the merger of districts when agreed to by the district bank boards involved and by a majority vote of the voting stockholders and contributors to the guaranty funds of each bank for each of such districts, voting in the same manner as is provided in [section 2279a of this title](./chapter-023-farm-credit-system.md#section-2279a); approve mergers and any related activities as provided for in subchapter VII of this chapter; and approve the consolidation or division of the territories of institutions when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved; and approve consolidations of boards of directors when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved. In issuing charters and certificates of territory for district-wide mergers of associations where stockholders of one or more associations did not approve the merger, the charter of the new or merged association shall not include the territory of the disagreeing association or associations; charters issued during calendar year 1985 for district-wide new or merged associations which included the territory of a disagreeing association shall be revoked and reissued to exclude such territory, unless subsequently agreed to by the board of directors of such association or associations. The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district (including, but not limited to, access to credit and rates of interest on loans and discounts) by a district Farm Credit bank to the association and its member-borrowers. The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations.
+(2) Where necessary or appropriate to carry out the policy and objectives of this chapter, issue and approve amendments to Federal charters of institutions of the System; approve change in names of banks operating under this chapter; approve the merger of districts when agreed to by the district bank boards involved and by a majority vote of the voting stockholders and contributors to the guaranty funds of each bank for each of such districts, voting in the same manner as is provided in [section 2279a of this title](./chapter-023-farm-credit-system.md#section-2279a); approve mergers and any related activities as provided for in subchapter VII; and approve the consolidation or division of the territories of institutions when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved; and approve consolidations of boards of directors when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved. In issuing charters and certificates of territory for district-wide mergers of associations where stockholders of one or more associations did not approve the merger, the charter of the new or merged association shall not include the territory of the disagreeing association or associations; charters issued during calendar year 1985 for district-wide new or merged associations which included the territory of a disagreeing association shall be revoked and reissued to exclude such territory, unless subsequently agreed to by the board of directors of such association or associations. The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district (including, but not limited to, access to credit and rates of interest on loans and discounts) by a district Farm Credit bank to the association and its member-borrowers. The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations.
 
 (3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under [section 2254 of this title](./chapter-023-farm-credit-system.md#section-2254), and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directly legislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administration by the Farm Credit Banks under [section 2207(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2207/b&num=0&edition=prelim) relating to programs for serving young, beginning, and small farmers and ranchers.
 
@@ -3777,7 +3775,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 (13)
 
-  (A) Subject to subparagraph (B), the Farm Credit Administration may approve an amendment to the charter of any institution of the Farm Credit System operating under subchapter I or II of this chapter, which would authorize the institution to exercise lending authority in any territory—
+  (A) Subject to subparagraph (B), the Farm Credit Administration may approve an amendment to the charter of any institution of the Farm Credit System operating under subchapter I or II, which would authorize the institution to exercise lending authority in any territory—
 
     (i) in the geographic area served by an association that was reassigned pursuant to section 433 of the Agricultural Credit Act of 1987 ([12 U.S.C. 2071](./chapter-023-farm-credit-system.md#section-2071) note) (where the geographic area was a part of the association’s territory as of the date of the reassignment); and
 
@@ -3793,7 +3791,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 (14)
 
-  (A) Subject to subparagraph (B), the Farm Credit Administration may approve a request to charter an association of the Farm Credit System to operate under subchapter II of this chapter where the proposed charter—
+  (A) Subject to subparagraph (B), the Farm Credit Administration may approve a request to charter an association of the Farm Credit System to operate under subchapter II where the proposed charter—
 
     (i) will include any of the geographic area included in the territory served by an association that was reassigned pursuant to section 433 of the Agricultural Credit Act of 1987 ([12 U.S.C. 2071](./chapter-023-farm-credit-system.md#section-2071) note) (where the geographic area was a part of the association’s territory as of the date of the reassignment); and
 
@@ -3868,7 +3866,7 @@ Pub. L. 100–399, § 409(e), substituted “approve the consolidation or divisi
 
 Pub. L. 100–233, § 802(v)(1)(A), substituted “approve amendments to” for “amend or modify”.
 
-Pub. L. 100–233, § 415(d), substituted “[section 2279a of this title](./chapter-023-farm-credit-system.md#section-2279a)” for “[section 2181 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2181&num=0&edition=prelim)” and “approve mergers and any related activities as provided for in subchapter VII of this chapter; and” for “; approve mergers of banks operating under the same subchapter of this chapter, merger of Federal land bank associations, merger of production credit associations, and”.
+Pub. L. 100–233, § 415(d), substituted “[section 2279a of this title](./chapter-023-farm-credit-system.md#section-2279a)” for “[section 2181 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2181&num=0&edition=prelim)” and “approve mergers and any related activities as provided for in subchapter VII; and” for “; approve mergers of banks operating under the same subchapter of this chapter, merger of Federal land bank associations, merger of production credit associations, and”.
 
 Pub. L. 100–233, § 414, substituted “. The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district” for “; and the Farm Credit Administration shall ensure that the board of directors of district banks does not discriminate against the disapproving associations in exercising its supervisory authorities. Such associations shall not be (i) charged any assessment under this chapter at a rate higher than that charged other like associations in the district or (ii) discriminated against in the provision of any financial service and assistance”.
 
@@ -3937,7 +3935,7 @@ Pub. L. 100–233, title IV, § 424(b), Jan. 6, 1988, 101 Stat. 1656, provided t
 For termination, effective May 15, 2000, of provisions in subsec. (a)(3) of this section relating to requirement to make annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 166 of House Document No. 103–7.
 
 #### Compensation Disclosure by Farm Credit System Institutions
-Pub. L. 113–79, title V, § 5404, Feb. 7, 2014, 128 Stat. 840, provided that: “(a) Findings.—Congress finds that —“(1) the reasonable disclosure to stockholders by Farm Credit System institutions regarding the compensation of Farm Credit System institution senior officers is beneficial to stockholders’ understanding of the operation of their institutions; “(2) transparency regarding compensation practices reinforces the cooperative nature of Farm Credit System institutions; “(3) the unique cooperative structure of the Farm Credit System should be considered when promulgating rules; “(4) the participation of stockholders in the election of the boards of directors of Farm Credit System institutions provides stockholders the opportunity to participate in the management of their institutions; “(5) as representatives of stockholders, the boards of directors of Farm Credit System institutions importantly establish and oversee the compensation practices of Farm Credit System institutions to ensure the safe and sound operation of those institutions; and “(6) any regulation should strengthen and not hinder the ability of Farm Credit System boards of directors to oversee compensation practices. “(b) Implementation.—Not later than 60 days after the date of enactment of this Act [Feb. 7, 2014], the Farm Credit Administration shall review its rules to reflect Congressional intent that a primary responsibility of the boards of directors of Farm Credit System institutions, as elected representatives of their stockholders, is to oversee compensation practices.”
+Pub. L. 113–79, title V, § 5404, Feb. 7, 2014, 128 Stat. 840, provided that: “(a) Findings.—Congress finds that—“(1) the reasonable disclosure to stockholders by Farm Credit System institutions regarding the compensation of Farm Credit System institution senior officers is beneficial to stockholders’ understanding of the operation of their institutions; “(2) transparency regarding compensation practices reinforces the cooperative nature of Farm Credit System institutions; “(3) the unique cooperative structure of the Farm Credit System should be considered when promulgating rules; “(4) the participation of stockholders in the election of the boards of directors of Farm Credit System institutions provides stockholders the opportunity to participate in the management of their institutions; “(5) as representatives of stockholders, the boards of directors of Farm Credit System institutions importantly establish and oversee the compensation practices of Farm Credit System institutions to ensure the safe and sound operation of those institutions; and “(6) any regulation should strengthen and not hinder the ability of Farm Credit System boards of directors to oversee compensation practices. “(b) Implementation.—Not later than 60 days after the date of enactment of this Act [Feb. 7, 2014], the Farm Credit Administration shall review its rules to reflect Congressional intent that a primary responsibility of the boards of directors of Farm Credit System institutions, as elected representatives of their stockholders, is to oversee compensation practices.”
 
 #### Regulatory Review
 Pub. L. 104–105, title II, § 212, Feb. 10, 1996, 110 Stat. 174, provided that: “(a) Findings.—Congress finds that—“(1) the Farm Credit Administration, in the role of the Administration as an arms-length safety and soundness regulator, has made considerable progress in reducing the regulatory burden on Farm Credit System institutions; “(2) the efforts of the Farm Credit Administration described in paragraph (1) have resulted in cost savings for Farm Credit System institutions; and “(3) the cost savings described in paragraph (2) ultimately benefit the farmers, ranchers, agricultural cooperatives, and rural residents of the United States. “(b) Continuation of Regulatory Review.—The Farm Credit Administration shall continue the comprehensive review of regulations governing the Farm Credit System to identify and eliminate, consistent with law, safety, and soundness, all regulations that are unnecessary, unduly burdensome or costly, or not based on law.”
@@ -4125,7 +4123,7 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 <a id="section-2264"></a>
 ## § 2264. Temporary cease and desist orders
-**(a)** Whenever the Farm Credit Administration shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the institution or any director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution under [section 2261 of this title](./chapter-023-farm-credit-system.md#section-2261), or the continuation thereof, is likely to cause insolvency or substantial dissipation of assets or earnings of the institution, or is likely to seriously weaken the condition of the institution or otherwise seriously prejudice the interests of the investors in Farm Credit System obligations or shareholders in the institution prior to the completion of the proceedings conducted under [section 2261 of this title](./chapter-023-farm-credit-system.md#section-2261), the Farm Credit Administration may issue a temporary order requiring the institution or such director, officer, employee, agent, or other person to cease and desist from any such violation or practice and to take affirmative action to prevent such insolvency, dissipation, condition, or prejudice pending completion of such proceedings. Such order shall become effective upon service upon the institution or such director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution and, unless set aside, limited, or suspended by a court in proceedings authorized by subsection (b) of this section, shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the Farm Credit Administration shall dismiss the charges specified in such notice, or if a cease and desist order is issued against the institution or such director, officer, employee, agent, or other person, until effective date of such order.
+**(a)** Whenever the Farm Credit Administration shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the institution or any director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution under [section 2261 of this title](./chapter-023-farm-credit-system.md#section-2261), or the continuation thereof, is likely to cause insolvency or substantial dissipation of assets or earnings of the institution, or is likely to seriously weaken the condition of the institution or otherwise seriously prejudice the interests of the investors in Farm Credit System obligations or shareholders in the institution prior to the completion of the proceedings conducted under [section 2261 of this title](./chapter-023-farm-credit-system.md#section-2261), the Farm Credit Administration may issue a temporary order requiring the institution or such director, officer, employee, agent, or other person to cease and desist from any such violation or practice and to take affirmative action to prevent such insolvency, dissipation, condition, or prejudice pending completion of such proceedings. Such order shall become effective upon service upon the institution or such director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution and, unless set aside, limited, or suspended by a court in proceedings authorized by subsection (b), shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the Farm Credit Administration shall dismiss the charges specified in such notice, or if a cease and desist order is issued against the institution or such director, officer, employee, agent, or other person, until effective date of such order.
 
 **(b)** Within ten days after the institution concerned or any director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution has been served with a temporary cease and desist order, the institution or such director, officer, employee, agent, or other person may apply to the United States district court for the judicial district in which the home office of the institution is located, or the United States district court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the institution or such director, officer, employee, agent, or other person under [section 2261 of this title](./chapter-023-farm-credit-system.md#section-2261), and such court shall have jurisdiction to issue such injunction.
 
@@ -4158,11 +4156,11 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 **(b) Written notice of intention to remove or suspend director, officer or other person; personal dishonesty; willful or continuing disregard; unfitness to continue in office or to participate in affairs of institution** Whenever, in the opinion of the Farm Credit Administration, any director or officer of an institution in the Farm Credit System, by conduct or practice with respect to another institution in the Farm Credit System or other business institution that resulted in substantial financial loss or other damage, has evidenced either his personal dishonesty or a willful or continuing disregard for its safety and soundness and, in addition, has evidenced his unfitness to continue as a director or officer, and whenever, in the opinion of the Farm Credit Administration, any other person participating in the conduct of the affairs of an institution in the Farm Credit System, by the conduct or practice with respect to such institution or other institution in the Farm Credit System or other business institution that resulted in substantial financial loss or other damage, has evidenced either personal dishonesty or a willful or continuing disregard for its safety and soundness and, in addition, has evidenced his unfitness to participate in the conduct of the affairs of such institution, the Farm Credit Administration may serve upon such director, officer, or other person a written notice of its intention to remove that director, officer, or other person from office or to prohibit his further participation in any manner in the conduct of the affairs of the institution.
 
-**(c) Suspension from office; prohibition from further participation in conduct of affairs of institution; service of notice** In respect to any director or officer of an institution in the Farm Credit System or any other person referred to in subsection (a) or (b) of this section, the Farm Credit Administration may, if it deems it necessary for the protection of the institution or the interests of its shareholders and the investors in the Farm Credit System obligations, by written notice to such effect served upon such director, officer, or other person, suspend such director, officer, or other person from office or prohibit such director, officer, or other person from further participation in any manner in the conduct of the affairs of the institution. Such suspension or prohibition shall become effective upon service of such notice and, unless stayed by a court in proceedings authorized by subsection (e) of this section, shall remain in effect pending the completion of the administrative proceedings pursuant to the notice served under subsection (a) or (b) of this section and until such time as the Farm Credit Administration shall dismiss the charges specified in such notice, or, if an order of removal or prohibition is issued against the director or officer or other person, until the effective date of any such order. Copies of any such notice shall also be served upon the institution of which the person is a director or officer or in the conduct of whose affairs the person has participated.
+**(c) Suspension from office; prohibition from further participation in conduct of affairs of institution; service of notice** In respect to any director or officer of an institution in the Farm Credit System or any other person referred to in subsection (a) or (b) of this section, the Farm Credit Administration may, if it deems it necessary for the protection of the institution or the interests of its shareholders and the investors in the Farm Credit System obligations, by written notice to such effect served upon such director, officer, or other person, suspend such director, officer, or other person from office or prohibit such director, officer, or other person from further participation in any manner in the conduct of the affairs of the institution. Such suspension or prohibition shall become effective upon service of such notice and, unless stayed by a court in proceedings authorized by subsection (e) of this section, shall remain in effect pending the completion of the administrative proceedings pursuant to the notice served under subsection (a) or (b) and until such time as the Farm Credit Administration shall dismiss the charges specified in such notice, or, if an order of removal or prohibition is issued against the director or officer or other person, until the effective date of any such order. Copies of any such notice shall also be served upon the institution of which the person is a director or officer or in the conduct of whose affairs the person has participated.
 
 **(d) Statement of grounds for removal or prohibition; notice and hearing; order of suspension, removal or prohibition; service of order** A notice of intention to remove a director, officer, or other person from office or to prohibit such director’s, officer’s, or other person’s participation in the conduct of the affairs of an institution in the Farm Credit System, shall contain a statement of the facts constituting grounds therefor, and shall fix a time and place at which a hearing will be held thereon. Such hearing shall be fixed for a date not earlier than thirty days nor later than sixty days after the date of service of such notice, unless an earlier or a later date is set by the Farm Credit Administration at the request of (1) such director or officer or other person, and for good cause shown, or (2) the Attorney General of the United States. Unless such director, officer, or other person shall appear at the hearing in person or by a duly authorized representative, such director, officer, or other person shall be deemed to have consented to the issuance of an order of such removal or prohibition. In the event of such consent, or if upon the record made at any such hearing the Farm Credit Administration shall find that any of the grounds specified in such notice have been established, the Farm Credit Administration may issue such orders of suspension or removal from office, or prohibition from participation in the conduct of the affairs of the institution, as it may deem appropriate. A copy of an order issued under this subsection shall be served upon the institution concerned. Any such order shall become effective at the expiration of thirty days after service upon such institution and the director, officer, or other person concerned (except in the case of an order issued upon consent, which shall become effective at the time specified therein). Such order shall remain effective and enforceable except to such extent as it is stayed, modified, terminated, or set aside by action of the agency or a reviewing court.
 
-**(e) Stay of suspension or prohibition** Within ten days after any director, officer, or other person has been suspended from office or prohibited from participation in the conduct of the affairs of a System institution under subsection (c) of this section, such director, officer, or other person may apply to the United States district court for the judicial district in which the home office of the institution is located, or the United States district court for the District of Columbia, for a stay of either such suspension or prohibition, or both, pending the completion of the administrative proceedings pursuant to the notice served upon such director, officer, or other person under subsection (a) or (b) of this section, and such court shall have jurisdiction to stay either such suspension or prohibition, or both.
+**(e) Stay of suspension or prohibition** Within ten days after any director, officer, or other person has been suspended from office or prohibited from participation in the conduct of the affairs of a System institution under subsection (c) of this section, such director, officer, or other person may apply to the United States district court for the judicial district in which the home office of the institution is located, or the United States district court for the District of Columbia, for a stay of either such suspension or prohibition, or both, pending the completion of the administrative proceedings pursuant to the notice served upon such director, officer, or other person under subsection (a) or (b), and such court shall have jurisdiction to stay either such suspension or prohibition, or both.
 
 ### Statutory Notes
 
@@ -4185,9 +4183,9 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 <a id="section-2267"></a>
 ## § 2267. Suspension or removal of director or officer charged with felony
-**(a)** Whenever any director or officer of an institution in the Farm Credit System, or other person participating in the conduct of the affairs of such institution, is charged in any information, indictment, or complaint authorized by a United States attorney, with the commission of or participation in a crime involving dishonesty or breach of trust that is punishable by imprisonment for a term exceeding one year under State or Federal law, the Farm Credit Administration may, if continued service or participation by the individual may pose a threat to the interests of the institution’s shareholders or investors in Farm Credit System obligations or threaten to impair public confidence in the institution or the Farm Credit System, by written notice served upon such director, officer, or other person, suspend such director, officer, or other person from office or prohibit such director, officer, or other person from further participation in any manner in the conduct of the affairs of the institution. A copy of such notice shall also be served upon the institution. Such suspension or prohibition shall remain in effect until such information, indictment, or complaint is finally disposed of or until terminated by the Farm Credit Administration. In the event that a judgment of conviction with respect to such crime is entered against such director, officer, or other person, and at such time as such judgment is not subject to further appellate review, the Farm Credit Administration may, if continued service or participation by the individual may pose a threat to the interests of the institution’s shareholders or the investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System, issue and serve upon such director, officer, or other person an order removing such director, officer, or other person from office or prohibiting such director, officer, or other person from further participation in any manner in the conduct of the affairs of the institution except with the consent of the Farm Credit Administration. A copy of such order shall also be served upon such institution, whereupon such director or officer shall cease to be a director or officer of such institution. A finding of not guilty or other disposition of the charge shall not preclude the Farm Credit Administration from thereafter instituting proceedings to remove such director, officer, or other person from office or to prohibit further participation in Farm Credit System affairs under [section 2264 of this title](./chapter-023-farm-credit-system.md#section-2264). Any notice of suspension or order of removal issued under this paragraph shall remain effective and outstanding until the completion of any hearing or appeal authorized under subsection (b) of this section unless terminated by the Farm Credit Administration.
+**(a)** Whenever any director or officer of an institution in the Farm Credit System, or other person participating in the conduct of the affairs of such institution, is charged in any information, indictment, or complaint authorized by a United States attorney, with the commission of or participation in a crime involving dishonesty or breach of trust that is punishable by imprisonment for a term exceeding one year under State or Federal law, the Farm Credit Administration may, if continued service or participation by the individual may pose a threat to the interests of the institution’s shareholders or investors in Farm Credit System obligations or threaten to impair public confidence in the institution or the Farm Credit System, by written notice served upon such director, officer, or other person, suspend such director, officer, or other person from office or prohibit such director, officer, or other person from further participation in any manner in the conduct of the affairs of the institution. A copy of such notice shall also be served upon the institution. Such suspension or prohibition shall remain in effect until such information, indictment, or complaint is finally disposed of or until terminated by the Farm Credit Administration. In the event that a judgment of conviction with respect to such crime is entered against such director, officer, or other person, and at such time as such judgment is not subject to further appellate review, the Farm Credit Administration may, if continued service or participation by the individual may pose a threat to the interests of the institution’s shareholders or the investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System, issue and serve upon such director, officer, or other person an order removing such director, officer, or other person from office or prohibiting such director, officer, or other person from further participation in any manner in the conduct of the affairs of the institution except with the consent of the Farm Credit Administration. A copy of such order shall also be served upon such institution, whereupon such director or officer shall cease to be a director or officer of such institution. A finding of not guilty or other disposition of the charge shall not preclude the Farm Credit Administration from thereafter instituting proceedings to remove such director, officer, or other person from office or to prohibit further participation in Farm Credit System affairs under [section 2264 of this title](./chapter-023-farm-credit-system.md#section-2264). Any notice of suspension or order of removal issued under this paragraph shall remain effective and outstanding until the completion of any hearing or appeal authorized under subsection (b) unless terminated by the Farm Credit Administration.
 
-**(b)** Within thirty days from service of any notice of suspension or order of removal issued under subsection (a) of this section, the director, officer, or other person concerned may request in writing an opportunity to appear before the Farm Credit Administration to show that the continued service to or participation in the conduct of the affairs of the institution by such individual does not, or is not likely to, pose a threat to the interest of the institution’s shareholders or the investors in Farm Credit System obligations or threaten to impair public confidence in the institution or the Farm Credit System. Upon receipt of any such request, the Farm Credit Administration shall fix a time (not more than thirty days after receipt of such request, unless extended at the request of the concerned director, officer, or other person) and place at which the director, officer, or other person may appear, personally or through counsel, before the Chairman of the Farm Credit Administration or designated employees of the Farm Credit Administration to submit written materials (or, at the discretion of the Farm Credit Administration, oral testimony) and oral argument. Within sixty days of such hearing, the Farm Credit Administration shall notify the director, officer, or other person whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the institution will be continued, terminated, or otherwise modified, or whether the order removing such director, officer, or other person from office or prohibiting such individual from further participation in any manner in the conduct of the affairs of the institution will be rescinded or otherwise modified. Such notification shall contain a statement of the basis for the Farm Credit Administration’s decision, if adverse to the director, officer, or other person. The Farm Credit Administration may prescribe such rules as may be necessary to effectuate the purposes of this subsection.
+**(b)** Within thirty days from service of any notice of suspension or order of removal issued under subsection (a), the director, officer, or other person concerned may request in writing an opportunity to appear before the Farm Credit Administration to show that the continued service to or participation in the conduct of the affairs of the institution by such individual does not, or is not likely to, pose a threat to the interest of the institution’s shareholders or the investors in Farm Credit System obligations or threaten to impair public confidence in the institution or the Farm Credit System. Upon receipt of any such request, the Farm Credit Administration shall fix a time (not more than thirty days after receipt of such request, unless extended at the request of the concerned director, officer, or other person) and place at which the director, officer, or other person may appear, personally or through counsel, before the Chairman of the Farm Credit Administration or designated employees of the Farm Credit Administration to submit written materials (or, at the discretion of the Farm Credit Administration, oral testimony) and oral argument. Within sixty days of such hearing, the Farm Credit Administration shall notify the director, officer, or other person whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the institution will be continued, terminated, or otherwise modified, or whether the order removing such director, officer, or other person from office or prohibiting such individual from further participation in any manner in the conduct of the affairs of the institution will be rescinded or otherwise modified. Such notification shall contain a statement of the basis for the Farm Credit Administration’s decision, if adverse to the director, officer, or other person. The Farm Credit Administration may prescribe such rules as may be necessary to effectuate the purposes of this subsection.
 
 ### Statutory Notes
 
@@ -4210,11 +4208,11 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 <a id="section-2268"></a>
 ## § 2268. Hearings and judicial review
-**(a) Venue; closed hearings; decisions and findings of fact; orders; modification or other action by Farm Credit Administration; judicial review** Any hearing provided for in this part (other than the hearing provided for in [section 2265 of this title](./chapter-023-farm-credit-system.md#section-2265)) shall be held in the Federal judicial district or in the territory in which the home office of the institution is located unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5. Such hearing shall be private, unless the Farm Credit Administration, in its discretion, after fully considering the views of the party afforded the hearing, determines that a public hearing is necessary to protect the public interest. After such hearing, and within ninety days after the Farm Credit Administration has notified the parties that the case has been submitted to it for final decision, it shall render its decision (which shall include findings of fact upon which its decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this part. Judicial review of any such order shall be exclusively as provided in this section. Unless a petition for review is timely filed in a court of appeals of the United States, as hereinafter provided in subsection (b) of this section, and thereafter until the record in the proceeding has been filed as so provided, the Farm Credit Administration may at any time, upon such notice and in such manner as it shall deem proper, modify, terminate, or set aside any such order. Upon such filing of the record, the Farm Credit Administration may modify, terminate, or set aside any such order with permission of the court.
+**(a) Venue; closed hearings; decisions and findings of fact; orders; modification or other action by Farm Credit Administration; judicial review** Any hearing provided for in this part (other than the hearing provided for in [section 2265 of this title](./chapter-023-farm-credit-system.md#section-2265)) shall be held in the Federal judicial district or in the territory in which the home office of the institution is located unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5. Such hearing shall be private, unless the Farm Credit Administration, in its discretion, after fully considering the views of the party afforded the hearing, determines that a public hearing is necessary to protect the public interest. After such hearing, and within ninety days after the Farm Credit Administration has notified the parties that the case has been submitted to it for final decision, it shall render its decision (which shall include findings of fact upon which its decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this part. Judicial review of any such order shall be exclusively as provided in this section. Unless a petition for review is timely filed in a court of appeals of the United States, as hereinafter provided in subsection (b), and thereafter until the record in the proceeding has been filed as so provided, the Farm Credit Administration may at any time, upon such notice and in such manner as it shall deem proper, modify, terminate, or set aside any such order. Upon such filing of the record, the Farm Credit Administration may modify, terminate, or set aside any such order with permission of the court.
 
-**(b) Judicial review; commencement of proceedings; filing of petition and record; exclusive jurisdiction; finality of judgment and decree** Any party to the proceeding, or any person required by an order issued under this part to cease and desist from any of the violations or practices stated therein, may obtain a review of any order served under subsection (a) of this section (other than an order issued with the consent of the System institution or the director or officer or other person concerned, or an order issued under [section 2265 of this title](./chapter-023-farm-credit-system.md#section-2265)) by the filing in the court of appeals of the United States for the circuit in which the home office of the institution is located, or in the United States Court of Appeals for the District of Columbia Circuit, within thirty days after the date of service of such order, a written petition praying that the order of the Farm Credit Administration be modified, terminated, or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Farm Credit Administration, and thereupon the Farm Credit Administration shall file in the court the record in the proceeding, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall except as provided in the last sentence of subsection (a) of this section be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Farm Credit Administration. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim).
+**(b) Judicial review; commencement of proceedings; filing of petition and record; exclusive jurisdiction; finality of judgment and decree** Any party to the proceeding, or any person required by an order issued under this part to cease and desist from any of the violations or practices stated therein, may obtain a review of any order served under subsection (a) (other than an order issued with the consent of the System institution or the director or officer or other person concerned, or an order issued under [section 2265 of this title](./chapter-023-farm-credit-system.md#section-2265)) by the filing in the court of appeals of the United States for the circuit in which the home office of the institution is located, or in the United States Court of Appeals for the District of Columbia Circuit, within thirty days after the date of service of such order, a written petition praying that the order of the Farm Credit Administration be modified, terminated, or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Farm Credit Administration, and thereupon the Farm Credit Administration shall file in the court the record in the proceeding, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall except as provided in the last sentence of subsection (a) be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Farm Credit Administration. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim).
 
-**(c) Proceedings operating as stays of orders** The commencement of proceedings for judicial review under subsection (b) of this section shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Farm Credit Administration.
+**(c) Proceedings operating as stays of orders** The commencement of proceedings for judicial review under subsection (b) shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Farm Credit Administration.
 
 ### Statutory Notes
 
@@ -4248,9 +4246,9 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 **(b) Factors determining amount** Before determining whether to assess a civil money penalty and determining the amount of such penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty. In determining the amount of the penalty, the Farm Credit Administration shall take into account the appropriateness of the penalty with respect to the size of financial resources and good faith of the System institution or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
 
-**(c) Notice and hearing; final orders** The System institution or person assessed shall be afforded an opportunity for a hearing by the Farm Credit Administration, upon request made within ten days after issuance of the notice of assessment. In such hearing all issues shall be determined on the record pursuant to [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim). The Farm Credit Administration determination shall be made by final order which may be reviewed only as provided in subsection (d) of this section. If no hearing is requested as herein provided, the assessment shall constitute a final and unappealable order.
+**(c) Notice and hearing; final orders** The System institution or person assessed shall be afforded an opportunity for a hearing by the Farm Credit Administration, upon request made within ten days after issuance of the notice of assessment. In such hearing all issues shall be determined on the record pursuant to [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim). The Farm Credit Administration determination shall be made by final order which may be reviewed only as provided in subsection (d). If no hearing is requested as herein provided, the assessment shall constitute a final and unappealable order.
 
-**(d) Judicial review** Any System institution or person against whom an order imposing a civil money penalty has been entered after a Farm Credit Administration hearing under this section may obtain review by the United States court of appeals for the circuit in which the home office of the System institution is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within twenty days after the service of such order, and simultaneously sending a copy of such notice by registered or certified mail to the Farm Credit Administration. The Farm Credit Administration shall promptly certify and file in such Court the record upon which the penalty was imposed, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). Final orders of the Farm Credit Administration issued under subsection (c) of this section shall be reviewable under chapter 7 of title 5.
+**(d) Judicial review** Any System institution or person against whom an order imposing a civil money penalty has been entered after a Farm Credit Administration hearing under this section may obtain review by the United States court of appeals for the circuit in which the home office of the System institution is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within twenty days after the service of such order, and simultaneously sending a copy of such notice by registered or certified mail to the Farm Credit Administration. The Farm Credit Administration shall promptly certify and file in such Court the record upon which the penalty was imposed, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). Final orders of the Farm Credit Administration issued under subsection (c) shall be reviewable under chapter 7 of title 5.
 
 **(e) Action by Attorney General to recover amount assessed** If any System institution or person fails to pay an assessment after it has become a final and unappealable order, or after the court of appeals has entered final judgment in favor of the Farm Credit Administration, the Farm Credit Administration shall refer the matter to the Attorney General, who shall recover the amount assessed by action in the appropriate United States district court. In such action, the validity and appropriateness of the final order imposing the penalty shall not be subject to review.
 
@@ -4267,7 +4265,7 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 Subsec. (b). Pub. L. 100–233, § 423(b), inserted “Before determining whether to assess a civil money penalty and determining the amount of such penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty.”
 
-Subsec. (d). Pub. L. 100–233, § 423(c), substituted “Final orders of the Farm Credit Administration issued under subsection (c) of this section shall be reviewable under chapter 7 of title 5” for “The findings of the Farm Credit Administration shall be set aside if found to be unsupported by substantial evidence as provided by [section 706(2)(E) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2/E&num=0&edition=prelim)”.
+Subsec. (d). Pub. L. 100–233, § 423(c), substituted “Final orders of the Farm Credit Administration issued under subsection (c) shall be reviewable under chapter 7 of title 5” for “The findings of the Farm Credit Administration shall be set aside if found to be unsupported by substantial evidence as provided by [section 706(2)(E) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2/E&num=0&edition=prelim)”.
 
 Subsec. (f). Pub. L. 100–233, § 805(dd), substituted “[section 2267 of this title](./chapter-023-farm-credit-system.md#section-2267) and this section” for “sections 2267 and 2268 of this title”.
 
@@ -4705,7 +4703,7 @@ Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm 
 
 **(b) Prohibition** The Corporation may prohibit or limit, by regulation or order, any golden parachute payment or indemnification payment by a Farm Credit System institution (including any conservator or receiver of the Federal Agricultural Mortgage Corporation) in troubled condition (as defined in regulations issued by the Corporation).
 
-**(c) Factors to be taken into account** The Corporation shall prescribe, by regulation, the factors to be considered by the Corporation in taking any action under subsection (b) of this section. The factors may include—
+**(c) Factors to be taken into account** The Corporation shall prescribe, by regulation, the factors to be considered by the Corporation in taking any action under subsection (b). The factors may include—
 
 (1) whether there is a reasonable basis to believe that an institution-related party has committed any fraudulent act or omission, breach of trust or fiduciary duty, or insider abuse with regard to the Farm Credit System institution involved that has had a material effect on the financial condition of the institution;
 
@@ -4739,7 +4737,7 @@ Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm 
 
 **(e) Rule of construction** Nothing in this section—
 
-(1) prohibits any Farm Credit System institution from purchasing any commercial insurance policy or fidelity bond, so long as the insurance policy or bond does not cover any legal or liability expense of an institution described in subsection (a)(2) of this section; or
+(1) prohibits any Farm Credit System institution from purchasing any commercial insurance policy or fidelity bond, so long as the insurance policy or bond does not cover any legal or liability expense of an institution described in subsection (a)(2); or
 
 (2) limits the powers, functions, or responsibilities of the Farm Credit Administration.
 
@@ -4870,7 +4868,7 @@ Effective beginning on January 1, 1989, or 12 months after January 6, 1988, whic
 
   (C) by an agency or other entity of a State government whose obligations are explicitly guaranteed by such State government.
 
-**(b) Amount in Fund exceeding secure base amount** At any time the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the Corporation shall reduce the premium due from each insured System bank, as determined under subsection (a)(1) of this section, by a percentage determined by the Corporation so that the aggregate of the premiums payable by all System banks is sufficient to ensure that the aggregate of amounts in the Farm Credit Insurance Fund after such premiums are paid is not less than the secure base amount at such time.
+**(b) Amount in Fund exceeding secure base amount** At any time the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the Corporation shall reduce the premium due from each insured System bank, as determined under subsection (a)(1), by a percentage determined by the Corporation so that the aggregate of the premiums payable by all System banks is sufficient to ensure that the aggregate of amounts in the Farm Credit Insurance Fund after such premiums are paid is not less than the secure base amount at such time.
 
 **(c) Secure base amount**
 
@@ -5006,7 +5004,7 @@ Subsec. (e)(4)(B). Pub. L. 107–171, § 5403(a)(1)(B), substituted “loans des
 
 Subsec. (a)(2), (3). Pub. L. 104–105, § 215(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (b). Pub. L. 104–105, § 215(a)(2)(A), substituted “Farm Credit Insurance Fund” for “Insurance Fund” in two places, and “subsection (a)(1) of this section” for “subsection (a) of this section”, and struck out “for the following calendar year” after “each insured System bank”.
+Subsec. (b). Pub. L. 104–105, § 215(a)(2)(A), substituted “Farm Credit Insurance Fund” for “Insurance Fund” in two places, and “subsection (a)(1)” for “subsection (a)”, and struck out “for the following calendar year” after “each insured System bank”.
 
 Subsec. (d). Pub. L. 104–105, § 215(c), in introductory provisions, substituted “subsections (a), (c), and (e) of this section” for “subsections (a) and (c) of this section” and “an insured System bank” for “a Farm Credit Bank”, and in pars. (1) through (3), substituted “insured System bank” for “Farm Credit Bank”.
 
@@ -5018,7 +5016,7 @@ Subsec. (e). Pub. L. 104–105, § 215(b), added subsec. (e).
 
 “(2) the annual average principal outstanding for such year on loans made by the bank that are in nonaccrual status, multiplied by 0.0025.”
 
-Subsec. (b). Pub. L. 101–220, § 6(a)(2), inserted “, as determined under subsection (a) of this section,” after “calendar year”.
+Subsec. (b). Pub. L. 101–220, § 6(a)(2), inserted “, as determined under subsection (a),” after “calendar year”.
 
 Subsec. (c). Pub. L. 101–220, § 6(a)(3), inserted “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)” after “such time”.
 
@@ -5072,7 +5070,7 @@ Pub. L. 102–552, title II, § 204, Oct. 28, 1992, 106 Stat. 4106, as amended b
 
 (5) the amount of the premium due the Corporation from the bank for the period.
 
-**(b) Contents and form of statement** The certified statement required to be filed with the Corporation under subsection (a) of this section shall be in such form and set forth such supporting information as the Board of Directors shall prescribe, and shall be certified by the president of the bank or any other officer designated by its board of directors that to the best of the person’s knowledge and belief the statement is true, correct, complete, and has been prepared in accordance with this part and all regulations issued thereunder.
+**(b) Contents and form of statement** The certified statement required to be filed with the Corporation under subsection (a) shall be in such form and set forth such supporting information as the Board of Directors shall prescribe, and shall be certified by the president of the bank or any other officer designated by its board of directors that to the best of the person’s knowledge and belief the statement is true, correct, complete, and has been prepared in accordance with this part and all regulations issued thereunder.
 
 **(c) Premium payments**
 
@@ -5132,7 +5130,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 (3) **Liability of directors** — Every director who participated in or assented to a failure (described in paragraph (1)) shall be held personally liable for all consequential damages.
 
-**(d) Effect on other remedies** The remedies provided in subsections (b) and (c) of this section shall not be construed as limiting any other remedies against any insured System bank, but shall be in addition thereto.
+**(d) Effect on other remedies** The remedies provided in subsections (b) and (c) shall not be construed as limiting any other remedies against any insured System bank, but shall be in addition thereto.
 
 ### Statutory Notes
 
@@ -5152,7 +5150,7 @@ On January 6, 1988, the Corporation shall become a body corporate and as such sh
 
 (1) **Seal** — The Corporation may adopt and use a corporate seal.
 
-(2) **Succession** — The Corporation may have succession until dissolved by an Act of Congress. The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI of this chapter on the termination of the Assistance Board on the date provided in [section 2278a–12 of this title](./chapter-023-farm-credit-system.md#section-2278a-12).
+(2) **Succession** — The Corporation may have succession until dissolved by an Act of Congress. The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI on the termination of the Assistance Board on the date provided in [section 2278a–12 of this title](./chapter-023-farm-credit-system.md#section-2278a-12).
 
 (3) **Contracts** — The Corporation may make contracts.
 
@@ -5192,7 +5190,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 1996—Par. (9). Pub. L. 104–105 added par. (9) and struck out heading and text of former par. (9). Text read as follows: “The Corporation may act as receiver.”
 
-1992—Par. (2). Pub. L. 102–552 inserted at end “The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI of this chapter on the termination of the Assistance Board on the date provided in [section 2278a–12 of this title](./chapter-023-farm-credit-system.md#section-2278a-12).”
+1992—Par. (2). Pub. L. 102–552 inserted at end “The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI on the termination of the Assistance Board on the date provided in [section 2278a–12 of this title](./chapter-023-farm-credit-system.md#section-2278a-12).”
 
 1991—Par. (4)(B). Pub. L. 102–237 inserted “in any capacity,” after “and the Corporation,”.
 
@@ -5409,9 +5407,9 @@ The purposes of the Assistance Board shall be to carry out a program to provide 
 
 **(d) Compensation of Board members** Members of the Board of Directors—
 
-(1) appointed under paragraphs (1) and (2) of subsection (a) of this section shall receive reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States; and
+(1) appointed under paragraphs (1) and (2) of subsection (a) shall receive reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States; and
 
-(2) appointed under paragraph (3) of subsection (a) of this section shall receive compensation for the time devoted to meetings and other activities at a daily rate not to exceed the daily rate of compensation prescribed for Level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim) and reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States.
+(2) appointed under paragraph (3) of subsection (a) shall receive compensation for the time devoted to meetings and other activities at a daily rate not to exceed the daily rate of compensation prescribed for Level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim) and reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States.
 
 **(e) Rules and records** The Board of Directors of the Assistance Board shall adopt such rules as it may deem appropriate for the transaction of the business of the Assistance Board, and shall keep permanent and accurate records and minutes of its acts and proceedings.
 
@@ -5533,7 +5531,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 ## § 2278a–7. Assistance
 **(a) In general** The Assistance Board shall assist an institution that has been certified under [section 2278a–4 of this title](./chapter-023-farm-credit-system.md#section-2278a-4) by—
 
-(1) authorizing the institution to issue preferred stock under [section 2278b–7 of this title](./chapter-023-farm-credit-system.md#section-2278b-7), in amounts necessary to maintain the book value of stock, participation certificates, and other similar equities of the institution, at the level provided for in subsection (c) of this section;
+(1) authorizing the institution to issue preferred stock under [section 2278b–7 of this title](./chapter-023-farm-credit-system.md#section-2278b-7), in amounts necessary to maintain the book value of stock, participation certificates, and other similar equities of the institution, at the level provided for in subsection (c);
 
 (2) in the case of high-cost debt for which the institution is primarily liable, authorizing the institution to issue preferred stock under [section 2278b–7 of this title](./chapter-023-farm-credit-system.md#section-2278b-7), in an amount equal to the premium that would be required by the holder of the debt for the institution to retire the debt at the then current market value;
 
@@ -5541,7 +5539,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 (4) providing assistance by such other methods as the Assistance Board determines appropriate.
 
-**(b) “High-cost debt” defined** For purposes of subsection (a)(2) of this section, the term “high-cost debt” means securities or similar obligations issued before January 1, 1986, that mature on or after December 31, 1987, and bear a rate of interest in excess of the then current market rate for similar securities or obligations.
+**(b) “High-cost debt” defined** For purposes of subsection (a)(2), the term “high-cost debt” means securities or similar obligations issued before January 1, 1986, that mature on or after December 31, 1987, and bear a rate of interest in excess of the then current market rate for similar securities or obligations.
 
 **(c) Minimum equity value** The Assistance Board shall authorize a certified institution to issue amounts of preferred stock under [section 2278b–7 of this title](./chapter-023-farm-credit-system.md#section-2278b-7) sufficient to—
 
@@ -5609,7 +5607,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 **(b) Suspension of assistance**
 
-(1) **Notification** — The Assistance Board shall promptly notify the Farm Credit Administration of any action taken by the Assistance Board under subsection (a)(9) of this section.
+(1) **Notification** — The Assistance Board shall promptly notify the Farm Credit Administration of any action taken by the Assistance Board under subsection (a)(9).
 
 (2) **Enforcement** — The Farm Credit Administration may use any of its enforcement powers, with respect to any institution to which the Assistance Board has provided assistance or has certified the institution to issue preferred stock under [section 2278b–7 of this title](./chapter-023-farm-credit-system.md#section-2278b-7), to obtain the compliance of the institution with the terms or conditions governing the use of financial assistance provided under this subchapter.
 
@@ -5673,7 +5671,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 **(b) Limitation on assistance** Any assistance provided to System institutions by the Farm Credit Administration in accordance with this section shall be provided from, and shall not exceed, the amounts contained in the revolving fund established under [section 2151 of this title](./chapter-023-farm-credit-system.md#section-2151).
 
-**(c) Issuance of stock** Each institution that receives assistance from the Farm Credit Administration during the interim period specified in subsection (a) of this section, in consideration thereof, shall issue preferred stock to the Financial Assistance Corporation in an amount equal to the amount of such assistance. Payments by the Financial Assistance Corporation under subsection (d) of this section shall be considered to be payments to each such institution for such stock.
+**(c) Issuance of stock** Each institution that receives assistance from the Farm Credit Administration during the interim period specified in subsection (a), in consideration thereof, shall issue preferred stock to the Financial Assistance Corporation in an amount equal to the amount of such assistance. Payments by the Financial Assistance Corporation under subsection (d) shall be considered to be payments to each such institution for such stock.
 
 **(d) Repayment** The Financial Assistance Corporation shall pay to the Farm Credit Administration, for return to the revolving fund established under [section 2151 of this title](./chapter-023-farm-credit-system.md#section-2151), the full amount of all financial assistance provided by the Farm Credit Administration in accordance with this section, from the proceeds from the sale of the first issue of obligations by the Financial Assistance Corporation in accordance with [section 2278b–6 of this title](./chapter-023-farm-credit-system.md#section-2278b-6).
 
@@ -5739,19 +5737,19 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
   (C) The Financial Assistance Corporation shall promptly rescind purchases of stock of the Corporation made under paragraph (1) or (2) by System institutions and refund to such institutions, or their successors, the purchase price for the stock, except that, with respect to each issuance of debt obligations that occurs before October 1, 1988, the Corporation shall deduct from any refund due any System institution, and retain, the amount payable by such institution.
 
-**(b) Computations** For purposes of subsection (a) of this section, the unallocated retained earnings and assets of a System institution shall be computed in accordance with generally accepted accounting principles on the basis of the financial statement of the institution on December 31, 1986.
+**(b) Computations** For purposes of subsection (a), the unallocated retained earnings and assets of a System institution shall be computed in accordance with generally accepted accounting principles on the basis of the financial statement of the institution on December 31, 1986.
 
 **(c) Notice**
 
 (1) Within 15 days after the retirement of the obligations of the Capital Corporation under [section 2278a–9 of this title](./chapter-023-farm-credit-system.md#section-2278a-9)—
 
-  (A) the Financial Assistance Corporation shall notify each System institution of the amount of stock such institution is required to purchase under subsection (a) of this section; or
+  (A) the Financial Assistance Corporation shall notify each System institution of the amount of stock such institution is required to purchase under subsection (a); or
 
-  (B) in the case of a district in which the district board has reallocated the stock purchase requirement in accordance with subsection (a)(2) of this section, the district board shall notify each System institution in the district of the amount of stock such institution is required to purchase under subsection (a) of this section.
+  (B) in the case of a district in which the district board has reallocated the stock purchase requirement in accordance with subsection (a)(2), the district board shall notify each System institution in the district of the amount of stock such institution is required to purchase under subsection (a).
 
-(2) Not later than 15 days before each issuance of debt obligations under [section 2278b–6(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278b–6/a&num=0&edition=prelim) occurring after September 30, 1988, the Financial Assistance Corporation shall notify each System institution required to purchase Corporation stock under subsection (a)(3) of this section of the amount of the stock it is required to purchase.
+(2) Not later than 15 days before each issuance of debt obligations under [section 2278b–6(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278b–6/a&num=0&edition=prelim) occurring after September 30, 1988, the Financial Assistance Corporation shall notify each System institution required to purchase Corporation stock under subsection (a)(3) of the amount of the stock it is required to purchase.
 
-**(d) Institution requirements after notice** Within 15 days after a System institution is notified of the amounts due under subsection (c) of this section, the institution shall purchase from the Financial Assistance Corporation the amount of stock required to be purchased by the institution under this section. No further stock purchases, obligations, or assessments shall be required beyond that provided in [section 2278b–6 of this title](./chapter-023-farm-credit-system.md#section-2278b-6) and this section.
+**(d) Institution requirements after notice** Within 15 days after a System institution is notified of the amounts due under subsection (c), the institution shall purchase from the Financial Assistance Corporation the amount of stock required to be purchased by the institution under this section. No further stock purchases, obligations, or assessments shall be required beyond that provided in [section 2278b–6 of this title](./chapter-023-farm-credit-system.md#section-2278b-6) and this section.
 
 **(e) Jurisdiction over actions** Notwithstanding any other provision of law, the United States district court for the District of Columbia shall have exclusive jurisdiction over any action brought under or arising out of this section. No suit or proceeding shall be maintained for the recovery of any amount of stock alleged to have been erroneously or illegally purchased, and no suit or proceeding shall be maintained to enjoin or otherwise prevent or impede the giving of notice or the purchase of stock required under this section, unless the amount of stock required to be purchased under this section has been purchased and paid for in full.
 
@@ -5901,7 +5899,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 <a id="section-2278b-8"></a>
 ## § 2278b–8. Debt obligations
-**(a) Issuance** During the period beginning 61 days after January 6, 1988, and ending September 30, 1992, the Financial Assistance Corporation, subject to the approval of the Assistance Board, may issue uncollateralized bonds, notes, debentures, and similar obligations, guaranteed as to the timely payment of principal and interest by the Secretary of the Treasury as set forth in subsection (d) of this section, with semiannual interest coupon payments and a maturity period of 15 years—
+**(a) Issuance** During the period beginning 61 days after January 6, 1988, and ending September 30, 1992, the Financial Assistance Corporation, subject to the approval of the Assistance Board, may issue uncollateralized bonds, notes, debentures, and similar obligations, guaranteed as to the timely payment of principal and interest by the Secretary of the Treasury as set forth in subsection (d), with semiannual interest coupon payments and a maturity period of 15 years—
 
 (1) in an aggregate amount not to exceed $2,800,000,000; and
 
@@ -5917,11 +5915,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 **(c) Interest payments**
 
-(1) **Payment of interest during first 5-year period** — During each year of the first 5-year period of the 10-year period beginning on the date of issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay, without recourse to System institutions, other than that described in paragraph (5), all of the interest due on such obligation.
+(1) **Payment of interest during first 5-year period** — During each year of the first 5-year period of the 10-year period beginning on the date of issuance of each obligation under subsection (a), the Financial Assistance Corporation shall pay, without recourse to System institutions, other than that described in paragraph (5), all of the interest due on such obligation.
 
 (2) **Payment of interest during second 5-year period**
 
-  (A) *In general* — During each year of the second 5-year period of the 10-year period beginning on the date of issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay all of the interest due on such obligation.
+  (A) *In general* — During each year of the second 5-year period of the 10-year period beginning on the date of issuance of each obligation under subsection (a), the Financial Assistance Corporation shall pay all of the interest due on such obligation.
 
   (B) *Payment by System banks to Financial Assistance Corporation* — During each year of the second 5-year period, System banks shall pay to the Financial Assistance Corporation 50 percent of the interest due on the obligations, except that System banks shall pay an additional 10 percent of the interest expense for each 1 percent that the unallocated retained earnings of the System (as determined under generally accepted accounting principles) exceed 5 percent of net assets (total assets less allowance for loan losses) based on a year-end financial statement for the preceding year.
 
@@ -5933,11 +5931,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 (3) **Payments by Treasury** — The Secretary of the Treasury, in accordance with [section 2278b–8 of this title](./chapter-023-farm-credit-system.md#section-2278b-8), shall pay to the Financial Assistance Corporation, in a timely manner, the balance of each interest payment not made by the System banks.
 
-(4) **Payment of interest after first 10-year period** — During each year of the third 5-year period of the 15-year period beginning on the date of the issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay all of the interest due on such obligation. During each year of such 5-year period, System banks shall pay the entire amount of interest due on the obligation allocated in the same manner as under paragraph (2)(C). Such payments shall be made to the Financial Assistance Corporation at such times as the Financial Assistance Corporation shall determine.
+(4) **Payment of interest after first 10-year period** — During each year of the third 5-year period of the 15-year period beginning on the date of the issuance of each obligation under subsection (a), the Financial Assistance Corporation shall pay all of the interest due on such obligation. During each year of such 5-year period, System banks shall pay the entire amount of interest due on the obligation allocated in the same manner as under paragraph (2)(C). Such payments shall be made to the Financial Assistance Corporation at such times as the Financial Assistance Corporation shall determine.
 
 (5) **Repayment of Treasury-paid interest**
 
-  (A) *In general* — On the maturity date of the last-maturing debt obligation issued under subsection (a) of this section, the Financial Assistance Corporation shall repay to the Secretary of the Treasury the total amount of any annual interest charges on the debt obligations that Farm Credit System institutions (other than the Financial Assistance Corporation) have not previously paid, and the Financial Assistance Corporation shall not be required to pay any additional interest charges on the payments.
+  (A) *In general* — On the maturity date of the last-maturing debt obligation issued under subsection (a), the Financial Assistance Corporation shall repay to the Secretary of the Treasury the total amount of any annual interest charges on the debt obligations that Farm Credit System institutions (other than the Financial Assistance Corporation) have not previously paid, and the Financial Assistance Corporation shall not be required to pay any additional interest charges on the payments.
 
   (B) *Assessment* — In order to provide for the orderly funding by the banks of the System of the repayment by the Financial Assistance Corporation to the Secretary of the Treasury, the Financial Assistance Corporation shall assess each System bank, on or about December 31 of each year beginning in 1992, and each System bank shall promptly pay to the Financial Assistance Corporation, an annual annuity type payment in an amount designed to accumulate, in total, including earnings thereon, the amount of the bank’s ultimate obligation (as determined by the Corporation on a fair and equitable basis), and no greater than .0006 nor less than .0004 times the bank’s and its affiliated associations’ average accruing retail loan volume for the preceding year, subject to—
 
@@ -5976,7 +5974,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 (1) **In general**
 
-  (A) *Time of repayment* — On maturity of an obligation issued under subsection (a) of this section, the obligation shall be repaid by the Financial Assistance Corporation.
+  (A) *Time of repayment* — On maturity of an obligation issued under subsection (a), the obligation shall be repaid by the Financial Assistance Corporation.
 
   (B) *Payments by institutions*
 
@@ -6022,7 +6020,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
   (A) *Certain principal and interest obligations*
 
-    (i) *Payment by Corporation* — If a System bank defaults on the payment of interest due under subsection (c) of this section during the first 15 years after an obligation is issued under subsection (a) of this section, on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e/3&num=0&edition=prelim), on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Financial Assistance Corporation shall pay the amount due by the System bank out of the Trust Fund, and shall recover the amount due from the defaulting System bank, and such amount shall be paid to the Trust Fund.
+    (i) *Payment by Corporation* — If a System bank defaults on the payment of interest due under subsection (c) during the first 15 years after an obligation is issued under subsection (a), on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e/3&num=0&edition=prelim), on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B), the Financial Assistance Corporation shall pay the amount due by the System bank out of the Trust Fund, and shall recover the amount due from the defaulting System bank, and such amount shall be paid to the Trust Fund.
 
     (ii) *Payment by Insurance Fund* — If the Financial Assistance Corporation has not recovered the full amount due from a defaulting bank by the end of the 12-month period beginning on the date of default, any uncollected amount shall be paid to the Trust Fund from the Insurance Fund established under [section 2277a–9 of this title](./chapter-023-farm-credit-system.md#section-2277a-9), to the full extent of funds available in the Insurance Fund as of the date the Financial Assistance Corporation notified the Farm Credit System Insurance Corporation of amounts due under this section.
 
@@ -6030,7 +6028,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
   (B) *Principal of bonds issued to fund purchase of preferred stock*
 
-    (i) *Evaluation* — Not later than 90 days before the maturity of any obligation issued under subsection (a) of this section, the Farm Credit Administration shall complete an evaluation of the general financial condition of each System institution that issued preferred stock under [section 2278b–7(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278b–7/a&num=0&edition=prelim) with respect to such obligation to determine whether such System institution will be able to redeem such stock at par value on the maturity of the obligation, and remain a viable institution capable of providing credit to eligible borrowers at equitable and competitive interest rates.
+    (i) *Evaluation* — Not later than 90 days before the maturity of any obligation issued under subsection (a), the Farm Credit Administration shall complete an evaluation of the general financial condition of each System institution that issued preferred stock under [section 2278b–7(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278b–7/a&num=0&edition=prelim) with respect to such obligation to determine whether such System institution will be able to redeem such stock at par value on the maturity of the obligation, and remain a viable institution capable of providing credit to eligible borrowers at equitable and competitive interest rates.
 
     (ii) *Availability of evaluation* — A copy of the evaluation required under clause (i) shall be furnished to the Secretary of the Treasury and the appropriate committees of Congress.
 
@@ -6040,11 +6038,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 (4) **Payment by United States**
 
-  (A) *Inability to pay* — Notwithstanding any other provision of this chapter, if the Financial Assistance Corporation is unable to pay the principal or interest of any obligation issued under subsection (a) of this section or [section 2278a–9(e)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e/3/A&num=0&edition=prelim), the Secretary of the Treasury shall pay to the Financial Assistance Corporation the amount due which shall be used by the Financial Assistance Corporation to pay the obligation.
+  (A) *Inability to pay* — Notwithstanding any other provision of this chapter, if the Financial Assistance Corporation is unable to pay the principal or interest of any obligation issued under subsection (a) or [section 2278a–9(e)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e/3/A&num=0&edition=prelim), the Secretary of the Treasury shall pay to the Financial Assistance Corporation the amount due which shall be used by the Financial Assistance Corporation to pay the obligation.
 
   (B) *Recovery*
 
-    (i) *Certain principal and interest obligations* — In each instance in which the Secretary of the Treasury is required to make a payment under subparagraph (A) to the Financial Assistance Corporation as a result of a default made by a System bank on interest due from such System bank under subsection (c) of this section, on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e/3&num=0&edition=prelim), on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Secretary of the Treasury shall recover the amount of the payments the Secretary made, with respect to each defaulting bank, from such defaulting bank. If the Secretary has not recovered the full amount due from the defaulting bank by the end of the 12-month period beginning on the date of payment by the Secretary, the uncollected amount shall be paid to the Secretary from the Insurance Fund established under [section 2277a–9 of this title](./chapter-023-farm-credit-system.md#section-2277a-9).
+    (i) *Certain principal and interest obligations* — In each instance in which the Secretary of the Treasury is required to make a payment under subparagraph (A) to the Financial Assistance Corporation as a result of a default made by a System bank on interest due from such System bank under subsection (c), on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e/3&num=0&edition=prelim), on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B), the Secretary of the Treasury shall recover the amount of the payments the Secretary made, with respect to each defaulting bank, from such defaulting bank. If the Secretary has not recovered the full amount due from the defaulting bank by the end of the 12-month period beginning on the date of payment by the Secretary, the uncollected amount shall be paid to the Secretary from the Insurance Fund established under [section 2277a–9 of this title](./chapter-023-farm-credit-system.md#section-2277a-9).
 
     (ii) *Principal of bonds issued to fund purchase of preferred stock* — In each instance in which the Secretary of the Treasury is required under paragraph (3)(B)(iii) to purchase preferred stock issued by a System institution under [section 2278b–7(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278b–7/a&num=0&edition=prelim), the Farm Credit System Insurance Corporation shall use funds deposited in the Insurance Fund to repurchase, at par value, from the Secretary of the Treasury such stock required to be purchased under paragraph (3)(B)(iii) as funds become available for such repurchase.
 
@@ -6087,7 +6085,7 @@ Subsec. (d)(1)(C). Pub. L. 102–552, § 303, amended subpar. (C) generally. Pri
 
 Subsec. (d)(1)(D), (E). Pub. L. 102–552, § 305(2), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “(D) Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans made by such banks with the exception of loans made to associations.”
 
-Subsec. (d)(3)(A). Pub. L. 102–552, § 306(1)(A), inserted heading and struck out former heading “Interest”, in cl. (i), inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e/3&num=0&edition=prelim), on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,”, struck out “of the interest” after “the amount” in two places, and substituted “bank” for “institution” wherever appearing, in cl. (ii), struck out “of interest” after “the full amount”, and substituted “defaulting bank” for “defaulting institution” and “any uncollected amount” for “such uncollected interest”, and in cl. (iii), substituted “allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation.” for “added to the amount of interest due from remaining System institutions, under subsection (c) of this section, and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D) of this section, shall pay to the Trust Fund a proportion of the uncollected interest equal to—
+Subsec. (d)(3)(A). Pub. L. 102–552, § 306(1)(A), inserted heading and struck out former heading “Interest”, in cl. (i), inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e/3&num=0&edition=prelim), on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B),”, struck out “of the interest” after “the amount” in two places, and substituted “bank” for “institution” wherever appearing, in cl. (ii), struck out “of interest” after “the full amount”, and substituted “defaulting bank” for “defaulting institution” and “any uncollected amount” for “such uncollected interest”, and in cl. (iii), substituted “allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation.” for “added to the amount of interest due from remaining System institutions, under subsection (c), and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D), shall pay to the Trust Fund a proportion of the uncollected interest equal to—
 
 “(I) the amount of the performing loan volume of the institution (based on the average loan volume for the preceding year); divided by
 
@@ -6099,7 +6097,7 @@ Subsec. (d)(3)(C). Pub. L. 102–552, § 306(1)(C), substituted “banks” for 
 
 Subsec. (d)(4)(A). Pub. L. 102–552, § 306(2)(A), inserted “or [section 2278a–9(e)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e/3/A&num=0&edition=prelim)”.
 
-Subsec. (d)(4)(B)(i). Pub. L. 102–552, § 306(2)(B)(i), inserted heading and struck out former heading “Interest payments”, substituted “bank” for “institution” wherever appearing, and inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e/3&num=0&edition=prelim), on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,”.
+Subsec. (d)(4)(B)(i). Pub. L. 102–552, § 306(2)(B)(i), inserted heading and struck out former heading “Interest payments”, substituted “bank” for “institution” wherever appearing, and inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e/3&num=0&edition=prelim), on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B),”.
 
 Subsec. (d)(4)(B)(ii). Pub. L. 102–552, § 306(2)(B)(ii), inserted heading and struck out former heading “Principal payments”.
 
@@ -6125,7 +6123,7 @@ Pub. L. 100–399, § 201(p), inserted “and Federal land banks” after “cre
 
 Subsec. (d)(1)(E). Pub. L. 100–399, § 201(u), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
 
-Subsec. (d)(3)(A)(i), (iii). Pub. L. 100–399, § 201(v), substituted “subsection (c) of this section” for “this subsection”.
+Subsec. (d)(3)(A)(i), (iii). Pub. L. 100–399, § 201(v), substituted “subsection (c)” for “this subsection”.
 
 Subsec. (d)(3)(B)(iii). Pub. L. 100–399, § 201(w), inserted “is prohibited from redeeming or” after “If such institution”.
 
@@ -6149,7 +6147,7 @@ Amendment by section 201(q) of Pub. L. 100–399 effective immediately after ame
 
 (3) **Voting rights** — A holder of stock issued under this subsection shall have no voting rights with respect to the stock.
 
-**(b) Purchase** The Financial Assistance Corporation shall purchase shares of stock issued by certified System institutions under subsection (a) of this section to the extent that the issuance of such stock is approved by the Assistance Board.
+**(b) Purchase** The Financial Assistance Corporation shall purchase shares of stock issued by certified System institutions under subsection (a) to the extent that the issuance of such stock is approved by the Assistance Board.
 
 ### Statutory Notes
 
@@ -6197,7 +6195,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
     (ii) the Director determines that the Corporation has failed to make, in good faith, reasonable efforts necessary to comply with such a capital restoration plan and fulfill the schedule for the plan approved by the Director.
 
-**(b) Discretionary supervisory actions** In addition to any other actions taken by the Director (including actions under subsection (a) of this section), the Director may, at any time, take any of the following actions if the Corporation is classified as within level III:
+**(b) Discretionary supervisory actions** In addition to any other actions taken by the Director (including actions under subsection (a)), the Director may, at any time, take any of the following actions if the Corporation is classified as within level III:
 
 (1) **Limitation on increase in obligations** — Limit any increase in, or order the reduction of, any obligations of the Corporation, including off-balance sheet obligations.
 
@@ -6257,7 +6255,7 @@ Section, Pub. L. 92–181, title VIII, § 8.7, as added Pub. L. 100–233, title
 
 (3) **Mortgage loans** — In establishing standards for qualified loans, the Corporation shall confine corporate operations, so far as practicable, to mortgage loans that are deemed by the Board to be of such quality so as to meet, substantially and generally, the purchase standards imposed by private institutional mortgage investors.
 
-**(b) Minimum criteria** To further the purpose of this subchapter to provide a new source of long-term fixed rate financing to assist farmers and ranchers to purchase agricultural real estate, the standards established by the Board pursuant to subsection (a) of this section with respect to loans secured by agricultural real estate shall, at a minimum—
+**(b) Minimum criteria** To further the purpose of this subchapter to provide a new source of long-term fixed rate financing to assist farmers and ranchers to purchase agricultural real estate, the standards established by the Board pursuant to subsection (a) with respect to loans secured by agricultural real estate shall, at a minimum—
 
 (1) provide that no agricultural mortgage loan with a loan-to-value ratio in excess of 80 percent may be treated as a qualified loan;
 
@@ -6279,7 +6277,7 @@ Section, Pub. L. 92–181, title VIII, § 8.7, as added Pub. L. 100–233, title
 
 (2) **Acreage exception** — Paragraph (1) shall not apply with respect to any agricultural mortgage loan described in such paragraph if such loan is secured by agricultural real estate that, in the aggregate, comprises not more than 1,000 acres.
 
-**(d) Nondiscrimination requirement** The standards established under subsection (a) of this section shall not discriminate against small originators or small agricultural mortgage loans that are at least $50,000. The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.
+**(d) Nondiscrimination requirement** The standards established under subsection (a) shall not discriminate against small originators or small agricultural mortgage loans that are at least $50,000. The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.
 
 ### Statutory Notes
 
@@ -6289,13 +6287,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 2008—Subsec. (a). Pub. L. 110–246, § 5406(c)(1), added pars. (1) and (2), designated last sentence as par. (3) and inserted heading, and struck out former first sentence which read as follows: “Not later than 120 days after the appointment and election of the permanent Board, the Corporation, in consultation with originators, shall establish uniform underwriting, security appraisal, and repayment standards for qualified loans.”
 
-Subsec. (b). Pub. L. 110–246, § 5406(c)(2)(A), inserted “with respect to loans secured by agricultural real estate” after “subsection (a) of this section” in introductory provisions.
+Subsec. (b). Pub. L. 110–246, § 5406(c)(2)(A), inserted “with respect to loans secured by agricultural real estate” after “subsection (a)” in introductory provisions.
 
 Subsec. (b)(5). Pub. L. 110–246, § 5406(c)(2)(B), substituted “ensure that the farmer or rancher” for “ensure that the borrower” and “farm or ranch” for “site”.
 
 Subsec. (c)(1). Pub. L. 110–246, § 5406(c)(3), inserted “secured by agricultural real estate” after “A loan”.
 
-Subsecs. (d), (e). Pub. L. 110–246, § 5406(c)(4), (5), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “No standard prescribed under subsection (a) of this section shall take effect before the later of—
+Subsecs. (d), (e). Pub. L. 110–246, § 5406(c)(4), (5), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “No standard prescribed under subsection (a) shall take effect before the later of—
 
 “(1) the end of a period consisting of 30 legislative days and beginning on the date such standards are submitted to the Congress; or
 
@@ -6367,7 +6365,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
   (B) for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation and its affiliates by this subchapter, including through the use of the authorities granted to the Farm Credit Administration under—
 
-    (i) part C of subchapter V of this chapter; and
+    (i) part C of subchapter V; and
 
     (ii) beginning 6 months after December 13, 1991, [section 2252(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2252/a/9&num=0&edition=prelim).
 
@@ -6601,7 +6599,7 @@ Pub. L. 100–233, title VII, § 704, Jan. 6, 1988, 101 Stat. 1706, as amended b
 ## § 2279aa–5. Board of directors
 **(a) Interim board**
 
-(1) **Number and appointment** — Until the permanent board of directors established in subsection (b) of this section first meets with a quorum of its members present, the Corporation shall be under the management of an interim board of directors composed of 9 members appointed by the President within 90 days after January 6, 1988, as follows:
+(1) **Number and appointment** — Until the permanent board of directors established in subsection (b) first meets with a quorum of its members present, the Corporation shall be under the management of an interim board of directors composed of 9 members appointed by the President within 90 days after January 6, 1988, as follows:
 
   (A) 3 members appointed from among persons who are representatives of banks, other financial institutions or entities, and insurance companies.
 
@@ -6638,7 +6636,7 @@ Pub. L. 100–233, title VII, § 704, Jan. 6, 1988, 101 Stat. 1706, as amended b
 
   (C) *Distribution* — The voting stock shall be fairly and broadly offered to ensure that no institution or institutions acquire a disproportionate amount of the total amount of voting common stock outstanding of a class and that capital contributions and issuances of voting common stock for the contributions are fairly distributed between entities eligible to hold class A and class B stock, as provided under [section 2279aa–4 of this title](./chapter-023-farm-credit-system.md#section-2279aa-4).
 
-(10) **Termination** — The interim board shall terminate when the permanent board of directors established in subsection (b) of this section first meets with a quorum present.
+(10) **Termination** — The interim board shall terminate when the permanent board of directors established in subsection (b) first meets with a quorum present.
 
 **(b) Permanent board**
 
@@ -6683,7 +6681,7 @@ Pub. L. 100–233, title VII, § 704, Jan. 6, 1988, 101 Stat. 1706, as amended b
 
   (A) *Appointed members* — The members appointed by the President shall serve at the pleasure of the President.
 
-  (B) *Elected members* — The members elected under subparagraphs (A) and (B) of subsection (b)(2) of this section shall each be elected annually for a term ending on the date of the next annual meeting of the common stockholders of the Corporation and shall serve until their successors are elected and qualified. Any seat on the permanent board that becomes vacant after the annual election of the directors shall be filled by the members of the permanent board from the same category of directors, but only for the unexpired portion of the term.
+  (B) *Elected members* — The members elected under subparagraphs (A) and (B) of subsection (b)(2) shall each be elected annually for a term ending on the date of the next annual meeting of the common stockholders of the Corporation and shall serve until their successors are elected and qualified. Any seat on the permanent board that becomes vacant after the annual election of the directors shall be filled by the members of the permanent board from the same category of directors, but only for the unexpired portion of the term.
 
   (C) *Vacancy appointment* — Any member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of the member was appointed shall be appointed only for the remainder of such term.
 
@@ -6823,13 +6821,13 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 (3) **Dividends prohibited while obligations are outstanding** — No dividend may be declared or paid by the Board under this section while any obligation issued by the Corporation to the Secretary of the Treasury under [section 2279aa–13 of this title](./chapter-023-farm-credit-system.md#section-2279aa-13) remains outstanding.
 
-**(d) Nonvoting common stock** The Corporation is authorized to issue nonvoting common stock having such par value as may be fixed by the Board from time to time. Such nonvoting common stock shall be freely transferable, except that, as to the Corporation, such stock shall be transferable only on the books of the Corporation. Such dividends as may be declared by the Board, in the discretion of the Board, may be paid by the Corporation to the holders of the nonvoting common stock of the Corporation, subject to paragraphs (2) and (3) of subsection (c) of this section.
+**(d) Nonvoting common stock** The Corporation is authorized to issue nonvoting common stock having such par value as may be fixed by the Board from time to time. Such nonvoting common stock shall be freely transferable, except that, as to the Corporation, such stock shall be transferable only on the books of the Corporation. Such dividends as may be declared by the Board, in the discretion of the Board, may be paid by the Corporation to the holders of the nonvoting common stock of the Corporation, subject to paragraphs (2) and (3) of subsection (c).
 
 **(e) Preferred stock**
 
 (1) **Authority of Board** — The Corporation is authorized to issue nonvoting preferred stock having such par value as may be fixed by the Board from time to time. Such preferred stock issued shall be freely transferable, except that, as to the Corporation, such stock shall be transferred only on the books of the Corporation.
 
-(2) **Rights of preferred stock** — Subject to paragraphs (2) and (3) of subsection (c) of this section, the holders of the preferred stock shall be entitled to such rate of cumulative dividends, and such holders shall be subject to such redemption or other conversion provisions, as may be provided for at the time of issuance. No dividends shall be payable on any share of common stock at any time when any dividend is due on any share of preferred stock and has not been paid.
+(2) **Rights of preferred stock** — Subject to paragraphs (2) and (3) of subsection (c), the holders of the preferred stock shall be entitled to such rate of cumulative dividends, and such holders shall be subject to such redemption or other conversion provisions, as may be provided for at the time of issuance. No dividends shall be payable on any share of common stock at any time when any dividend is due on any share of preferred stock and has not been paid.
 
 (3) **Preference on termination of business** — In the event of any liquidation, dissolution, or winding up of the business of the Corporation, the holders of the preferred shares of stock shall be paid in full at the par value thereof, plus all accrued dividends, before the holders of the common shares receive any payment.
 
@@ -6868,19 +6866,19 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 (3) **Nondiscrimination requirement** — The standards established under this subsection shall not discriminate between or against Farm Credit System and non-Farm Credit System applicants.
 
-**(b) Certification by Corporation** Within 60 days after receiving an application for certification under this section, the Corporation shall certify the facility if the facility meets the standards established by the Corporation under subsection (a)(1) of this section.
+**(b) Certification by Corporation** Within 60 days after receiving an application for certification under this section, the Corporation shall certify the facility if the facility meets the standards established by the Corporation under subsection (a)(1).
 
 **(c) Maximum time period for certification** Any certification by the Corporation of an agricultural mortgage marketing facility shall be effective for a period determined by the Corporation of not to exceed 5 years.
 
 **(d) Revocation**
 
-(1) **In general** — After notice and an opportunity for a hearing, the Corporation may revoke the certification of an agricultural mortgage marketing facility if the Corporation determines that the facility no longer meets the standards referred to in subsection (a) of this section.
+(1) **In general** — After notice and an opportunity for a hearing, the Corporation may revoke the certification of an agricultural mortgage marketing facility if the Corporation determines that the facility no longer meets the standards referred to in subsection (a).
 
 (2) **Effect of revocation** — Revocation of a certification shall not affect any pool guarantee that has been issued by the Corporation.
 
 **(e) Affiliation of FCS institutions with facility**
 
-(1) **Establishment of affiliate authorized** — Notwithstanding any other provision of this chapter, any Farm Credit System institution, acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) of this section as a certified facility.
+(1) **Establishment of affiliate authorized** — Notwithstanding any other provision of this chapter, any Farm Credit System institution, acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) as a certified facility.
 
 (2) **Exclusive agency agreement authorized** — Any number of Farm Credit System institutions (other than the Corporation) may enter into an agreement with any certified facility (including an affiliate established under paragraph (1)) to sell the qualified loans of such institutions exclusively to or through the facility.
 
@@ -7013,7 +7011,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 ## § 2279a–1. Termination
 **(a) Financial Assistance Corporation** The Financial Assistance Corporation and the authority provided to such Corporation by this part shall terminate on the complete discharge by the Financial Assistance Corporation of its responsibilities under [section 2278a–9(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278a–9/e&num=0&edition=prelim) and subsections (c) through (g) of [section 2278b–6 of this title](./chapter-023-farm-credit-system.md#section-2278b-6) with regard to repayments by System institutions, but in no event later than 2 years following the maturity and full payment of all debt obligations issued under [section 2278b–6(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278b–6/a&num=0&edition=prelim).
 
-**(b) Accounts** Simultaneously with the termination of the Financial Assistance Corporation as provided in subsection (a) of this section, any funds in the accounts established under [section 2278b–5 of this title](./chapter-023-farm-credit-system.md#section-2278b-5) shall be transferred to the Insurance Fund established under [section 2277a–9 of this title](./chapter-023-farm-credit-system.md#section-2277a-9).
+**(b) Accounts** Simultaneously with the termination of the Financial Assistance Corporation as provided in subsection (a), any funds in the accounts established under [section 2278b–5 of this title](./chapter-023-farm-credit-system.md#section-2278b-5) shall be transferred to the Insurance Fund established under [section 2277a–9 of this title](./chapter-023-farm-credit-system.md#section-2277a-9).
 
 ### Statutory Notes
 
@@ -7155,9 +7153,9 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
   (B) the proceeds of the sale of such obligations are needed to fulfill the obligations of the Corporation under any guarantee provided by the Corporation under this subchapter.
 
-**(b) Expeditious transaction required** Not later than 10 business days after receipt by the Secretary of the Treasury of any certification by the Corporation under subsection (a)(2) of this section, the Secretary of the Treasury shall purchase obligations issued by the Corporation in an amount determined by the Corporation to be sufficient to meet the guarantee liabilities of the Corporation.
+**(b) Expeditious transaction required** Not later than 10 business days after receipt by the Secretary of the Treasury of any certification by the Corporation under subsection (a)(2), the Secretary of the Treasury shall purchase obligations issued by the Corporation in an amount determined by the Corporation to be sufficient to meet the guarantee liabilities of the Corporation.
 
-**(c) Limitation on amount of outstanding obligations** The aggregate amount of obligations issued by the Corporation under subsection (a)(1) of this section which may be held by the Secretary of the Treasury at any time (as determined by the Secretary) shall not exceed $1,500,000,000.
+**(c) Limitation on amount of outstanding obligations** The aggregate amount of obligations issued by the Corporation under subsection (a)(1) which may be held by the Secretary of the Treasury at any time (as determined by the Secretary) shall not exceed $1,500,000,000.
 
 **(d) Terms of obligation**
 
@@ -7243,7 +7241,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(b) Considerations**
 
-(1) **Establishment of test** — In establishing the risk-based capital test under subsection (a) of this section—
+(1) **Establishment of test** — In establishing the risk-based capital test under subsection (a)—
 
   (A) the Director shall take into account appropriate distinctions based on various types of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
 
@@ -7255,19 +7253,19 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
   (E) the Director shall consider any other information submitted by the Corporation in writing during the 180-day period beginning on December 13, 1991.
 
-(2) **Revising test** — Upon the expiration of the 8-year period beginning on December 13, 1991, the Director shall examine the risk-based capital test under subsection (a) of this section and may revise the test. In making examinations and revisions under this paragraph, the Director shall take into account that, before December 13, 1991, the Corporation has not issued guarantees for pools of qualified loans. To the extent that the revision of the risk-based capital test causes a change in the classification of the Corporation within the enforcement levels established under [section 2279bb–4 of this title](./chapter-023-farm-credit-system.md#section-2279bb-4), the Director shall waive the applicability of any additional enforcement actions available because of such change for a reasonable period of time, to permit the Corporation to increase the amount of regulatory capital of the Corporation accordingly.
+(2) **Revising test** — Upon the expiration of the 8-year period beginning on December 13, 1991, the Director shall examine the risk-based capital test under subsection (a) and may revise the test. In making examinations and revisions under this paragraph, the Director shall take into account that, before December 13, 1991, the Corporation has not issued guarantees for pools of qualified loans. To the extent that the revision of the risk-based capital test causes a change in the classification of the Corporation within the enforcement levels established under [section 2279bb–4 of this title](./chapter-023-farm-credit-system.md#section-2279bb-4), the Director shall waive the applicability of any additional enforcement actions available because of such change for a reasonable period of time, to permit the Corporation to increase the amount of regulatory capital of the Corporation accordingly.
 
 **(c) Risk-based capital level** For purposes of this part, the risk-based capital level for the Corporation shall be equal to the sum of the following amounts:
 
-(1) **Credit and interest rate risk** — The amount of regulatory capital determined by applying the risk-based capital test under subsection (a) of this section to the Corporation, adjusted to account for foreign exchange risk.
+(1) **Credit and interest rate risk** — The amount of regulatory capital determined by applying the risk-based capital test under subsection (a) to the Corporation, adjusted to account for foreign exchange risk.
 
-(2) **Management and operations risk** — To provide for management and operations risk, 30 percent of the amount of regulatory capital determined by applying the risk-based capital test under subsection (a) of this section to the Corporation.
+(2) **Management and operations risk** — To provide for management and operations risk, 30 percent of the amount of regulatory capital determined by applying the risk-based capital test under subsection (a) to the Corporation.
 
 **(d) Specified contents**
 
 (1) **In general** — The regulations establishing the risk-based capital test under this section shall—
 
-  (A) be issued by the Director for public comment in the form of a notice of proposed rulemaking, to be first published after the expiration of the period referred to in subsection (a) of this section; and
+  (A) be issued by the Director for public comment in the form of a notice of proposed rulemaking, to be first published after the expiration of the period referred to in subsection (a); and
 
   (B) contain specific requirements, definitions, methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yield curve slopes, default experience, prepayment rates, and performance of pools of qualified loans).
 
@@ -7303,7 +7301,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 <a id="section-2279bb-5"></a>
 ## § 2279bb–5. Minimum capital level
-**(a) In general** Except as provided in subsection (b) of this section, for purposes of this part, the minimum capital level for the Corporation shall be an amount of core capital equal to the sum of
+**(a) In general** Except as provided in subsection (b), for purposes of this part, the minimum capital level for the Corporation shall be an amount of core capital equal to the sum of
 
 (1) 2.75 percent of the aggregate on-balance sheet assets of the Corporation, as determined in accordance with generally accepted accounting principles; and
 
@@ -7345,9 +7343,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
       (III) 2.65 percent of on-balance sheet assets of the Corporation other than assets designated under paragraph (2); or
 
-    (ii) if the Corporation’s core capital is less than $25,000,000 on January 1, 1998, the amount determined under subsection (a) of this section; and
+    (ii) if the Corporation’s core capital is less than $25,000,000 on January 1, 1998, the amount determined under subsection (a); and
 
-  (D) on and after January 1, 1999, shall be the amount determined under subsection (a) of this section.
+  (D) on and after January 1, 1999, shall be the amount determined under subsection (a).
 
 (2) **Designated on-balance sheet assets** — For purposes of this subsection, the designated on-balance sheet assets of the Corporation shall be—
 
@@ -7426,9 +7424,9 @@ For purposes of this part, the critical capital level for the Corporation shall 
 
 (3) as within level IV, if the Corporation is otherwise within level III.
 
-**(c) Quarterly determination** The Director shall determine the classification of the Corporation for purposes of this part on not less than a quarterly basis (and as appropriate under subsection (b) of this section). The first such determination shall be made for the quarter ending March 31, 1992.
+**(c) Quarterly determination** The Director shall determine the classification of the Corporation for purposes of this part on not less than a quarterly basis (and as appropriate under subsection (b)). The first such determination shall be made for the quarter ending March 31, 1992.
 
-**(d) Notice** Upon determining under subsection (b) or (c) of this section that the Corporation is within level II or III, the Director shall provide written notice to the Congress and to the Corporation—
+**(d) Notice** Upon determining under subsection (b) or (c) that the Corporation is within level II or III, the Director shall provide written notice to the Congress and to the Corporation—
 
 (1) that the Corporation is within such level;
 
@@ -7436,7 +7434,7 @@ For purposes of this part, the critical capital level for the Corporation shall 
 
 (3) stating the reasons for the classification of the Corporation within such level.
 
-**(e) Implementation** Notwithstanding paragraphs (1) and (2) of subsection (a) of this section, during the period beginning on December 13, 1991, and ending on the effective date of the risk based capital regulation issued by the Director under [section 2279bb–1 of this title](./chapter-023-farm-credit-system.md#section-2279bb-1), the Corporation shall be classified as within level I if the Corporation equals or exceeds the minimum capital level established under [section 2279bb–2 of this title](./chapter-023-farm-credit-system.md#section-2279bb-2).
+**(e) Implementation** Notwithstanding paragraphs (1) and (2) of subsection (a), during the period beginning on December 13, 1991, and ending on the effective date of the risk based capital regulation issued by the Director under [section 2279bb–1 of this title](./chapter-023-farm-credit-system.md#section-2279bb-1), the Corporation shall be classified as within level I if the Corporation equals or exceeds the minimum capital level established under [section 2279bb–2 of this title](./chapter-023-farm-credit-system.md#section-2279bb-2).
 
 ### Statutory Notes
 
@@ -7482,13 +7480,13 @@ Section, Pub. L. 92–181, title VII, § 7.5, as added Pub. L. 100–233, title 
 
 (3) a majority of the stockholders of the bank and of the association, in accordance with the voting provisions of sections 2279a and 2279c–1 of this title, respectively.
 
-**(b) Direct loans and financial assistance** After a transfer described in subsection (a) or (d) of this section—
+**(b) Direct loans and financial assistance** After a transfer described in subsection (a) or (d)—
 
 (1) the Federal land bank association shall possess all of the direct long-term real estate mortgage loan authority, formerly possessed by the transferring bank, in the territory served by the association; and
 
-(2) the bank may provide and extend financial assistance to, and discount for, or purchase from, the transferee Federal land bank association any note, draft, or other obligation with the endorsement or guarantee of the association, the proceeds of which have been advanced to persons eligible and for purposes of financing by the association under subsection (a) of this section.
+(2) the bank may provide and extend financial assistance to, and discount for, or purchase from, the transferee Federal land bank association any note, draft, or other obligation with the endorsement or guarantee of the association, the proceeds of which have been advanced to persons eligible and for purposes of financing by the association under subsection (a).
 
-**(c) Regulations** The Farm Credit Administration shall issue regulations that establish the manner in which the powers and obligations of the banks that make transfers are consolidated and, to the extent necessary, reconciled in the association referred to in subsection (a) of this section.
+**(c) Regulations** The Farm Credit Administration shall issue regulations that establish the manner in which the powers and obligations of the banks that make transfers are consolidated and, to the extent necessary, reconciled in the association referred to in subsection (a).
 
 **(d) Mandatory transfer** On the merger of one or more production credit associations with one or more Federal land bank associations, the bank supervising the Federal land bank association shall transfer all of the direct lending authority of the bank in the territory served by such Federal land bank association to such merged association.
 
@@ -7602,11 +7600,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 (5) the termination of the status of an institution as a System institution under [section 2279d of this title](./chapter-023-farm-credit-system.md#section-2279d); or
 
 (6) the merger of similar banks under [section 2279f of this title](./chapter-023-farm-credit-system.md#section-2279f);
-shall not take effect except in accordance with subsection (b) of this section.
+shall not take effect except in accordance with subsection (b).
 
 **(b) Reconsideration**
 
-(1) **Notice** — Not later than 30 days after a stockholder vote in favor of any of the actions described in subsection (a) of this section, the officer or employee that records such vote shall ensure that all stockholders of the voting entity receive notice of the final results of the vote.
+(1) **Notice** — Not later than 30 days after a stockholder vote in favor of any of the actions described in subsection (a), the officer or employee that records such vote shall ensure that all stockholders of the voting entity receive notice of the final results of the vote.
 
 (2) **Effective date** — A voluntary merger, transfer, or termination that is approved by a vote of the stockholders of two or more banks or associations shall not take effect until the expiration of 30 days after the date on which the stockholders of such banks or associations are notified of the final result of the vote in accordance with paragraph (1).
 
@@ -7751,7 +7749,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 **(c) Board of directors**
 
-(1) **In general** — After a merger under subsection (a) of this section, a board of directors shall be created for the resulting bank.
+(1) **In general** — After a merger under subsection (a), a board of directors shall be created for the resulting bank.
 
 (2) **Composition** — The board shall be composed of—
 

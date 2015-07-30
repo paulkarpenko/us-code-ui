@@ -42,7 +42,7 @@ source: >-
 
 (6) **Other basis for provisional application.—** — Subject to all the conditions in this subsection and section 119(e), and as prescribed by the Director, an application for patent filed under subsection (a) may be treated as a provisional application for patent.
 
-(7) **No right of priority or benefit of earliest filing date.—** — A provisional application shall not be entitled to the right of priority of any other application under section 119 or 365(a) or to the benefit of an earlier filing date in the United States under section 120, 121, or 365(c).
+(7) **No right of priority or benefit of earliest filing date.—** — A provisional application shall not be entitled to the right of priority of any other application under section 119, 365(a), or 386(a) or to the benefit of an earlier filing date in the United States under section 120, 121, 365(c), or 386(c).
 
 (8) **Applicable provisions.—** — The provisions of this title relating to applications for patent shall apply to provisional applications for patent, except as otherwise provided, and except that provisional applications for patent shall not be subject to sections 131 and 135.
 
@@ -53,9 +53,6 @@ source: >-
 (2) a copy of the specification and any drawings of the previously filed application are submitted to the Director.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–211, title I, §§ 102(3), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (b)(7) of this section is amended by substituting “section 119, 365(a), or 386(a)” for “section 119 or 365(a)” and “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”. See 2012 Amendment note below.
 
 #### Historical and Revision Notes
 Based on Title 35, U.S.C., 1946 ed., § 33 (R.S. 4888, amended (1) Mar. 3, 1915, ch. 94, § 1, 38 Stat. 958; (2) May 23, 1930, ch. 312, § 2, 46 Stat. 376).
@@ -114,7 +111,7 @@ Subsec. (b)(6). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], 
 1982—Pub. L. 97–247 inserted “, or authorized to be made,” after “shall be made”, struck out the colon after “shall include”, struck out “signed by the applicant and” after “The application”, and inserted provisions that the fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner, that upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable, and that the filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
 
 #### Effective Date of 2012 Amendment
-Amendment by section 102(3) of Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Amendment by section 102(3) of Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 Amendment by section 201(a) of Pub. L. 112–211 effective on the date that is 1 year after Dec. 18, 2012, applicable to certain patents and applications for patent, and not effective with respect to patents in litigation commenced before the effective date, see section 203 of Pub. L. 112–211, set out as an Effective Date note under [section 27 of this title](./chapter-002-proceedings-in-the-patent-and-trademark-office.md#section-27).
 
@@ -275,7 +272,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 **(g) Earlier-Filed Application Containing Required Statements or Substitute Statement.—**
 
-(1) **Exception.—** — The requirements under this section shall not apply to an individual with respect to an application for patent in which the individual is named as the inventor or a joint inventor and that claims the benefit under section 120, 121, or 365(c) of the filing of an earlier-filed application, if—
+(1) **Exception.—** — The requirements under this section shall not apply to an individual with respect to an application for patent in which the individual is named as the inventor or a joint inventor and that claims the benefit under section 120, 121, 365(c), or 386(c) of the filing of an earlier-filed application, if—
 
   (A) an oath or declaration meeting the requirements of subsection (a) was executed by the individual and was filed in connection with the earlier-filed application;
 
@@ -296,9 +293,6 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 **(i) Acknowledgment of Penalties.—** Any declaration or statement filed pursuant to this section shall contain an acknowledgment that any willful false statement made in such declaration or statement is punishable under [section 1001 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1001&num=0&edition=prelim) by fine or imprisonment of not more than 5 years, or both.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (g)(1)
-Pub. L. 112–211, title I, §§ 102(4), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (g)(1) of this section is amended by substituting “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”. See 2012 Amendment note below.
 
 #### Historical and Revision Notes
 Based on Title 35, U.S.C., 1946 ed., § 35 (R.S. 4892, amended (1) Mar. 3, 1903, ch. 1019, § 2, 32 Stat. 1225, 1226, (2) May 23, 1930, ch. 312, § 3, 46 Stat. 376).
@@ -324,7 +318,7 @@ Subsec. (g)(1). Pub. L. 112–274, § 1(f)(2), substituted “that claims” for
 Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to proceedings commenced on or after such date, see section 1(n) of Pub. L. 112–274, set out as a note under [section 5 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-5).
 
 #### Effective Date of 2012 Amendment
-Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application that is filed on or after that effective date, see section 4(e) of Pub. L. 112–29, set out as a note under [section 111 of this title](./chapter-011-application-for-patent.md#section-111).
@@ -526,12 +520,9 @@ Act Aug. 23, 1954, ch. 823, 68 Stat. 764, provided that the priority rights spec
 <a id="section-120"></a>
 ## § 120. Benefit of earlier filing date in the United States
 
-An application for patent for an invention disclosed in the manner provided by section 112(a) (other than the requirement to disclose the best mode) in an application previously filed in the United States, or as provided by section 363, which names an inventor or joint inventor in the previously filed application shall have the same effect, as to such invention, as though filed on the date of the prior application, if filed before the patenting or abandonment of or termination of proceedings on the first application or on an application similarly entitled to the benefit of the filing date of the first application and if it contains or is amended to contain a specific reference to the earlier filed application. No application shall be entitled to the benefit of an earlier filed application under this section unless an amendment containing the specific reference to the earlier filed application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this section. The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed submission of an amendment under this section.
+An application for patent for an invention disclosed in the manner provided by section 112(a) (other than the requirement to disclose the best mode) in an application previously filed in the United States, or as provided by section 363 or 385, which names an inventor or joint inventor in the previously filed application shall have the same effect, as to such invention, as though filed on the date of the prior application, if filed before the patenting or abandonment of or termination of proceedings on the first application or on an application similarly entitled to the benefit of the filing date of the first application and if it contains or is amended to contain a specific reference to the earlier filed application. No application shall be entitled to the benefit of an earlier filed application under this section unless an amendment containing the specific reference to the earlier filed application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this section. The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed submission of an amendment under this section.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–211, title I, §§ 102(5), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended in the first sentence by substituting “section 363 or 385” for “section 363”. See 2012 Amendment note below.
 
 #### Historical and Revision Notes
 This section represents present law not expressed in the statute, except for the added requirement that the first application must be specifically mentioned in the second.
@@ -554,7 +545,7 @@ Pub. L. 112–29, § 3(f), substituted “which names an inventor or joint inven
 1975—Pub. L. 94–131 inserted “, or as provided by [section 363 of this title](./chapter-036-international-stage.md#section-363),” after “filed in the United States”.
 
 #### Effective Date of 2012 Amendment
-Amendment by section 102(5) of Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Amendment by section 102(5) of Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 Amendment by section 202(b)(3) of Pub. L. 112–211 effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, see section 203 of Pub. L. 112–211, set out as an Effective Date note under [section 27 of this title](./chapter-002-proceedings-in-the-patent-and-trademark-office.md#section-27).
 

@@ -3285,7 +3285,7 @@ The Secretary shall not reject an application on technical grounds without givin
 
     (ii) has demonstrated experience in and capacity for underwriting multifamily housing loans that provide housing and supportive services;
 
-    (iii) may or may not be providing low-income housing tax credits in combination with the funding under this section;
+    (iii) may or may not be providing low-income housing tax credits in combination with the funding under this section; and
 
     (iv) agrees to issue a firm commitment within 12 months of delegation.
 
@@ -3484,7 +3484,7 @@ Subsec. (f)(2)(B). Pub. L. 113–76, § 241(b), substituted “funding under thi
 
 Subsec. (f)(2)(C). Pub. L. 113–76, § 241(c), struck out first sentence “An agency to which review and processing is delegated pursuant to subparagraph (A) may assess a reasonable fee which shall be included in the capital advance amounts and may recommend project rental assistance amounts in excess of those initially awarded by the Secretary.”
 
-Subsec. (f)(2)(D), (E). Pub. L. 113–76, § 241(d), (e), added subpar. (D), redesignated former subpar. (D) as (E), and in subpar. (E), substituted “funding under this section” for “a capital advance” and “funding under this section” for “capital advance amounts or project rental assistance”
+Subsec. (f)(2)(D), (E). Pub. L. 113–76, § 241(d), (e), added subpar. (D), redesignated former subpar. (D) as (E), and in subpar. (E), substituted “execute funding under this section” for “execute a capital advance” and “in funding under this section” for “in capital advance amounts or project rental assistance”.
 
 2011—Subsec. (f)(1)(F) to (H). Pub. L. 111–372, § 101, added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
 
@@ -4313,7 +4313,7 @@ Pub. L. 90–448, title I, § 110, Aug. 1, 1968, 82 Stat. 497, established the N
 
     (ii) To residents of other developments managed by the public or Indian housing agency that is expending the assistance.
 
-    (iii) To participants in YouthBuild programs receiving assistance under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim).
+    (iii) To participants in YouthBuild programs receiving assistance under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim).
 
     (iv) To other low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is expended.
 
@@ -4321,7 +4321,7 @@ Pub. L. 90–448, title I, § 110, Aug. 1, 1968, 82 Stat. 497, established the N
 
   (A) *In general* — In other programs that provide housing and community development assistance, the Secretary shall ensure that, to the greatest extent feasible, and consistent with existing Federal, State, and local laws and regulations, opportunities for training and employment arising in connection with a housing rehabilitation (including reduction and abatement of lead-based paint hazards), housing construction, or other public construction project are given to low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the project is located.
 
-  (B) *Priority* — Where feasible, priority should be given to low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to participants in YouthBuild programs receiving assistance under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim).
+  (B) *Priority* — Where feasible, priority should be given to low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to participants in YouthBuild programs receiving assistance under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim).
 
 **(d) Contracting**
 
@@ -4335,7 +4335,7 @@ Pub. L. 90–448, title I, § 110, Aug. 1, 1968, 82 Stat. 497, established the N
 
     (ii) To business concerns that provide economic opportunities for residents of other housing developments operated by the public and Indian housing agency that is providing the assistance.
 
-    (iii) To YouthBuild programs receiving assistance under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim).
+    (iii) To YouthBuild programs receiving assistance under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim).
 
     (iv) To business concerns that provide economic opportunities for low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is provided.
 
@@ -4343,7 +4343,7 @@ Pub. L. 90–448, title I, § 110, Aug. 1, 1968, 82 Stat. 497, established the N
 
   (A) *In general* — In providing housing and community development assistance pursuant to other programs, the Secretary shall ensure that, to the greatest extent feasible, and consistent with existing Federal, State, and local laws and regulations, contracts awarded for work to be performed in connection with a housing rehabilitation (including reduction and abatement of lead-based paint hazards), housing construction, or other public construction project are given to business concerns that provide economic opportunities for low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is expended.
 
-  (B) *Priority* — Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to YouthBuild programs receiving assistance under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim).
+  (B) *Priority* — Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to YouthBuild programs receiving assistance under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim).
 
 **(e) Definitions** For the purposes of this section the following definitions shall apply:
 
@@ -4362,23 +4362,6 @@ Pub. L. 90–448, title I, § 110, Aug. 1, 1968, 82 Stat. 497, established the N
 **(g) Regulations** Not later than 180 days after October 28, 1992, the Secretary shall promulgate regulations to implement this section.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 113–128, title V, §§ 506, 512(p), July 22, 2014, 128 Stat. 1703, 1711, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
-
-(1) in subsection (c):
-
-(A) in paragraph (1)(B)(iii), by striking “participants in YouthBuild programs receiving assistance under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim)” and inserting “participants in YouthBuild programs receiving assistance under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim)”; and
-
-(B) in paragraph (2)(B), by striking “participants in YouthBuild programs receiving assistance under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim)” and inserting “participants in YouthBuild programs receiving assistance under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim)”; and
-
-(2) in subsection (d):
-
-(A) in paragraph (1)(B)(iii), by striking “To YouthBuild programs receiving assistance under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim)” and inserting “To YouthBuild programs receiving assistance under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim)”; and
-
-(B) in paragraph (2)(B), by striking “to YouthBuild programs receiving assistance under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim)” and inserting “to YouthBuild programs receiving assistance under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim)”.
-
-See 2014 Amendment notes below.
 
 #### References in Text
 Section 1437l of title 42, referred to in subsecs. (c)(1)(A) and (d)(1)(A), was repealed by Pub. L. 105–276, title V, § 522(a), Oct. 21, 1998, 112 Stat. 2564.
@@ -4414,10 +4397,10 @@ Par. (2). Pub. L. 96–399, § 329(2), substituted “residing in the same metro
 1969—Pub. L. 91–152 substituted provisions making applicable programs providing direct financial assistance in aid of housing, urban planning, development, redevelopment, or renewal, public or community facilities, and new community development, for provisions making applicable programs authorized by sections 1715l(d)(3), 1715z, and 1715z–1 of this title, the low-rent public housing program under the United States Housing Act of 1937, and the rent supplement program under section 101 of the Housing and Urban Development Act of 1965.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2006 Amendment
-Pub. L. 109–281, § 2(f), Sept. 22, 2006, 120 Stat. 1182, provided that: “This section [enacting [section 2918a of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim), Labor, amending this section, [section 4183 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4183&num=0&edition=prelim), Indians, [section 2939 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2939&num=0&edition=prelim), and [section 12870 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12870&num=0&edition=prelim), The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42] and the amendments made by this section take effect on the earlier of— “(1) the date of enactment of this Act [Sept. 22, 2006]; and “(2) September 30, 2006.”
+Pub. L. 109–281, § 2(f), Sept. 22, 2006, 120 Stat. 1182, provided that: “This section [enacting former [section 2918a of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim), Labor, amending this section, [section 4183 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4183&num=0&edition=prelim), Indians, former [section 2939 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2939&num=0&edition=prelim), and [section 12870 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12870&num=0&edition=prelim), The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42] and the amendments made by this section take effect on the earlier of— “(1) the date of enactment of this Act [Sept. 22, 2006]; and “(2) September 30, 2006.”
 
 #### Effectiveness Study
 Pub. L. 102–550, title IX, § 916, Oct. 28, 1992, 106 Stat. 3881, provided that: “(a) In General.—The Secretary of Housing and Urban Development shall submit to the Congress, not later than 1 year after the date of the enactment of this Act [Oct. 28, 1992], a report describing—“(1) the Secretary’s efforts to enforce section 3 of the Housing and Urban Development Act of 1968 [[12 U.S.C. 1701u](./chapter-013-national-housing.md#section-1701u)]; “(2) the barriers to full implementation of section 3 of the Housing and Urban Development Act of 1968; “(3) the anticipated costs and benefits of full implementation of section 3 of the Housing and Urban Development Act of 1968; and “(4) recommendations for legislative changes to enhance the effectiveness of section 3 of the Housing and Urban Development Act of 1968. “(b) Contents.—“(1) Enforcement.—The description under subsection (a)(1) of the Secretary’s enforcement efforts shall include, at a minimum—“(A) a discussion of how responsibility for implementing section 3 of the Housing and Urban Development Act of 1968 [[12 U.S.C. 1701u](./chapter-013-national-housing.md#section-1701u)] is allocated within the Department of Housing and Urban Development; “(B) a discussion of the status of existing regulations implementing such section 3; “(C) a discussion of ongoing efforts to enforce current regulations; “(D) a list of the programs under the responsibility of the Secretary with respect to which the Secretary is enforcing section 3; and “(E) a separate description of the activities carried out under section 3 with respect to each of these programs. “(2) Impediments.—The discussion under subsection (a)(2) of the external impediments to effective enforcement of section 3 of the Housing and Urban Development Act of 1968 shall include, at a minimum, a discussion of—“(A) any lack of necessary training for targeted employees and technical assistance to targeted businesses; “(B) any barriers created by Federal, State, or local procurement regulations or other laws; “(C) any difficulties in coordination with labor unions; “(D) any difficulties in coordination with other implicated Federal agencies; and “(E) any lack of resources on the part of recipients of assistance who are responsible for carrying out section 3 of the Housing and Urban Development Act of 1968. “(c) Consultation.—In preparing the report under this subsection, the Secretary shall consult with the Secretary of Labor, the Secretary of Commerce, the Secretary of Health and Human Services, the Administrator of the Small Business Administration, other appropriate Federal officials, and recipients of Federal housing and community development assistance who are responsible for executing section 3 of the Housing and Urban Development Act of 1968 [[12 U.S.C. 1701u](./chapter-013-national-housing.md#section-1701u)].”
@@ -6166,7 +6149,7 @@ Section, act June 27, 1934, ch. 847, title I, § 3, 48 Stat. 1247, related to lo
 <a id="section-1715z-13a"></a>
 ## § 1715z–13a. Allocation of funds
 
-For the purposes of carrying out the provisions of this subchapter and subchapters II and III the President, in his discretion, is authorized to provide such funds or any portion thereof by allotment to the Secretary from any funds that are available, or may hereafter be made available, to the President for emergency purposes.
+For the purposes of carrying out the provisions of this subchapter and subchapters II and III, the President, in his discretion, is authorized to provide such funds or any portion thereof by allotment to the Secretary from any funds that are available, or may hereafter be made available, to the President for emergency purposes.
 
 ### Statutory Notes
 

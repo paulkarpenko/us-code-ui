@@ -23,7 +23,7 @@ The original text provided for the sale of 640 acres. The aggregate quantity whi
 1958—Pub. L. 85–641 permitted entry on one or more tracts, not contiguous, but sufficiently close to each other to be managed satisfactorily as an economic unit.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officer designated by the Secretary of the Interior” and “such officer” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -33,7 +33,7 @@ Previously, references to register and receiver changed to register by acts Mar.
 Act Aug. 4, 1955, ch. 548, 69 Stat. 491, provided: “The requirement of section 1 of the Desert Land Act of March 3, 1877 (19 Stat. 377) [this section], that the right to the use of water by a desert land entryman ‘shall depend upon bona fide prior appropriation’ shall be waived in the case of all desert land entries which have heretofore been allowed and are subsisting on the effective date of this Act [Aug. 4, 1955] which are dependent upon percolating waters for their reclamation, and which are situated in the State of Arizona under the laws of which the percolating waters upon which the entries are dependent are not subject to the doctrine of prior appropriation but are usable under State law for irrigation and reclamation purposes.”
 
 #### Section as Unaffected by Submerged Lands Act
-Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1303&num=0&edition=prelim).
+Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
 
 
 <a id="section-322"></a>
@@ -52,7 +52,7 @@ The second paragraph of this section is from the last clause of section 3 of act
 “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished General Land Office and Commissioner thereof and transferred functions of General Land Office to a new agency in Department of the Interior to be known as Bureau of Land Management. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
 #### Section as Unaffected by Submerged Lands Act
-Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1303&num=0&edition=prelim).
+Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
 
 
 <a id="section-323"></a>
@@ -74,7 +74,7 @@ The first clause of section 8 of act Mar. 3, 1877, as added by act Mar. 3, 1891,
 The Territories of Washington, Idaho, Montana, Utah, Wyoming, Arizona, New Mexico and Dakota have become States since the enactment of act Mar. 3, 1877, the Territory of Dakota being divided, to form the States of North and South Dakota.
 
 #### Section as Unaffected by Submerged Lands Act
-Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1303&num=0&edition=prelim).
+Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
 
 
 <a id="section-324"></a>
@@ -96,7 +96,7 @@ Section is comprised of the second clause of section 8 of act Mar. 3, 1877, as a
 Act Jan. 6, 1921, inserted introductory exception phrase.
 
 #### Section as Unaffected by Submerged Lands Act
-Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1303&num=0&edition=prelim).
+Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
 
 
 <a id="section-326"></a>
@@ -116,7 +116,7 @@ At the time of filing the declaration required in [section 321 of this title](./
 Act Mar. 3, 1877, ch. 107, § 6, as added by act Mar. 3, 1891, ch. 561, § 2, 26 Stat. 1097, provided that existing claims should not be affected by act Mar. 3, 1891, but might be perfected under sections 321 to 323 of this title, or under sections 325 and 327 to 329 of this title, at the option of the claimant, and also repealed all acts and parts of acts in conflict with act Mar. 3, 1891.
 
 #### Section as Unaffected by Submerged Lands Act
-Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1303&num=0&edition=prelim).
+Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
 
 
 <a id="section-328"></a>
@@ -127,12 +127,12 @@ No land shall be patented to any person under sections 321 to 323, 325, and 327 
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
 #### Section as Unaffected by Submerged Lands Act
-Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1303&num=0&edition=prelim).
+Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
 
 
 <a id="section-329"></a>
@@ -143,7 +143,7 @@ At any time after filing the declaration, and within the period of four years th
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3, 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -153,7 +153,7 @@ Previously, references to register and receiver changed to register by acts Mar.
 The period of four years prescribed by this section was extended to five years as to pending entries where the time for final proof had not expired prior to Jan. 1, 1894, by act Aug. 4, 1894, ch. 208, 28 Stat. 226.
 
 #### Section as Unaffected by Submerged Lands Act
-Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1303&num=0&edition=prelim).
+Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
 
 
 <a id="section-330"></a>
@@ -185,7 +185,7 @@ Any entryman under sections 321 to 323, 325, and 327 to 329 of this title who sh
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Secretary of the Interior or such officer as he may designate” and “Secretary or such officer” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished General Land Offices and Commissioner thereof and transferred function of General Land Office to a new agency in Department of the Interior to be known as Bureau of Land Management. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -235,7 +235,7 @@ Section 336b, act July 30, 1956, ch. 778, § 2, 70 Stat. 716, related to homeste
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-336c"></a>
@@ -258,7 +258,7 @@ Section, act July 30, 1956, ch. 778, § 4, 70 Stat. 716, set forth lands subject
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-337"></a>
@@ -287,7 +287,7 @@ Section is comprised of fourth paragraph of section 5 of act Mar. 4, 1915. First
 Act Mar. 21, 1918 added the last proviso.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3, of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -302,6 +302,6 @@ Where it shall be made to appear to the satisfaction of the Secretary of the Int
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officer designated by the Secretary of the Interior” and “such officer” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).

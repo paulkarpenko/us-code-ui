@@ -140,7 +140,7 @@ Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 262, provided that: “For
 
 <a id="section-777c"></a>
 ## § 777c. Division of annual appropriations
-**(a) In general** For each fiscal year through 2014 and for the period beginning on October 1, 2014, and ending on May 31, 2015, the balance of each annual appropriation made in accordance with the provisions of [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b) remaining after the distributions for administrative expenses and other purposes under subsection (b) and for multistate conservation grants under [section 777m of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777m) shall be distributed as follows:
+**(a) In general** For each fiscal year through 2014 and for the period beginning on October 1, 2014, and ending on July 31, 2015, the balance of each annual appropriation made in accordance with the provisions of [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b) remaining after the distributions for administrative expenses and other purposes under subsection (b) and for multistate conservation grants under [section 777m of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777m) shall be distributed as follows:
 
 (1) **Coastal wetlands** — An amount equal to 18.5 percent to the Secretary of the Interior for distribution as provided in the Coastal Wetlands Planning, Protection,11 So in original. The comma probably should not appear. and Restoration Act ([16 U.S.C. 3951](./chapter-59a-wetlands.md#section-3951) et seq.).
 
@@ -156,7 +156,7 @@ Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 262, provided that: “For
 
 (1) **In general**
 
-  (A) *Set-aside for administration* — From the annual appropriation made in accordance with [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b), for each fiscal year ending before October 1, 2014, and for the period beginning on October 1, 2014, and ending on May 31, 2015, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and [section 777h of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777h). The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) of this section for the fiscal year.
+  (A) *Set-aside for administration* — From the annual appropriation made in accordance with [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b), for each fiscal year ending before October 1, 2014, and for the period beginning on October 1, 2014, and ending on July 31, 2015, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and [section 777h of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777h). The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) of this section for the fiscal year.
 
   (B) *Available amounts* — The available amount referred to in subparagraph (A) is—
 
@@ -202,6 +202,10 @@ Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3), 
 Subsection (e) of this section, referred to in subsec. (b)(2)(B), was redesignated subsection (c) by Pub. L. 109–59, title X, § 10113(1), Aug. 10, 2005, 119 Stat. 1927.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–21, § 1103(1), substituted “July 31, 2015” for “May 31, 2015” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 114–21, § 1103(2), substituted “July 31, 2015,” for “May 31, 2015,”.
+
 2014—Subsec. (a). Pub. L. 113–159, § 1103(1), inserted “and for the period beginning on October 1, 2014, and ending on May 31, 2015” after “2014” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 113–159, § 1103(2), substituted “for each fiscal year ending before October 1, 2014, and for the period beginning on October 1, 2014, and ending on May 31, 2015,” for “for each fiscal year through 2014,”.

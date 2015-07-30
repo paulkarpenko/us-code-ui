@@ -74,9 +74,9 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 (1) **Contents.—** — Every patent shall contain a short title of the invention and a grant to the patentee, his heirs or assigns, of the right to exclude others from making, using, offering for sale, or selling the invention throughout the United States or importing the invention into the United States, and, if the invention is a process, of the right to exclude others from using, offering for sale or selling throughout the United States, or importing into the United States, products made by that process, referring to the specification for the particulars thereof.
 
-(2) **Term.—** — Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, or 365(c), from the date on which the earliest such application was filed.
+(2) **Term.—** — Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, 365(c), or 386(c), from the date on which the earliest such application was filed.
 
-(3) **Priority.—** — Priority under section 119, 365(a), or 365(b) shall not be taken into account in determining the term of a patent.
+(3) **Priority.—** — Priority under section 119, 365(a), 365(b), 386(a), or 386(b) shall not be taken into account in determining the term of a patent.
 
 (4) **Specification and drawing.—** — A copy of the specification and drawing shall be annexed to the patent and be a part of such patent.
 
@@ -165,7 +165,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 **(d) Provisional Rights.—**
 
-(1) **In general.—** — In addition to other rights provided by this section, a patent shall include the right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty, the date of publication of the application, and ending on the date the patent is issued—
+(1) **In general.—** — In addition to other rights provided by this section, a patent shall include the right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty, the date of publication of the application, and ending on the date the patent is issued—
 
   (A)
 
@@ -186,17 +186,6 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
   (B) *Copies.—* — The Director may require the applicant to provide a copy of the international application and a translation thereof.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–211, title I, §§ 102(6), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended as follows:
-
-(1) in subsection (a)(2), by substituting “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”;
-
-(2) in subsection (a)(3), by substituting “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”; and
-
-(3) in subsection (d)(1), by inserting “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty”.
-
-See 2012 Amendment notes below.
 
 #### Historical and Revision Notes
 Based on Title 35, U.S.C., 1946 ed., § 40 (R.S. 4884, amended May 23, 1930, ch. 312, § 1, 46 Stat. 376).
@@ -271,7 +260,7 @@ Subsec. (d). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4504(2)], added subs
 Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to proceedings commenced on or after such date, see section 1(n) of Pub. L. 112–274, set out as a note under [section 5 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-5).
 
 #### Effective Date of 2012 Amendment
-Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
 
 #### Effective Date of 2011 Amendment
 Amendment by section 3(j)(1), (2)(B) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).

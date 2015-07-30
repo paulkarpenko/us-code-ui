@@ -455,7 +455,7 @@ Subsec. (j). Pub. L. 106–30, § 2(b)(3), substituted “[section 3331 of title
 
 Subsec. (h). Pub. L. 97–113, § 604(b), struck out provision making [section 2702 of this title](./chapter-038-department-of-state.md#section-2702), relating to malpractice protection, applicable to volunteers and vesting the President with the authority reposed in the Secretary of State in [section 2702(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2702/f&num=0&edition=prelim), and deeming a Peace Corps representative to be a principal representative of the United States for purposes of [section 2702(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2702/g&num=0&edition=prelim). See section 2509(i) and (j) of this title.
 
-1980—Subsec. (f)(1)(A). Pub. L. 96–465, § 2202- (a)(1)(A), substituted “section 816(a) of the Foreign Service Act of 1980” for “section 852(a)(1) of the Foreign Service Act of 1946, as amended ([22 U.S.C. 1092(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1092/a/1&num=0&edition=prelim)),”.
+1980—Subsec. (f)(1)(A). Pub. L. 96–465, § 2202(a)(1)(A), substituted “section 816(a) of the Foreign Service Act of 1980” for “section 852(a)(1) of the Foreign Service Act of 1946, as amended ([22 U.S.C. 1092(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1092/a/1&num=0&edition=prelim)),”.
 
 Subsec. (f)(1)(B). Pub. L. 96–465, § 2202(a)(1)(B), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946”.
 

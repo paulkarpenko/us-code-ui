@@ -108,7 +108,7 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 (2) In addition to requiring affirmative action to employ such qualified covered veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the Secretary of Labor shall prescribe regulations requiring that—
 
-  (A) each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in [section 4101(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4101/7&num=0&edition=prelim)), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998, other appropriate service delivery points, or America’s Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor’s organization and positions lasting three days or less;
+  (A) each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in [section 4101(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4101/7&num=0&edition=prelim)), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998,11 See References in Text note below. other appropriate service delivery points, or America’s Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor’s organization and positions lasting three days or less;
 
   (B) each such employment service delivery system shall give such qualified covered veterans priority in referral to such employment openings; and
 
@@ -149,7 +149,7 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 ### Statutory Notes
 
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 Executive Order No. 12985, referred to in subsec. (a)(3)(A)(iii), is set out as a note preceding [section 1121 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1121&num=0&edition=prelim), Armed Forces.
 
@@ -258,7 +258,7 @@ Richard Nixon.
 
 (3) Any job training program assisted under the Economic Opportunity Act of 1964.
 
-(4) Any employment or training program carried out under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.).
+(4) Any employment or training program carried out under title I of the Workforce Innovation and Opportunity Act.
 
 (5) Any other employment or training (or related) program financed in whole or in part with Federal funds.
 
@@ -276,13 +276,10 @@ Richard Nixon.
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(4)
-Pub. L. 113–128, title V, §§ 506, 512(gg)(5), July 22, 2014, 128 Stat. 1703, 1720, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(4) of this section is amended by striking “Any employment or training program carried out under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “Any employment or training program carried out under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
 #### References in Text
 The Economic Opportunity Act of 1964, referred to in subsec. (a)(3), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (a)(4). Pub. L. 113–128 substituted “Any employment or training program carried out under title I of the Workforce Innovation and Opportunity Act” for “Any employment or training program carried out under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
@@ -306,7 +303,7 @@ Pub. L. 102–54 substituted “the Job Training Partnership Act ([29 U.S.C. 150
 1980—Pub. L. 96–466 substituted “Federal employment and” for “certain Federal manpower” in section catchline, and substituted “an eligible veteran” for “a veteran (as defined in [section 101(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/2&num=0&edition=prelim)) who served on active duty for a period of more than 180 days or was discharged or released from active duty for a service-connected disability” and “any employment or training program assisted under the Comprehensive Employment and Training Act, or any other employment or” for “any manpower training program assisted under the Manpower Development and Training Act of 1962, or any other man­power” in text.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(29)(C)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(21)(C)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
@@ -573,7 +570,7 @@ Pub. L. 95–454, title III, § 307(b)(2), Oct. 13, 1978, 92 Stat. 1147, as amen
 
   (A) Any such program or service that uses technology to assist individuals to access workforce development programs (such as job and training opportunities, labor market information, career assessment tools, and related support services).
 
-  (B) Any such program or service under the public employment service system, one-stop career centers, the Workforce Investment Act of 1998, a demonstration or other temporary program, and those programs implemented by States or local service providers based on Federal block grants administered by the Department of Labor.
+  (B) Any such program or service under the public employment service system, one-stop career centers, the Workforce Investment Act of 1998,11 See References in Text note below. a demonstration or other temporary program, and those programs implemented by States or local service providers based on Federal block grants administered by the Department of Labor.
 
   (C) Any such program or service that is a workforce development program targeted to specific groups.
 
@@ -606,7 +603,7 @@ Pub. L. 95–454, title III, § 307(b)(2), Oct. 13, 1978, 92 Stat. 1147, as amen
 ### Statutory Notes
 
 #### References in Text
-The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2011—Subsec. (a)(3). Pub. L. 112–56, § 239(1), inserted at end “Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered person instead of a non-covered person.”

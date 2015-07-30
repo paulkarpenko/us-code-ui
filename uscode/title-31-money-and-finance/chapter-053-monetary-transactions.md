@@ -1148,6 +1148,8 @@ Amendment by section 358(b) of Pub. L. 107–56 applicable with respect to repor
 Pub. L. 103–322, title XXXIII, § 330017(b)(1), Sept. 13, 1994, 108 Stat. 2149, and Pub. L. 103–325, title IV, § 413(b)(1), Sept. 23, 1994, 108 Stat. 2254, provided that the identical amendments made by those sections are effective Oct. 28, 1992.
 
 #### Regulations
+Secretary of the Treasury required to consult with State supervisory agencies in issuing rules to carry out subsec. (a)(6) of this section, see section 2(c) of Pub. L. 113–156, set out as a Consultation with State Agencies note under [section 1958 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1958&num=0&edition=prelim), Banks and Banking.
+
 Pub. L. 107–56, title III, § 312(b)(1), Oct. 26, 2001, 115 Stat. 305, provided that: “Not later than 180 days after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], in consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act [[15 U.S.C. 6809](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6809&num=0&edition=prelim)]) of the affected financial institutions, shall further delineate, by regulation, the due diligence policies, procedures, and controls required under [section 5318(i)(1) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/i/1&num=0&edition=prelim), United States Code, as added by this section.”
 
 Pub. L. 107–56, title III, § 352(c), Oct. 26, 2001, 115 Stat. 322, provided that: “Before the end of the 180-day period beginning on the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury] shall prescribe regulations that consider the extent to which the requirements imposed under this section [amending this section and enacting provisions set out as a note above] are commensurate with the size, location, and activities of the financial institutions to which such regulations apply.”
@@ -1992,7 +1994,7 @@ There are authorized to be appropriated the following amounts for the following 
 
 For purposes of this subchapter, the following definitions shall apply:
 
-(1) **Department of the treasury law enforcement organizations.—** — The term “Department of the Treasury law enforcement organizations” has the meaning given to such term in section 9703(p)(1).
+(1) **Department of the treasury law enforcement organizations.—** — The term “Department of the Treasury law enforcement organizations” has the meaning given to such term in section 9705(o).
 
 (2) **Money laundering and related financial crime.—** — The term “money laundering and related financial crime”—
 
@@ -2003,6 +2005,11 @@ For purposes of this subchapter, the following definitions shall apply:
 (3) **Secretary.—** — The term “Secretary” means the Secretary of the Treasury.
 
 (4) **Attorney general.—** — The term “Attorney General” means the Attorney General of the United States.
+
+### Statutory Notes
+
+#### Amendments
+2015—Par. (1). Pub. L. 114–22 substituted “section 9705(o)” for “section 9703(p)(1)”.
 
 
 <a id="section-5342"></a>

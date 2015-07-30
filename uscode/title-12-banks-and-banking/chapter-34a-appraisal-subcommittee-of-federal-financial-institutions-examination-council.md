@@ -106,7 +106,7 @@ Appraisal standards and requirements for using State certified and licensed appr
 ## § 3337. Startup funding
 **(a) In general** For purposes of this chapter, the Secretary of the Treasury shall pay to the Appraisal Subcommittee a one-time payment of $5,000,000 on August 9, 1989. Thereafter, expenses of the subcommittee shall be funded through the collection of registry fees from certain certified and licensed appraisers pursuant to [section 3338 of this title](./chapter-34a-appraisal-subcommittee-of-federal-financial-institutions-examination-council.md#section-3338) or, if required, pursuant to section 3351(b) 11 See References in Text note below. of this title.
 
-**(b) Additional funds** Except as provided in section 3351(b) 1 of this title, funds in addition to the funds provided under subsection (a) of this section may be made available to the Appraisal Subcommittee only if authorized and appropriated by law.
+**(b) Additional funds** Except as provided in section 3351(b) 1 of this title, funds in addition to the funds provided under subsection (a) may be made available to the Appraisal Subcommittee only if authorized and appropriated by law.
 
 **(c) Repayment of Treasury loan** Not later than September 30, 1998, the Appraisal Subcommittee shall repay to the Secretary of the Treasury the unpaid portion of the $5,000,000 paid to the Appraisal Subcommittee pursuant to this section.
 
@@ -226,7 +226,7 @@ Appraisal standards established under this chapter shall be proposed not later t
 
 **(c) GAO study of appraisals in connection with real estate related financial transactions below threshold level**
 
-(1) **GAO studies** — The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies on the adequacy and quality of appraisals or evaluations conducted in connection with real estate related financial transactions below the threshold level established under subsection (b) of this section, taking into account—
+(1) **GAO studies** — The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies on the adequacy and quality of appraisals or evaluations conducted in connection with real estate related financial transactions below the threshold level established under subsection (b), taking into account—
 
   (A) the cost to any financial institution involved in any such transaction;
 
@@ -429,7 +429,7 @@ No amendment to this section by section 701 of Pub. L. 102–233 to be deemed to
 
 (2) for the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Resolution Trust Corporation to knowingly contract for the performance of any appraisal by a person who is not a State certified or licensed appraiser in connection with a real estate related financial transaction defined in [section 3350(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3350/5&num=0&edition=prelim) to which such association or corporation is a party.
 
-**(b) Penalties** A financial institution that violates subsection (a)(1) of this section shall be subject to civil penalties under [section 1818(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/i/2&num=0&edition=prelim) or [section 1786(k)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1786/k/2&num=0&edition=prelim), as appropriate.
+**(b) Penalties** A financial institution that violates subsection (a)(1) shall be subject to civil penalties under [section 1818(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/i/2&num=0&edition=prelim) or [section 1786(k)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1786/k/2&num=0&edition=prelim), as appropriate.
 
 **(c) Proceeding** A proceeding with respect to a violation of this section shall be an administrative proceeding which may be conducted by a Federal financial institutions regulatory agency in accordance with the procedures set forth in subchapter II of chapter 5 of title 5.
 
@@ -579,7 +579,7 @@ Amendment by Pub. L. 111–203 effective on the date on which final regulations 
 
   (B) is consistent with safety and soundness.
 
-**(b) 3-year limit on exceptions** Any exception made under this section shall expire not later than 3 years after the date of the determination referred to in subsection (a)(1) of this section.
+**(b) 3-year limit on exceptions** Any exception made under this section shall expire not later than 3 years after the date of the determination referred to in subsection (a)(1).
 
 **(c) Publication required** Any Federal financial institutions regulatory agency shall publish in the Federal Register a statement that—
 
